@@ -8,6 +8,9 @@
 - Build app shell:
   - Top bar.
   - Three primary surfaces: Search, Saves, and Docs.
+  - Routes: `/`, `/saves`, `/docs`.
+  - Desktop top nav: Search, Saves, Docs.
+  - Mobile bottom nav: Search, Saves, Docs.
   - Main panel.
   - Contextual drawer shell for docs/formulas/notes.
 - Add local workspace storage.

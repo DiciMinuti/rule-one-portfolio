@@ -8,7 +8,14 @@ The product is intentionally simple:
 2. **Saves** - keep saved businesses with their grades and valuation result.
 3. **Docs** - read the investing method and app explanations in one place.
 
+Navigation is intentionally KISS:
+
+- `/` for Search.
+- `/saves` for Saves.
+- `/docs` for Docs.
+- Desktop uses a simple top nav.
+- Mobile uses a simple bottom nav.
+
 The app is built around free public data, browser-local storage, and transparent assumptions.
 
 Planning docs live in `docs/`.
-

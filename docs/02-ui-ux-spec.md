@@ -41,11 +41,31 @@ Visual tokens:
 
 ## App Shell
 
+Keep navigation KISS. There are three app-level routes:
+
+- `/` - Search.
+- `/saves` - Saves.
+- `/docs` - Docs.
+
 Desktop:
 
-- Top bar with app name, primary nav, and local workspace controls.
+- Top bar with app name, primary nav, settings icon, and local workspace controls.
 - Main content centered with a practical max width.
 - Optional right drawer for lessons, formulas, or notes.
+
+Desktop top nav structure:
+
+```text
+Rule One        Search   Saves   Docs        Settings
+```
+
+Rules:
+
+- `Search`, `Saves`, and `Docs` are always visible.
+- The active surface gets a subtle selected background and stronger text.
+- Inactive surfaces are muted text only.
+- Settings is an icon/button on the right, not a fourth main surface.
+- Do not add a sidebar unless the app outgrows the three-surface model.
 
 Mobile:
 
@@ -53,6 +73,18 @@ Mobile:
 - Bottom three-item nav: Search, Saves, and Docs.
 - Single-column evaluation steps.
 - Sticky verdict bar after a company is selected.
+
+Mobile bottom nav:
+
+```text
+Search   Saves   Docs
+```
+
+Rules:
+
+- Bottom nav is fixed/sticky.
+- It contains only the three surfaces.
+- Settings stays in a compact menu.
 
 Primary navigation:
 
@@ -64,6 +96,12 @@ Secondary access:
 
 - Docs can also be opened contextually from each evaluation step.
 - Settings are a compact menu, not a main product surface.
+
+Navigation levels:
+
+- App navigation switches surfaces: Search, Saves, Docs.
+- Evaluation navigation only appears inside Search after a business is selected.
+- Do not mix the Search stepper into the main app nav.
 
 ## Verdict Language
 
