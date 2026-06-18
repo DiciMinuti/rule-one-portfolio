@@ -1002,11 +1002,9 @@ a:hover {
   display: grid;
   gap: 8px;
   min-width: 0;
-}
-
-.management-section + .management-section {
-  border-top: 1px solid var(--border);
-  padding-top: 18px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: 14px 16px;
 }
 
 .management-result {
