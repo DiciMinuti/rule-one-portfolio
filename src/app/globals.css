@@ -853,21 +853,6 @@ a:hover {
   width: min(230px, 100%);
 }
 
-.business-description {
-  max-width: 860px;
-}
-
-.business-summary {
-  margin: 0;
-  color: var(--muted);
-  font-size: 0.98rem;
-  line-height: 1.6;
-}
-
-.source-line {
-  margin: 0;
-}
-
 .business-data-grid {
   align-items: start;
 }
@@ -897,6 +882,65 @@ a:hover {
 
 .compact-table .button {
   min-height: 30px;
+}
+
+.reports-table {
+  border-collapse: separate;
+  border-spacing: 0 5px;
+  table-layout: fixed;
+}
+
+.reports-table th,
+.reports-table td {
+  border-bottom: 0;
+  padding: 0 14px;
+}
+
+.reports-table th {
+  padding-top: 0;
+  padding-bottom: 4px;
+}
+
+.reports-table td {
+  background: var(--surface);
+  height: 46px;
+  vertical-align: middle;
+}
+
+.reports-table tbody tr:hover td {
+  background: var(--surface-strong);
+}
+
+.reports-table th:nth-child(1),
+.reports-table td:nth-child(1) {
+  width: 96px;
+  font-weight: 700;
+}
+
+.reports-table th:nth-child(2),
+.reports-table td:nth-child(2) {
+  width: 150px;
+}
+
+.reports-table th:nth-child(3),
+.reports-table td:nth-child(3) {
+  width: 92px;
+  text-align: right;
+}
+
+.reports-table td:first-child {
+  border-radius: var(--radius) 0 0 var(--radius);
+}
+
+.reports-table td:last-child {
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.reports-table .button {
+  width: 68px;
+  min-height: 28px;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text);
 }
 
 .filing-viewer {

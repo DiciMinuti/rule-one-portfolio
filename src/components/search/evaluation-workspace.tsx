@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Check, ChevronLeft, ChevronRight, CircleAlert, ExternalLink, FileText, Loader2, Minus, Newspaper, Plus, Search } from "lucide-react";
+import { Check, ChevronLeft, ChevronRight, CircleAlert, ExternalLink, Loader2, Minus, Plus, Search } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
@@ -715,7 +715,7 @@ export function EvaluationWorkspace() {
             <Stepper activeStep={activeStep} onStepChange={setActiveStep} />
             <div className="evaluation-body">
               {activeStep === 0 ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
-              {activeStep === 1 ? <BusinessStep loaded={loaded} notes={notes} setNotes={setNotes} /> : null}
+              {activeStep === 1 ? <BusinessStep loaded={loaded} /> : null}
               {activeStep === 2 ? <MoatStep loaded={loaded} notes={notes} setNotes={setNotes} /> : null}
               {activeStep === 3 ? <ManagementStep loaded={loaded} notes={notes} setNotes={setNotes} /> : null}
               {activeStep === 4 ? (
@@ -1093,65 +1093,13 @@ function companyNewsSearchUrl(symbol: string, name: string) {
 
 function BusinessStep({
   loaded,
-  notes,
-  setNotes,
 }: {
   loaded: LoadedCompany;
-  notes: CompanyNotes;
-  setNotes: (notes: CompanyNotes) => void;
 }) {
-  const latestTenK = loaded.filings.find((filing) => filing.form.startsWith("10-K"));
   const recentReports = loaded.filings.slice(0, 6);
 
   return (
     <div className="stack">
-      <div className="split">
-        <div className="stack business-description">
-          <h2 className="section-title">Business</h2>
-          <p className="business-summary">
-            {loaded.profile.description}
-          </p>
-          <div className="row wrap">
-            <span className="pill info">Ticker {loaded.profile.symbol}</span>
-            <span className="pill">Exchange {loaded.profile.exchange ?? "—"}</span>
-            <span className="pill">CIK {loaded.profile.cik ?? "—"}</span>
-            {loaded.profile.sector ? <span className="pill">{loaded.profile.sector}</span> : null}
-            {loaded.profile.industry ? <span className="pill">{loaded.profile.industry}</span> : null}
-            {loaded.profile.employees ? <span className="pill">{loaded.profile.employees.toLocaleString()} employees</span> : null}
-          </div>
-          <div className="row wrap">
-            {loaded.profile.website ? (
-              <a className="button" href={loaded.profile.website} target="_blank" rel="noreferrer">
-                <ExternalLink size={16} />
-                Website
-              </a>
-            ) : null}
-            {latestTenK ? (
-              <a className="button" href={filingViewerUrl(latestTenK, `${loaded.profile.symbol} ${latestTenK.form} ${latestTenK.filingDate}`)}>
-                <FileText size={16} />
-                Latest 10-K
-              </a>
-            ) : null}
-            <a className="button" href={companyNewsSearchUrl(loaded.profile.symbol, loaded.profile.name)} target="_blank" rel="noreferrer">
-              <Newspaper size={16} />
-              News search
-            </a>
-          </div>
-          <p className="subtle source-line">{loaded.profile.source.label}</p>
-        </div>
-        <div className="mini-result">
-          <div className="label">Meaning</div>
-          <select
-            className="compact-select"
-            value={notes.meaning}
-            onChange={(event) => setNotes({ ...notes, meaning: event.target.value as CompanyNotes["meaning"] })}
-          >
-            <option value="yes">Yes</option>
-            <option value="unsure">Unsure</option>
-            <option value="no">No</option>
-          </select>
-        </div>
-      </div>
       <MiniPriceChart points={loaded.prices.history} sourceLabel={loaded.prices.source.label} />
       <div className="grid two business-data-grid">
         <div className="stack">
@@ -1178,7 +1126,7 @@ function BusinessStep({
         <div className="stack">
           <h3 className="section-title">Latest reports</h3>
           <div className="table-wrap">
-            <table className="table compact-table">
+            <table className="table compact-table reports-table">
               <thead>
                 <tr>
                   <th>Form</th>
@@ -1192,14 +1140,9 @@ function BusinessStep({
                     <td>{filing.form}</td>
                     <td>{formatDate(filing.filingDate)}</td>
                     <td>
-                      <div className="row wrap">
-                        <a className="button" href={filingViewerUrl(filing, `${loaded.profile.symbol} ${filing.form} ${filing.filingDate}`)}>
-                          In app
-                        </a>
-                        <a className="button" href={filing.url} target="_blank" rel="noreferrer">
-                          SEC
-                        </a>
-                      </div>
+                      <a className="button" href={filingViewerUrl(filing, `${loaded.profile.symbol} ${filing.form} ${filing.filingDate}`)}>
+                        Open
+                      </a>
                     </td>
                   </tr>
                 ))}
