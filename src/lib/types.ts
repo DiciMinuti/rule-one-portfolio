@@ -48,6 +48,36 @@ export type FilingLink = {
   url: string;
 };
 
+export type ManagementDocumentKind = "annualReport" | "proxy" | "quarterly";
+
+export type ManagementDocument = FilingLink & {
+  kind: ManagementDocumentKind;
+  label: string;
+  purpose: string;
+  viewerUrl: string;
+  confidence: MetricConfidence;
+};
+
+export type ManagementSignalStatus = "found" | "needs-review" | "missing";
+
+export type ManagementSignal = {
+  id: "leaders" | "compensation" | "ownership" | "shareholderLetter";
+  label: string;
+  question: string;
+  status: ManagementSignalStatus;
+  summary: string;
+  source?: DataSourceRef;
+  excerpts: string[];
+};
+
+export type ManagementBrief = {
+  symbol: string;
+  generatedAt: string;
+  documents: ManagementDocument[];
+  signals: ManagementSignal[];
+  warnings: string[];
+};
+
 export type AnnualFinancials = {
   fiscalYear: number;
   revenue?: number;

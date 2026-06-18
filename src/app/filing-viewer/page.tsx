@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { filingHtmlToText } from "@/lib/data/filing-text";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -14,32 +15,6 @@ function isAllowedSecUrl(rawUrl: string) {
   } catch {
     return false;
   }
-}
-
-function decodeEntities(value: string) {
-  return value
-    .replaceAll("&nbsp;", " ")
-    .replaceAll("&amp;", "&")
-    .replaceAll("&quot;", "\"")
-    .replaceAll("&#39;", "'")
-    .replaceAll("&apos;", "'")
-    .replaceAll("&lt;", "<")
-    .replaceAll("&gt;", ">");
-}
-
-function filingHtmlToText(html: string) {
-  return decodeEntities(
-    html
-      .replace(/<script[\s\S]*?<\/script>/gi, " ")
-      .replace(/<style[\s\S]*?<\/style>/gi, " ")
-      .replace(/<\/(div|p|tr|table|h1|h2|h3|h4|section|article)>/gi, "\n")
-      .replace(/<br\s*\/?>/gi, "\n")
-      .replace(/<[^>]+>/g, " ")
-      .replace(/[ \t]+/g, " ")
-      .replace(/\n[ \t]+/g, "\n")
-      .replace(/\n{3,}/g, "\n\n")
-      .trim(),
-  );
 }
 
 export default async function FilingViewerPage({

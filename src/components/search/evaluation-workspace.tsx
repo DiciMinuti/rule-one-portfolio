@@ -1,7 +1,22 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Check, ChevronLeft, ChevronRight, CircleAlert, ExternalLink, Loader2, Minus, Plus, Search } from "lucide-react";
+import {
+  Check,
+  ChevronLeft,
+  ChevronRight,
+  CircleAlert,
+  DollarSign,
+  ExternalLink,
+  FileText,
+  Loader2,
+  MessageSquareQuote,
+  Minus,
+  Plus,
+  Search,
+  ShieldCheck,
+  Users,
+} from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
@@ -14,7 +29,9 @@ import {
   deriveBusinessGrade,
   deriveDefaultAssumptions,
 } from "@/lib/rule1";
+import { selectManagementDocuments } from "@/lib/data/management-documents";
 import {
+  businessGradeLabels,
   formatCurrency,
   formatDate,
   formatPercent,
@@ -38,6 +55,9 @@ import type {
   CompanyProfile,
   CompanySearchResult,
   FilingLink,
+  ManagementBrief,
+  ManagementSignal,
+  ManagementSignalStatus,
   PriceHistory,
   RuleOneEvaluation,
   SavedBusinessItem,
@@ -61,6 +81,7 @@ type LoadedCompany = {
   financials: AnnualFinancials[];
   prices: PriceHistory;
   filings: FilingLink[];
+  management: ManagementBrief;
   news: CompanyNewsItem[];
   bigFive: BigFiveResult;
   loadedAt: string;
@@ -83,7 +104,7 @@ type GroupRunSummary = {
   nope: number;
 };
 
-const steps = ["Result", "Business", "Inputs"];
+const steps = ["Result", "Business", "Management", "Inputs"];
 const groupLimitOptions = [10, 25, 50, 100, 0];
 
 const initialLoadSteps: LoadStep[] = [
@@ -91,9 +112,19 @@ const initialLoadSteps: LoadStep[] = [
   { id: "facts", label: "SEC facts", status: "idle" },
   { id: "prices", label: "Price history", status: "idle" },
   { id: "reports", label: "Reports", status: "idle" },
+  { id: "management", label: "Management", status: "idle" },
   { id: "news", label: "News", status: "idle" },
   { id: "calculation", label: "Rule #1 calculation", status: "idle" },
 ];
+
+const managementChecks = [
+  { id: "clearCommunication", label: "Clear communication" },
+  { id: "rationalCapitalAllocation", label: "Rational capital allocation" },
+  { id: "shareholderAlignment", label: "Shareholder alignment" },
+  { id: "reasonableCompensation", label: "Reasonable compensation" },
+  { id: "ownerOperatorMindset", label: "Owner-oriented mindset" },
+  { id: "governanceRedFlags", label: "No governance red flags" },
+] as const;
 
 function initialNotes(): CompanyNotes {
   return {
@@ -106,6 +137,49 @@ function initialNotes(): CompanyNotes {
     management: "middle",
     moatTypes: [],
     managementChecklist: {},
+  };
+}
+
+function fallbackManagementBrief(symbol: string, filings: FilingLink[], reason?: string): ManagementBrief {
+  return {
+    symbol: symbol.toUpperCase(),
+    generatedAt: new Date().toISOString(),
+    documents: selectManagementDocuments(filings),
+    signals: [
+      {
+        id: "leaders",
+        label: "Leadership",
+        question: "Who leads the business, and how long have they been in the business?",
+        status: "needs-review",
+        summary: "Open the latest annual report or proxy to review executive names, roles, background, and tenure.",
+        excerpts: [],
+      },
+      {
+        id: "compensation",
+        label: "Compensation",
+        question: "What are the leaders paid, including salary and total compensation?",
+        status: "needs-review",
+        summary: "Open the latest proxy statement and review the Summary Compensation Table.",
+        excerpts: [],
+      },
+      {
+        id: "ownership",
+        label: "Ownership",
+        question: "How much stock do leaders and directors own?",
+        status: "needs-review",
+        summary: "Open the latest proxy statement and review the beneficial ownership table.",
+        excerpts: [],
+      },
+      {
+        id: "shareholderLetter",
+        label: "CEO Letter",
+        question: "What does the latest CEO or shareholder letter say?",
+        status: "needs-review",
+        summary: "Open the annual report and look for a CEO or shareholder letter. Some companies publish it outside SEC filings.",
+        excerpts: [],
+      },
+    ],
+    warnings: reason ? [reason] : [],
   };
 }
 
@@ -259,14 +333,17 @@ export function EvaluationWorkspace() {
 
       setLoadSteps((current) =>
         current.map((step) =>
-          ["facts", "prices", "reports", "news"].includes(step.id) ? { ...step, status: "loading" } : step,
+          ["facts", "prices", "reports", "management", "news"].includes(step.id)
+            ? { ...step, status: "loading" }
+            : step,
         ),
       );
 
-      const [factsResult, pricesResult, filingsResult, newsResult] = await Promise.allSettled([
+      const [factsResult, pricesResult, filingsResult, managementResult, newsResult] = await Promise.allSettled([
         fetchJson<{ financials: AnnualFinancials[] }>(`/api/company/${normalizedSymbol}/facts`),
         fetchJson<{ prices: PriceHistory }>(`/api/company/${normalizedSymbol}/prices`),
         fetchJson<{ filings: FilingLink[] }>(`/api/company/${normalizedSymbol}/filings`),
+        fetchJson<{ management: ManagementBrief }>(`/api/company/${normalizedSymbol}/management`),
         fetchJson<{ news: CompanyNewsItem[] }>(`/api/company/${normalizedSymbol}/news`),
       ]);
 
@@ -284,6 +361,14 @@ export function EvaluationWorkspace() {
               },
             } satisfies PriceHistory);
       const filings = filingsResult.status === "fulfilled" ? filingsResult.value.filings : [];
+      const management =
+        managementResult.status === "fulfilled"
+          ? managementResult.value.management
+          : fallbackManagementBrief(
+              normalizedSymbol,
+              filings,
+              managementResult.reason instanceof Error ? managementResult.reason.message : "Management extraction failed.",
+            );
       const news = newsResult.status === "fulfilled" ? newsResult.value.news : [];
 
       setLoadSteps((current) => {
@@ -305,6 +390,19 @@ export function EvaluationWorkspace() {
           filingsResult.status === "fulfilled" && filings.length ? "done" : "warning",
           filings.length ? undefined : "No filing links returned.",
         );
+        next = updateLoadStep(
+          next,
+          "management",
+          managementResult.status === "fulfilled" &&
+            management.signals.some((signal) => signal.status === "found")
+            ? "done"
+            : "warning",
+          managementResult.status === "rejected"
+            ? managementResult.reason.message
+            : management.signals.some((signal) => signal.status === "found")
+              ? undefined
+              : "Open the source filings to complete this review.",
+        );
         return updateLoadStep(
           next,
           "news",
@@ -321,6 +419,7 @@ export function EvaluationWorkspace() {
         financials,
         prices,
         filings,
+        management,
         news,
         bigFive,
         loadedAt: new Date().toISOString(),
@@ -707,6 +806,24 @@ export function EvaluationWorkspace() {
               {activeStep === 0 ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
               {activeStep === 1 ? <BusinessStep loaded={loaded} /> : null}
               {activeStep === 2 ? (
+                <ManagementStep
+                  loaded={loaded}
+                  notes={notes}
+                  onManagementGradeChange={(management) =>
+                    setNotes((current) => ({ ...current, management }))
+                  }
+                  onChecklistToggle={(checkId) =>
+                    setNotes((current) => ({
+                      ...current,
+                      managementChecklist: {
+                        ...current.managementChecklist,
+                        [checkId]: !current.managementChecklist[checkId],
+                      },
+                    }))
+                  }
+                />
+              ) : null}
+              {activeStep === 3 ? (
                 <ValuationStep
                   assumptions={assumptions}
                   setAssumption={setAssumption}
@@ -1094,6 +1211,179 @@ function BusinessStep({
             <div className="empty-list">No news returned from the free feed.</div>
           )}
         </div>
+      </div>
+    </div>
+  );
+}
+
+function managementSignalTone(status: ManagementSignalStatus) {
+  if (status === "found") {
+    return "good";
+  }
+
+  if (status === "needs-review") {
+    return "warn";
+  }
+
+  return "bad";
+}
+
+function managementSignalStatusLabel(status: ManagementSignalStatus) {
+  if (status === "found") {
+    return "Found";
+  }
+
+  if (status === "needs-review") {
+    return "Review";
+  }
+
+  return "Missing";
+}
+
+function managementSignalIcon(signal: ManagementSignal) {
+  const iconSize = 17;
+
+  if (signal.id === "leaders") {
+    return <Users size={iconSize} />;
+  }
+
+  if (signal.id === "compensation") {
+    return <DollarSign size={iconSize} />;
+  }
+
+  if (signal.id === "ownership") {
+    return <ShieldCheck size={iconSize} />;
+  }
+
+  return <MessageSquareQuote size={iconSize} />;
+}
+
+function ManagementStep({
+  loaded,
+  notes,
+  onManagementGradeChange,
+  onChecklistToggle,
+}: {
+  loaded: LoadedCompany;
+  notes: CompanyNotes;
+  onManagementGradeChange: (grade: BusinessGrade) => void;
+  onChecklistToggle: (checkId: string) => void;
+}) {
+  const management = loaded.management;
+  const documents = management.documents.length ? management.documents : selectManagementDocuments(loaded.filings);
+  const foundSignals = management.signals.filter((signal) => signal.status === "found").length;
+
+  return (
+    <div className="stack">
+      <div className="split aligned">
+        <div>
+          <h2 className="section-title">Management</h2>
+          <p className="muted" style={{ margin: "4px 0 0" }}>
+            Latest leadership, compensation, ownership, and shareholder-letter evidence from primary filings.
+          </p>
+        </div>
+        <div className="mini-result">
+          <ValueMini label="Signals found" value={`${foundSignals}/${management.signals.length}`} />
+        </div>
+      </div>
+
+      {management.warnings.length ? (
+        <div className="warning-box">
+          {management.warnings.map((warning) => (
+            <div key={warning}>{warning}</div>
+          ))}
+        </div>
+      ) : null}
+
+      <div className="management-source-grid">
+        {documents.length ? (
+          documents.map((document) => (
+            <a
+              className="management-source-card"
+              href={document.viewerUrl}
+              key={`${document.kind}-${document.accessionNumber}`}
+            >
+              <span className="label">{document.label}</span>
+              <strong>{document.form}</strong>
+              <span className="subtle">Filed {formatDate(document.filingDate)}</span>
+              <span className="muted">{document.purpose}</span>
+            </a>
+          ))
+        ) : (
+          <div className="empty-list">No recent 10-K, 10-Q, or DEF 14A filing links returned.</div>
+        )}
+      </div>
+
+      <div className="management-layout">
+        <div className="management-signal-grid">
+          {management.signals.map((signal) => (
+            <article
+              className={`management-signal ${managementSignalTone(signal.status)}`}
+              key={signal.id}
+            >
+              <div className="management-signal-header">
+                <div className="row compact-gap">
+                  {managementSignalIcon(signal)}
+                  <strong>{signal.label}</strong>
+                </div>
+                <span className={`pill ${managementSignalTone(signal.status)}`}>
+                  {managementSignalStatusLabel(signal.status)}
+                </span>
+              </div>
+              <p className="muted">{signal.question}</p>
+              <p>{signal.summary}</p>
+              {signal.source?.url ? (
+                <a className="source-link" href={signal.source.url}>
+                  <ExternalLink size={15} />
+                  {signal.source.label}
+                </a>
+              ) : null}
+              {signal.excerpts.map((excerpt) => (
+                <blockquote className="management-excerpt" key={excerpt}>
+                  {excerpt}
+                </blockquote>
+              ))}
+            </article>
+          ))}
+        </div>
+
+        <aside className="management-review-panel">
+          <div className="stack compact-gap">
+            <div className="row compact-gap">
+              <FileText size={17} />
+              <h3 className="section-title">Manual judgment</h3>
+            </div>
+            <p className="muted">
+              Use the filings as evidence, then grade management quality for the valuation.
+            </p>
+          </div>
+
+          <div className="management-grade-control" role="group" aria-label="Management grade">
+            {(["strong", "middle", "dull"] as const).map((grade) => (
+              <button
+                className={`segmented-button ${notes.management === grade ? "active" : ""}`}
+                key={grade}
+                type="button"
+                onClick={() => onManagementGradeChange(grade)}
+              >
+                {businessGradeLabels[grade]}
+              </button>
+            ))}
+          </div>
+
+          <div className="checklist management-checklist">
+            {managementChecks.map((check) => (
+              <label className="check-row" key={check.id}>
+                <input
+                  type="checkbox"
+                  checked={Boolean(notes.managementChecklist[check.id])}
+                  onChange={() => onChecklistToggle(check.id)}
+                />
+                <span>{check.label}</span>
+              </label>
+            ))}
+          </div>
+        </aside>
       </div>
     </div>
   );
