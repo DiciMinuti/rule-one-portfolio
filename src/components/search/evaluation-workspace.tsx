@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Check, ChevronLeft, ChevronRight, CircleAlert, Loader2, Plus, Search } from "lucide-react";
+import { Check, ChevronLeft, ChevronRight, CircleAlert, Loader2, Minus, Plus, Search } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
@@ -978,7 +978,7 @@ function CompanySummary({
 function SaveToggleButton({ isSaved, onClick }: { isSaved: boolean; onClick: () => void }) {
   return (
     <button className="button primary" type="button" onClick={onClick}>
-      <Plus size={16} />
+      {isSaved ? <Minus size={16} /> : <Plus size={16} />}
       {isSaved ? "Remove" : "Save"}
     </button>
   );
