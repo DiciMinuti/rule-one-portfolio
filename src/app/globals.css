@@ -993,123 +993,29 @@ a:hover {
   color: var(--muted);
 }
 
-.management-source-grid {
+.management-list {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.management-section {
+  display: grid;
   gap: 8px;
-}
-
-.management-source-card,
-.management-signal {
-  display: grid;
-  gap: 4px;
-  border-radius: var(--radius);
-  background: var(--surface);
-  padding: 12px;
-}
-
-.management-source-card {
   min-width: 0;
-  min-height: 84px;
-  align-content: start;
-  color: var(--muted);
 }
 
-.management-source-card:hover {
-  background: var(--surface-strong);
-  text-decoration: none;
+.management-section + .management-section {
+  border-top: 1px solid var(--border);
+  padding-top: 18px;
 }
 
-.management-source-card strong,
-.management-signal strong {
-  color: var(--text);
-  font-size: 1.03rem;
-}
-
-.management-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(300px, 0.8fr);
-  gap: 12px;
-  align-items: start;
-}
-
-.management-signal-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
-}
-
-.management-signal {
-  min-width: 0;
-  min-height: 96px;
-  align-content: start;
-  color: var(--muted);
-}
-
-.management-signal p {
-  margin: 0;
-}
-
-.management-signal-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-}
-
-.management-signal.good {
-  background: rgba(74, 222, 128, 0.03);
-}
-
-.management-signal.warn {
-  background: rgba(251, 191, 36, 0.03);
-}
-
-.management-signal.bad {
-  background: rgba(248, 113, 113, 0.03);
-}
-
-.management-checklist {
-  grid-template-columns: 1fr;
-}
-
-.management-excerpt {
-  min-width: 0;
-  margin: 4px 0 0;
-  border-left: 2px solid var(--border-strong);
-  color: var(--text);
-  padding-left: 10px;
-  word-break: break-word;
-}
-
-.management-review-panel {
-  display: grid;
-  gap: 12px;
-  min-width: 0;
-  border-radius: var(--radius);
-  background: var(--surface);
-  padding: 12px;
-}
-
-.management-grade-control {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 6px;
-}
-
-.management-grade-control .segmented-button {
+.management-result {
   width: 100%;
-}
-
-.source-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  width: fit-content;
-  max-width: 100%;
+  margin: 0;
   color: var(--text);
-  font-size: 0.88rem;
-  font-weight: 650;
+  text-align: justify;
+  text-wrap: pretty;
+  word-break: break-word;
 }
 
 .warning-box {
@@ -1266,9 +1172,6 @@ a:hover {
   .result-grid,
   .valuation-strip,
   .checklist,
-  .management-source-grid,
-  .management-layout,
-  .management-signal-grid,
   .group-summary-strip,
   .saves-controls,
   .docs-layout {
