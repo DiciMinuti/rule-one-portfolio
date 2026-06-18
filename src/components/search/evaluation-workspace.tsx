@@ -1,7 +1,7 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { Check, ChevronLeft, ChevronRight, CircleAlert, Loader2, Save, Search } from "lucide-react";
+import { Check, ChevronLeft, ChevronRight, CircleAlert, Loader2, Plus, Search } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
@@ -23,6 +23,7 @@ import {
   formatPercent,
 } from "@/lib/format";
 import {
+  deleteSavedBusiness,
   getSavedBusinesses,
   makeSavedBusinessId,
   saveBusiness,
@@ -181,7 +182,7 @@ export function EvaluationWorkspace() {
   const [notes, setNotes] = useState<CompanyNotes>(() => initialNotes());
   const [gradeOverride, setGradeOverride] = useState<BusinessGrade | null>(null);
   const [activeStep, setActiveStep] = useState(0);
-  const [saveMessage, setSaveMessage] = useState("");
+  const [savedIds, setSavedIds] = useState<Set<string>>(() => new Set());
   const [recentSaves, setRecentSaves] = useState<SavedBusinessItem[]>([]);
 
   useEffect(() => {
@@ -190,17 +191,19 @@ export function EvaluationWorkspace() {
       .then((saves) => {
         if (!ignore) {
           setRecentSaves(saves.slice(0, 5));
+          setSavedIds(new Set(saves.map((save) => save.id)));
         }
       })
       .catch(() => {
         if (!ignore) {
           setRecentSaves([]);
+          setSavedIds(new Set());
         }
       });
     return () => {
       ignore = true;
     };
-  }, [saveMessage]);
+  }, []);
 
   useEffect(() => {
     if (searchMode !== "business") {
@@ -266,7 +269,6 @@ export function EvaluationWorkspace() {
     setAssumptions(null);
     setNotes(initialNotes());
     setGradeOverride(null);
-    setSaveMessage("");
     setActiveStep(0);
     setLoadSteps(initialLoadSteps.map((step) => ({ ...step, status: "idle" as const, detail: undefined })));
 
@@ -471,6 +473,8 @@ export function EvaluationWorkspace() {
     return calculateValuation(assumptions, businessGrade);
   }, [assumptions, businessGrade]);
 
+  const isLoadedSaved = loaded ? savedIds.has(makeSavedBusinessId(loaded.profile.symbol)) : false;
+
   const visibleGroupRows = useMemo(() => {
     if (!selectedGroup) {
       return [];
@@ -497,14 +501,26 @@ export function EvaluationWorkspace() {
     };
   }, [visibleGroupRows]);
 
-  async function handleSave() {
+  async function handleSaveToggle() {
     if (!loaded || !assumptions || !valuation) {
+      return;
+    }
+
+    const saveId = makeSavedBusinessId(loaded.profile.symbol);
+    if (savedIds.has(saveId)) {
+      await deleteSavedBusiness(saveId);
+      setSavedIds((current) => {
+        const next = new Set(current);
+        next.delete(saveId);
+        return next;
+      });
+      setRecentSaves((current) => current.filter((save) => save.id !== saveId));
       return;
     }
 
     const now = new Date().toISOString();
     const save: SavedBusinessItem = {
-      id: makeSavedBusinessId(loaded.profile.symbol),
+      id: saveId,
       workspaceId: "local",
       symbol: loaded.profile.symbol,
       cik: loaded.profile.cik,
@@ -522,7 +538,8 @@ export function EvaluationWorkspace() {
     };
 
     await saveBusiness(save);
-    setSaveMessage("Saved locally.");
+    setSavedIds((current) => new Set(current).add(save.id));
+    setRecentSaves((current) => [save, ...current.filter((item) => item.id !== save.id)].slice(0, 5));
   }
 
   function setAssumption<K extends keyof ValuationAssumptions>(key: K, value: ValuationAssumptions[K]) {
@@ -690,8 +707,8 @@ export function EvaluationWorkspace() {
           <CompanySummary
             loaded={loaded}
             valuation={valuation}
-            onSave={handleSave}
-            saveMessage={saveMessage}
+            isSaved={isLoadedSaved}
+            onSaveToggle={handleSaveToggle}
           />
           <section className="panel evaluation-panel">
             <Stepper activeStep={activeStep} onStepChange={setActiveStep} />
@@ -705,8 +722,8 @@ export function EvaluationWorkspace() {
                   setGradeOverride={setGradeOverride}
                   notes={notes}
                   setNotes={setNotes}
-                  onSave={handleSave}
-                  saveMessage={saveMessage}
+                  isSaved={isLoadedSaved}
+                  onSaveToggle={handleSaveToggle}
                 />
               ) : null}
               {activeStep === 1 ? <BusinessStep loaded={loaded} notes={notes} setNotes={setNotes} /> : null}
@@ -725,8 +742,8 @@ export function EvaluationWorkspace() {
                   loaded={loaded}
                   notes={notes}
                   setNotes={setNotes}
-                  onSave={handleSave}
-                  saveMessage={saveMessage}
+                  isSaved={isLoadedSaved}
+                  onSaveToggle={handleSaveToggle}
                 />
               ) : null}
             </div>
@@ -921,13 +938,13 @@ function GroupScreen({
 function CompanySummary({
   loaded,
   valuation,
-  onSave,
-  saveMessage,
+  isSaved,
+  onSaveToggle,
 }: {
   loaded: LoadedCompany;
   valuation: NonNullable<ReturnType<typeof calculateValuation>>;
-  onSave: () => void;
-  saveMessage: string;
+  isSaved: boolean;
+  onSaveToggle: () => void;
 }) {
   return (
     <section className="panel sticky-summary">
@@ -951,14 +968,19 @@ function CompanySummary({
           <ValueMini label="Current" value={formatCurrency(valuation.currentPrice)} />
           <ValueMini label="Sticker" value={formatCurrency(valuation.stickerPrice)} />
           <ValueMini label="MOS" value={formatCurrency(valuation.mosPrice)} />
-          <button className="button primary" type="button" onClick={onSave}>
-            <Save size={16} />
-            Save
-          </button>
-          {saveMessage ? <span className="pill info">{saveMessage}</span> : null}
+          <SaveToggleButton isSaved={isSaved} onClick={onSaveToggle} />
         </div>
       </div>
     </section>
+  );
+}
+
+function SaveToggleButton({ isSaved, onClick }: { isSaved: boolean; onClick: () => void }) {
+  return (
+    <button className="button primary" type="button" onClick={onClick}>
+      <Plus size={16} />
+      {isSaved ? "Remove" : "Save"}
+    </button>
   );
 }
 
@@ -996,8 +1018,8 @@ function ResultStep({
   setGradeOverride,
   notes,
   setNotes,
-  onSave,
-  saveMessage,
+  isSaved,
+  onSaveToggle,
 }: {
   loaded: LoadedCompany;
   assumptions: ValuationAssumptions;
@@ -1006,8 +1028,8 @@ function ResultStep({
   setGradeOverride: (grade: BusinessGrade | null) => void;
   notes: CompanyNotes;
   setNotes: (notes: CompanyNotes) => void;
-  onSave: () => void;
-  saveMessage: string;
+  isSaved: boolean;
+  onSaveToggle: () => void;
 }) {
   const priceWarning = valuation.warnings.find((warning) => warning.startsWith("Price source"));
   const reasons = [
@@ -1083,11 +1105,7 @@ function ResultStep({
             />
           </label>
           <div className="row wrap">
-            <button className="button primary" type="button" onClick={onSave}>
-              <Save size={16} />
-              Save business
-            </button>
-            {saveMessage ? <span className="pill info">{saveMessage}</span> : null}
+            <SaveToggleButton isSaved={isSaved} onClick={onSaveToggle} />
           </div>
         </div>
       </div>
@@ -1488,14 +1506,14 @@ function ReportsStep({
   loaded,
   notes,
   setNotes,
-  onSave,
-  saveMessage,
+  isSaved,
+  onSaveToggle,
 }: {
   loaded: LoadedCompany;
   notes: CompanyNotes;
   setNotes: (notes: CompanyNotes) => void;
-  onSave: () => void;
-  saveMessage: string;
+  isSaved: boolean;
+  onSaveToggle: () => void;
 }) {
   return (
     <div className="stack">
@@ -1506,12 +1524,8 @@ function ReportsStep({
             Keep the human reasoning next to the model.
           </p>
         </div>
-        <button className="button primary" type="button" onClick={onSave}>
-          <Save size={16} />
-          Save
-        </button>
+        <SaveToggleButton isSaved={isSaved} onClick={onSaveToggle} />
       </div>
-      {saveMessage ? <span className="pill info">{saveMessage}</span> : null}
       <div className="table-wrap">
         <table className="table">
           <thead>
