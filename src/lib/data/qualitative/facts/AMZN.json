@@ -1,0 +1,132 @@
+{
+  "symbol": "AMZN",
+  "companyName": "Amazon",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Public listing",
+      "statement": "Amazon.com, Inc. common stock trades under the symbol AMZN on the Nasdaq Global Select Market; the company is incorporated in Delaware and lists its principal executive offices at 410 Terry Avenue North, Seattle, Washington.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Company classification",
+      "statement": "SEC submissions metadata identifies Amazon under the SIC description \"Retail-Catalog & Mail-Order Houses\" and lists AMZN as a Nasdaq ticker.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001018724.json)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Amazon organizes operations into three reportable segments: North America, International, and AWS.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "North America business model",
+      "statement": "The North America segment primarily consists of amounts earned from retail sales of consumer products, including from sellers, and advertising and subscription services through North America-focused online and physical stores, including export sales from those online stores.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "International business model",
+      "statement": "The International segment primarily consists of amounts earned from retail sales of consumer products, including from sellers, and advertising and subscription services through internationally focused online stores; it includes export sales from those stores but excludes export sales from North America-focused online stores.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "AWS business model",
+      "statement": "The AWS segment consists of amounts earned from global sales of compute, storage, database, and other services for start-ups, enterprises, government agencies, and academic institutions.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Revenue and earnings scale",
+      "statement": "For the year ended December 31, 2025, Amazon reported consolidated net sales of $716.924 billion, operating income of $79.975 billion, and net income of $77.670 billion.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Segment financials",
+      "statement": "For 2025, North America reported net sales of $426.305 billion and operating income of $29.619 billion; International reported net sales of $161.894 billion and operating income of $4.750 billion; AWS reported net sales of $128.725 billion and operating income of $45.606 billion.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Product and service revenue mix",
+      "statement": "Amazon's 2025 net sales by product and service group were: online stores $269.287 billion, physical stores $22.561 billion, third-party seller services $172.162 billion, advertising services $68.635 billion, subscription services $49.619 billion, AWS $128.725 billion, and other $5.935 billion.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Revenue category definitions",
+      "statement": "Amazon defines third-party seller services as commissions and related fulfillment and shipping fees and other seller services; advertising services include sales to sellers, vendors, publishers, authors, and others through sponsored ads, display, and video advertising; subscription services include Amazon Prime membership fees and digital video, audiobook, digital music, e-book, and other non-AWS subscriptions.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Geographic sales",
+      "statement": "Amazon's 2025 net sales attributed to countries were $489.657 billion in the United States, $45.900 billion in Germany, $43.212 billion in the United Kingdom, $30.688 billion in Japan, and $107.467 billion in the rest of world.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Segment management and cost allocation",
+      "statement": "Amazon states there are no internal revenue transactions between reportable segments, and it allocates fulfillment, technology and infrastructure, sales and marketing, and general and administrative operating expenses to segments based on usage, generally reflected in the segment where costs are incurred.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Capital investment intensity",
+      "statement": "Amazon reported 2025 total net additions to property and equipment of $142.352 billion, including $96.496 billion for AWS, $35.919 billion for North America, $7.617 billion for International, and $2.320 billion for Corporate.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Asset base and depreciation",
+      "statement": "As of December 31, 2025, AWS segment assets were $252.588 billion and AWS property and equipment, net was $190.055 billion; total 2025 depreciation and amortization expense was $41.860 billion, including $21.450 billion allocated to AWS.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Cash flow and balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of $84.946 billion, cash and equivalents of $78.779 billion, stockholders' equity of $146.043 billion, and long-term debt of $52.623 billion, filed February 6, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Amazon's 2025 Form 10-K identifies Andrew R. Jassy as President and Chief Executive Officer, Brian T. Olsavsky as Senior Vice President and Chief Financial Officer, Shelley L. Reynolds as Vice President and Worldwide Controller, and Jeffrey P. Bezos as Executive Chair.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Chief operating decision maker",
+      "statement": "Amazon states that its chief operating decision maker is its President and Chief Executive Officer, who regularly reviews consolidated net sales, consolidated operating expenses, and consolidated operating income or loss by segment.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    },
+    {
+      "topic": "Executive compensation philosophy",
+      "statement": "Amazon's proxy states that its executive compensation philosophy is anchored on periodic grants of time-vested restricted stock units that vest over the long term to align executives' compensation with shareholder returns and focus executives on long-term business success.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Executive equity awards",
+      "statement": "Amazon's Leadership Development and Compensation Committee did not grant any equity awards to the CEO or any named executives during 2025 and has not granted the CEO an award since 2021.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Governance structure",
+      "statement": "Amazon's proxy governance highlights state that the company has a single class of common stock with one vote per share, a declassified board with annual director elections, majority voting in uncontested director elections, a lead independent director, proxy access, and a shareholder right for holders of at least 25% of outstanding shares to call a special meeting.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Governance practices",
+      "statement": "Amazon's proxy states that the Board and Leadership Development and Compensation Committee annually review executive succession planning, the Board and individual directors conduct annual peer performance evaluations, and Amazon prohibits hedging, speculative, and derivative security transactions by directors, executive officers, and other senior employees.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Related-party transactions",
+      "statement": "Amazon's proxy discloses that founder and Executive Chair Jeff Bezos owns Blue Origin and entities that publish The Washington Post; in 2025 Amazon sold approximately $12.5 million of consumer goods to Blue Origin, purchased approximately $840,000 of advertising from The Washington Post entities, paid approximately $1.9 million related to digital content, and paid approximately $800,000 for data licensing to those entities, all described as arm's-length terms.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Customer and retail execution",
+      "statement": "Amazon's proxy states that in 2025 it delivered more than 13 billion items to Prime members globally the same or next day, expanded Same-Day and Next-Day Delivery to tens of millions of customers in more than 4,000 smaller U.S. cities, towns, and rural communities, and was named the lowest-priced U.S. retailer by Profitero with online prices on average 14% lower than other major U.S. retailers.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "AWS AI products and adoption",
+      "statement": "Amazon's proxy states that AWS expanded Amazon Bedrock with more than 50 fully managed models, that Bedrock is used by over 100,000 companies, and that Trainium2 was fully subscribed with 1.4 million chips landed and powered the majority of inference on Bedrock.",
+      "source": "DEF 14A filed 2026-04-09 (https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm)"
+    },
+    {
+      "topic": "Tax and legal risk",
+      "statement": "Amazon disclosed that it is disputing tax assessments in multiple jurisdictions; the Luxembourg tax authority denied the tax basis of certain intangible assets distributed from Luxembourg to the U.S. in 2021, and the Indian tax authority asserted that tax applies to cloud services fees paid to Amazon in the U.S.; Amazon states it believes both positions are without merit and is defending the matters vigorously, but an adverse resolution of the Indian matter could result in significant additional tax expense.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm)"
+    }
+  ]
+}

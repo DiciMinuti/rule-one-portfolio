@@ -1,0 +1,127 @@
+{
+  "symbol": "JPM",
+  "companyName": "JPMorgan Chase",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "JPMorgan Chase is listed in SEC submissions as JPMORGAN CHASE & CO with SIC description \"National Commercial Banks,\" ticker JPM, and NYSE as an exchange for its listed securities.",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000019617.json"
+    },
+    {
+      "topic": "Reported revenue scale",
+      "statement": "For FY2025, JPMorgan Chase reported $158.104 billion of revenue under the SEC concept Revenues, filed February 13, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000019617.json"
+    },
+    {
+      "topic": "Reported profitability",
+      "statement": "For FY2025, JPMorgan Chase reported $49.552 billion of net income under the SEC concept NetIncomeLoss, filed February 13, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000019617.json"
+    },
+    {
+      "topic": "Operating cash flow",
+      "statement": "For FY2025, JPMorgan Chase reported $12.974 billion of net cash provided by operating activities, filed February 13, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000019617.json"
+    },
+    {
+      "topic": "Equity capital",
+      "statement": "For FY2025, JPMorgan Chase reported $327.878 billion of stockholders' equity, filed February 13, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000019617.json"
+    },
+    {
+      "topic": "Managed-basis performance",
+      "statement": "The 2026 proxy states that JPMorgan Chase delivered 2025 managed revenue of $185.6 billion, net income of $57.0 billion, return on equity of 17%, and return on tangible common equity of 20%.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Non-GAAP revenue presentation",
+      "statement": "JPMorgan Chase's 2026 proxy reconciles 2025 reported total net revenue of $182.447 billion plus $3.134 billion of fully taxable-equivalent adjustments to managed-basis total net revenue of $185.581 billion.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Tangible common equity",
+      "statement": "At December 31, 2025, the proxy reports common stockholders' equity of $342.393 billion, tangible common equity of $290.018 billion, common shares of 2,696.2 million, book value per share of $126.99, and tangible book value per share of $107.56.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Business segments and lines of business",
+      "statement": "The 2025 Form 10-K glossary identifies CCB as Consumer & Community Banking, CIB as Commercial & Investment Bank, AWM as Asset & Wealth Management, and LOB as line of business.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Commercial and investment banking markets business",
+      "statement": "JPMorgan Chase defines Markets as consisting of CIB's Fixed Income Markets and Equity Markets businesses.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Macro markets activities",
+      "statement": "JPMorgan Chase's macro businesses include Rates, Currencies and Emerging Markets, Fixed Income Financing, and Commodities in CIB's Fixed Income Markets.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Market-making revenue model",
+      "statement": "JPMorgan Chase states that principal transactions revenue is driven by factors including bid-offer spread and realized and unrealized gains and losses on financial instruments and commodities transactions, primarily used in client-driven market-making activities.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Payments services",
+      "statement": "JPMorgan Chase's Merchant Services offers merchants payment processing capabilities, fraud and risk management, data and analytics, and other payments services, enabling merchants of all sizes to accept credit and debit card payments and payments in multiple currencies.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Commercial card products",
+      "statement": "JPMorgan Chase's Commercial Card provides payment services to corporate and public sector clients worldwide, including procurement, corporate travel and entertainment, expense management services, and business-to-business payment solutions.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Asset and wealth management lending",
+      "statement": "JPMorgan Chase defines AWM custom lending as loans to Global Private Bank clients, including loans to private investment funds and loans collateralized by nontraditional assets such as art work and aircraft.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Mortgage origination channels",
+      "statement": "JPMorgan Chase identifies retail and correspondent mortgage origination channels; the retail channel uses direct contact with a Firm mortgage banker through a branch office, the Internet, or phone, while correspondent channels include banks, thrifts, other mortgage banks, and other financial institutions that sell closed loans to the Firm.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Acquisition history",
+      "statement": "The Form 10-K glossary states that on May 1, 2023, JPMorganChase acquired certain assets and assumed certain liabilities of First Republic Bank from the FDIC.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "James Dimon signed the 2025 Form 10-K as Chairman and Chief Executive Officer and as Principal Executive Officer; Jeremy Barnum signed as Executive Vice President and Chief Financial Officer and Principal Financial Officer; Elena Korablina signed as Managing Director and Firmwide Controller and Principal Accounting Officer.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "The 2026 proxy includes letters from James Dimon as Chairman and Chief Executive Officer and Stephen B. Burke as Lead Independent Director.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Board independence practices",
+      "statement": "The Lead Independent Director's letter states that JPMorgan Chase's independent directors meet separately at every regular Board meeting for candid discussion and oversight.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Board engagement and oversight",
+      "statement": "The proxy states that JPMorgan Chase's Board meets at least eight times each year, has open access to senior management, oversees key investments and strategy, and focuses on investment discipline, shareholder returns, and capital strength.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Succession planning",
+      "statement": "The proxy states that CEO succession planning is not delegated to one person or committee; the entire Board is involved in developing and assessing senior executives who are potential CEO and Operating Committee candidates.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Leadership pipeline review",
+      "statement": "The Lead Independent Director's letter states that JPMorgan Chase directors met with more than 100 senior managers over the year to assess the Firm's leadership pipeline and succession planning.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    },
+    {
+      "topic": "Governance and shareholder rights",
+      "statement": "JPMorgan Chase's By-laws provide proxy access allowing a shareholder or group of up to 20 shareholders that has continuously owned at least 3% of outstanding shares for at least three consecutive years to nominate up to 20% of the Board, but at least two directors, for inclusion in the proxy statement if requirements are satisfied.",
+      "source": "DEF 14A filed 2026-04-06 - https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm"
+    }
+  ]
+}

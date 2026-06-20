@@ -34,11 +34,11 @@ function parseArgs(argv) {
   return options;
 }
 
-async function readJson(filePath) {
+export async function readJson(filePath) {
   return JSON.parse(await readFile(filePath, "utf8"));
 }
 
-async function pathExists(filePath) {
+export async function pathExists(filePath) {
   try {
     await readFile(filePath);
     return true;
@@ -50,7 +50,7 @@ async function pathExists(filePath) {
   }
 }
 
-function sanitizeText(value) {
+export function sanitizeText(value) {
   return value
     .replaceAll("\u2018", "'")
     .replaceAll("\u2019", "'")
@@ -60,7 +60,7 @@ function sanitizeText(value) {
     .replaceAll("\u2014", "-");
 }
 
-function sanitizeGeneratedJson(value) {
+export function sanitizeGeneratedJson(value) {
   if (typeof value === "string") {
     return sanitizeText(value);
   }
@@ -78,7 +78,12 @@ function sanitizeGeneratedJson(value) {
   return value;
 }
 
-async function generateForSymbol(symbol, options) {
+export async function generateBriefForSymbol(symbol, options = {}) {
+  const mergedOptions = {
+    dryRun: false,
+    force: false,
+    ...options,
+  };
   const factPath = path.join(factsDir, `${symbol}.json`);
   const briefPath = path.join(briefsDir, `${symbol}.json`);
   const packet = await readJson(factPath);
@@ -88,13 +93,13 @@ async function generateForSymbol(symbol, options) {
     throw new Error(`${symbol} fact packet failed validation:\n- ${factErrors.join("\n- ")}`);
   }
 
-  if (!options.force && !options.dryRun && (await pathExists(briefPath))) {
+  if (!mergedOptions.force && !mergedOptions.dryRun && (await pathExists(briefPath))) {
     throw new Error(`${symbol} already has a generated brief. Re-run with --force to overwrite.`);
   }
 
-  if (options.dryRun) {
+  if (mergedOptions.dryRun) {
     console.log(`${symbol}: fact packet is valid. Skipping OpenAI call because --dry-run was passed.`);
-    return;
+    return { symbol, status: "dry-run" };
   }
 
   const brief = sanitizeGeneratedJson(await generateQualitativeBriefWithOpenAI({ packet }));
@@ -106,19 +111,26 @@ async function generateForSymbol(symbol, options) {
   await mkdir(briefsDir, { recursive: true });
   await writeFile(briefPath, `${JSON.stringify(brief, null, 2)}\n`);
   console.log(`${symbol}: wrote ${path.relative(rootDir, briefPath)}`);
+  return { symbol, status: "generated", briefPath };
 }
 
-const options = parseArgs(process.argv.slice(2));
+async function main() {
+  const options = parseArgs(process.argv.slice(2));
 
-if (!options.symbols.length) {
-  console.error("Usage: npm run qualitative:generate -- AAPL [MSFT ...] [--dry-run] [--force]");
-  process.exit(1);
+  if (!options.symbols.length) {
+    console.error("Usage: npm run qualitative:generate -- AAPL [MSFT ...] [--dry-run] [--force]");
+    process.exit(1);
+  }
+
+  for (const symbol of options.symbols) {
+    await generateBriefForSymbol(symbol, options);
+  }
+
+  if (!options.dryRun) {
+    await rebuildBriefIndex();
+  }
 }
 
-for (const symbol of options.symbols) {
-  await generateForSymbol(symbol, options);
-}
-
-if (!options.dryRun) {
-  await rebuildBriefIndex();
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  await main();
 }

@@ -1,0 +1,88 @@
+{
+  "symbol": "AMZN",
+  "companyName": "Amazon",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Amazon is led by Andrew R. Jassy, who serves as President, CEO, and chief operating decision maker for a three-segment business spanning North America, International, and AWS. The leadership structure is tied to segment-level operating review, with the CEO regularly reviewing consolidated net sales, operating expenses, and operating income or loss by segment.",
+        "points": [
+          "The 2025 Form 10-K names Andrew R. Jassy as President and CEO, Brian T. Olsavsky as CFO, Shelley L. Reynolds as Worldwide Controller, and Jeffrey P. Bezos as Executive Chair.",
+          "Amazon's CEO is identified as the chief operating decision maker and regularly reviews consolidated net sales, consolidated operating expenses, and operating income or loss by segment.",
+          "Management is running a very large multi-segment operation: 2025 consolidated net sales were $716.924 billion, with North America, International, and AWS all reported separately."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Amazon's capital allocation is heavily shaped by infrastructure investment, especially AWS. In 2025, total net additions to property and equipment were $142.352 billion, including $96.496 billion for AWS, while the company also reported $84.946 billion of operating cash flow and $78.779 billion of cash and equivalents.",
+        "points": [
+          "Amazon added $142.352 billion of property and equipment in 2025, with AWS receiving $96.496 billion, North America $35.919 billion, International $7.617 billion, and Corporate $2.320 billion.",
+          "AWS is the largest capital commitment: at year-end 2025 it had $252.588 billion of segment assets and $190.055 billion of net property and equipment.",
+          "The balance sheet gives management funding capacity, with $84.946 billion of FY2025 operating cash flow, $78.779 billion of cash and equivalents, and $52.623 billion of long-term debt."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Amazon's executive compensation philosophy is centered on long-term, time-vested restricted stock units rather than short-term cash incentives described in the packet. The proxy states this structure is intended to align executives with shareholder returns, and no equity awards were granted to the CEO or named executives during 2025.",
+        "points": [
+          "The proxy says executive compensation is anchored on periodic grants of time-vested restricted stock units that vest over the long term to align pay with shareholder returns.",
+          "Amazon's Leadership Development and Compensation Committee did not grant any equity awards to the CEO or any named executives during 2025.",
+          "The committee has not granted the CEO an equity award since 2021, which is a concrete check on dilution from recent CEO equity compensation."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Amazon gives investors detailed operating disclosure by segment, product and service category, and geography. The 2025 10-K reports segment net sales and operating income, states there are no internal revenue transactions between reportable segments, and explains how major operating expenses are allocated to segments.",
+        "points": [
+          "Amazon reports North America, International, and AWS separately; for 2025, AWS produced $128.725 billion of net sales and $45.606 billion of operating income.",
+          "The 2025 10-K breaks net sales into online stores, physical stores, third-party seller services, advertising services, subscription services, AWS, and other revenue categories.",
+          "Amazon discloses country-level sales, including $489.657 billion in the United States, $45.900 billion in Germany, $43.212 billion in the United Kingdom, and $30.688 billion in Japan.",
+          "The company states there are no internal revenue transactions between reportable segments and allocates fulfillment, technology, marketing, and administrative costs based on usage."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Amazon's proxy describes several shareholder-rights and board-accountability practices, including one vote per share, annual director elections, majority voting in uncontested elections, proxy access, and a lead independent director. Governance review also covers succession planning, director evaluations, trading restrictions, related-party disclosures, and named tax disputes.",
+        "points": [
+          "Amazon has a single class of common stock with one vote per share, a declassified board, annual director elections, and majority voting in uncontested director elections.",
+          "The Board and Leadership Development and Compensation Committee annually review executive succession planning, and the Board and individual directors conduct annual peer performance evaluations.",
+          "Amazon prohibits hedging, speculative, and derivative security transactions by directors, executive officers, and other senior employees, according to the proxy.",
+          "The proxy discloses 2025 transactions with Jeff Bezos-related entities, including about $12.5 million of consumer goods sold to Blue Origin, described as arm's-length terms.",
+          "Amazon discloses tax disputes in Luxembourg and India; it says an adverse resolution of the Indian cloud-services tax matter could result in significant additional tax expense."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Fulfillment scale and Prime delivery utility",
+        "grade": "strong",
+        "summary": "Amazon's retail moat is supported by delivery scale and price execution tied to its North America and International stores. In 2025 it delivered more than 13 billion items to Prime members globally the same or next day, expanded faster delivery to more than 4,000 smaller U.S. cities, towns, and rural communities, and was named the lowest-priced U.S. retailer by Profitero."
+      },
+      {
+        "type": "Third-party seller and advertising ecosystem",
+        "grade": "strong",
+        "summary": "Amazon earns large service revenues from activity on its commerce platform, not only from first-party online stores. In 2025, third-party seller services generated $172.162 billion from commissions, fulfillment, shipping, and other seller services, while advertising services generated $68.635 billion from sponsored ads, display, and video advertising sold to sellers, vendors, publishers, authors, and others."
+      },
+      {
+        "type": "AWS infrastructure and product breadth",
+        "grade": "strong",
+        "summary": "AWS has a distinct moat built on global compute, storage, database, and other cloud services sold to start-ups, enterprises, government agencies, and academic institutions. In 2025 AWS generated $128.725 billion of net sales and $45.606 billion of operating income, while Amazon added $96.496 billion of AWS property and equipment during the year."
+      },
+      {
+        "type": "AI cloud adoption within AWS",
+        "grade": "middle",
+        "summary": "AWS's AI position is supported by concrete product adoption rather than only future claims. Amazon Bedrock had more than 50 fully managed models and was used by over 100,000 companies, while Trainium2 was fully subscribed with 1.4 million chips landed and powered the majority of inference on Bedrock."
+      }
+    ]
+  }
+}

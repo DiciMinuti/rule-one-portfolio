@@ -1,0 +1,94 @@
+{
+  "symbol": "META",
+  "companyName": "Meta Platforms (Facebook)",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Meta is led by founder Mark Zuckerberg as Chairman and Chief Executive Officer, with Susan Li as Chief Financial Officer and Aaron Anderson as Chief Accounting Officer signing the 2025 Form 10-K. The leadership team is managing a very large ads-funded business while also funding Reality Labs and AI infrastructure initiatives that materially affect cost structure and strategic risk.",
+        "points": [
+          "Mark Zuckerberg remains central to both management and board leadership, signing the 2025 Form 10-K as Chairman and Chief Executive Officer.",
+          "Susan Li signed the 2025 Form 10-K as Chief Financial Officer, giving investors a named finance leader tied to Meta's $200.966 billion of 2025 revenue.",
+          "Management's stated 2025 priorities included building products, making the business successful, addressing societal issues related to the business, and telling Meta's story.",
+          "The company is balancing its profitable Family of Apps segment with Reality Labs, which generated $2.207 billion of revenue and a $19.193 billion operating loss in 2025."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Meta generates substantial cash and profit from Family of Apps, giving management significant capacity to fund R&D, infrastructure, and Reality Labs. The allocation question is meaningful because 2025 R&D expense was $38.483 billion and Reality Labs consumed large operating losses while the core Family of Apps business produced most revenue and profit.",
+        "points": [
+          "Meta reported FY2025 operating cash flow of $71.113 billion, cash and equivalents of $41.862 billion, and long-term debt of $28.826 billion.",
+          "Family of Apps generated $198.759 billion of 2025 revenue and $102.469 billion of operating income, making it the clear economic engine funding other initiatives.",
+          "Reality Labs generated only $2.207 billion of 2025 revenue while losing $19.193 billion from operations, a major capital allocation burden for shareholders to monitor.",
+          "Meta reported $38.483 billion of FY2025 research and development expense, reflecting heavy reinvestment into technology, product development, and long-term initiatives.",
+          "The company reported long-lived assets of $196.804 billion at December 31, 2025, with $173.390 billion located in the United States."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Executive compensation has several shareholder-aligned features, including equity-heavy pay, service-based vesting, and annual incentives tied to company priorities and results. Alignment is limited by Meta's voting structure, because Class B shares carry ten votes per share and vote together with Class A shares on matters described in the proxy.",
+        "points": [
+          "Meta says executive compensation is heavily weighted toward restricted stock units, which ties a significant portion of executive pay to the company's equity value.",
+          "Annual cash incentives are tied to company priorities and results, while equity awards include service-based vesting conditions for executives.",
+          "Mark Zuckerberg receives a $1 annual base salary, participates in neither the annual bonus plan nor additional equity awards, and receives an overall security program.",
+          "At the April 1, 2026 record date, Meta had 342,377,716 Class B shares outstanding, each carrying ten votes versus one vote for each Class A share."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Meta gives investors useful segment-level reporting, separating Family of Apps from Reality Labs and disclosing revenue, operating income, and cost allocation between those segments. It also reports Family daily active people, while explicitly explaining that the metric relies on complex estimation techniques and has an approximate 3% worldwide daily active people error margin.",
+        "points": [
+          "Meta reports Family of Apps and Reality Labs separately, including 2025 revenue and income from operations for each segment in the Form 10-K.",
+          "The proxy disclosed that 82% of 2025 total costs and expenses were recognized in Family of Apps and 18% in Reality Labs.",
+          "Meta reported Family daily active people of 3.58 billion on average for December 2025, covering users of at least one Family product.",
+          "The company explains that Family metrics rely on algorithms and machine learning models to attribute accounts to people, with an estimated error margin generally around 3%.",
+          "Meta's filings identify the Family products as Facebook, Instagram, Messenger, and WhatsApp, and describe Reality Labs as virtual and augmented reality hardware, software, and content."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Meta has formal independent oversight structures, including Robert M. Kimmitt as Lead Independent Director and twelve 2026 director nominees with every nominee except Mark Zuckerberg marked independent. Governance risk remains elevated because of dual-class voting control and named business risks including competition, tax uncertainty, and a large IRS deficiency notice under dispute.",
+        "points": [
+          "Robert M. Kimmitt served as Lead Independent Director, and the 2026 proxy lists twelve director nominees, with only Mark Zuckerberg not marked independent.",
+          "In 2025, Meta created an audit & privacy committee overseeing accounting, financial reporting, privacy, product compliance, and regulatory compliance.",
+          "The board also created a risk & strategy committee to oversee core strategic business risks and opportunities, including areas tied to Meta's operating model.",
+          "The board said it actively oversaw AI strategy and infrastructure initiatives, including key talent, technologies, core business AI applications, frontier models, and infrastructure scaling.",
+          "Meta disclosed $16.450 billion of gross unrecognized tax benefits at December 31, 2025, mainly tied to research tax credits and transfer pricing uncertainties.",
+          "Meta received a September 2025 IRS Statutory Notice of Deficiency asserting $15.89 billion of additional tax plus interest and penalties for 2017 through 2019, which it is challenging."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Network effects across the Family of Apps",
+        "grade": "strong",
+        "summary": "Meta's Family includes Facebook, Instagram, Messenger, and WhatsApp, and the company reported 3.58 billion Family daily active people on average for December 2025. That scale makes the services more useful for connection and communication, while giving advertisers access to an unusually large audience within one product family."
+      },
+      {
+        "type": "Advertising scale and operating leverage",
+        "grade": "strong",
+        "summary": "Meta's ads-funded model supports free consumer services and produced $200.966 billion of total revenue in 2025. The Family of Apps segment generated $198.759 billion of revenue and $102.469 billion of operating income, while Meta described overall 2025 operating margin as 41%."
+      },
+      {
+        "type": "Infrastructure and R&D capacity",
+        "grade": "middle",
+        "summary": "Meta has financial and asset scale to invest heavily in technology, with FY2025 operating cash flow of $71.113 billion, R&D expense of $38.483 billion, and long-lived assets of $196.804 billion. This supports AI, product, and infrastructure initiatives, but Reality Labs' $19.193 billion 2025 operating loss shows the same capacity can fund costly bets."
+      },
+      {
+        "type": "Multi-product consumer ecosystem",
+        "grade": "middle",
+        "summary": "The Family of Apps segment combines Facebook, Instagram, Messenger, WhatsApp, and other services under one reporting segment. In 2025, this ecosystem generated nearly all company revenue, with $198.759 billion from Family of Apps versus $2.207 billion from Reality Labs, showing how concentrated Meta's economics remain in its consumer app family."
+      }
+    ]
+  }
+}

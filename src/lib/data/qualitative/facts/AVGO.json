@@ -1,0 +1,127 @@
+{
+  "symbol": "AVGO",
+  "companyName": "Broadcom",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "Broadcom Inc. trades on Nasdaq under ticker AVGO and is classified in the SEC submissions metadata under the SIC description \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001730168.json)"
+    },
+    {
+      "topic": "Business lines",
+      "statement": "Broadcom's fiscal 2025 proxy describes the company's key revenue drivers as AI semiconductor solutions and infrastructure software solutions from the VMware acquisition.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Segments",
+      "statement": "Broadcom reported fiscal 2025 semiconductor revenue of $36.9 billion and infrastructure software revenue of $27.0 billion.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Broadcom's proxy statement says fiscal 2025 revenue was a record $63.9 billion, up 24% year over year.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "AI semiconductor revenue",
+      "statement": "Broadcom's AI semiconductor revenue increased 65% from $12.2 billion in fiscal 2024 to $20.2 billion in fiscal 2025, representing 55% of fiscal 2025 semiconductor revenue.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Custom accelerator business",
+      "statement": "The proxy statement attributes the increase in Broadcom's AI semiconductor revenue to growth in its custom accelerator business.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Infrastructure software growth",
+      "statement": "Broadcom's infrastructure software revenue increased 26% from $21.5 billion in fiscal 2024 to $27.0 billion in fiscal 2025, with the proxy citing strong adoption of VMware Cloud Foundation.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Product release",
+      "statement": "Broadcom released VMware Cloud Foundation 9.0 in June 2025, according to the chairman's letter in the proxy statement.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "Broadcom's proxy statement reports fiscal 2025 cash from operations of $27.5 billion, up 38% year over year, and free cash flow of $26.9 billion, up 39% year over year.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Free cash flow reconciliation",
+      "statement": "Broadcom reconciled fiscal 2025 free cash flow of $26.914 billion to net cash provided by operating activities of $27.537 billion less $623 million of purchases of property, plant and equipment.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Profitability measure",
+      "statement": "Broadcom reported fiscal 2025 GAAP operating income of $25.484 billion and non-GAAP operating income of $41.997 billion in the proxy's non-GAAP reconciliation.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Broadcom reported research and development expense of $5.253 billion for FY2025 in the SEC company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001730168.json)"
+    },
+    {
+      "topic": "Liquidity",
+      "statement": "Broadcom reported cash and equivalents of $9.348 billion for FY2025 in the SEC company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001730168.json)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Broadcom returned $13.6 billion to stockholders during fiscal 2025, consisting of $11.1 billion in cash dividends and $2.5 billion in stock repurchases.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Dividend policy",
+      "statement": "Broadcom increased its quarterly common stock dividend to $0.65 per share in the first quarter of fiscal 2026, a 10% increase over the quarterly dividends paid in fiscal 2025.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Subsequent dividend declaration",
+      "statement": "On December 9, 2025, Broadcom's board declared a quarterly cash dividend of $0.65 per common share, payable December 31, 2025 to stockholders of record on December 22, 2025.",
+      "source": "10-K filed 2025-12-18 (https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Broadcom's 2025 Form 10-K was signed by Hock E. Tan as President, Chief Executive Officer and Director, and by Kirsten M. Spears as Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer.",
+      "source": "10-K filed 2025-12-18 (https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm)"
+    },
+    {
+      "topic": "CEO retention and succession",
+      "statement": "The proxy says Broadcom's board granted Hock E. Tan a PSU award in September 2025 to extend his leadership through fiscal 2030, and also states the board remains actively engaged in CEO succession planning.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "Broadcom's proxy states that 96% of the CEO's and 95% of other named executive officers' average annualized target total compensation in fiscal 2025 was variable compensation, with a majority tied to long-term stock price performance.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Governance structure",
+      "statement": "Broadcom's proxy lists seven of eight director nominees as independent and identifies Henry Samueli, Ph.D. as Chairman of the Board and Hock E. Tan as President and CEO, indicating separate Chairman and CEO roles.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Governance practices",
+      "statement": "Broadcom's proxy lists governance practices including proxy access, annual election of all directors, majority voting for directors in uncontested elections, no poison pill, annual say-on-pay vote, independent director executive sessions, and annual board and committee evaluations.",
+      "source": "DEF 14A filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm)"
+    },
+    {
+      "topic": "Acquisition integration",
+      "statement": "In connection with the VMware merger, Broadcom initiated restructuring activities to integrate the acquired business, align its workforce and improve operating efficiencies; restructuring charges were $597 million in fiscal 2025 and $1.787 billion in fiscal 2024, and the company said these activities were substantially completed.",
+      "source": "10-K filed 2025-12-18 (https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm)"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Broadcom management concluded that disclosure controls and procedures and internal control over financial reporting were effective as of November 2, 2025, and PricewaterhouseCoopers LLP audited the effectiveness of internal control over financial reporting.",
+      "source": "10-K filed 2025-12-18 (https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm)"
+    },
+    {
+      "topic": "Legal and IP risk",
+      "statement": "Broadcom's 10-K states that complex IP litigation is generally costly and diverts management and technical personnel, and that litigation, regulatory investigations or tax disputes are inherently uncertain and could require substantial settlement costs or future royalty payments in the case of an IP dispute.",
+      "source": "10-K filed 2025-12-18 (https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm)"
+    }
+  ]
+}

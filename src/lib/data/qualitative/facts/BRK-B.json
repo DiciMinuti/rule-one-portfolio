@@ -1,0 +1,127 @@
+{
+  "symbol": "BRK-B",
+  "companyName": "Berkshire Hathaway",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Revenue scale",
+      "statement": "Berkshire Hathaway reported FY2025 revenue of $254.906 billion under RevenueFromContractWithCustomerExcludingAssessedTax, filed 2026-03-02.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001067983.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Berkshire Hathaway reported FY2025 net income of $96.223 billion, filed 2026-03-02.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001067983.json"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Berkshire Hathaway reported FY2025 operating cash flow of $49.196 billion, filed 2026-03-02.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001067983.json"
+    },
+    {
+      "topic": "Balance sheet scale",
+      "statement": "Berkshire Hathaway reported FY2025 stockholders' equity of $649.368 billion, filed 2026-03-02.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001067983.json"
+    },
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Berkshire Hathaway's SEC submissions metadata lists tickers BRK-B and BRK-A, exchange listings on NYSE, and SIC description \"Fire, Marine & Casualty Insurance.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0001067983.json"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Berkshire's Board describes the company as managing its operating businesses on an unusually decentralized basis, with minimal involvement in day-to-day activities, and says workforce and human-capital decisions are placed within each business's oversight and discretion.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Operating businesses",
+      "statement": "The 2025 Form 10-K source identifies Berkshire operating segment members including Berkshire Hathaway Insurance Group, Burlington Northern Santa Fe Corporation, Berkshire Hathaway Energy Company, Manufacturing Businesses, Service and Retailing Businesses, and McLane Company.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Insurance operations",
+      "statement": "The 2025 Form 10-K source identifies insurance operations including GEICO, Berkshire Hathaway Reinsurance Group, Berkshire Hathaway Primary Group, auto liability insurance, physical damage insurance, workers' compensation and other casualty insurance, medical professional liability insurance, property insurance, and life and health insurance.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Parent liquidity",
+      "statement": "At December 31, 2025, the Parent Company balance sheet showed $14.627 billion of cash and cash equivalents and $112.811 billion of short-term investments in U.S. Treasury Bills.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Parent investments",
+      "statement": "At December 31, 2025, the Parent Company balance sheet showed $604.100 billion of investments in and advances to consolidated subsidiaries and $8.871 billion of investment in Kraft Heinz and other assets.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "In 2025, the Parent Company purchased $170.445 billion of U.S. Treasury Bills and had $166.935 billion of maturities and sales of U.S. Treasury Bills and other items.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Share repurchases",
+      "statement": "The Parent Company cash flow statement shows no acquisition of treasury stock in 2025, compared with $2.918 billion in 2024 and $9.171 billion in 2023.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Subsidiary ownership",
+      "statement": "In January 2024, Berkshire acquired the remaining noncontrolling interests in Pilot for $2.6 billion, increasing its ownership of Pilot to 100%.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Subsidiary ownership",
+      "statement": "After 2024 transactions involving repurchases and Berkshire Class B share consideration for noncontrolling Berkshire Hathaway Energy shareholders, BHE became a wholly owned subsidiary of Berkshire.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Energy infrastructure investment",
+      "statement": "In September 2023, a Berkshire Hathaway Energy subsidiary acquired an additional 50% limited partner interest in Cove Point LNG, LP for $3.3 billion, increasing Berkshire's economic interest from 25% to 75%; Berkshire already held 100% of the general partner interest and consolidated Cove Point for financial reporting purposes.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Investment holding",
+      "statement": "As of December 31, 2025, the Parent Company owned 27.5% of the outstanding shares of The Kraft Heinz Company common stock and recorded a $5.0 billion other-than-temporary impairment charge on that investment in 2025.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Debt and guarantees",
+      "statement": "At December 31, 2025, the Parent Company had $22.662 billion of notes payable and other borrowings, and it guaranteed approximately $20.1 billion of subsidiary debt, primarily debt issued by Berkshire Hathaway Finance Corporation.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    },
+    {
+      "topic": "Management succession",
+      "statement": "Gregory E. Abel became Berkshire's Chief Executive Officer on January 1, 2026; he had been Vice Chairman - Non-Insurance Operations from 2018 to 2025 and previously served as CEO of Berkshire Hathaway Energy from 2008 to 2018.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Chairman and controlling shareholder",
+      "statement": "Warren E. Buffett was Berkshire's Chief Executive Officer from 1970 through the end of 2025, continues as Chairman of the Board, and the proxy states he owns shares representing approximately 30.0% of voting interest and 13.7% of economic interest.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Insurance leadership",
+      "statement": "Ajit Jain has been Berkshire's Vice Chairman - Insurance Operations and a director since 2018; the proxy states he has 39 years of experience managing Berkshire's reinsurance operations and has overseen assessment and pricing of many large and complex risks.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Board composition and independence",
+      "statement": "For the 2026 annual meeting, Berkshire nominated 13 current directors; the Governance Committee concluded that Stephen B. Burke, Kenneth I. Chenault, Christopher C. Davis, Susan L. Decker, Charlotte Guyman, Thomas S. Murphy Jr., Wallace R. Weitz, and Meryl B. Witmer are independent.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Director selection criteria",
+      "statement": "Berkshire's Governance Committee says it looks for director candidates with very high integrity, business savvy, an owner-oriented attitude, a deep genuine interest in Berkshire, and a significant investment in Berkshire shares relative to their resources for at least three years.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Director compensation and governance",
+      "statement": "Berkshire pays non-employee directors $900 for each in-person board meeting attended, $300 for telephone meetings, and $1,000 quarterly for Audit Committee service; the company does not provide directors and officers liability insurance to its directors.",
+      "source": "DEF 14A filed 2026-03-13 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526106253/d882687ddef14a.htm"
+    },
+    {
+      "topic": "Risk factor: wildfire liabilities",
+      "statement": "PacifiCorp recorded cumulative estimated probable Wildfire losses through December 31, 2025 of approximately $2.85 billion before taxes and expected insurance recoveries, of which approximately $1.7 billion had been paid in settlements; estimated unpaid liabilities were approximately $1.2 billion and no further insurance recoveries are expected to be available.",
+      "source": "10-K filed 2026-03-02 - https://www.sec.gov/Archives/edgar/data/1067983/000119312526083899/brka-20251231.htm"
+    }
+  ]
+}

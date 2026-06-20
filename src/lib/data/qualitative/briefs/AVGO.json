@@ -1,0 +1,90 @@
+{
+  "symbol": "AVGO",
+  "companyName": "Broadcom",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Broadcom is led by Hock E. Tan, who signed the fiscal 2025 Form 10-K as President, Chief Executive Officer and Director, with Kirsten M. Spears signing as Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer. The board's September 2025 PSU award was explicitly intended to extend Tan's leadership through fiscal 2030 while keeping CEO succession planning active.",
+        "points": [
+          "Hock E. Tan remains central to Broadcom's strategy, with the proxy identifying AI semiconductor solutions and VMware infrastructure software as the company's key fiscal 2025 revenue drivers.",
+          "Kirsten M. Spears held both principal financial officer and principal accounting officer responsibilities when the fiscal 2025 Form 10-K was signed, concentrating finance accountability in one named executive.",
+          "The board granted Tan a PSU award in September 2025 to extend his leadership through fiscal 2030, while also stating that it remains actively engaged in CEO succession planning."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Broadcom paired large cash generation with direct capital returns and VMware integration spending in fiscal 2025. The company generated $27.5 billion of operating cash flow and $26.9 billion of free cash flow, returned $13.6 billion to stockholders, and reported that VMware-related restructuring activities were substantially completed after charges declined from fiscal 2024.",
+        "points": [
+          "Fiscal 2025 free cash flow was $26.914 billion, reconciled to $27.537 billion of operating cash flow less $623 million of property, plant and equipment purchases.",
+          "Broadcom returned $13.6 billion to stockholders during fiscal 2025, made up of $11.1 billion in cash dividends and $2.5 billion in stock repurchases.",
+          "The quarterly common dividend was increased to $0.65 per share in the first quarter of fiscal 2026, a 10% increase over the quarterly dividends paid in fiscal 2025.",
+          "VMware merger restructuring charges fell from $1.787 billion in fiscal 2024 to $597 million in fiscal 2025, and Broadcom said those integration activities were substantially completed."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Broadcom's executive pay structure is heavily variable and tied mainly to long-term stock price performance, which links management outcomes to equity holders. The company also used its fiscal 2025 cash generation for dividends and repurchases, while the CEO retention award was structured as a PSU grant intended to extend Hock E. Tan's leadership.",
+        "points": [
+          "The proxy states that 96% of the CEO's fiscal 2025 average annualized target total compensation was variable compensation, with a majority tied to long-term stock price performance.",
+          "Other named executive officers also had highly variable pay, with 95% of their fiscal 2025 average annualized target total compensation structured as variable compensation.",
+          "The September 2025 PSU award to Hock E. Tan was framed as a retention tool through fiscal 2030, aligning a major leadership decision with performance-based equity compensation.",
+          "Broadcom's fiscal 2025 capital returns of $13.6 billion show that management allocated a significant portion of cash generation back to stockholders through dividends and repurchases."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Broadcom's investor disclosures provide useful operating and financial detail by segment, including semiconductor revenue, infrastructure software revenue, AI semiconductor revenue, and VMware Cloud Foundation adoption. The company also gives reconciliations for non-GAAP operating income and free cash flow, but the provided packet supports disclosure practices rather than any broader claim about management style.",
+        "points": [
+          "The fiscal 2025 proxy separately reported semiconductor revenue of $36.9 billion and infrastructure software revenue of $27.0 billion, giving investors a clear view of the two major business lines.",
+          "Broadcom disclosed that AI semiconductor revenue rose 65% to $20.2 billion and represented 55% of fiscal 2025 semiconductor revenue, attributing the increase to custom accelerator growth.",
+          "The proxy tied infrastructure software revenue growth to strong adoption of VMware Cloud Foundation and noted the June 2025 release of VMware Cloud Foundation 9.0.",
+          "Broadcom reconciled free cash flow directly to operating cash flow less capital expenditures and also disclosed both GAAP operating income and non-GAAP operating income in the proxy reconciliation."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Broadcom's governance structure includes a separate Chairman and CEO, a mostly independent director slate, and several shareholder voting rights described in the proxy. The board also oversees CEO succession planning, while the 10-K identifies concrete legal, IP, regulatory, and tax risks that could create costs or divert management and technical personnel.",
+        "points": [
+          "The proxy lists Henry Samueli, Ph.D. as Chairman of the Board and Hock E. Tan as President and CEO, separating the chair and chief executive roles.",
+          "Seven of eight director nominees were listed as independent, and the proxy describes annual director elections, majority voting in uncontested elections, and independent director executive sessions.",
+          "Broadcom's proxy lists proxy access, no poison pill, annual say-on-pay votes, and annual board and committee evaluations among the company's governance practices.",
+          "Management concluded that disclosure controls and internal control over financial reporting were effective as of November 2, 2025, with PricewaterhouseCoopers LLP auditing internal control effectiveness.",
+          "The 10-K warns that complex IP litigation, regulatory investigations, and tax disputes may be costly, uncertain, and capable of requiring settlements or future royalty payments."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale in infrastructure semiconductors and software",
+        "grade": "strong",
+        "summary": "Broadcom operates at a large revenue and cash-flow scale across two infrastructure categories, with fiscal 2025 revenue of $63.9 billion, semiconductor revenue of $36.9 billion, and infrastructure software revenue of $27.0 billion. That scale was paired with $27.5 billion of operating cash flow and $26.9 billion of free cash flow in fiscal 2025."
+      },
+      {
+        "type": "AI custom accelerator position",
+        "grade": "strong",
+        "summary": "Broadcom's AI semiconductor revenue increased 65% from $12.2 billion in fiscal 2024 to $20.2 billion in fiscal 2025, representing 55% of semiconductor revenue. The proxy specifically attributes the increase to growth in the company's custom accelerator business, making AI accelerators a concrete driver rather than a generic semiconductor exposure."
+      },
+      {
+        "type": "VMware infrastructure software platform",
+        "grade": "middle",
+        "summary": "Infrastructure software revenue increased 26% from $21.5 billion in fiscal 2024 to $27.0 billion in fiscal 2025, with the proxy citing strong adoption of VMware Cloud Foundation. Broadcom also released VMware Cloud Foundation 9.0 in June 2025, showing that the acquired VMware platform remains a named product focus after integration."
+      },
+      {
+        "type": "Research and development capacity",
+        "grade": "middle",
+        "summary": "Broadcom reported $5.253 billion of research and development expense for fiscal 2025, supporting product work across AI semiconductor solutions and infrastructure software. This spending sits alongside large segment revenues, including $20.2 billion of AI semiconductor revenue and $27.0 billion of infrastructure software revenue, but the packet does not quantify product-level technical advantages."
+      }
+    ]
+  }
+}

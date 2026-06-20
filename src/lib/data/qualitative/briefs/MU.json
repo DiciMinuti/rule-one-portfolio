@@ -1,0 +1,90 @@
+{
+  "symbol": "MU",
+  "companyName": "Micron Technology",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Micron is led by Sanjay Mehrotra as Chairman, President and Chief Executive Officer, with Mark Murphy as Executive Vice President and Chief Financial Officer and Scott Allen as Chief Accounting Officer. The team is managing a large semiconductor manufacturer with $37.378 billion of 2025 revenue, DRAM and NAND product categories, and a global manufacturing asset base.",
+        "points": [
+          "Sanjay Mehrotra holds the combined Chairman, President and CEO roles, while Lynn A. Dugle serves as Lead Independent Director to add independent board leadership.",
+          "Mark Murphy is identified as Executive Vice President and CFO, and Scott Allen is identified as Corporate Vice President and Chief Accounting Officer in the 2025 Form 10-K signatures.",
+          "Scott DeBoer, Executive Vice President and Chief Technology and Products Officer, adopted a Rule 10b5-1 plan for up to 82,000 shares during the last fiscal quarter of 2025."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Micron's capital allocation is centered on semiconductor manufacturing capacity, product development, and balance-sheet funding rather than disclosed shareholder returns in the packet. The company had $47.326 billion of long-lived assets, $3.114 billion of FY2025 R&D expense, $7.041 billion of cash and equivalents, and $11.533 billion of long-term debt.",
+        "points": [
+          "Micron's long-lived assets totaled $47.326 billion, led by Taiwan at $18.965 billion, Singapore at $10.669 billion, the U.S. at $8.445 billion, and Japan at $7.038 billion.",
+          "The company reported FY2025 research and development expense of $3.114 billion, supporting DRAM, NAND, and other product sales categories across its memory business.",
+          "Micron entered U.S. CHIPS Act direct funding agreements for up to $6.4 billion tied to manufacturing expansion and modernization in Idaho, New York, and Virginia.",
+          "FY2025 operating cash flow was $1.559 billion, while stockholders' equity was $49.907 billion, long-term debt was $11.533 billion, and cash and equivalents were $7.041 billion."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment has some useful protections, including annual director elections, majority voting, and proxy access for qualifying long-term holders. The packet does not provide executive ownership levels or compensation-performance metrics, and it notes executive Rule 10b5-1 trading arrangements, so alignment should be viewed as adequate rather than clearly exceptional.",
+        "points": [
+          "The 2025 proxy says all eight directors are elected annually by a simple majority of votes cast, giving shareholders a regular vote on the full board.",
+          "Micron's bylaws allow proxy access for up to 20 shareholders owning at least 3% of voting power continuously for at least three years.",
+          "At the January 15, 2026 annual meeting, shareholders were asked for non-binding approval of named executive officer compensation, but the packet does not state the pay structure.",
+          "Mark Murphy modified a Rule 10b5-1 trading arrangement for sale of up to 126,000 shares during Micron's last fiscal quarter of 2025."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Micron provides detailed SEC reporting on products, segments, geography, customer concentration, asset footprint, funding arrangements, and supplier risks. The 2025 Form 10-K separates DRAM, NAND, and other product sales, lists operating segment tags, and discloses a 17% customer concentration primarily included in CMBU.",
+        "points": [
+          "The 2025 Form 10-K identifies product sales categories as DRAM products, NAND products, and other product sales, which helps investors track the company's core memory exposure.",
+          "Micron discloses operating segment tags including CMBU, CDBU, MCBU, AEBU, All Other Segments, and Corporate Non-Segment in its 2025 Form 10-K.",
+          "The company reports geographic revenue by customer headquarters, including $24.113 billion from the U.S., $5.672 billion from Taiwan, and $2.639 billion from Mainland China excluding Hong Kong.",
+          "Micron disclosed that one customer accounted for 17% of 2025 revenue and was primarily included in CMBU, compared with 10% for one customer in 2024."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Micron has a mostly independent board, a lead independent director, annual elections, majority voting, and proxy access rights. Governance is not risk-free: Sanjay Mehrotra combines Chairman, President and CEO roles, the company sought officer exculpation under Delaware law, and CHIPS Act funding includes covenants, default provisions, and clawback rights.",
+        "points": [
+          "The 2025 proxy states that seven of eight director nominees are independent, with Lynn A. Dugle identified as Lead Independent Director.",
+          "Sanjay Mehrotra serves as Chairman, President and CEO, so board independence relies partly on the lead independent director and independent director majority.",
+          "Shareholders were asked to ratify PricewaterhouseCoopers as fiscal 2026 auditor; PwC has served as Micron's auditor since 1984 and opined on effective internal control for 2025.",
+          "The annual meeting agenda included an amendment to add officer exculpation under Delaware law and a shareholder proposal seeking a 10% special-meeting ownership threshold.",
+          "Micron's CHIPS Act agreements include milestones, covenants, events of default, and clawback rights tied to project completion, foreign-country restrictions, and impermissible project use or disposition."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Capital-intensive memory manufacturing footprint",
+        "grade": "middle",
+        "summary": "Micron's moat is supported by the scale and cost of its manufacturing base, with $47.326 billion of long-lived assets across Taiwan, Singapore, the U.S., Japan, and other locations. That asset intensity can deter smaller entrants, but the packet also notes reliance on limited or single suppliers for certain materials and production equipment."
+      },
+      {
+        "type": "DRAM and NAND technology investment",
+        "grade": "middle",
+        "summary": "Micron competes through focused memory product categories: DRAM products, NAND products, and other product sales. FY2025 research and development expense was $3.114 billion, showing material reinvestment in technology and products, but the packet does not provide market share, pricing power, or sustained margin evidence."
+      },
+      {
+        "type": "Government-supported U.S. manufacturing expansion",
+        "grade": "middle",
+        "summary": "Micron has direct funding agreements with the U.S. Department of Commerce for up to $6.4 billion under the CHIPS Act for projects in Idaho, New York, and Virginia. The support helps fund domestic manufacturing expansion and modernization, but it is milestone-based and subject to covenants, default provisions, and clawback rights."
+      },
+      {
+        "type": "Customer and segment reach",
+        "grade": "middle",
+        "summary": "Micron sells into multiple operating segment tags, including CMBU, CDBU, MCBU, and AEBU, and reported 2025 revenue of $37.378 billion. The breadth is useful, but customer concentration limits the moat grade because one customer represented 17% of 2025 revenue, primarily within CMBU."
+      }
+    ]
+  }
+}

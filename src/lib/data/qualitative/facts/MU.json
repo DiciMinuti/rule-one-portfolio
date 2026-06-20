@@ -1,0 +1,127 @@
+{
+  "symbol": "MU",
+  "companyName": "Micron Technology",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Micron Technology's ticker is MU, it trades on Nasdaq, and the SEC submissions metadata lists its SIC description as \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000723125.json)"
+    },
+    {
+      "topic": "Corporate identity and headquarters",
+      "statement": "Micron Technology, Inc. is a Delaware corporation with principal executive offices at 8000 S. Federal Way, Boise, Idaho 83716-9632.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Exchange-listed security",
+      "statement": "Micron's common stock, par value $0.10 per share, is registered under the trading symbol MU on the Nasdaq Global Select Market.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Micron reported total revenue of $37.378 billion for the year ended 2025 in its geographic revenue table, compared with $25.111 billion in 2024 and $15.540 billion in 2023.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "The 2025 Form 10-K identifies Micron product sales categories as DRAM products, NAND products, and other product sales.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Micron's operating segment tags in the 2025 Form 10-K include CMBU, CDBU, MCBU, AEBU, All Other Segments, and Corporate Non-Segment.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Geographic revenue concentration",
+      "statement": "For 2025, revenue based on customers' headquarters was $24.113 billion from the U.S., $5.672 billion from Taiwan, $2.639 billion from Mainland China excluding Hong Kong, $1.913 billion from Other Asia Pacific, $1.138 billion from Hong Kong, $895 million from Japan, $625 million from Europe, and $383 million from Other.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "Revenue from one customer was 17% of Micron's total revenue in 2025 and was primarily included in the CMBU segment; revenue from one customer was 10% in 2024, and no customer accounted for 10% or more of total revenue in 2023.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Supplier risk",
+      "statement": "Micron stated that it generally has multiple sources of supply for raw materials and production equipment, but only a limited number of suppliers can deliver certain raw materials and production equipment that meet its standards, and in some cases materials or production equipment are provided by a single supplier.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Long-lived asset footprint",
+      "statement": "Micron's long-lived assets, consisting of property, plant and equipment and operating lease right-of-use assets, totaled $47.326 billion as of August 28, 2025, with the largest locations listed as Taiwan at $18.965 billion, Singapore at $10.669 billion, the U.S. at $8.445 billion, and Japan at $7.038 billion.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Goodwill by business unit",
+      "statement": "As of August 28, 2025, Micron reported goodwill of $654 million in CMBU, $109 million in CDBU, $284 million in MCBU, and $103 million in AEBU.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Impairment history",
+      "statement": "Micron recognized a $101 million charge in 2023, included in other operating income (loss), to impair all goodwill assigned to its former Storage Business Unit based on projected future cash flow estimates at that time.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "R&D spending",
+      "statement": "The SEC company facts summary lists Micron research and development expense of $3.114 billion for FY2025, filed October 3, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000723125.json)"
+    },
+    {
+      "topic": "Cash flow and balance sheet",
+      "statement": "The SEC company facts summary lists FY2025 operating cash flow of $1.559 billion, stockholders' equity of $49.907 billion, long-term debt of $11.533 billion, and cash and equivalents of $7.041 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000723125.json)"
+    },
+    {
+      "topic": "Government funding",
+      "statement": "Micron entered into direct funding agreements with the U.S. Department of Commerce for up to $6.4 billion in direct funding under the U.S. CHIPS Act for U.S. manufacturing expansion and modernization projects in Idaho, New York, and Virginia.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Government funding milestones and covenants",
+      "statement": "Micron's U.S. CHIPS Act funding is based on construction, tool installation, and wafer production milestones, and the agreements include representations, warranties, covenants, events of default, and clawback rights related to project completion, restrictions involving foreign countries and entities of concern, and impermissible project use or disposition.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Accounting controls and audit",
+      "statement": "PricewaterhouseCoopers LLP opined that Micron's consolidated financial statements fairly presented its financial position as of August 28, 2025 and August 29, 2024, and that Micron maintained effective internal control over financial reporting as of August 28, 2025; PwC stated it has served as Micron's auditor since 1984.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "The 2025 Form 10-K signatures identify Sanjay Mehrotra as Chairman, President and Chief Executive Officer; Mark Murphy as Executive Vice President and Chief Financial Officer; and Scott Allen as Corporate Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Legal leadership and corporate secretary",
+      "statement": "The 2025 proxy statement notice was signed by Michael Ray, Senior Vice President, Chief Legal Officer and Corporate Secretary.",
+      "source": "DEF 14A filed 2025-11-25 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm)"
+    },
+    {
+      "topic": "Board composition and independence",
+      "statement": "Micron's 2025 proxy states that its Board nominated eight directors, that all directors are elected annually by a simple majority of votes cast, and that seven of eight director nominees are independent.",
+      "source": "DEF 14A filed 2025-11-25 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Micron's 2025 proxy identifies Lynn A. Dugle as Lead Independent Director and Sanjay Mehrotra as Chairman, President and Chief Executive Officer.",
+      "source": "DEF 14A filed 2025-11-25 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm)"
+    },
+    {
+      "topic": "Shareholder rights",
+      "statement": "Micron's bylaws permit proxy access for a shareholder or group of up to 20 shareholders owning continuously for at least three years at least 3% of the total voting power of outstanding common stock, generally allowing nomination of the greater of two director nominees or 20% of directors in office.",
+      "source": "DEF 14A filed 2025-11-25 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm)"
+    },
+    {
+      "topic": "Officer trading plans",
+      "statement": "During Micron's last fiscal quarter of 2025, Scott DeBoer, Executive Vice President, Chief Technology and Products Officer, adopted a Rule 10b5-1 trading arrangement for sale of up to 82,000 shares, and Mark Murphy, Executive Vice President and Chief Financial Officer, modified a Rule 10b5-1 trading arrangement providing for sale of up to 126,000 shares.",
+      "source": "10-K filed 2025-10-03 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm)"
+    },
+    {
+      "topic": "Governance proposals",
+      "statement": "At the January 15, 2026 annual meeting, Micron asked shareholders to vote on election of eight directors, non-binding approval of named executive officer compensation, an amendment to add officer exculpation under Delaware law, ratification of PwC as independent auditor for fiscal 2026, and a shareholder proposal seeking a 10% ownership threshold for calling a special shareholder meeting.",
+      "source": "DEF 14A filed 2025-11-25 (https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm)"
+    }
+  ]
+}

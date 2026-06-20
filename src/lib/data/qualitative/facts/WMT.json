@@ -1,0 +1,127 @@
+{
+  "symbol": "WMT",
+  "companyName": "Walmart",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Walmart Inc. trades under ticker WMT on Nasdaq and is classified in the SEC submissions metadata as \"Retail-Variety Stores.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000104169.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Walmart describes itself as a \"people-led, tech-powered omnichannel retailer\" dedicated to helping people save money and live better.",
+      "source": "DEF 14A filed 2026-04-23 (https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm)"
+    },
+    {
+      "topic": "Geographic footprint and channels",
+      "statement": "Walmart operates retail and wholesale stores and clubs, as well as eCommerce websites and mobile applications, in the U.S., Africa, Canada, Central America, Chile, China, India and Mexico.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Reportable segments",
+      "statement": "Walmart conducts operations through three reportable segments: Walmart U.S., Walmart International and Sam's Club U.S.; the company's CEO is the chief operating decision maker who reviews segment results to analyze performance and allocate resources.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Segment business lines",
+      "statement": "Walmart U.S. includes the company's U.S. mass merchandising concept, eCommerce, omnichannel initiatives and certain other offerings such as advertising services; Walmart International includes operations outside the U.S. plus eCommerce and omnichannel initiatives; Sam's Club U.S. includes warehouse membership clubs in the U.S., samsclub.com and omnichannel initiatives.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "For fiscal 2026, Walmart reported consolidated net sales of $706.413 billion, membership and other income of $6.750 billion, and total revenues of $713.163 billion.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Profit and cash flow scale",
+      "statement": "For fiscal 2026, Walmart reported consolidated operating income of $29.825 billion, and the proxy chairman's letter stated that Walmart delivered $41.6 billion in operating cash flow.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm); DEF 14A filed 2026-04-23 (https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm)"
+    },
+    {
+      "topic": "Walmart U.S. segment",
+      "statement": "In fiscal 2026, Walmart U.S. generated $482.975 billion of net sales, $2.624 billion of membership and other income, $485.599 billion of total revenues, and $25.158 billion of operating income.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Walmart International segment",
+      "statement": "In fiscal 2026, Walmart International generated $130.423 billion of net sales, $1.565 billion of membership and other income, $131.988 billion of total revenues, and $5.103 billion of operating income.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Sam's Club U.S. segment",
+      "statement": "In fiscal 2026, Sam's Club U.S. generated $93.015 billion of net sales, $2.525 billion of membership and other income, $95.540 billion of total revenues, and $2.442 billion of operating income.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Walmart U.S. merchandise mix",
+      "statement": "Walmart U.S. fiscal 2026 net sales by merchandise category were $285.482 billion grocery, $115.060 billion general merchandise, $69.547 billion health and wellness, and $12.886 billion other.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "International market mix",
+      "statement": "Walmart International fiscal 2026 net sales by market were $52.492 billion in Mexico and Central America, $24.623 billion in China, $23.724 billion in Canada, and $29.584 billion in other markets.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Sam's Club merchandise mix",
+      "statement": "Sam's Club U.S. fiscal 2026 net sales by merchandise category were $64.706 billion grocery, $11.570 billion fuel and other, $11.549 billion general merchandise, and $5.190 billion health and wellness.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "eCommerce scale",
+      "statement": "Fiscal 2026 net sales related to eCommerce were approximately $99.6 billion for Walmart U.S., $35.8 billion for Walmart International, and $15.0 billion for Sam's Club U.S.; Walmart defines eCommerce net sales to include digitally initiated omnichannel orders fulfilled through stores or clubs and certain ecosystem offerings such as advertising arrangements, fulfillment services and data insights.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "Walmart stated that it did not generate material revenues from any single customer in fiscal 2026.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Capital expenditures",
+      "statement": "Walmart's fiscal 2026 capital expenditures were $26.642 billion consolidated, including $20.157 billion for Walmart U.S., $3.197 billion for Walmart International, $914 million for Sam's Club U.S., and $2.374 billion for Corporate and support.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "The proxy chairman's letter said Walmart returned $15.6 billion to shareholders through dividends and share repurchases in fiscal 2026 and that the Board announced a new $30 billion share repurchase authorization replacing remaining capacity under the prior authorization.",
+      "source": "DEF 14A filed 2026-04-23 (https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm)"
+    },
+    {
+      "topic": "Dividend policy",
+      "statement": "Effective February 19, 2026, Walmart approved a fiscal 2027 annual dividend of $0.99 per share, up from the fiscal 2026 dividend of $0.94 per share, to be paid in four quarterly installments of $0.2475 per share.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "For FY2026, the SEC company facts summary listed Walmart stockholders' equity of $91.013 billion, long-term debt of $33.401 billion, and cash and equivalents of $9.037 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000104169.json)"
+    },
+    {
+      "topic": "Leadership",
+      "statement": "Walmart's fiscal 2026 Form 10-K was signed by John R. Furner as President and Chief Executive Officer and Director, Gregory B. Penner as Chairman of the Board and Director, John David Rainey as Executive Vice President and Chief Financial Officer, and Dwayne M. Milum as Senior Vice President and Controller.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "CEO succession and board oversight",
+      "statement": "The proxy stated that John Furner succeeded Doug McMillon as President and CEO, formally joined the Board in November 2025, and brought over 30 years of Walmart experience; Doug McMillon was expected to retire from the Board at the end of his term in June 2026.",
+      "source": "DEF 14A filed 2026-04-23 (https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm)"
+    },
+    {
+      "topic": "Executive compensation metrics",
+      "statement": "Walmart's proxy identified incentive-plan performance metrics including constant currency total company operating income, Walmart U.S. operating income, constant currency total company sales, Walmart U.S. sales, and constant currency total company ROI; the Compensation and Management Development Committee sets incentive goals on a constant currency basis excluding currency exchange rate fluctuations.",
+      "source": "DEF 14A filed 2026-04-23 (https://www.sec.gov/Archives/edgar/data/104169/000119312526173673/wmt-20260423.htm)"
+    },
+    {
+      "topic": "Employee benefits",
+      "statement": "Walmart's U.S. 401(k) plan allows eligible associates to begin contributing immediately upon hire, and after one year of employment the company matches 100% of participant contributions up to 6% of annual eligible earnings with immediate 100% vesting; total defined contribution plan expense was $1.896 billion in fiscal 2026.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    },
+    {
+      "topic": "Risk factors and investment focus",
+      "statement": "Walmart's 10-K forward-looking statement section cited macroeconomic, geopolitical and business conditions-including inflation or deflation, supply chain challenges, tariffs and recessionary pressures-and referenced increasing investments in eCommerce, technology including AI, automation, supply chain, new stores and clubs, remodels and omnichannel customer initiatives.",
+      "source": "10-K filed 2026-03-13 (https://www.sec.gov/Archives/edgar/data/104169/000010416926000055/wmt-20260131.htm)"
+    }
+  ]
+}

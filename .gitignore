@@ -5,4 +5,5 @@ dist/
 coverage/
 *.tsbuildinfo
 .env*.local
+src/lib/data/qualitative/reports/
 .DS_Store

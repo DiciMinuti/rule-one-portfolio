@@ -1,0 +1,127 @@
+{
+  "symbol": "AMD",
+  "companyName": "AMD",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company identity and listing",
+      "statement": "Advanced Micro Devices, Inc. is incorporated in Delaware, has principal executive offices at 2485 Augustine Drive, Santa Clara, California 95054, and its common stock trades under symbol AMD on The NASDAQ Global Select Market.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Industry classification",
+      "statement": "SEC submissions metadata identifies AMD's SIC description as \"Semiconductors & Related Devices\" and lists AMD on Nasdaq under ticker AMD.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000002488.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "AMD reported FY2025 revenue of $22.680 billion under the RevenueFromContractWithCustomerExcludingAssessedTax concept, filed February 4, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "AMD reported FY2025 net income of $854 million under the NetIncomeLoss concept, filed February 4, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "AMD reported FY2025 net cash provided by operating activities of $1.667 billion, filed February 4, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "AMD reported FY2025 research and development expense of $5.872 billion, filed February 4, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "For FY2025, AMD reported stockholders' equity of $55.892 billion, cash and equivalents of $3.933 billion, and long-term debt of $1.721 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000002488.json)"
+    },
+    {
+      "topic": "Operating categories",
+      "statement": "AMD's 2025 Form 10-K XBRL includes operating segment members for Datacenter, Client, Gaming, Embedded, and All Other.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Geographic reporting",
+      "statement": "AMD's 2025 Form 10-K XBRL includes country members for revenue-related reporting for the United States, China, Taiwan, Singapore, and Other Countries.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Customer concentration disclosure",
+      "statement": "AMD's 2025 Form 10-K XBRL includes customer concentration risk tags tied to revenue from contract with customer and accounts receivable for top-customer members.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Acquisitions and strategic transactions",
+      "statement": "AMD's 2025 Form 10-K exhibit list incorporates an Agreement and Plan of Merger with Xilinx dated October 26, 2020 and a Stock Purchase Agreement with ZT Group Int'l, Inc. dated August 17, 2024.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Acquisition-related agreement",
+      "statement": "AMD's 2025 Form 10-K exhibit list incorporates an Equity Purchase Agreement dated May 18, 2025 by and among Advanced Micro Designs, Inc., AMD Design, LLC, ZT Group Int'l, Inc. and Sanmina Corporation.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Intellectual property agreements",
+      "statement": "AMD's 2025 Form 10-K exhibit list incorporates a Settlement Agreement with Intel Corporation dated November 11, 2009 and a Patent Cross License Agreement with Intel Corporation dated November 11, 2009.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Intellectual property agreements",
+      "statement": "AMD's 2025 Form 10-K exhibit list incorporates an Intellectual Property Cross-License Agreement with Broadcom Corporation effective August 25, 2008 and an IP Core License Agreement with Broadcom Corporation effective August 25, 2008.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "OpenAI securities agreements",
+      "statement": "AMD's 2025 Form 10-K exhibit list incorporates a Warrant to Purchase Shares of Common Stock dated October 5, 2025 between Advanced Micro Devices, Inc. and OpenAI OpCo, LLC, and a Registration Rights Agreement with OpenAI OpCo, LLC dated October 5, 2025.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "AMD's 2025 Form 10-K signatures identify Lisa T. Su as President and Chief Executive Officer and a director, Jean Hu as Executive Vice President, Chief Financial Officer and Treasurer, and Emily Ellis as Corporate Vice President, Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "AMD's 2025 Form 10-K signatures identify Nora M. Denzel as Lead Independent Director.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Insider trading controls",
+      "statement": "AMD adopted an insider trading policy governing purchases, sales, and other dispositions of AMD securities by directors, officers, employees, and other associated individuals, and filed the policy as Exhibit 19.1 to the 2025 Form 10-K.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Executive trading plan",
+      "statement": "On November 14, 2025, Mark Papermaster, AMD's Executive Vice President and Chief Technology Officer, adopted a Rule 10b5-1 trading plan under which a maximum of 124,936 AMD common shares may be sold; the plan terminates on November 16, 2026 unless otherwise terminated according to its terms.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Internal control",
+      "statement": "Management concluded AMD's internal control over financial reporting was effective as of December 27, 2025 at the reasonable assurance level, and Ernst & Young LLP issued an attestation report on AMD's internal control over financial reporting as of that date.",
+      "source": "10-K filed 2026-02-04 (https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm)"
+    },
+    {
+      "topic": "Director nominees",
+      "statement": "AMD's 2026 proxy card lists eight director nominees: Nora M. Denzel, Michael P. Gregoire, Joseph A. Householder, John W. Marren, KC McClure, Lisa T. Su, Abhi Y. Talwalkar, and Elizabeth W. Vanderslice.",
+      "source": "DEF 14A filed 2026-03-27 (https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm)"
+    },
+    {
+      "topic": "Shareholder voting base",
+      "statement": "AMD had 1,630,338,779 shares of common stock outstanding on the March 19, 2026 record date, with each stockholder entitled to one vote per share held on that date.",
+      "source": "DEF 14A filed 2026-03-27 (https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm)"
+    },
+    {
+      "topic": "Equity compensation authorization",
+      "statement": "At the 2026 annual meeting, AMD asked stockholders to approve an amendment and restatement of the 2023 Equity Incentive Plan to increase authorized shares issuable to employees, consultants and directors by 65 million shares and make certain administrative changes.",
+      "source": "DEF 14A filed 2026-03-27 (https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm)"
+    },
+    {
+      "topic": "Compensation governance",
+      "statement": "AMD's amended and restated 2023 Equity Incentive Plan provides that awards may be subject to recovery, recoupment, clawback, and forfeiture policies, and lists potential forfeiture events including fraud, breach of fiduciary duty, financial-statement restatement due to fraud or willful errors or omissions, termination for cause or misconduct, violation of material company policies, and breaches of restrictive covenants.",
+      "source": "DEF 14A filed 2026-03-27 (https://www.sec.gov/Archives/edgar/data/2488/000119312526129057/d85856ddef14a.htm)"
+    }
+  ]
+}

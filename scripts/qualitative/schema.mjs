@@ -75,6 +75,31 @@ export const qualitativeBriefJsonSchema = {
   required: ["symbol", "companyName", "generatedAt", "management", "moat"],
 };
 
+export const factPacketJsonSchema = {
+  type: "object",
+  additionalProperties: false,
+  properties: {
+    symbol: { type: "string" },
+    companyName: { type: "string" },
+    updatedAt: { type: "string" },
+    facts: {
+      type: "array",
+      minItems: 12,
+      items: {
+        type: "object",
+        additionalProperties: false,
+        properties: {
+          topic: { type: "string" },
+          statement: { type: "string" },
+          source: { type: "string" },
+        },
+        required: ["topic", "statement", "source"],
+      },
+    },
+  },
+  required: ["symbol", "companyName", "updatedAt", "facts"],
+};
+
 function isObject(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
 }

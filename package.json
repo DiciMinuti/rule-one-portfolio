@@ -9,6 +9,8 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "qualitative:template": "node scripts/qualitative/create-fact-template.mjs",
+    "qualitative:batch": "node scripts/qualitative/batch.mjs",
+    "qualitative:facts": "node scripts/qualitative/build-fact-packet.mjs",
     "qualitative:generate": "node scripts/qualitative/generate.mjs",
     "qualitative:index": "node scripts/qualitative/index-briefs.mjs",
     "qualitative:universe": "node scripts/qualitative/update-universe.mjs",

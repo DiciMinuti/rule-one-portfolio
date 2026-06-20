@@ -1,0 +1,88 @@
+{
+  "symbol": "MSFT",
+  "companyName": "Microsoft",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Microsoft is led by Satya Nadella, who signed the FY2025 Form 10-K as Chairman, Chief Executive Officer, and Principal Executive Officer. The top finance and accounting roles are also clearly identified in filings, with Amy E. Hood as Chief Financial Officer and Alice L. Jolla as Chief Accounting Officer for a business with $211.915 billion of FY2025 revenue.",
+        "points": [
+          "Satya Nadella holds both Chairman and Chief Executive Officer roles, giving him direct accountability for Microsoft's strategy and SEC-reported operating results.",
+          "Amy E. Hood signed the FY2025 Form 10-K as Executive Vice President, Chief Financial Officer, and Principal Financial Officer, tying finance leadership to reported cash flow, debt, and capital returns.",
+          "Alice L. Jolla signed as Corporate Vice President, Chief Accounting Officer, and Principal Accounting Officer, supporting accountability over financial reporting for a large multi-segment software and cloud business."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Microsoft has the financial capacity to fund growth and return capital at the same time. In FY2025 it reported $87.582 billion of operating cash flow, $27.195 billion of research and development expense, quarterly dividend references for all four quarters, and both 2021 and 2024 share repurchase program references.",
+        "points": [
+          "The company invested $27.195 billion in research and development in FY2025, which is material even against its $211.915 billion revenue base.",
+          "Microsoft's FY2025 filing references a 2024 share repurchase program dated September 16, 2024, alongside an earlier 2021 share repurchase program.",
+          "The 2025 10-K tagging references Q1, Q2, Q3, and Q4 dividends for FY2025, showing regular shareholder cash returns during the year.",
+          "At FY2025, Microsoft reported $206.223 billion of stockholders' equity, $42.688 billion of long-term debt, and $18.315 billion of cash and equivalents."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports alignment through recurring capital returns, board independence, and compensation recoupment terms, but it does not provide insider ownership or detailed executive pay metrics. Microsoft's proposed 2026 Stock Plan subjects awards to the company's Executive Compensation Recovery Policy, other adopted recoupment policies, and applicable law where covered.",
+        "points": [
+          "Shareholders receive direct capital-return consideration through FY2025 quarterly dividend references and active share repurchase program references in Microsoft's 2025 10-K tagging.",
+          "The proposed 2026 Stock Plan includes recoupment language for covered awards, which can reduce the risk that executives retain compensation tied to results later requiring recovery.",
+          "The 2025 proxy states that 11 of 12 Board nominees are independent, with Sandra Peterson serving as Lead Independent Director alongside CEO-chair Satya Nadella."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Microsoft provides investor reporting through SEC filings with segment and product-category tagging, not just consolidated financial statements. The FY2025 10-K XBRL references Productivity and Business Processes, Intelligent Cloud, More Personal Computing, Microsoft Cloud, and product categories such as Microsoft 365, Dynamics, LinkedIn, Server Products, Windows and Devices, Gaming, and Search and News Advertising.",
+        "points": [
+          "The FY2025 10-K XBRL tagging identifies three reporting segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+          "The company's product and service category tags include Microsoft 365 Commercial, Microsoft 365 Consumer, Dynamics, LinkedIn, Server Products and Cloud Services, Windows and Devices, Gaming, and Search and News Advertising.",
+          "Microsoft's filing includes a Microsoft Cloud member for FY2025, giving investors a specific tagged lens for cloud-related reporting.",
+          "Microsoft disclosed that no officers or directors adopted, modified, or terminated Rule 10b5-1 or non-Rule 10b5-1 trading arrangements during the three months ended June 30, 2025."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Microsoft's governance structure includes a mostly independent board, a named Lead Independent Director, standing committees, and audited internal control reporting. Key investor watch items remain the combined Chairman/CEO role, Deloitte's long auditor tenure since 1983, and the unresolved IRS transfer-pricing matters that the 2025 10-K says could materially affect financial statements.",
+        "points": [
+          "The 2025 proxy lists 12 director nominees and states that 11 are independent, with Sandra E. Peterson named as Lead Independent Director.",
+          "Standing board committees include Audit, Compensation, Environmental, Social, and Public Policy, and Governance and Nominating, creating defined oversight channels.",
+          "Management concluded internal control over financial reporting was effective as of June 30, 2025, and Deloitte & Touche LLP issued the same opinion.",
+          "The 2025 10-K states that remaining IRS intercompany transfer-pricing matters could have a material impact on Microsoft's financial statements."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Product ecosystem breadth",
+        "grade": "strong",
+        "summary": "Microsoft's moat is supported by a broad software and cloud portfolio spanning Microsoft 365 Commercial and Consumer, Dynamics, LinkedIn, Server Products and Cloud Services, Windows and Devices, Gaming, and Search and News Advertising. These categories sit across three reporting segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+      },
+      {
+        "type": "Financial scale",
+        "grade": "strong",
+        "summary": "Microsoft's FY2025 scale gives it unusual capacity to fund product development, infrastructure, and shareholder returns. The company reported $211.915 billion of revenue, $72.361 billion of net income, $87.582 billion of operating cash flow, and $27.195 billion of research and development expense."
+      },
+      {
+        "type": "Cloud and enterprise software position",
+        "grade": "strong",
+        "summary": "The FY2025 filing tags Microsoft Cloud, Intelligent Cloud, Server Products and Cloud Services, Microsoft 365 Commercial Products and Cloud Services, and Dynamics Products and Cloud Services. That reporting footprint shows Microsoft is not dependent on a single software line; it competes across productivity, cloud infrastructure, business applications, and server-related services."
+      },
+      {
+        "type": "Capital-return capacity",
+        "grade": "middle",
+        "summary": "Microsoft's cash generation supports both reinvestment and shareholder distributions. FY2025 tagging references quarterly dividends for Q1 through Q4 and both the 2021 and 2024 share repurchase programs, while reported operating cash flow was $87.582 billion."
+      }
+    ]
+  }
+}

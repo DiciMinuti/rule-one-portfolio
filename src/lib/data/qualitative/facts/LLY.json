@@ -1,0 +1,127 @@
+{
+  "symbol": "LLY",
+  "companyName": "Eli Lilly",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company classification and listing",
+      "statement": "Eli Lilly & Co. trades on the NYSE under ticker LLY and is classified in SEC submissions metadata under the SIC description \"Pharmaceutical Preparations.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000059478.json)"
+    },
+    {
+      "topic": "Purpose and business model",
+      "statement": "Lilly describes its purpose as \"to unite caring with discovery to create medicines that make life better for people around the world,\" and says it aspires to discover first- or best-in-class molecules, develop molecules faster than competitors, reach people globally, scale through medicines and manufacturing capacity, and reinvest profits into the next wave of innovation.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Reportable segment",
+      "statement": "Lilly reports a single reportable segment; its CODM uses consolidated net income to assess performance and allocates R&D resources based on likelihood of technical success, unmet medical needs, and viability of commercial success.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Revenue and net income scale",
+      "statement": "For 2025, Lilly reported revenue of $65.179 billion and net income of $20.640 billion, compared with revenue of $45.043 billion and net income of $10.590 billion in 2024.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Expense structure",
+      "statement": "In its 2025 single-segment table, Lilly reported cost of sales of $11.052 billion, marketing, selling, and administrative expense of $11.094 billion, acquired in-process R&D of $2.910 billion, and other segment items of $6.146 billion.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Lilly's 2025 segment expense disclosure separates R&D into early-stage R&D of $4.881 billion, primarily discovery through Phase 2 clinical trials, and late-stage R&D of $8.456 billion, primarily Phase 3 clinical trials.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Long-lived asset investment",
+      "statement": "Lilly reported 2025 expenditures for long-lived assets of $8.672 billion, including expenditures for property and equipment and computer software costs.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Product and therapeutic categories",
+      "statement": "Lilly's 2025 10-K revenue disaggregation taxonomy includes named products Mounjaro, Zepbound, Trulicity, Jardiance, Verzenio, and Taltz, and categories including cardiometabolic health, oncology, immunology, neuroscience, and other products across U.S. and non-U.S. geographies.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Innovation pipeline",
+      "statement": "In 2025, Lilly submitted orforglipron, its oral GLP-1 therapy, to regulatory authorities in the U.S. and Japan for obesity and in the EU for obesity and type 2 diabetes.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Product approvals and label updates",
+      "statement": "The 2026 proxy states that Lilly made progress in 2025 with several drug approvals for treating cancer and digestive diseases; it also says the FDA approved an updated label for Kisunla with new dosing in early symptomatic Alzheimer's disease and approved Omvoh's single-injection maintenance regimen in adults with ulcerative colitis.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Clinical data readouts",
+      "statement": "Lilly presented positive SURMOUNT-5 Phase 3 results in which patients on Zepbound achieved average weight loss of 20.2% versus 13.7% with Wegovy, according to the proxy summary.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Access and affordability",
+      "statement": "Lilly announced an agreement with the U.S. government to expand access to its obesity medicines and reduce patient costs, including Medicare access for Zepbound expected by July 1, 2026; LillyDirect also launched a first retail pick-up option with direct-to-consumer pricing for Zepbound.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Manufacturing capacity",
+      "statement": "Lilly announced multiple manufacturing capacity expansions, including plans for a $3 billion facility in the Netherlands to boost oral medicine manufacturing capacity, more than $1.2 billion of investment in Puerto Rico to boost U.S. oral medicine manufacturing capacity, and a $5 billion manufacturing facility in Virginia.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Business development",
+      "statement": "In 2025, Lilly acquired Verve Therapeutics, described in the proxy as a Boston-based clinical-stage company developing genetic medicines for cardiovascular disease.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "AI-enabled drug discovery",
+      "statement": "Lilly launched a platform giving biotechnology companies access to AI-enabled drug discovery models and announced an agreement to build an \"AI Factory\" supercomputer intended to provide AI capabilities to help scientists identify, optimize, and validate new molecules.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "SEC company facts list Lilly's FY2025 stockholders' equity at $14.272 billion, long-term debt at $28.527 billion, and cash and equivalents at $3.268 billion, filed February 12, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000059478.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "SEC company facts list Lilly's FY2025 net cash provided by operating activities at $4.240 billion, filed February 12, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000059478.json)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "The 2025 10-K was signed by David Ricks as Chair, President, and Chief Executive Officer; Lucas Montarce as Executive Vice President and Chief Financial Officer; and Donald Zakrowski as Senior Vice President, Finance, and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Legal and governance leadership",
+      "statement": "The 2026 proxy notice was signed by Anat Hakim, Executive Vice President, General Counsel and Secretary.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Internal controls and audit oversight",
+      "statement": "Management concluded Lilly's internal control over financial reporting was effective as of December 31, 2025; Ernst & Young LLP issued an unqualified opinion on internal control, and the 10-K states Ernst & Young reports directly to the audit committee, which includes four nonemployee independent directors.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Ethics and compliance",
+      "statement": "Lilly maintains a global code of conduct called \"The Red Book\" that applies to all employees worldwide, requires annual training, covers proper business conduct, conflicts of interest, legal compliance, and confidentiality, and provides an anonymous hotline for suspected violations with protection from discrimination or retaliation.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "For 2025 annual cash bonus calculations, the Talent and Compensation Committee adjusted reported EPS from $22.95 to $27.06 by eliminating specified items including amortization of intangible assets, asset impairments and restructuring, acquired IPR&D charges, certain tax-law-change impacts, divestiture-related impacts, and foreign exchange rate impacts.",
+      "source": "DEF 14A filed 2026-03-20 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm)"
+    },
+    {
+      "topic": "Equity compensation capacity",
+      "statement": "As of December 31, 2025, Lilly had 42,396,427 securities remaining available for future issuance under equity compensation plans approved by security holders, and 3,484,792 shares underlying outstanding equity awards.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    },
+    {
+      "topic": "Accounting estimate risk",
+      "statement": "Ernst & Young identified Medicaid, Managed Care, and Medicare sales rebate accruals as a critical audit matter; at December 31, 2025, Lilly had $17.382 billion in sales rebate and discount accruals, and the audit report says estimating these liabilities is challenging because of subjective assumptions and variability in prescription drug costs and data.",
+      "source": "10-K filed 2026-02-12 (https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm)"
+    }
+  ]
+}

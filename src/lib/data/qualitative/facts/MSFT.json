@@ -1,0 +1,127 @@
+{
+  "symbol": "MSFT",
+  "companyName": "Microsoft",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Microsoft Corporation is listed on Nasdaq under ticker MSFT, and its SEC SIC description is \"Services-Prepackaged Software.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000789019.json)"
+    },
+    {
+      "topic": "Headquarters and incorporation",
+      "statement": "Microsoft Corporation is incorporated in Washington and lists its principal executive office at One Microsoft Way, Redmond, Washington 98052-6399.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Microsoft reported FY2025 revenue of $211.915 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Microsoft reported FY2025 net income of $72.361 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json)"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "Microsoft reported FY2025 operating cash flow of $87.582 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Microsoft reported FY2025 research and development expense of $27.195 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At FY2025, Microsoft reported stockholders' equity of $206.223 billion, long-term debt of $42.688 billion, and cash and equivalents of $18.315 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json)"
+    },
+    {
+      "topic": "Reporting segments",
+      "statement": "Microsoft's 2025 10-K XBRL tagging references the reporting members Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Product and service categories",
+      "statement": "Microsoft's 2025 10-K XBRL tagging references Microsoft 365 Commercial Products and Cloud Services, Microsoft 365 Consumer Products and Cloud Services, Dynamics Products and Cloud Services, LinkedIn Corporation, Server Products and Cloud Services, Windows and Devices, Gaming, and Search and News Advertising.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Cloud reporting",
+      "statement": "Microsoft's 2025 10-K XBRL tagging includes a Microsoft Cloud member for FY2025.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Acquisitions and investments",
+      "statement": "Microsoft's 2025 10-K XBRL tagging references Activision Blizzard Inc. and OpenAI Global LLC members.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Microsoft's 2025 10-K XBRL tagging references both a 2021 share repurchase program and a 2024 share repurchase program, including a 2024 share repurchase program date of September 16, 2024.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Capital return",
+      "statement": "Microsoft's 2025 10-K XBRL tagging references quarterly dividend members for FY2025, including Q1, Q2, Q3, and Q4 dividends.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Satya Nadella signed Microsoft's 2025 Form 10-K as Chairman and Chief Executive Officer and Principal Executive Officer.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Amy E. Hood signed Microsoft's 2025 Form 10-K as Executive Vice President and Chief Financial Officer and Principal Financial Officer.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Alice L. Jolla signed Microsoft's 2025 Form 10-K as Corporate Vice President and Chief Accounting Officer and Principal Accounting Officer.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Board independence",
+      "statement": "Microsoft's 2025 proxy states that 11 of its 12 Board nominees are independent, including Sandra Peterson as Lead Independent Director.",
+      "source": "DEF 14A filed 2025-10-21 (https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm)"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "Microsoft's 2025 proxy names 12 director nominees: Reid G. Hoffman, Hugh F. Johnston, Teri L. List, Catherine MacGregor, Mark A. L. Mason, Satya Nadella, Sandra E. Peterson, Penny S. Pritzker, John David Rainey, Charles W. Scharf, John W. Stanton, and Emma N. Walmsley.",
+      "source": "DEF 14A filed 2025-10-21 (https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm)"
+    },
+    {
+      "topic": "Governance and oversight",
+      "statement": "Microsoft's 2025 proxy identifies standing Board committees including Audit, Compensation, Environmental, Social, and Public Policy, and Governance and Nominating.",
+      "source": "DEF 14A filed 2025-10-21 (https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm)"
+    },
+    {
+      "topic": "Compensation governance",
+      "statement": "Microsoft's proposed 2026 Stock Plan provides that awards are subject to recoupment under the Company's Executive Compensation Recovery Policy, other recoupment policies the Company adopts, and applicable law, to the extent recipients are covered by such policies or law.",
+      "source": "DEF 14A filed 2025-10-21 (https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm)"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Microsoft management concluded that the Company's internal control over financial reporting was effective as of June 30, 2025, and Deloitte & Touche LLP expressed an opinion that Microsoft maintained effective internal control over financial reporting as of that date.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Auditor tenure",
+      "statement": "Deloitte & Touche LLP stated in Microsoft's 2025 10-K that it has served as the Company's auditor since 1983.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Risk factor",
+      "statement": "Microsoft's 2025 10-K states that while the Company has settled a portion of IRS audits, resolution of remaining matters related to intercompany transfer pricing could have a material impact on the Company's financial statements.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    },
+    {
+      "topic": "Insider trading arrangements",
+      "statement": "Microsoft disclosed that none of its officers or directors adopted, modified, or terminated a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement during the three months ended June 30, 2025.",
+      "source": "10-K filed 2025-07-30 (https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm)"
+    }
+  ]
+}

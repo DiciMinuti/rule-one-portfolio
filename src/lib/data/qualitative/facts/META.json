@@ -1,0 +1,127 @@
+{
+  "symbol": "META",
+  "companyName": "Meta Platforms (Facebook)",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business model",
+      "statement": "Meta states that its business model is ads, allowing its services to be free.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Mission and strategic focus",
+      "statement": "Meta's stated mission is to build the future of human connection and the technology that makes it possible; its 2025 company priorities were to build awesome things, make the business successful, make progress on societal issues related to the business, and go out and tell its story.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Product lines",
+      "statement": "Meta's Family refers to Facebook, Instagram, Messenger, and WhatsApp; its Family of Apps segment includes Facebook, Instagram, Messenger, WhatsApp, and other services.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Product lines",
+      "statement": "Meta's Reality Labs segment includes virtual and augmented reality related consumer hardware, software, and content.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Meta reported total revenue of $200.966 billion for 2025, up from $164.501 billion in 2024 and $134.902 billion in 2023.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Meta reported 2025 income from operations of $83.276 billion and, in its proxy summary, described this as a 41% operating margin.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Segment performance",
+      "statement": "Family of Apps generated $198.759 billion of 2025 revenue and $102.469 billion of 2025 income from operations.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Segment performance",
+      "statement": "Reality Labs generated $2.207 billion of 2025 revenue and a $19.193 billion loss from operations.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Cost allocation",
+      "statement": "Meta stated that 82% of its 2025 total costs and expenses were recognized in the Family of Apps segment and 18% in the Reality Labs segment.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Community scale",
+      "statement": "Meta reported Family daily active people of 3.58 billion on average for December 2025.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "User metric limitations",
+      "statement": "Meta says its Family metrics estimate unique people using at least one of Facebook, Instagram, Messenger, and WhatsApp, rely on complex techniques, algorithms, and machine learning models to attribute accounts to people, and have an estimated error margin generally of approximately 3% of worldwide daily active people.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Cash flow and balance sheet",
+      "statement": "Meta reported FY2025 operating cash flow of $71.113 billion, cash and equivalents of $41.862 billion, stockholders' equity of $125.713 billion, and long-term debt of $28.826 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Meta reported FY2025 research and development expense of $38.483 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json)"
+    },
+    {
+      "topic": "Infrastructure assets",
+      "statement": "Meta reported long-lived assets of $196.804 billion at December 31, 2025, including $173.390 billion in the United States and $23.414 billion in the rest of the world.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "The 2025 Form 10-K was signed by Mark Zuckerberg as Chairman and Chief Executive Officer, Susan Li as Chief Financial Officer, and Aaron Anderson as Chief Accounting Officer.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Governance",
+      "statement": "Robert M. Kimmitt served as Lead Independent Director, and the 2026 proxy lists twelve director nominees, with every nominee marked independent except Mark Zuckerberg.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Board oversight",
+      "statement": "Meta's board said it provided active oversight of AI strategy and infrastructure initiatives, including investments in key talent and technologies, AI applications in the core business, frontier model development, and infrastructure scaling.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Board structure",
+      "statement": "In 2025, Meta restructured its board committees by establishing a new audit & privacy committee and a risk & strategy committee; the audit & privacy committee oversees areas including accounting and financial reporting, the privacy program, and product and regulatory compliance, while the risk & strategy committee oversees core strategic business risks and opportunities.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Executive compensation",
+      "statement": "Meta says its executive compensation program is heavily weighted toward equity compensation in the form of restricted stock units, uses annual cash incentives tied to company priorities and results, and includes service-based vesting conditions for equity awards.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "CEO compensation",
+      "statement": "Meta says its CEO continues to receive a base salary of $1 per year in addition to his overall security program, and does not participate in the annual bonus plan or receive additional equity awards.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Voting control",
+      "statement": "At the April 1, 2026 record date, Meta had 2,196,045,588 Class A shares and 342,377,716 Class B shares outstanding and entitled to vote; Class A shares receive one vote per share, Class B shares receive ten votes per share, and the two classes vote together as a single class on matters described in the proxy.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm)"
+    },
+    {
+      "topic": "Risk factor",
+      "statement": "Meta states that it operates in a very competitive and rapidly changing environment and that new risks emerge from time to time.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Tax risk",
+      "statement": "Meta disclosed gross unrecognized tax benefits of $16.450 billion at December 31, 2025, primarily accrued for uncertainties with research tax credits and transfer pricing with foreign subsidiaries, including licensing of intellectual property, providing services, and other transactions.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    },
+    {
+      "topic": "Legal and tax dispute risk",
+      "statement": "In September 2025, Meta received an IRS Statutory Notice of Deficiency asserting an additional $15.89 billion in tax, plus interest and penalties, for 2017 through 2019; Meta said it disagrees with the IRS position and filed a Tax Court petition in December 2025 to challenge the notice.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm)"
+    }
+  ]
+}

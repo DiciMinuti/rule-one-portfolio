@@ -1,0 +1,93 @@
+{
+  "symbol": "TSLA",
+  "companyName": "Tesla",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Tesla is led by Elon Musk as Chief Executive Officer and Director, with Vaibhav Taneja serving as Chief Financial Officer, Principal Financial Officer, and Principal Accounting Officer. The company is large and profitable, reporting FY2025 revenue of $96.773 billion, net income of $14.997 billion, and operating cash flow of $13.256 billion, but leadership also carries visible Autopilot, FSD, Robotaxi, and related-party scrutiny.",
+        "points": [
+          "Elon Musk signed the 2025 Form 10-K as Chief Executive Officer and Director, while Vaibhav Taneja signed as CFO, Principal Financial Officer, and Principal Accounting Officer.",
+          "Tesla's CEO is also the chief operating decision maker and manages the company through two reportable segments: automotive and energy generation and storage.",
+          "Management initiated 2025 cost-reduction actions through convergence of AI chip design efforts, recording $390 million of automotive-segment expenses tied to supercomputer asset charges, contract terminations, and employee terminations.",
+          "Leadership faces disclosed litigation and investigation risk tied to Autopilot, Full-Self Driving (Supervised), Robotaxi, vehicle incidents, data privacy, finance, personnel, and related parties."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Tesla has substantial financial capacity, with FY2025 cash and equivalents of $16.398 billion, stockholders' equity of $72.913 billion, long-term debt of $5.535 billion, and R&D expense of $3.969 billion. Capital allocation is not limited to the core automotive business; Tesla also uses VIE financing structures and agreed in January 2026 to invest approximately $2 billion in xAI preferred stock.",
+        "points": [
+          "FY2025 operating cash flow of $13.256 billion and cash and equivalents of $16.398 billion give Tesla internal funding capacity for vehicle, energy, AI, and manufacturing investments.",
+          "Tesla reported $3.969 billion of FY2025 research and development expense, supporting continued product and technology work across automotive, energy storage, and AI-related efforts.",
+          "Tesla uses variable interest entity arrangements with fund investors to fund and monetize energy generation systems and vehicles, consolidating the VIEs as primary beneficiary.",
+          "In January 2026, Tesla agreed to invest approximately $2 billion in xAI Series E Preferred Stock, reviewed under board fiduciary duties and related-party transaction policy."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Tesla's proposed 2025 CEO Performance Award ties Elon Musk's compensation to ambitious operational and market-capitalization milestones, including 1 million Robotaxis in commercial operation, delivery of 1 million AI Bots, and nearly $7.5 trillion of shareholder value creation for the full award. The same package also concentrates investor attention on retention, dilution, and execution risk around future businesses not yet reflected in current segment reporting.",
+        "points": [
+          "The proposed 2025 CEO Performance Award includes market capitalization growth targets requiring nearly $7.5 trillion of shareholder value creation for Elon Musk to receive the full award.",
+          "Operational milestones in the proposed CEO award include 1 million Robotaxis in commercial operation and delivery of 1 million AI Bots, linking pay to future AI and autonomy goals.",
+          "The proposed award includes retention requirements of at least seven and a half years and up to 10 years to vest in full.",
+          "Tesla's 2025 annual meeting agenda asked shareholders to approve the A&R 2019 Equity Incentive Plan and the 2025 CEO Performance Award, directly putting equity compensation to a vote."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Tesla gives investors concrete segment, geography, balance sheet, and operating-risk disclosure in SEC filings. The 2025 10-K reports automotive and energy generation and storage revenue, cost of revenue, and gross profit; revenue by sales location; long-lived assets by geography; inventory by segment; VIE balances; related-party activity; and named litigation and regulatory matters.",
+        "points": [
+          "Tesla discloses two operating and reportable segments, with FY2025 automotive revenue of $82.056 billion and energy generation and storage revenue of $12.771 billion.",
+          "The 2025 10-K reports segment cost of revenue and gross profit, including $13.292 billion of automotive gross profit and $3.802 billion of energy gross profit.",
+          "Tesla reports FY2025 revenue by sales location, including $47.627 billion in the United States, $20.962 billion in China, and $26.238 billion in other international markets.",
+          "Tesla discloses inventory by segment, including $9.678 billion of automotive inventory and $2.714 billion of energy generation and storage inventory as of December 31, 2025.",
+          "Management concluded disclosure controls and internal control over financial reporting were effective as of December 31, 2025, and PricewaterhouseCoopers LLP audited internal control effectiveness."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Tesla has a named board and disclosed review processes for related-party matters, but governance also includes investor-friction provisions and high-profile related-party exposure. The 2025 proxy lists directors including Robyn Denholm, Ira Ehrenpreis, Joseph Gebbia, Jack Hartung, James Murdoch, Kimbal Musk, JB Straubel, and Kathleen Wilson-Thompson, while also describing supermajority bylaw provisions and derivative-action ownership thresholds.",
+        "points": [
+          "Tesla's 2025 Form 10-K lists Elon Musk as CEO and director, alongside directors Robyn Denholm, Ira Ehrenpreis, Joseph Gebbia, Jack Hartung, James Murdoch, Kimbal Musk, JB Straubel, and Kathleen Wilson-Thompson.",
+          "The January 2026 xAI investment was reviewed under the Board's fiduciary duties and related-party transactions policy and was described as made on market terms consistent with other investors.",
+          "Tesla recognized $430 million of FY2025 revenue and $285 million of cost of revenue from xAI's purchase of Megapack products in the ordinary course of business.",
+          "The proxy described bylaws requiring at least 66 2/3% of total outstanding voting power for shareholders to alter certain bylaw provisions.",
+          "The proxy also described a 3% beneficial-ownership threshold for a shareholder or group to institute or maintain derivative proceedings against a director or officer in an official capacity.",
+          "Tesla disclosed a proposed securities class action involving Autopilot, Full-Self Driving (Supervised), and Robotaxi statements, plus regular information requests from NHTSA, NTSB, SEC, DOJ, and other agencies."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Scale and reinvestment capacity",
+        "grade": "middle",
+        "summary": "Tesla operates at a scale few vehicle and energy manufacturers reach in the provided record, with FY2025 revenue of $96.773 billion, operating cash flow of $13.256 billion, and cash and equivalents of $16.398 billion. That scale supports $3.969 billion of R&D spending, but the packet does not show market share, customer retention, or pricing power strong enough to grade this as a strong moat."
+      },
+      {
+        "type": "Integrated automotive ecosystem",
+        "grade": "middle",
+        "summary": "Tesla's automotive segment is broader than new-vehicle sales: it includes EV design, development, manufacturing, sales and leasing, regulatory credits, used vehicle sales, non-warranty maintenance and collision services, paid Supercharging sessions, insurance revenue, parts, and merchandise. In FY2025 this segment produced $82.056 billion of revenue and $13.292 billion of gross profit, giving Tesla multiple vehicle-related revenue streams tied to its installed vehicle base."
+      },
+      {
+        "type": "Energy generation and storage platform",
+        "grade": "middle",
+        "summary": "Tesla's energy generation and storage segment designs, manufactures, installs, sells, and leases energy generation and storage products and related services, including sales of energy generation incentives. The segment generated FY2025 revenue of $12.771 billion and gross profit of $3.802 billion, and Tesla also recognized $430 million of FY2025 revenue from xAI's purchase of Megapack products."
+      },
+      {
+        "type": "Geographic manufacturing and revenue footprint",
+        "grade": "middle",
+        "summary": "Tesla has a broad operating footprint, with FY2025 revenue by sales location of $47.627 billion in the United States, $20.962 billion in China, and $26.238 billion in other international markets. Its long-lived assets were also spread across $35.847 billion in the United States, $4.775 billion in Germany, and $4.625 billion in other international locations, supporting regional production and sales reach."
+      }
+    ]
+  }
+}

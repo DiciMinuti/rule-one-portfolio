@@ -25,6 +25,12 @@ Check a fact packet without calling OpenAI:
 npm run qualitative:generate -- AAPL --dry-run
 ```
 
+Build a fact packet from public SEC source material:
+
+```bash
+npm run qualitative:facts -- AAPL --force
+```
+
 Generate a brief:
 
 ```bash
@@ -54,6 +60,20 @@ Refresh the large-cap coverage universe:
 ```bash
 npm run qualitative:universe -- --limit=300
 ```
+
+Run a resumable batch from the coverage universe:
+
+```bash
+npm run qualitative:batch -- --from=1 --to=30
+```
+
+Run specific symbols:
+
+```bash
+npm run qualitative:batch -- --symbols=NVDA,GOOG,MSFT
+```
+
+Batch runs skip existing fact packets and briefs by default, retry failed API calls, rebuild the brief index, and write status reports to `src/lib/data/qualitative/reports/`.
 
 ## Process
 

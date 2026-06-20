@@ -1,0 +1,88 @@
+{
+  "symbol": "BRK-B",
+  "companyName": "Berkshire Hathaway",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Berkshire completed a major CEO transition with Gregory E. Abel becoming Chief Executive Officer on January 1, 2026, after serving as Vice Chairman - Non-Insurance Operations and previously leading Berkshire Hathaway Energy. The leadership structure still includes Warren E. Buffett as Chairman and Ajit Jain overseeing insurance operations, preserving experienced oversight across Berkshire's two most important management domains.",
+        "points": [
+          "Gregory E. Abel brings direct Berkshire operating experience: he was Vice Chairman - Non-Insurance Operations from 2018 to 2025 and CEO of Berkshire Hathaway Energy from 2008 to 2018.",
+          "Warren E. Buffett served as CEO from 1970 through 2025 and continues as Chairman, while also holding about 30.0% of voting interest and 13.7% of economic interest.",
+          "Ajit Jain has been Vice Chairman - Insurance Operations and a director since 2018, with 39 years managing Berkshire reinsurance operations and pricing large, complex risks."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Berkshire's capital allocation is centered on large-scale liquidity, subsidiaries, and selective ownership changes rather than routine buybacks. At December 31, 2025, the Parent Company held $14.627 billion of cash and $112.811 billion of U.S. Treasury Bills, while also owning $604.100 billion of investments in and advances to consolidated subsidiaries.",
+        "points": [
+          "In 2025, the Parent Company purchased $170.445 billion of U.S. Treasury Bills and had $166.935 billion of maturities, sales of Treasury Bills, and other related items.",
+          "Berkshire did not acquire treasury stock in 2025, after repurchasing $2.918 billion in 2024 and $9.171 billion in 2023, showing buybacks are not automatic.",
+          "The company increased subsidiary control in recent years, including acquiring the remaining Pilot noncontrolling interests for $2.6 billion and making BHE wholly owned after 2024 transactions.",
+          "Berkshire Hathaway Energy expanded its Cove Point LNG economic interest from 25% to 75% in 2023 through a $3.3 billion purchase of an additional limited partner interest."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Shareholder alignment is unusually tied to ownership and board selection criteria rather than equity incentive formulas described in the packet. Buffett remains Chairman with approximately 30.0% voting interest and 13.7% economic interest, and the Governance Committee seeks directors with an owner-oriented attitude and a significant Berkshire share investment relative to their resources for at least three years.",
+        "points": [
+          "Warren E. Buffett's ownership gives him approximately 30.0% of voting interest and 13.7% of economic interest, creating substantial economic exposure alongside voting influence.",
+          "The Governance Committee's director criteria specifically include an owner-oriented attitude, a deep genuine interest in Berkshire, and meaningful Berkshire share ownership relative to personal resources.",
+          "Non-employee director pay is modest by public-company standards in the packet: $900 per in-person board meeting, $300 per telephone meeting, and $1,000 quarterly for Audit Committee service."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Berkshire's investor communication in the packet is filing-centered and segment-oriented. The 2025 Form 10-K identifies major operating groups including insurance, BNSF, Berkshire Hathaway Energy, manufacturing, service and retailing, and McLane, while SEC company facts provide fiscal 2025 revenue, net income, operating cash flow, and equity figures.",
+        "points": [
+          "The 2025 Form 10-K names the main operating segment members, including Berkshire Hathaway Insurance Group, Burlington Northern Santa Fe Corporation, Berkshire Hathaway Energy, Manufacturing, Service and Retailing, and McLane.",
+          "The filing breaks out insurance operations by business type, including GEICO, reinsurance, primary insurance, auto liability, physical damage, workers' compensation, medical professional liability, property, and life and health insurance.",
+          "SEC company facts include FY2025 revenue of $254.906 billion, net income of $96.223 billion, operating cash flow of $49.196 billion, and stockholders' equity of $649.368 billion.",
+          "The proxy describes Berkshire's decentralized operating model, stating that operating businesses are managed with minimal parent involvement in day-to-day activities and human-capital decisions are left to each business."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Berkshire combines owner-oriented board criteria with concentrated voting power and decentralized operating oversight. For the 2026 annual meeting, 13 current directors were nominated and eight were identified as independent, while governance also has to oversee material subsidiary-level risks such as PacifiCorp wildfire liabilities.",
+        "points": [
+          "For the 2026 annual meeting, Berkshire nominated 13 current directors, and the Governance Committee identified eight as independent, including Stephen B. Burke, Kenneth I. Chenault, and Susan L. Decker.",
+          "The board's governance approach reflects Berkshire's decentralized model, with workforce and human-capital decisions placed within each operating business's oversight and discretion rather than centralized parent control.",
+          "Berkshire does not provide directors and officers liability insurance to its directors, and non-employee director compensation is limited to meeting fees and Audit Committee service fees stated in the proxy.",
+          "A named operating risk is PacifiCorp wildfire liability: cumulative estimated probable losses were about $2.85 billion before taxes and expected recoveries, with about $1.2 billion unpaid at year-end 2025."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Financial strength and liquidity",
+        "grade": "strong",
+        "summary": "Berkshire's balance sheet gives it unusual financial capacity across insurance, rail, energy, and operating subsidiaries. At December 31, 2025, the Parent Company held $14.627 billion of cash and $112.811 billion of U.S. Treasury Bills, while Berkshire reported $649.368 billion of stockholders' equity and $49.196 billion of FY2025 operating cash flow."
+      },
+      {
+        "type": "Insurance underwriting and risk-pricing capability",
+        "grade": "strong",
+        "summary": "Insurance remains central enough that Berkshire's SEC industry classification is Fire, Marine & Casualty Insurance, and its operations include GEICO, reinsurance, primary insurance, auto liability, workers' compensation, property, and life and health lines. Ajit Jain's 39 years managing Berkshire reinsurance operations and pricing large, complex risks supports a company-specific capability in risk selection."
+      },
+      {
+        "type": "Diversified operating subsidiary base",
+        "grade": "strong",
+        "summary": "Berkshire is not dependent on a single product line or customer category in the packet. Its 2025 Form 10-K identifies operating groups across Berkshire Hathaway Insurance Group, BNSF, Berkshire Hathaway Energy, Manufacturing Businesses, Service and Retailing Businesses, and McLane, supporting FY2025 revenue of $254.906 billion."
+      },
+      {
+        "type": "Decentralized operating model",
+        "grade": "middle",
+        "summary": "Berkshire's Board describes the company as unusually decentralized, with minimal parent involvement in day-to-day activities and workforce decisions placed within each business's discretion. That model is specific to a holding company with large subsidiaries such as BNSF, Berkshire Hathaway Energy, McLane, insurance operations, manufacturing, service, and retailing businesses."
+      }
+    ]
+  }
+}

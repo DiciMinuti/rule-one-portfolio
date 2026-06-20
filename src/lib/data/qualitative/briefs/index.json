@@ -95,5 +95,817 @@
         }
       ]
     }
+  },
+  "AMZN": {
+    "symbol": "AMZN",
+    "companyName": "Amazon",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Amazon is led by Andrew R. Jassy, who serves as President, CEO, and chief operating decision maker for a three-segment business spanning North America, International, and AWS. The leadership structure is tied to segment-level operating review, with the CEO regularly reviewing consolidated net sales, operating expenses, and operating income or loss by segment.",
+          "points": [
+            "The 2025 Form 10-K names Andrew R. Jassy as President and CEO, Brian T. Olsavsky as CFO, Shelley L. Reynolds as Worldwide Controller, and Jeffrey P. Bezos as Executive Chair.",
+            "Amazon's CEO is identified as the chief operating decision maker and regularly reviews consolidated net sales, consolidated operating expenses, and operating income or loss by segment.",
+            "Management is running a very large multi-segment operation: 2025 consolidated net sales were $716.924 billion, with North America, International, and AWS all reported separately."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "middle",
+          "summary": "Amazon's capital allocation is heavily shaped by infrastructure investment, especially AWS. In 2025, total net additions to property and equipment were $142.352 billion, including $96.496 billion for AWS, while the company also reported $84.946 billion of operating cash flow and $78.779 billion of cash and equivalents.",
+          "points": [
+            "Amazon added $142.352 billion of property and equipment in 2025, with AWS receiving $96.496 billion, North America $35.919 billion, International $7.617 billion, and Corporate $2.320 billion.",
+            "AWS is the largest capital commitment: at year-end 2025 it had $252.588 billion of segment assets and $190.055 billion of net property and equipment.",
+            "The balance sheet gives management funding capacity, with $84.946 billion of FY2025 operating cash flow, $78.779 billion of cash and equivalents, and $52.623 billion of long-term debt."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "strong",
+          "summary": "Amazon's executive compensation philosophy is centered on long-term, time-vested restricted stock units rather than short-term cash incentives described in the packet. The proxy states this structure is intended to align executives with shareholder returns, and no equity awards were granted to the CEO or named executives during 2025.",
+          "points": [
+            "The proxy says executive compensation is anchored on periodic grants of time-vested restricted stock units that vest over the long term to align pay with shareholder returns.",
+            "Amazon's Leadership Development and Compensation Committee did not grant any equity awards to the CEO or any named executives during 2025.",
+            "The committee has not granted the CEO an equity award since 2021, which is a concrete check on dilution from recent CEO equity compensation."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Amazon gives investors detailed operating disclosure by segment, product and service category, and geography. The 2025 10-K reports segment net sales and operating income, states there are no internal revenue transactions between reportable segments, and explains how major operating expenses are allocated to segments.",
+          "points": [
+            "Amazon reports North America, International, and AWS separately; for 2025, AWS produced $128.725 billion of net sales and $45.606 billion of operating income.",
+            "The 2025 10-K breaks net sales into online stores, physical stores, third-party seller services, advertising services, subscription services, AWS, and other revenue categories.",
+            "Amazon discloses country-level sales, including $489.657 billion in the United States, $45.900 billion in Germany, $43.212 billion in the United Kingdom, and $30.688 billion in Japan.",
+            "The company states there are no internal revenue transactions between reportable segments and allocates fulfillment, technology, marketing, and administrative costs based on usage."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "strong",
+          "summary": "Amazon's proxy describes several shareholder-rights and board-accountability practices, including one vote per share, annual director elections, majority voting in uncontested elections, proxy access, and a lead independent director. Governance review also covers succession planning, director evaluations, trading restrictions, related-party disclosures, and named tax disputes.",
+          "points": [
+            "Amazon has a single class of common stock with one vote per share, a declassified board, annual director elections, and majority voting in uncontested director elections.",
+            "The Board and Leadership Development and Compensation Committee annually review executive succession planning, and the Board and individual directors conduct annual peer performance evaluations.",
+            "Amazon prohibits hedging, speculative, and derivative security transactions by directors, executive officers, and other senior employees, according to the proxy.",
+            "The proxy discloses 2025 transactions with Jeff Bezos-related entities, including about $12.5 million of consumer goods sold to Blue Origin, described as arm's-length terms.",
+            "Amazon discloses tax disputes in Luxembourg and India; it says an adverse resolution of the Indian cloud-services tax matter could result in significant additional tax expense."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Fulfillment scale and Prime delivery utility",
+          "grade": "strong",
+          "summary": "Amazon's retail moat is supported by delivery scale and price execution tied to its North America and International stores. In 2025 it delivered more than 13 billion items to Prime members globally the same or next day, expanded faster delivery to more than 4,000 smaller U.S. cities, towns, and rural communities, and was named the lowest-priced U.S. retailer by Profitero."
+        },
+        {
+          "type": "Third-party seller and advertising ecosystem",
+          "grade": "strong",
+          "summary": "Amazon earns large service revenues from activity on its commerce platform, not only from first-party online stores. In 2025, third-party seller services generated $172.162 billion from commissions, fulfillment, shipping, and other seller services, while advertising services generated $68.635 billion from sponsored ads, display, and video advertising sold to sellers, vendors, publishers, authors, and others."
+        },
+        {
+          "type": "AWS infrastructure and product breadth",
+          "grade": "strong",
+          "summary": "AWS has a distinct moat built on global compute, storage, database, and other cloud services sold to start-ups, enterprises, government agencies, and academic institutions. In 2025 AWS generated $128.725 billion of net sales and $45.606 billion of operating income, while Amazon added $96.496 billion of AWS property and equipment during the year."
+        },
+        {
+          "type": "AI cloud adoption within AWS",
+          "grade": "middle",
+          "summary": "AWS's AI position is supported by concrete product adoption rather than only future claims. Amazon Bedrock had more than 50 fully managed models and was used by over 100,000 companies, while Trainium2 was fully subscribed with 1.4 million chips landed and powered the majority of inference on Bedrock."
+        }
+      ]
+    }
+  },
+  "AVGO": {
+    "symbol": "AVGO",
+    "companyName": "Broadcom",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Broadcom is led by Hock E. Tan, who signed the fiscal 2025 Form 10-K as President, Chief Executive Officer and Director, with Kirsten M. Spears signing as Chief Financial Officer, Principal Financial Officer and Principal Accounting Officer. The board's September 2025 PSU award was explicitly intended to extend Tan's leadership through fiscal 2030 while keeping CEO succession planning active.",
+          "points": [
+            "Hock E. Tan remains central to Broadcom's strategy, with the proxy identifying AI semiconductor solutions and VMware infrastructure software as the company's key fiscal 2025 revenue drivers.",
+            "Kirsten M. Spears held both principal financial officer and principal accounting officer responsibilities when the fiscal 2025 Form 10-K was signed, concentrating finance accountability in one named executive.",
+            "The board granted Tan a PSU award in September 2025 to extend his leadership through fiscal 2030, while also stating that it remains actively engaged in CEO succession planning."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "strong",
+          "summary": "Broadcom paired large cash generation with direct capital returns and VMware integration spending in fiscal 2025. The company generated $27.5 billion of operating cash flow and $26.9 billion of free cash flow, returned $13.6 billion to stockholders, and reported that VMware-related restructuring activities were substantially completed after charges declined from fiscal 2024.",
+          "points": [
+            "Fiscal 2025 free cash flow was $26.914 billion, reconciled to $27.537 billion of operating cash flow less $623 million of property, plant and equipment purchases.",
+            "Broadcom returned $13.6 billion to stockholders during fiscal 2025, made up of $11.1 billion in cash dividends and $2.5 billion in stock repurchases.",
+            "The quarterly common dividend was increased to $0.65 per share in the first quarter of fiscal 2026, a 10% increase over the quarterly dividends paid in fiscal 2025.",
+            "VMware merger restructuring charges fell from $1.787 billion in fiscal 2024 to $597 million in fiscal 2025, and Broadcom said those integration activities were substantially completed."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "strong",
+          "summary": "Broadcom's executive pay structure is heavily variable and tied mainly to long-term stock price performance, which links management outcomes to equity holders. The company also used its fiscal 2025 cash generation for dividends and repurchases, while the CEO retention award was structured as a PSU grant intended to extend Hock E. Tan's leadership.",
+          "points": [
+            "The proxy states that 96% of the CEO's fiscal 2025 average annualized target total compensation was variable compensation, with a majority tied to long-term stock price performance.",
+            "Other named executive officers also had highly variable pay, with 95% of their fiscal 2025 average annualized target total compensation structured as variable compensation.",
+            "The September 2025 PSU award to Hock E. Tan was framed as a retention tool through fiscal 2030, aligning a major leadership decision with performance-based equity compensation.",
+            "Broadcom's fiscal 2025 capital returns of $13.6 billion show that management allocated a significant portion of cash generation back to stockholders through dividends and repurchases."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "middle",
+          "summary": "Broadcom's investor disclosures provide useful operating and financial detail by segment, including semiconductor revenue, infrastructure software revenue, AI semiconductor revenue, and VMware Cloud Foundation adoption. The company also gives reconciliations for non-GAAP operating income and free cash flow, but the provided packet supports disclosure practices rather than any broader claim about management style.",
+          "points": [
+            "The fiscal 2025 proxy separately reported semiconductor revenue of $36.9 billion and infrastructure software revenue of $27.0 billion, giving investors a clear view of the two major business lines.",
+            "Broadcom disclosed that AI semiconductor revenue rose 65% to $20.2 billion and represented 55% of fiscal 2025 semiconductor revenue, attributing the increase to custom accelerator growth.",
+            "The proxy tied infrastructure software revenue growth to strong adoption of VMware Cloud Foundation and noted the June 2025 release of VMware Cloud Foundation 9.0.",
+            "Broadcom reconciled free cash flow directly to operating cash flow less capital expenditures and also disclosed both GAAP operating income and non-GAAP operating income in the proxy reconciliation."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "strong",
+          "summary": "Broadcom's governance structure includes a separate Chairman and CEO, a mostly independent director slate, and several shareholder voting rights described in the proxy. The board also oversees CEO succession planning, while the 10-K identifies concrete legal, IP, regulatory, and tax risks that could create costs or divert management and technical personnel.",
+          "points": [
+            "The proxy lists Henry Samueli, Ph.D. as Chairman of the Board and Hock E. Tan as President and CEO, separating the chair and chief executive roles.",
+            "Seven of eight director nominees were listed as independent, and the proxy describes annual director elections, majority voting in uncontested elections, and independent director executive sessions.",
+            "Broadcom's proxy lists proxy access, no poison pill, annual say-on-pay votes, and annual board and committee evaluations among the company's governance practices.",
+            "Management concluded that disclosure controls and internal control over financial reporting were effective as of November 2, 2025, with PricewaterhouseCoopers LLP auditing internal control effectiveness.",
+            "The 10-K warns that complex IP litigation, regulatory investigations, and tax disputes may be costly, uncertain, and capable of requiring settlements or future royalty payments."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Scale in infrastructure semiconductors and software",
+          "grade": "strong",
+          "summary": "Broadcom operates at a large revenue and cash-flow scale across two infrastructure categories, with fiscal 2025 revenue of $63.9 billion, semiconductor revenue of $36.9 billion, and infrastructure software revenue of $27.0 billion. That scale was paired with $27.5 billion of operating cash flow and $26.9 billion of free cash flow in fiscal 2025."
+        },
+        {
+          "type": "AI custom accelerator position",
+          "grade": "strong",
+          "summary": "Broadcom's AI semiconductor revenue increased 65% from $12.2 billion in fiscal 2024 to $20.2 billion in fiscal 2025, representing 55% of semiconductor revenue. The proxy specifically attributes the increase to growth in the company's custom accelerator business, making AI accelerators a concrete driver rather than a generic semiconductor exposure."
+        },
+        {
+          "type": "VMware infrastructure software platform",
+          "grade": "middle",
+          "summary": "Infrastructure software revenue increased 26% from $21.5 billion in fiscal 2024 to $27.0 billion in fiscal 2025, with the proxy citing strong adoption of VMware Cloud Foundation. Broadcom also released VMware Cloud Foundation 9.0 in June 2025, showing that the acquired VMware platform remains a named product focus after integration."
+        },
+        {
+          "type": "Research and development capacity",
+          "grade": "middle",
+          "summary": "Broadcom reported $5.253 billion of research and development expense for fiscal 2025, supporting product work across AI semiconductor solutions and infrastructure software. This spending sits alongside large segment revenues, including $20.2 billion of AI semiconductor revenue and $27.0 billion of infrastructure software revenue, but the packet does not quantify product-level technical advantages."
+        }
+      ]
+    }
+  },
+  "BRK-B": {
+    "symbol": "BRK-B",
+    "companyName": "Berkshire Hathaway",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Berkshire completed a major CEO transition with Gregory E. Abel becoming Chief Executive Officer on January 1, 2026, after serving as Vice Chairman - Non-Insurance Operations and previously leading Berkshire Hathaway Energy. The leadership structure still includes Warren E. Buffett as Chairman and Ajit Jain overseeing insurance operations, preserving experienced oversight across Berkshire's two most important management domains.",
+          "points": [
+            "Gregory E. Abel brings direct Berkshire operating experience: he was Vice Chairman - Non-Insurance Operations from 2018 to 2025 and CEO of Berkshire Hathaway Energy from 2008 to 2018.",
+            "Warren E. Buffett served as CEO from 1970 through 2025 and continues as Chairman, while also holding about 30.0% of voting interest and 13.7% of economic interest.",
+            "Ajit Jain has been Vice Chairman - Insurance Operations and a director since 2018, with 39 years managing Berkshire reinsurance operations and pricing large, complex risks."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "strong",
+          "summary": "Berkshire's capital allocation is centered on large-scale liquidity, subsidiaries, and selective ownership changes rather than routine buybacks. At December 31, 2025, the Parent Company held $14.627 billion of cash and $112.811 billion of U.S. Treasury Bills, while also owning $604.100 billion of investments in and advances to consolidated subsidiaries.",
+          "points": [
+            "In 2025, the Parent Company purchased $170.445 billion of U.S. Treasury Bills and had $166.935 billion of maturities, sales of Treasury Bills, and other related items.",
+            "Berkshire did not acquire treasury stock in 2025, after repurchasing $2.918 billion in 2024 and $9.171 billion in 2023, showing buybacks are not automatic.",
+            "The company increased subsidiary control in recent years, including acquiring the remaining Pilot noncontrolling interests for $2.6 billion and making BHE wholly owned after 2024 transactions.",
+            "Berkshire Hathaway Energy expanded its Cove Point LNG economic interest from 25% to 75% in 2023 through a $3.3 billion purchase of an additional limited partner interest."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "strong",
+          "summary": "Shareholder alignment is unusually tied to ownership and board selection criteria rather than equity incentive formulas described in the packet. Buffett remains Chairman with approximately 30.0% voting interest and 13.7% economic interest, and the Governance Committee seeks directors with an owner-oriented attitude and a significant Berkshire share investment relative to their resources for at least three years.",
+          "points": [
+            "Warren E. Buffett's ownership gives him approximately 30.0% of voting interest and 13.7% of economic interest, creating substantial economic exposure alongside voting influence.",
+            "The Governance Committee's director criteria specifically include an owner-oriented attitude, a deep genuine interest in Berkshire, and meaningful Berkshire share ownership relative to personal resources.",
+            "Non-employee director pay is modest by public-company standards in the packet: $900 per in-person board meeting, $300 per telephone meeting, and $1,000 quarterly for Audit Committee service."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "middle",
+          "summary": "Berkshire's investor communication in the packet is filing-centered and segment-oriented. The 2025 Form 10-K identifies major operating groups including insurance, BNSF, Berkshire Hathaway Energy, manufacturing, service and retailing, and McLane, while SEC company facts provide fiscal 2025 revenue, net income, operating cash flow, and equity figures.",
+          "points": [
+            "The 2025 Form 10-K names the main operating segment members, including Berkshire Hathaway Insurance Group, Burlington Northern Santa Fe Corporation, Berkshire Hathaway Energy, Manufacturing, Service and Retailing, and McLane.",
+            "The filing breaks out insurance operations by business type, including GEICO, reinsurance, primary insurance, auto liability, physical damage, workers' compensation, medical professional liability, property, and life and health insurance.",
+            "SEC company facts include FY2025 revenue of $254.906 billion, net income of $96.223 billion, operating cash flow of $49.196 billion, and stockholders' equity of $649.368 billion.",
+            "The proxy describes Berkshire's decentralized operating model, stating that operating businesses are managed with minimal parent involvement in day-to-day activities and human-capital decisions are left to each business."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "middle",
+          "summary": "Berkshire combines owner-oriented board criteria with concentrated voting power and decentralized operating oversight. For the 2026 annual meeting, 13 current directors were nominated and eight were identified as independent, while governance also has to oversee material subsidiary-level risks such as PacifiCorp wildfire liabilities.",
+          "points": [
+            "For the 2026 annual meeting, Berkshire nominated 13 current directors, and the Governance Committee identified eight as independent, including Stephen B. Burke, Kenneth I. Chenault, and Susan L. Decker.",
+            "The board's governance approach reflects Berkshire's decentralized model, with workforce and human-capital decisions placed within each operating business's oversight and discretion rather than centralized parent control.",
+            "Berkshire does not provide directors and officers liability insurance to its directors, and non-employee director compensation is limited to meeting fees and Audit Committee service fees stated in the proxy.",
+            "A named operating risk is PacifiCorp wildfire liability: cumulative estimated probable losses were about $2.85 billion before taxes and expected recoveries, with about $1.2 billion unpaid at year-end 2025."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Financial strength and liquidity",
+          "grade": "strong",
+          "summary": "Berkshire's balance sheet gives it unusual financial capacity across insurance, rail, energy, and operating subsidiaries. At December 31, 2025, the Parent Company held $14.627 billion of cash and $112.811 billion of U.S. Treasury Bills, while Berkshire reported $649.368 billion of stockholders' equity and $49.196 billion of FY2025 operating cash flow."
+        },
+        {
+          "type": "Insurance underwriting and risk-pricing capability",
+          "grade": "strong",
+          "summary": "Insurance remains central enough that Berkshire's SEC industry classification is Fire, Marine & Casualty Insurance, and its operations include GEICO, reinsurance, primary insurance, auto liability, workers' compensation, property, and life and health lines. Ajit Jain's 39 years managing Berkshire reinsurance operations and pricing large, complex risks supports a company-specific capability in risk selection."
+        },
+        {
+          "type": "Diversified operating subsidiary base",
+          "grade": "strong",
+          "summary": "Berkshire is not dependent on a single product line or customer category in the packet. Its 2025 Form 10-K identifies operating groups across Berkshire Hathaway Insurance Group, BNSF, Berkshire Hathaway Energy, Manufacturing Businesses, Service and Retailing Businesses, and McLane, supporting FY2025 revenue of $254.906 billion."
+        },
+        {
+          "type": "Decentralized operating model",
+          "grade": "middle",
+          "summary": "Berkshire's Board describes the company as unusually decentralized, with minimal parent involvement in day-to-day activities and workforce decisions placed within each business's discretion. That model is specific to a holding company with large subsidiaries such as BNSF, Berkshire Hathaway Energy, McLane, insurance operations, manufacturing, service, and retailing businesses."
+        }
+      ]
+    }
+  },
+  "GOOG": {
+    "symbol": "GOOG",
+    "companyName": "Alphabet (Google)",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Alphabet's leadership is anchored by Sundar Pichai, who is both CEO, director, and the Chief Operating Decision Maker for segment resource allocation. The operating record in the packet shows a large, profitable core in Google Services and a rapidly improving Google Cloud segment, while Other Bets remains a meaningful drag on operating income.",
+          "points": [
+            "Sundar Pichai is identified as Chief Operating Decision Maker and uses segment operating income or loss in the annual planning process to allocate resources and assess performance.",
+            "The 2025 Form 10-K was signed by CEO Sundar Pichai, CFO Anat Ashkenazi, and Principal Accounting Officer Amie Thuener O'Toole, identifying clear executive accountability for reporting.",
+            "Google Services produced $139.404 billion of 2025 operating income, while Google Cloud operating income rose to $13.910 billion from $1.716 billion in 2023."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "middle",
+          "summary": "Alphabet's capital allocation is heavily shaped by the cash-generating Google Services business and large reinvestment in AI, cloud, and other long-duration initiatives. The company generated $101.746 billion of operating cash flow in FY2025, but Other Bets lost $7.515 billion and Alphabet-level activities reduced operating income by $16.760 billion.",
+          "points": [
+            "Management evaluates segments using operating income or loss against the annual plan, which ties resource allocation to the reported economics of Google Services, Google Cloud, and Other Bets.",
+            "Alphabet spent $45.427 billion on research and development in FY2025, and Alphabet-level costs included certain AI-focused shared research and development activities.",
+            "Google Cloud revenue increased to $58.705 billion in 2025 from $33.088 billion in 2023, while its operating income increased to $13.910 billion over the same period.",
+            "Other Bets generated only $1.537 billion of 2025 revenue and reported a $7.515 billion operating loss, making it the clearest capital allocation risk in the packet."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "middle",
+          "summary": "The packet shows several shareholder-alignment safeguards, including independent board leadership, fully independent key committees, and a clawback provision in the 2021 Stock Plan. The main offset is the 2026 proposal to add 200,000,000 Class C shares to the equity plan reserve, which shareholders should evaluate for dilution and incentive discipline.",
+          "points": [
+            "Alphabet's 2026 proxy states that the Board has an independent Chair separate from the CEO role, reducing reliance on a combined chair-and-CEO governance structure.",
+            "The Audit Committee, Risk and Compliance Committee, Leadership Development, Inclusion and Compensation Committee, and Nominating and Corporate Governance Committee are each 100% independent.",
+            "The 2021 Stock Plan includes a recoupment or clawback provision allowing Alphabet to recover compensation to the extent permitted or required by law, policy, or exchange rules.",
+            "The annual meeting agenda includes a board-recommended amendment to increase the Class C share reserve under the 2021 Stock Plan by 200,000,000 shares."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Alphabet gives investors segment-level reporting for Google Services, Google Cloud, and Other Bets, including multi-year revenue and operating income or loss. The packet also includes disclosure of operating cash flow, R&D expense, balance sheet items, long-lived assets by geography, and how the CEO uses segment operating income in resource allocation.",
+          "points": [
+            "The 2025 10-K reports Google Services, Google Cloud, and Other Bets separately, with 2023, 2024, and 2025 revenue and operating income or loss for each segment.",
+            "Alphabet discloses the business contents of each segment, including ads, Android, Chrome, Maps, Play, Search, YouTube, Cloud Platform, Workspace, and Other Bets services.",
+            "The filing explains that Sundar Pichai monitors actual segment results versus the annual plan and uses segment operating income or loss for annual resource allocation.",
+            "The packet includes SEC company facts for FY2025 operating cash flow, research and development expense, stockholders' equity, long-term debt, and cash and equivalents."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "strong",
+          "summary": "Alphabet's governance structure includes 10 director nominees, 70% independence, an independent Chair, and fully independent key committees. The Board also added a Risk and Compliance Committee in October 2025, which is relevant given disclosed regulatory and operational risks, including tax examinations, foreign tax assessments, fines, and settlements.",
+          "points": [
+            "The 2026 proxy lists 10 director nominees: Larry Page, Sergey Brin, Sundar Pichai, John L. Hennessy, Frances H. Arnold, Marty Chávez, John Doerr, Roger Ferguson Jr., K. Ram Shriram, and Robin Washington.",
+            "Alphabet states that 70% of director nominees are independent, and the Board has an independent Chair separate from CEO Sundar Pichai.",
+            "The Board established a Risk and Compliance Committee in October 2025 to focus on evolving regulatory and operational risks.",
+            "Alphabet disclosed $11.512 billion of gross unrecognized tax benefits, IRS examination of 2019 through 2021 returns, and foreign tax assessments involving transfer pricing or permanent establishment."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Scale economics across services, cloud, and R&D",
+          "grade": "strong",
+          "summary": "Alphabet's scale is visible in $402.836 billion of 2025 revenue, $129.039 billion of operating income, and $101.746 billion of operating cash flow. That scale supports $45.427 billion of FY2025 R&D expense and Alphabet-level AI-focused shared research activities, creating reinvestment capacity that smaller competitors would find difficult to match from internal cash flow."
+        },
+        {
+          "type": "Google Services ecosystem breadth",
+          "grade": "strong",
+          "summary": "Google Services combines ads, Android, Chrome, devices, Google Maps, Google Play, Search, and YouTube in one reporting segment. The segment produced $342.721 billion of 2025 revenue and $139.404 billion of operating income, funded by advertising, YouTube subscriptions, NFL Sunday Ticket, Google One, app sales, in-app purchases, and devices."
+        },
+        {
+          "type": "Enterprise cloud platform expansion",
+          "grade": "middle",
+          "summary": "Google Cloud includes infrastructure and platform services, applications, Google Cloud Platform, Google Workspace, and other enterprise services sold through consumption-based fees and subscriptions. Revenue rose to $58.705 billion in 2025 from $33.088 billion in 2023, while operating income improved to $13.910 billion from $1.716 billion."
+        },
+        {
+          "type": "Asset base supporting global technical infrastructure",
+          "grade": "middle",
+          "summary": "Alphabet reported $261.818 billion of long-lived assets as of December 31, 2025, including $195.337 billion in the United States and $66.481 billion internationally. The size of this asset base supports businesses such as Google Services and Google Cloud, both of which depend on large-scale technical infrastructure to deliver advertising, consumer, and enterprise services."
+        }
+      ]
+    }
+  },
+  "META": {
+    "symbol": "META",
+    "companyName": "Meta Platforms (Facebook)",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "middle",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Meta is led by founder Mark Zuckerberg as Chairman and Chief Executive Officer, with Susan Li as Chief Financial Officer and Aaron Anderson as Chief Accounting Officer signing the 2025 Form 10-K. The leadership team is managing a very large ads-funded business while also funding Reality Labs and AI infrastructure initiatives that materially affect cost structure and strategic risk.",
+          "points": [
+            "Mark Zuckerberg remains central to both management and board leadership, signing the 2025 Form 10-K as Chairman and Chief Executive Officer.",
+            "Susan Li signed the 2025 Form 10-K as Chief Financial Officer, giving investors a named finance leader tied to Meta's $200.966 billion of 2025 revenue.",
+            "Management's stated 2025 priorities included building products, making the business successful, addressing societal issues related to the business, and telling Meta's story.",
+            "The company is balancing its profitable Family of Apps segment with Reality Labs, which generated $2.207 billion of revenue and a $19.193 billion operating loss in 2025."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "middle",
+          "summary": "Meta generates substantial cash and profit from Family of Apps, giving management significant capacity to fund R&D, infrastructure, and Reality Labs. The allocation question is meaningful because 2025 R&D expense was $38.483 billion and Reality Labs consumed large operating losses while the core Family of Apps business produced most revenue and profit.",
+          "points": [
+            "Meta reported FY2025 operating cash flow of $71.113 billion, cash and equivalents of $41.862 billion, and long-term debt of $28.826 billion.",
+            "Family of Apps generated $198.759 billion of 2025 revenue and $102.469 billion of operating income, making it the clear economic engine funding other initiatives.",
+            "Reality Labs generated only $2.207 billion of 2025 revenue while losing $19.193 billion from operations, a major capital allocation burden for shareholders to monitor.",
+            "Meta reported $38.483 billion of FY2025 research and development expense, reflecting heavy reinvestment into technology, product development, and long-term initiatives.",
+            "The company reported long-lived assets of $196.804 billion at December 31, 2025, with $173.390 billion located in the United States."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "middle",
+          "summary": "Executive compensation has several shareholder-aligned features, including equity-heavy pay, service-based vesting, and annual incentives tied to company priorities and results. Alignment is limited by Meta's voting structure, because Class B shares carry ten votes per share and vote together with Class A shares on matters described in the proxy.",
+          "points": [
+            "Meta says executive compensation is heavily weighted toward restricted stock units, which ties a significant portion of executive pay to the company's equity value.",
+            "Annual cash incentives are tied to company priorities and results, while equity awards include service-based vesting conditions for executives.",
+            "Mark Zuckerberg receives a $1 annual base salary, participates in neither the annual bonus plan nor additional equity awards, and receives an overall security program.",
+            "At the April 1, 2026 record date, Meta had 342,377,716 Class B shares outstanding, each carrying ten votes versus one vote for each Class A share."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Meta gives investors useful segment-level reporting, separating Family of Apps from Reality Labs and disclosing revenue, operating income, and cost allocation between those segments. It also reports Family daily active people, while explicitly explaining that the metric relies on complex estimation techniques and has an approximate 3% worldwide daily active people error margin.",
+          "points": [
+            "Meta reports Family of Apps and Reality Labs separately, including 2025 revenue and income from operations for each segment in the Form 10-K.",
+            "The proxy disclosed that 82% of 2025 total costs and expenses were recognized in Family of Apps and 18% in Reality Labs.",
+            "Meta reported Family daily active people of 3.58 billion on average for December 2025, covering users of at least one Family product.",
+            "The company explains that Family metrics rely on algorithms and machine learning models to attribute accounts to people, with an estimated error margin generally around 3%.",
+            "Meta's filings identify the Family products as Facebook, Instagram, Messenger, and WhatsApp, and describe Reality Labs as virtual and augmented reality hardware, software, and content."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "middle",
+          "summary": "Meta has formal independent oversight structures, including Robert M. Kimmitt as Lead Independent Director and twelve 2026 director nominees with every nominee except Mark Zuckerberg marked independent. Governance risk remains elevated because of dual-class voting control and named business risks including competition, tax uncertainty, and a large IRS deficiency notice under dispute.",
+          "points": [
+            "Robert M. Kimmitt served as Lead Independent Director, and the 2026 proxy lists twelve director nominees, with only Mark Zuckerberg not marked independent.",
+            "In 2025, Meta created an audit & privacy committee overseeing accounting, financial reporting, privacy, product compliance, and regulatory compliance.",
+            "The board also created a risk & strategy committee to oversee core strategic business risks and opportunities, including areas tied to Meta's operating model.",
+            "The board said it actively oversaw AI strategy and infrastructure initiatives, including key talent, technologies, core business AI applications, frontier models, and infrastructure scaling.",
+            "Meta disclosed $16.450 billion of gross unrecognized tax benefits at December 31, 2025, mainly tied to research tax credits and transfer pricing uncertainties.",
+            "Meta received a September 2025 IRS Statutory Notice of Deficiency asserting $15.89 billion of additional tax plus interest and penalties for 2017 through 2019, which it is challenging."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Network effects across the Family of Apps",
+          "grade": "strong",
+          "summary": "Meta's Family includes Facebook, Instagram, Messenger, and WhatsApp, and the company reported 3.58 billion Family daily active people on average for December 2025. That scale makes the services more useful for connection and communication, while giving advertisers access to an unusually large audience within one product family."
+        },
+        {
+          "type": "Advertising scale and operating leverage",
+          "grade": "strong",
+          "summary": "Meta's ads-funded model supports free consumer services and produced $200.966 billion of total revenue in 2025. The Family of Apps segment generated $198.759 billion of revenue and $102.469 billion of operating income, while Meta described overall 2025 operating margin as 41%."
+        },
+        {
+          "type": "Infrastructure and R&D capacity",
+          "grade": "middle",
+          "summary": "Meta has financial and asset scale to invest heavily in technology, with FY2025 operating cash flow of $71.113 billion, R&D expense of $38.483 billion, and long-lived assets of $196.804 billion. This supports AI, product, and infrastructure initiatives, but Reality Labs' $19.193 billion 2025 operating loss shows the same capacity can fund costly bets."
+        },
+        {
+          "type": "Multi-product consumer ecosystem",
+          "grade": "middle",
+          "summary": "The Family of Apps segment combines Facebook, Instagram, Messenger, WhatsApp, and other services under one reporting segment. In 2025, this ecosystem generated nearly all company revenue, with $198.759 billion from Family of Apps versus $2.207 billion from Reality Labs, showing how concentrated Meta's economics remain in its consumer app family."
+        }
+      ]
+    }
+  },
+  "MSFT": {
+    "symbol": "MSFT",
+    "companyName": "Microsoft",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "Microsoft is led by Satya Nadella, who signed the FY2025 Form 10-K as Chairman, Chief Executive Officer, and Principal Executive Officer. The top finance and accounting roles are also clearly identified in filings, with Amy E. Hood as Chief Financial Officer and Alice L. Jolla as Chief Accounting Officer for a business with $211.915 billion of FY2025 revenue.",
+          "points": [
+            "Satya Nadella holds both Chairman and Chief Executive Officer roles, giving him direct accountability for Microsoft's strategy and SEC-reported operating results.",
+            "Amy E. Hood signed the FY2025 Form 10-K as Executive Vice President, Chief Financial Officer, and Principal Financial Officer, tying finance leadership to reported cash flow, debt, and capital returns.",
+            "Alice L. Jolla signed as Corporate Vice President, Chief Accounting Officer, and Principal Accounting Officer, supporting accountability over financial reporting for a large multi-segment software and cloud business."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "strong",
+          "summary": "Microsoft has the financial capacity to fund growth and return capital at the same time. In FY2025 it reported $87.582 billion of operating cash flow, $27.195 billion of research and development expense, quarterly dividend references for all four quarters, and both 2021 and 2024 share repurchase program references.",
+          "points": [
+            "The company invested $27.195 billion in research and development in FY2025, which is material even against its $211.915 billion revenue base.",
+            "Microsoft's FY2025 filing references a 2024 share repurchase program dated September 16, 2024, alongside an earlier 2021 share repurchase program.",
+            "The 2025 10-K tagging references Q1, Q2, Q3, and Q4 dividends for FY2025, showing regular shareholder cash returns during the year.",
+            "At FY2025, Microsoft reported $206.223 billion of stockholders' equity, $42.688 billion of long-term debt, and $18.315 billion of cash and equivalents."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "middle",
+          "summary": "The packet supports alignment through recurring capital returns, board independence, and compensation recoupment terms, but it does not provide insider ownership or detailed executive pay metrics. Microsoft's proposed 2026 Stock Plan subjects awards to the company's Executive Compensation Recovery Policy, other adopted recoupment policies, and applicable law where covered.",
+          "points": [
+            "Shareholders receive direct capital-return consideration through FY2025 quarterly dividend references and active share repurchase program references in Microsoft's 2025 10-K tagging.",
+            "The proposed 2026 Stock Plan includes recoupment language for covered awards, which can reduce the risk that executives retain compensation tied to results later requiring recovery.",
+            "The 2025 proxy states that 11 of 12 Board nominees are independent, with Sandra Peterson serving as Lead Independent Director alongside CEO-chair Satya Nadella."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Microsoft provides investor reporting through SEC filings with segment and product-category tagging, not just consolidated financial statements. The FY2025 10-K XBRL references Productivity and Business Processes, Intelligent Cloud, More Personal Computing, Microsoft Cloud, and product categories such as Microsoft 365, Dynamics, LinkedIn, Server Products, Windows and Devices, Gaming, and Search and News Advertising.",
+          "points": [
+            "The FY2025 10-K XBRL tagging identifies three reporting segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing.",
+            "The company's product and service category tags include Microsoft 365 Commercial, Microsoft 365 Consumer, Dynamics, LinkedIn, Server Products and Cloud Services, Windows and Devices, Gaming, and Search and News Advertising.",
+            "Microsoft's filing includes a Microsoft Cloud member for FY2025, giving investors a specific tagged lens for cloud-related reporting.",
+            "Microsoft disclosed that no officers or directors adopted, modified, or terminated Rule 10b5-1 or non-Rule 10b5-1 trading arrangements during the three months ended June 30, 2025."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "strong",
+          "summary": "Microsoft's governance structure includes a mostly independent board, a named Lead Independent Director, standing committees, and audited internal control reporting. Key investor watch items remain the combined Chairman/CEO role, Deloitte's long auditor tenure since 1983, and the unresolved IRS transfer-pricing matters that the 2025 10-K says could materially affect financial statements.",
+          "points": [
+            "The 2025 proxy lists 12 director nominees and states that 11 are independent, with Sandra E. Peterson named as Lead Independent Director.",
+            "Standing board committees include Audit, Compensation, Environmental, Social, and Public Policy, and Governance and Nominating, creating defined oversight channels.",
+            "Management concluded internal control over financial reporting was effective as of June 30, 2025, and Deloitte & Touche LLP issued the same opinion.",
+            "The 2025 10-K states that remaining IRS intercompany transfer-pricing matters could have a material impact on Microsoft's financial statements."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "Product ecosystem breadth",
+          "grade": "strong",
+          "summary": "Microsoft's moat is supported by a broad software and cloud portfolio spanning Microsoft 365 Commercial and Consumer, Dynamics, LinkedIn, Server Products and Cloud Services, Windows and Devices, Gaming, and Search and News Advertising. These categories sit across three reporting segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+        },
+        {
+          "type": "Financial scale",
+          "grade": "strong",
+          "summary": "Microsoft's FY2025 scale gives it unusual capacity to fund product development, infrastructure, and shareholder returns. The company reported $211.915 billion of revenue, $72.361 billion of net income, $87.582 billion of operating cash flow, and $27.195 billion of research and development expense."
+        },
+        {
+          "type": "Cloud and enterprise software position",
+          "grade": "strong",
+          "summary": "The FY2025 filing tags Microsoft Cloud, Intelligent Cloud, Server Products and Cloud Services, Microsoft 365 Commercial Products and Cloud Services, and Dynamics Products and Cloud Services. That reporting footprint shows Microsoft is not dependent on a single software line; it competes across productivity, cloud infrastructure, business applications, and server-related services."
+        },
+        {
+          "type": "Capital-return capacity",
+          "grade": "middle",
+          "summary": "Microsoft's cash generation supports both reinvestment and shareholder distributions. FY2025 tagging references quarterly dividends for Q1 through Q4 and both the 2021 and 2024 share repurchase programs, while reported operating cash flow was $87.582 billion."
+        }
+      ]
+    }
+  },
+  "MU": {
+    "symbol": "MU",
+    "companyName": "Micron Technology",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "middle",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "middle",
+          "summary": "Micron is led by Sanjay Mehrotra as Chairman, President and Chief Executive Officer, with Mark Murphy as Executive Vice President and Chief Financial Officer and Scott Allen as Chief Accounting Officer. The team is managing a large semiconductor manufacturer with $37.378 billion of 2025 revenue, DRAM and NAND product categories, and a global manufacturing asset base.",
+          "points": [
+            "Sanjay Mehrotra holds the combined Chairman, President and CEO roles, while Lynn A. Dugle serves as Lead Independent Director to add independent board leadership.",
+            "Mark Murphy is identified as Executive Vice President and CFO, and Scott Allen is identified as Corporate Vice President and Chief Accounting Officer in the 2025 Form 10-K signatures.",
+            "Scott DeBoer, Executive Vice President and Chief Technology and Products Officer, adopted a Rule 10b5-1 plan for up to 82,000 shares during the last fiscal quarter of 2025."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "middle",
+          "summary": "Micron's capital allocation is centered on semiconductor manufacturing capacity, product development, and balance-sheet funding rather than disclosed shareholder returns in the packet. The company had $47.326 billion of long-lived assets, $3.114 billion of FY2025 R&D expense, $7.041 billion of cash and equivalents, and $11.533 billion of long-term debt.",
+          "points": [
+            "Micron's long-lived assets totaled $47.326 billion, led by Taiwan at $18.965 billion, Singapore at $10.669 billion, the U.S. at $8.445 billion, and Japan at $7.038 billion.",
+            "The company reported FY2025 research and development expense of $3.114 billion, supporting DRAM, NAND, and other product sales categories across its memory business.",
+            "Micron entered U.S. CHIPS Act direct funding agreements for up to $6.4 billion tied to manufacturing expansion and modernization in Idaho, New York, and Virginia.",
+            "FY2025 operating cash flow was $1.559 billion, while stockholders' equity was $49.907 billion, long-term debt was $11.533 billion, and cash and equivalents were $7.041 billion."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "middle",
+          "summary": "Shareholder alignment has some useful protections, including annual director elections, majority voting, and proxy access for qualifying long-term holders. The packet does not provide executive ownership levels or compensation-performance metrics, and it notes executive Rule 10b5-1 trading arrangements, so alignment should be viewed as adequate rather than clearly exceptional.",
+          "points": [
+            "The 2025 proxy says all eight directors are elected annually by a simple majority of votes cast, giving shareholders a regular vote on the full board.",
+            "Micron's bylaws allow proxy access for up to 20 shareholders owning at least 3% of voting power continuously for at least three years.",
+            "At the January 15, 2026 annual meeting, shareholders were asked for non-binding approval of named executive officer compensation, but the packet does not state the pay structure.",
+            "Mark Murphy modified a Rule 10b5-1 trading arrangement for sale of up to 126,000 shares during Micron's last fiscal quarter of 2025."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Micron provides detailed SEC reporting on products, segments, geography, customer concentration, asset footprint, funding arrangements, and supplier risks. The 2025 Form 10-K separates DRAM, NAND, and other product sales, lists operating segment tags, and discloses a 17% customer concentration primarily included in CMBU.",
+          "points": [
+            "The 2025 Form 10-K identifies product sales categories as DRAM products, NAND products, and other product sales, which helps investors track the company's core memory exposure.",
+            "Micron discloses operating segment tags including CMBU, CDBU, MCBU, AEBU, All Other Segments, and Corporate Non-Segment in its 2025 Form 10-K.",
+            "The company reports geographic revenue by customer headquarters, including $24.113 billion from the U.S., $5.672 billion from Taiwan, and $2.639 billion from Mainland China excluding Hong Kong.",
+            "Micron disclosed that one customer accounted for 17% of 2025 revenue and was primarily included in CMBU, compared with 10% for one customer in 2024."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "middle",
+          "summary": "Micron has a mostly independent board, a lead independent director, annual elections, majority voting, and proxy access rights. Governance is not risk-free: Sanjay Mehrotra combines Chairman, President and CEO roles, the company sought officer exculpation under Delaware law, and CHIPS Act funding includes covenants, default provisions, and clawback rights.",
+          "points": [
+            "The 2025 proxy states that seven of eight director nominees are independent, with Lynn A. Dugle identified as Lead Independent Director.",
+            "Sanjay Mehrotra serves as Chairman, President and CEO, so board independence relies partly on the lead independent director and independent director majority.",
+            "Shareholders were asked to ratify PricewaterhouseCoopers as fiscal 2026 auditor; PwC has served as Micron's auditor since 1984 and opined on effective internal control for 2025.",
+            "The annual meeting agenda included an amendment to add officer exculpation under Delaware law and a shareholder proposal seeking a 10% special-meeting ownership threshold.",
+            "Micron's CHIPS Act agreements include milestones, covenants, events of default, and clawback rights tied to project completion, foreign-country restrictions, and impermissible project use or disposition."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "middle",
+      "types": [
+        {
+          "type": "Capital-intensive memory manufacturing footprint",
+          "grade": "middle",
+          "summary": "Micron's moat is supported by the scale and cost of its manufacturing base, with $47.326 billion of long-lived assets across Taiwan, Singapore, the U.S., Japan, and other locations. That asset intensity can deter smaller entrants, but the packet also notes reliance on limited or single suppliers for certain materials and production equipment."
+        },
+        {
+          "type": "DRAM and NAND technology investment",
+          "grade": "middle",
+          "summary": "Micron competes through focused memory product categories: DRAM products, NAND products, and other product sales. FY2025 research and development expense was $3.114 billion, showing material reinvestment in technology and products, but the packet does not provide market share, pricing power, or sustained margin evidence."
+        },
+        {
+          "type": "Government-supported U.S. manufacturing expansion",
+          "grade": "middle",
+          "summary": "Micron has direct funding agreements with the U.S. Department of Commerce for up to $6.4 billion under the CHIPS Act for projects in Idaho, New York, and Virginia. The support helps fund domestic manufacturing expansion and modernization, but it is milestone-based and subject to covenants, default provisions, and clawback rights."
+        },
+        {
+          "type": "Customer and segment reach",
+          "grade": "middle",
+          "summary": "Micron sells into multiple operating segment tags, including CMBU, CDBU, MCBU, and AEBU, and reported 2025 revenue of $37.378 billion. The breadth is useful, but customer concentration limits the moat grade because one customer represented 17% of 2025 revenue, primarily within CMBU."
+        }
+      ]
+    }
+  },
+  "NVDA": {
+    "symbol": "NVDA",
+    "companyName": "NVIDIA",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "strong",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "strong",
+          "summary": "NVIDIA is led by Jen-Hsun Huang as President, Chief Executive Officer and Director, with Colette M. Kress as Chief Financial Officer and Donald Robertson as Chief Accounting Officer. The team is managing a business that has shifted heavily toward data-center-scale AI infrastructure, with fiscal 2026 revenue of $215.9 billion and 65% year-over-year growth.",
+          "points": [
+            "Management describes NVIDIA as a data center scale AI infrastructure company, combining chips, systems, software, algorithms, libraries, AI models, training data sets, and services.",
+            "Fiscal 2026 execution centered on platform transitions to accelerated computing and AI, with Data Center compute revenue up 59% and networking revenue up 142%.",
+            "The company launched and scaled Blackwell Ultra, introduced Vera Rubin for agentic AI, and entered a non-exclusive Groq licensing agreement tied to Vera Rubin acceleration."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "strong",
+          "summary": "Capital allocation is split between heavy reinvestment in AI infrastructure and direct capital returns. NVIDIA states it has invested over $76.7 billion in R&D since inception, while the Board approved an additional $60.0 billion repurchase authorization in August 2025 and the company returned cash through both repurchases and dividends in fiscal 2026.",
+          "points": [
+            "In fiscal 2026, NVIDIA repurchased 282 million shares for $40.4 billion and paid $974 million of cash dividends to shareholders.",
+            "As of January 25, 2026, NVIDIA still had authorization to repurchase up to $58.5 billion of common stock, subject to the program's specifications.",
+            "The company expected future lease obligations of $22.7 billion for leases commencing fiscal 2027 through fiscal 2030, primarily data centers supporting research and development."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "strong",
+          "summary": "NVIDIA's compensation design ties executives to both operating performance and relative shareholder returns. Annual-performance SY PSUs are based on annual Non-GAAP Operating Income and vest over four years, while MY PSUs are based on three-year total shareholder return relative to the S&P 500 and vest after three years.",
+          "points": [
+            "Executive equity awards include annual-performance PSUs tied to Non-GAAP Operating Income, connecting compensation to a profitability measure used in the business.",
+            "Multi-year PSUs depend on NVIDIA's three-year total shareholder return relative to the S&P 500, directly linking part of pay to shareholder outcomes.",
+            "The proxy states NVIDIA maintains stock ownership guidelines for directors and named executive officers, adding an explicit equity-ownership requirement."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "NVIDIA provides detailed operating disclosure by segment, end market, geography, Data Center product category, and customer concentration. The company reports Compute & Networking and Graphics segments, separates Data Center revenue into Compute and Networking, and disclosed that two direct customers represented 22% and 14% of fiscal 2026 revenue.",
+          "points": [
+            "NVIDIA reports two segments: Compute & Networking, covering Data Center platforms, AI software, and Automotive; and Graphics, covering GeForce and Quadro/NVIDIA RTX products.",
+            "For fiscal 2026, the company disclosed end-market revenue of $193.737 billion from Data Center, $16.042 billion from Gaming, and smaller amounts from other markets.",
+            "Within Data Center, NVIDIA separately reported $162.361 billion of Compute revenue and $31.376 billion of Networking revenue for fiscal 2026.",
+            "The company disclosed geographic revenue by customer headquarters and estimated that 76% of Data Center revenue from Taiwan-headquartered customers related to U.S. and European end customers."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "strong",
+          "summary": "NVIDIA's proxy describes a governance structure with all directors independent except the CEO, an independent Lead Director, a declassified Board, majority voting for directors, proxy access, and a stockholder special meeting right. The Board also has active oversight of risk management, which matters given customer concentration, geography exposure, legal proceedings, and large infrastructure commitments.",
+          "points": [
+            "The proxy states all directors are independent except CEO Jen-Hsun Huang, and the company has an independent Lead Director.",
+            "Shareholder rights and board structure include a declassified Board, majority voting for directors, proxy access, and a stockholder special meeting right.",
+            "Board oversight is relevant because fiscal 2026 sales to two direct customers represented 22% and 14% of total revenue, primarily in Compute & Networking.",
+            "As of January 25, 2026, NVIDIA reported no accrued contingent liabilities for described legal proceedings because related liabilities were not considered probable."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "strong",
+      "types": [
+        {
+          "type": "CUDA software ecosystem",
+          "grade": "strong",
+          "summary": "NVIDIA's CUDA development platform runs on all NVIDIA GPUs, creating a common software base across its hardware portfolio. The stack also includes hundreds of domain-specific libraries, frameworks, algorithms, SDKs, and APIs for AI training and inference, data analytics, scientific computing, robotics, and 3D graphics."
+        },
+        {
+          "type": "Data-center-scale systems integration",
+          "grade": "strong",
+          "summary": "NVIDIA's Blackwell architecture uses co-design across chips, networking, systems, software, and algorithms, rather than selling only stand-alone processors. The company states that hundreds of thousands of GPUs can be interconnected to function as a single giant computer, supported by NVLink compute fabric, Ethernet, and InfiniBand growth."
+        },
+        {
+          "type": "R&D depth and product cadence",
+          "grade": "strong",
+          "summary": "NVIDIA states it has invested over $76.7 billion in research and development since inception, supporting a broad platform rather than a single product line. In fiscal 2026, the company launched and scaled Blackwell Ultra, introduced Vera Rubin for agentic AI, and linked Groq licensing to the Vera Rubin accelerator roadmap."
+        },
+        {
+          "type": "AI infrastructure scale",
+          "grade": "strong",
+          "summary": "NVIDIA's fiscal 2026 Data Center revenue was $193.737 billion, including $162.361 billion from Compute and $31.376 billion from Networking. Compute & Networking generated $193.479 billion of revenue and $130.141 billion of segment operating income, showing that the AI infrastructure platform is the core economic engine of the company."
+        },
+        {
+          "type": "Partner ecosystem",
+          "grade": "middle",
+          "summary": "NVIDIA's fiscal 2026 highlights included new and expanding partnerships with Anthropic, Meta, Nokia, and OpenAI. The company described these relationships as intended to cultivate ecosystem growth, unlock new markets, and accelerate adoption of NVIDIA platforms, but the packet does not quantify revenue or exclusivity from these partnerships."
+        }
+      ]
+    }
+  },
+  "TSLA": {
+    "symbol": "TSLA",
+    "companyName": "Tesla",
+    "generatedAt": "2026-06-20",
+    "management": {
+      "grade": "middle",
+      "sections": [
+        {
+          "title": "Leadership",
+          "grade": "middle",
+          "summary": "Tesla is led by Elon Musk as Chief Executive Officer and Director, with Vaibhav Taneja serving as Chief Financial Officer, Principal Financial Officer, and Principal Accounting Officer. The company is large and profitable, reporting FY2025 revenue of $96.773 billion, net income of $14.997 billion, and operating cash flow of $13.256 billion, but leadership also carries visible Autopilot, FSD, Robotaxi, and related-party scrutiny.",
+          "points": [
+            "Elon Musk signed the 2025 Form 10-K as Chief Executive Officer and Director, while Vaibhav Taneja signed as CFO, Principal Financial Officer, and Principal Accounting Officer.",
+            "Tesla's CEO is also the chief operating decision maker and manages the company through two reportable segments: automotive and energy generation and storage.",
+            "Management initiated 2025 cost-reduction actions through convergence of AI chip design efforts, recording $390 million of automotive-segment expenses tied to supercomputer asset charges, contract terminations, and employee terminations.",
+            "Leadership faces disclosed litigation and investigation risk tied to Autopilot, Full-Self Driving (Supervised), Robotaxi, vehicle incidents, data privacy, finance, personnel, and related parties."
+          ]
+        },
+        {
+          "title": "Capital Allocation",
+          "grade": "middle",
+          "summary": "Tesla has substantial financial capacity, with FY2025 cash and equivalents of $16.398 billion, stockholders' equity of $72.913 billion, long-term debt of $5.535 billion, and R&D expense of $3.969 billion. Capital allocation is not limited to the core automotive business; Tesla also uses VIE financing structures and agreed in January 2026 to invest approximately $2 billion in xAI preferred stock.",
+          "points": [
+            "FY2025 operating cash flow of $13.256 billion and cash and equivalents of $16.398 billion give Tesla internal funding capacity for vehicle, energy, AI, and manufacturing investments.",
+            "Tesla reported $3.969 billion of FY2025 research and development expense, supporting continued product and technology work across automotive, energy storage, and AI-related efforts.",
+            "Tesla uses variable interest entity arrangements with fund investors to fund and monetize energy generation systems and vehicles, consolidating the VIEs as primary beneficiary.",
+            "In January 2026, Tesla agreed to invest approximately $2 billion in xAI Series E Preferred Stock, reviewed under board fiduciary duties and related-party transaction policy."
+          ]
+        },
+        {
+          "title": "Shareholder Alignment",
+          "grade": "middle",
+          "summary": "Tesla's proposed 2025 CEO Performance Award ties Elon Musk's compensation to ambitious operational and market-capitalization milestones, including 1 million Robotaxis in commercial operation, delivery of 1 million AI Bots, and nearly $7.5 trillion of shareholder value creation for the full award. The same package also concentrates investor attention on retention, dilution, and execution risk around future businesses not yet reflected in current segment reporting.",
+          "points": [
+            "The proposed 2025 CEO Performance Award includes market capitalization growth targets requiring nearly $7.5 trillion of shareholder value creation for Elon Musk to receive the full award.",
+            "Operational milestones in the proposed CEO award include 1 million Robotaxis in commercial operation and delivery of 1 million AI Bots, linking pay to future AI and autonomy goals.",
+            "The proposed award includes retention requirements of at least seven and a half years and up to 10 years to vest in full.",
+            "Tesla's 2025 annual meeting agenda asked shareholders to approve the A&R 2019 Equity Incentive Plan and the 2025 CEO Performance Award, directly putting equity compensation to a vote."
+          ]
+        },
+        {
+          "title": "Communication",
+          "grade": "strong",
+          "summary": "Tesla gives investors concrete segment, geography, balance sheet, and operating-risk disclosure in SEC filings. The 2025 10-K reports automotive and energy generation and storage revenue, cost of revenue, and gross profit; revenue by sales location; long-lived assets by geography; inventory by segment; VIE balances; related-party activity; and named litigation and regulatory matters.",
+          "points": [
+            "Tesla discloses two operating and reportable segments, with FY2025 automotive revenue of $82.056 billion and energy generation and storage revenue of $12.771 billion.",
+            "The 2025 10-K reports segment cost of revenue and gross profit, including $13.292 billion of automotive gross profit and $3.802 billion of energy gross profit.",
+            "Tesla reports FY2025 revenue by sales location, including $47.627 billion in the United States, $20.962 billion in China, and $26.238 billion in other international markets.",
+            "Tesla discloses inventory by segment, including $9.678 billion of automotive inventory and $2.714 billion of energy generation and storage inventory as of December 31, 2025.",
+            "Management concluded disclosure controls and internal control over financial reporting were effective as of December 31, 2025, and PricewaterhouseCoopers LLP audited internal control effectiveness."
+          ]
+        },
+        {
+          "title": "Governance",
+          "grade": "middle",
+          "summary": "Tesla has a named board and disclosed review processes for related-party matters, but governance also includes investor-friction provisions and high-profile related-party exposure. The 2025 proxy lists directors including Robyn Denholm, Ira Ehrenpreis, Joseph Gebbia, Jack Hartung, James Murdoch, Kimbal Musk, JB Straubel, and Kathleen Wilson-Thompson, while also describing supermajority bylaw provisions and derivative-action ownership thresholds.",
+          "points": [
+            "Tesla's 2025 Form 10-K lists Elon Musk as CEO and director, alongside directors Robyn Denholm, Ira Ehrenpreis, Joseph Gebbia, Jack Hartung, James Murdoch, Kimbal Musk, JB Straubel, and Kathleen Wilson-Thompson.",
+            "The January 2026 xAI investment was reviewed under the Board's fiduciary duties and related-party transactions policy and was described as made on market terms consistent with other investors.",
+            "Tesla recognized $430 million of FY2025 revenue and $285 million of cost of revenue from xAI's purchase of Megapack products in the ordinary course of business.",
+            "The proxy described bylaws requiring at least 66 2/3% of total outstanding voting power for shareholders to alter certain bylaw provisions.",
+            "The proxy also described a 3% beneficial-ownership threshold for a shareholder or group to institute or maintain derivative proceedings against a director or officer in an official capacity.",
+            "Tesla disclosed a proposed securities class action involving Autopilot, Full-Self Driving (Supervised), and Robotaxi statements, plus regular information requests from NHTSA, NTSB, SEC, DOJ, and other agencies."
+          ]
+        }
+      ]
+    },
+    "moat": {
+      "grade": "middle",
+      "types": [
+        {
+          "type": "Scale and reinvestment capacity",
+          "grade": "middle",
+          "summary": "Tesla operates at a scale few vehicle and energy manufacturers reach in the provided record, with FY2025 revenue of $96.773 billion, operating cash flow of $13.256 billion, and cash and equivalents of $16.398 billion. That scale supports $3.969 billion of R&D spending, but the packet does not show market share, customer retention, or pricing power strong enough to grade this as a strong moat."
+        },
+        {
+          "type": "Integrated automotive ecosystem",
+          "grade": "middle",
+          "summary": "Tesla's automotive segment is broader than new-vehicle sales: it includes EV design, development, manufacturing, sales and leasing, regulatory credits, used vehicle sales, non-warranty maintenance and collision services, paid Supercharging sessions, insurance revenue, parts, and merchandise. In FY2025 this segment produced $82.056 billion of revenue and $13.292 billion of gross profit, giving Tesla multiple vehicle-related revenue streams tied to its installed vehicle base."
+        },
+        {
+          "type": "Energy generation and storage platform",
+          "grade": "middle",
+          "summary": "Tesla's energy generation and storage segment designs, manufactures, installs, sells, and leases energy generation and storage products and related services, including sales of energy generation incentives. The segment generated FY2025 revenue of $12.771 billion and gross profit of $3.802 billion, and Tesla also recognized $430 million of FY2025 revenue from xAI's purchase of Megapack products."
+        },
+        {
+          "type": "Geographic manufacturing and revenue footprint",
+          "grade": "middle",
+          "summary": "Tesla has a broad operating footprint, with FY2025 revenue by sales location of $47.627 billion in the United States, $20.962 billion in China, and $26.238 billion in other international markets. Its long-lived assets were also spread across $35.847 billion in the United States, $4.775 billion in Germany, and $4.625 billion in other international locations, supporting regional production and sales reach."
+        }
+      ]
+    }
   }
 }

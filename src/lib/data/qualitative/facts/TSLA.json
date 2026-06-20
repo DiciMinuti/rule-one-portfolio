@@ -1,0 +1,142 @@
+{
+  "symbol": "TSLA",
+  "companyName": "Tesla",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Tesla, Inc. trades on Nasdaq under ticker TSLA and is classified in SEC metadata under SIC description \"Motor Vehicles & Passenger Car Bodies.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001318605.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Tesla reported FY2025 revenue of $96.773 billion, net income of $14.997 billion, and operating cash flow of $13.256 billion in the SEC company facts summary filed January 29, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "For FY2025, Tesla reported cash and equivalents of $16.398 billion, stockholders' equity of $72.913 billion, and long-term debt of $5.535 billion in the SEC company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Tesla reported FY2025 research and development expense of $3.969 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001318605.json)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Tesla's CEO, as chief operating decision maker, manages Tesla through two operating and reportable segments: automotive and energy generation and storage.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Automotive business model",
+      "statement": "Tesla's automotive segment includes the design, development, manufacturing, sales and leasing of electric vehicles, sales of automotive regulatory credits, and services and other activities such as used vehicle sales, non-warranty maintenance and collision services, paid Supercharging sessions, automotive insurance revenue, parts sales, and retail merchandise sales.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Energy business model",
+      "statement": "Tesla's energy generation and storage segment includes the design, manufacture, installation, sales and leasing of energy generation and storage products and related services, plus sales of energy generation incentives.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Segment revenue and gross profit",
+      "statement": "In FY2025, Tesla's automotive segment generated $82.056 billion of revenue, $68.764 billion of cost of revenue, and $13.292 billion of gross profit.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Segment revenue and gross profit",
+      "statement": "In FY2025, Tesla's energy generation and storage segment generated $12.771 billion of revenue, $8.969 billion of cost of revenue, and $3.802 billion of gross profit.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Geographic revenue",
+      "statement": "Tesla's FY2025 revenues by sales location were $47.627 billion in the United States, $20.962 billion in China, and $26.238 billion in other international markets.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Long-lived assets",
+      "statement": "As of December 31, 2025, Tesla's long-lived assets by geography were $35.847 billion in the United States, $4.775 billion in Germany, and $4.625 billion in other international locations.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Inventory by segment",
+      "statement": "As of December 31, 2025, Tesla reported $9.678 billion of automotive inventory and $2.714 billion of energy generation and storage inventory.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Cost reduction actions",
+      "statement": "In 2025, Tesla initiated actions to reduce costs and improve efficiency through convergence of AI chip design efforts and recognized $390 million of expenses within the automotive segment related to supercomputer asset charges, contract terminations, and employee terminations.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Financing structures",
+      "statement": "Tesla uses variable interest entity arrangements with fund investors to fund and monetize energy generation systems and vehicles; Tesla determined it is the primary beneficiary of these VIEs and consolidates their financial position, results of operations, and cash flows.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "VIE assets and liabilities",
+      "statement": "As of December 31, 2025, Tesla's consolidated VIEs had aggregate carrying values of $3.134 billion of assets and $3.158 billion of liabilities after eliminating intercompany transactions and balances.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Related-party commercial activity",
+      "statement": "During FY2025, Tesla recognized $430 million of revenues and $285 million of cost of revenues from xAI for xAI's purchase of Tesla Megapack products in the ordinary course of business; other transactions with xAI and other related parties in FY2025 were immaterial.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Capital allocation and related party investment",
+      "statement": "In January 2026, Tesla entered into an agreement to invest approximately $2 billion to acquire Series E Preferred Stock of xAI; the 10-K states the investment was reviewed under the Board's fiduciary duties and related party transactions policy and was made on market terms consistent with other investors in the financing.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Tesla's 2025 Form 10-K was signed by Elon Musk as Chief Executive Officer and Director and by Vaibhav Taneja as Chief Financial Officer, Principal Financial Officer, and Principal Accounting Officer.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "Tesla's 2025 Form 10-K signature page lists directors Robyn Denholm, Ira Ehrenpreis, Joseph Gebbia, Jack Hartung, James Murdoch, Kimbal Musk, JB Straubel, and Kathleen Wilson-Thompson in addition to CEO and director Elon Musk.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Controls and audit",
+      "statement": "Tesla management, with participation of the CEO and CFO, concluded that disclosure controls and procedures were effective as of December 31, 2025, and management concluded internal control over financial reporting was effective as of that date; PricewaterhouseCoopers LLP audited the effectiveness of internal control over financial reporting.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "Tesla's 2025 proxy stated that the proposed 2025 CEO Performance Award for Elon Musk included operational milestones such as 1 million Robotaxis in commercial operation and delivery of 1 million AI Bots, alongside market capitalization growth targets requiring nearly $7.5 trillion of shareholder value creation for the full award.",
+      "source": "DEF 14A filed 2025-09-17 (https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm)"
+    },
+    {
+      "topic": "Executive retention incentives",
+      "statement": "Tesla's 2025 proxy described the proposed 2025 CEO Performance Award as having retention requirements of at least seven and a half years and up to 10 years to vest in the full award, plus incentives for Elon Musk to participate in the Board's continued development of a long-term CEO succession framework.",
+      "source": "DEF 14A filed 2025-09-17 (https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm)"
+    },
+    {
+      "topic": "Governance and shareholder voting",
+      "statement": "Tesla's 2025 annual meeting agenda included proposals to approve the A&R 2019 Equity Incentive Plan, approve the 2025 CEO Performance Award, ratify PricewaterhouseCoopers LLP as auditor for FY2025, and adopt amendments to eliminate applicable supermajority voting requirements; the Board made no recommendation on the supermajority-voting proposal.",
+      "source": "DEF 14A filed 2025-09-17 (https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm)"
+    },
+    {
+      "topic": "Governance provisions",
+      "statement": "Tesla's proxy materials described bylaws requiring at least 66 2/3% of total outstanding voting power for shareholders to alter certain bylaw provisions, and a bylaw ownership threshold requiring a shareholder or group to beneficially own at least 3% of outstanding shares to institute or maintain a derivative proceeding against a director or officer in an official capacity.",
+      "source": "DEF 14A filed 2025-09-17 (https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm)"
+    },
+    {
+      "topic": "Autopilot and FSD litigation risk",
+      "statement": "Tesla disclosed an August 4, 2025 proposed class action in the U.S. District Court for the Western District of Texas against Tesla, Elon Musk, and certain current and former executives alleging federal securities law violations through alleged material misrepresentations in public filings regarding Autopilot, Full-Self Driving (Supervised), and Robotaxi; Tesla said it intends to vigorously defend itself and cannot predict the outcome or impact.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Product liability risk",
+      "statement": "In Benavides v. Tesla, Inc., an August 1, 2025 jury verdict in the U.S. District Court for the Southern District of Florida awarded $129 million of total compensatory damages, assigning 67% fault to the driver and 33% to Tesla, and $200 million of punitive damages in a product liability trial involving allegations regarding use of Autopilot technology in a 2019 accident; Tesla filed post-trial motions and recorded an immaterial accrual.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    },
+    {
+      "topic": "Regulatory and investigation risk",
+      "statement": "Tesla disclosed that it regularly receives information requests, including subpoenas, from regulators and governmental authorities such as NHTSA, NTSB, the SEC, DOJ, and other agencies on topics including operations, vehicle functionality, vehicle incidents, Autopilot, FSD Capability, Robotaxi, compliance, finance, data privacy, personnel, and related parties; Tesla stated no government agency in any ongoing investigation has concluded that wrongdoing occurred, but an enforcement action could materially adversely affect the business, results, prospects, cash flows, financial position, or brand.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm)"
+    }
+  ]
+}

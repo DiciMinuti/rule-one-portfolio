@@ -1,0 +1,127 @@
+{
+  "symbol": "NVDA",
+  "companyName": "NVIDIA",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business model and platform strategy",
+      "statement": "NVIDIA describes itself as a data center scale AI infrastructure company with a platform strategy that combines hardware, systems, software, algorithms, libraries, AI models, training data sets, and services to create value across its served markets.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Software ecosystem",
+      "statement": "NVIDIA's technology stack includes the NVIDIA CUDA development platform, which runs on all NVIDIA GPUs, plus hundreds of domain-specific software libraries, frameworks, algorithms, SDKs, and APIs for workloads including AI training and inference, data analytics, scientific computing, robotics, and 3D graphics.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Data center architecture",
+      "statement": "NVIDIA's data-center-scale offerings introduced with the Blackwell architecture use co-design across chips, networking, systems, software, and algorithms, and the company states that hundreds of thousands of GPUs can be interconnected to function as a single giant computer.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "NVIDIA states it has invested over $76.7 billion in research and development since inception, yielding inventions it describes as essential to modern computing.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Reportable segments",
+      "statement": "NVIDIA reports two segments: Compute & Networking, which includes Data Center accelerated computing and networking platforms, AI solutions and software, and Automotive platforms and autonomous and electric vehicle solutions including software; and Graphics, which includes GeForce GPUs for gaming and PCs and Quadro/NVIDIA RTX GPUs for enterprise workstation graphics.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Revenue scale and profitability",
+      "statement": "For fiscal 2026, NVIDIA reported revenue of $215.9 billion, gross margin of 71.1%, operating income of $130.4 billion, and diluted earnings per share of $4.90.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Growth drivers",
+      "statement": "NVIDIA's fiscal 2026 revenue increased 65% year over year, with the proxy attributing growth to platform transitions to accelerated computing and AI; Data Center compute revenue grew 59% driven by Blackwell demand, and Data Center networking revenue increased 142% driven by the ramp of NVLink compute fabric for Blackwell systems and growth in Ethernet and InfiniBand.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Segment revenue and operating income",
+      "statement": "In fiscal 2026, Compute & Networking generated $193.479 billion of revenue and $130.141 billion of segment operating income, while Graphics generated $22.459 billion of revenue and $9.156 billion of segment operating income.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "End-market revenue",
+      "statement": "Fiscal 2026 revenue by end market was $193.737 billion from Data Center, $16.042 billion from Gaming, $3.191 billion from Professional Visualization, $2.349 billion from Automotive, and $619 million from OEM and Other.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Data Center mix",
+      "statement": "Within fiscal 2026 Data Center revenue of $193.737 billion, NVIDIA reported $162.361 billion from Compute and $31.376 billion from Networking.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Geographic revenue",
+      "statement": "Based on customer headquarters location, fiscal 2026 revenue was $149.617 billion from the United States, $42.345 billion from Taiwan, $19.677 billion from China including Hong Kong, and $4.299 billion from other geographies; revenue from customers headquartered outside the United States was 31% of total revenue.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "In fiscal 2026, sales to one direct customer represented 22% of NVIDIA's total revenue and sales to another direct customer represented 14% of total revenue, all primarily attributable to the Compute & Networking segment.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Taiwan-headquartered customer exposure",
+      "statement": "For fiscal 2026, NVIDIA estimated that 76% of Data Center revenue from Taiwan-headquartered customers was attributable to end customers based in the United States and Europe.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Product and platform launches",
+      "statement": "In fiscal 2026, NVIDIA said it launched and scaled the Blackwell Ultra platform, introduced the Vera Rubin platform for agentic AI, and entered a non-exclusive licensing agreement with Groq tied to the NVIDIA Groq 3 LPX accelerator for Vera Rubin.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Partnerships and ecosystem",
+      "statement": "NVIDIA's fiscal 2026 business highlights included announced new and expanding partnerships with Anthropic, Meta, Nokia, and OpenAI, described as intended to cultivate ecosystem growth, unlock new markets, and accelerate NVIDIA platform adoption.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "On August 26, 2025, NVIDIA's Board approved an additional $60.0 billion share repurchase authorization without expiration; in fiscal 2026, NVIDIA repurchased 282 million shares for $40.4 billion and paid $974 million of cash dividends.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Remaining repurchase authorization",
+      "statement": "As of January 25, 2026, NVIDIA was authorized, subject to specifications, to repurchase up to $58.5 billion of common stock; from January 26, 2026 through February 20, 2026, it repurchased 8 million shares for $1.5 billion under a pre-established trading plan.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Leases and infrastructure commitments",
+      "statement": "As of January 25, 2026, NVIDIA had operating leases primarily for offices and data centers, with lease periods expiring between fiscal 2027 and fiscal 2041; it also expected to commence leases between fiscal 2027 and fiscal 2030 with future obligations of $22.7 billion, primarily data center leases to support research and development efforts.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "NVIDIA's fiscal 2026 Form 10-K was signed by Jen-Hsun Huang as President, Chief Executive Officer and Director, Colette M. Kress as Executive Vice President and Chief Financial Officer, and Donald Robertson as Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    },
+    {
+      "topic": "Board and governance",
+      "statement": "NVIDIA's proxy states that all directors are independent except the CEO, the company has an independent Lead Director, a declassified Board, majority voting for directors, proxy access, a stockholder special meeting right, active Board oversight of risk management, and stock ownership guidelines for directors and named executive officers.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "NVIDIA's proxy defines annual-performance SY PSUs as based on annual Non-GAAP Operating Income and vesting over four years, and MY PSUs as based on three-year total shareholder return relative to the S&P 500 and vesting after three years.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "As of January 25, 2026, NVIDIA had 192,391,765 securities issuable upon exercise or vesting of outstanding options, warrants, and rights under equity compensation plans approved by security holders, and 3,551,257,925 securities remaining available for future issuance under those plans.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Stockholder engagement",
+      "statement": "In fall 2025, NVIDIA contacted its top institutional stockholders representing aggregate ownership of 34% of shares to gather views on corporate governance, compensation, and corporate sustainability practices.",
+      "source": "DEF 14A filed 2026-05-12 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm)"
+    },
+    {
+      "topic": "Legal proceedings and contingencies",
+      "statement": "As of January 25, 2026, NVIDIA reported no accrued contingent liabilities associated with the legal proceedings described in the Form 10-K because it believed liabilities, while reasonably possible, were not probable, and stated that any possible loss or range of loss in those matters could not be reasonably estimated at that time.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm)"
+    }
+  ]
+}

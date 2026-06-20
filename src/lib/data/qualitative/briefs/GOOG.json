@@ -1,0 +1,89 @@
+{
+  "symbol": "GOOG",
+  "companyName": "Alphabet (Google)",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Alphabet's leadership is anchored by Sundar Pichai, who is both CEO, director, and the Chief Operating Decision Maker for segment resource allocation. The operating record in the packet shows a large, profitable core in Google Services and a rapidly improving Google Cloud segment, while Other Bets remains a meaningful drag on operating income.",
+        "points": [
+          "Sundar Pichai is identified as Chief Operating Decision Maker and uses segment operating income or loss in the annual planning process to allocate resources and assess performance.",
+          "The 2025 Form 10-K was signed by CEO Sundar Pichai, CFO Anat Ashkenazi, and Principal Accounting Officer Amie Thuener O'Toole, identifying clear executive accountability for reporting.",
+          "Google Services produced $139.404 billion of 2025 operating income, while Google Cloud operating income rose to $13.910 billion from $1.716 billion in 2023."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Alphabet's capital allocation is heavily shaped by the cash-generating Google Services business and large reinvestment in AI, cloud, and other long-duration initiatives. The company generated $101.746 billion of operating cash flow in FY2025, but Other Bets lost $7.515 billion and Alphabet-level activities reduced operating income by $16.760 billion.",
+        "points": [
+          "Management evaluates segments using operating income or loss against the annual plan, which ties resource allocation to the reported economics of Google Services, Google Cloud, and Other Bets.",
+          "Alphabet spent $45.427 billion on research and development in FY2025, and Alphabet-level costs included certain AI-focused shared research and development activities.",
+          "Google Cloud revenue increased to $58.705 billion in 2025 from $33.088 billion in 2023, while its operating income increased to $13.910 billion over the same period.",
+          "Other Bets generated only $1.537 billion of 2025 revenue and reported a $7.515 billion operating loss, making it the clearest capital allocation risk in the packet."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet shows several shareholder-alignment safeguards, including independent board leadership, fully independent key committees, and a clawback provision in the 2021 Stock Plan. The main offset is the 2026 proposal to add 200,000,000 Class C shares to the equity plan reserve, which shareholders should evaluate for dilution and incentive discipline.",
+        "points": [
+          "Alphabet's 2026 proxy states that the Board has an independent Chair separate from the CEO role, reducing reliance on a combined chair-and-CEO governance structure.",
+          "The Audit Committee, Risk and Compliance Committee, Leadership Development, Inclusion and Compensation Committee, and Nominating and Corporate Governance Committee are each 100% independent.",
+          "The 2021 Stock Plan includes a recoupment or clawback provision allowing Alphabet to recover compensation to the extent permitted or required by law, policy, or exchange rules.",
+          "The annual meeting agenda includes a board-recommended amendment to increase the Class C share reserve under the 2021 Stock Plan by 200,000,000 shares."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Alphabet gives investors segment-level reporting for Google Services, Google Cloud, and Other Bets, including multi-year revenue and operating income or loss. The packet also includes disclosure of operating cash flow, R&D expense, balance sheet items, long-lived assets by geography, and how the CEO uses segment operating income in resource allocation.",
+        "points": [
+          "The 2025 10-K reports Google Services, Google Cloud, and Other Bets separately, with 2023, 2024, and 2025 revenue and operating income or loss for each segment.",
+          "Alphabet discloses the business contents of each segment, including ads, Android, Chrome, Maps, Play, Search, YouTube, Cloud Platform, Workspace, and Other Bets services.",
+          "The filing explains that Sundar Pichai monitors actual segment results versus the annual plan and uses segment operating income or loss for annual resource allocation.",
+          "The packet includes SEC company facts for FY2025 operating cash flow, research and development expense, stockholders' equity, long-term debt, and cash and equivalents."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Alphabet's governance structure includes 10 director nominees, 70% independence, an independent Chair, and fully independent key committees. The Board also added a Risk and Compliance Committee in October 2025, which is relevant given disclosed regulatory and operational risks, including tax examinations, foreign tax assessments, fines, and settlements.",
+        "points": [
+          "The 2026 proxy lists 10 director nominees: Larry Page, Sergey Brin, Sundar Pichai, John L. Hennessy, Frances H. Arnold, Marty Chávez, John Doerr, Roger Ferguson Jr., K. Ram Shriram, and Robin Washington.",
+          "Alphabet states that 70% of director nominees are independent, and the Board has an independent Chair separate from CEO Sundar Pichai.",
+          "The Board established a Risk and Compliance Committee in October 2025 to focus on evolving regulatory and operational risks.",
+          "Alphabet disclosed $11.512 billion of gross unrecognized tax benefits, IRS examination of 2019 through 2021 returns, and foreign tax assessments involving transfer pricing or permanent establishment."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale economics across services, cloud, and R&D",
+        "grade": "strong",
+        "summary": "Alphabet's scale is visible in $402.836 billion of 2025 revenue, $129.039 billion of operating income, and $101.746 billion of operating cash flow. That scale supports $45.427 billion of FY2025 R&D expense and Alphabet-level AI-focused shared research activities, creating reinvestment capacity that smaller competitors would find difficult to match from internal cash flow."
+      },
+      {
+        "type": "Google Services ecosystem breadth",
+        "grade": "strong",
+        "summary": "Google Services combines ads, Android, Chrome, devices, Google Maps, Google Play, Search, and YouTube in one reporting segment. The segment produced $342.721 billion of 2025 revenue and $139.404 billion of operating income, funded by advertising, YouTube subscriptions, NFL Sunday Ticket, Google One, app sales, in-app purchases, and devices."
+      },
+      {
+        "type": "Enterprise cloud platform expansion",
+        "grade": "middle",
+        "summary": "Google Cloud includes infrastructure and platform services, applications, Google Cloud Platform, Google Workspace, and other enterprise services sold through consumption-based fees and subscriptions. Revenue rose to $58.705 billion in 2025 from $33.088 billion in 2023, while operating income improved to $13.910 billion from $1.716 billion."
+      },
+      {
+        "type": "Asset base supporting global technical infrastructure",
+        "grade": "middle",
+        "summary": "Alphabet reported $261.818 billion of long-lived assets as of December 31, 2025, including $195.337 billion in the United States and $66.481 billion internationally. The size of this asset base supports businesses such as Google Services and Google Cloud, both of which depend on large-scale technical infrastructure to deliver advertising, consumer, and enterprise services."
+      }
+    ]
+  }
+}
