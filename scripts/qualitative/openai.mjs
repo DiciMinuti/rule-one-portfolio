@@ -38,6 +38,8 @@ function buildInput(packet) {
           generatedAt: todayIsoDate(),
           writingRules: [
             "Keep the UI copy simple and useful for an investor.",
+            "Write richer descriptions than the previous short version: management summaries and moat summaries should usually be two sentences, roughly 45-70 words.",
+            "Management bullet points should be concrete explanatory points, roughly 20-35 words each, not fragments.",
             "Management sections must be exactly: Leadership, Capital Allocation, Shareholder Alignment, Communication, Governance.",
             "Use the facts about Tim Cook, Kevan Parekh, R&D, shareholder returns, compensation structure, board oversight, and risk factors where relevant.",
             "Every management section must include at least two concrete points.",

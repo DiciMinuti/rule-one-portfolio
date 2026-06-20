@@ -49,6 +49,12 @@ Rebuild the frontend registry after editing per-symbol JSON manually:
 npm run qualitative:index
 ```
 
+Refresh the large-cap coverage universe:
+
+```bash
+npm run qualitative:universe -- --limit=300
+```
+
 ## Process
 
 1. Create or update the fact packet for the business.

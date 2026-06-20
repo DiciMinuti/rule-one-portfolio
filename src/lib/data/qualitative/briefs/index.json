@@ -9,47 +9,53 @@
         {
           "title": "Leadership",
           "grade": "strong",
-          "summary": "Apple's executive team is led by CEO Tim Cook and CFO Kevan Parekh, who signed the company's latest regulatory filings and have guided the company through consistent product and service growth.",
+          "summary": "Apple is led by Tim Cook, who signed the 2025 Form 10-K as Chief Executive Officer and Director, with Kevan Parekh signing as Senior Vice President and Chief Financial Officer. The leadership team is managing a business with $416.161 billion of fiscal 2025 net sales and a product portfolio spanning iPhone, Mac, iPad, wearables, accessories and services.",
           "points": [
-            "Tim Cook is listed as Chief Executive Officer and Director on Apple's 2025 Form 10-K.",
-            "Kevan Parekh signed as Senior Vice President and Chief Financial Officer in 2025 regulatory filings."
+            "Tim Cook holds both CEO and Director roles, tying operating leadership directly to board-level responsibility for a company with more than $416 billion in fiscal 2025 net sales.",
+            "Kevan Parekh signed the 2025 Form 10-K as Senior Vice President and Chief Financial Officer, placing him in the key finance role overseeing Apple's public financial reporting.",
+            "Management is running a broad hardware and services company, not a single-product business, with fiscal 2025 sales across iPhone, Services, Mac, iPad and Wearables/Home/Accessories."
           ]
         },
         {
           "title": "Capital Allocation",
           "grade": "strong",
-          "summary": "Apple invests heavily in R&D and returns significant capital to shareholders, enabled by strong operating cash flow.",
+          "summary": "Apple's capital allocation is supported by very large cash generation and continued investment in product development. In fiscal Q1 2026, Apple generated nearly $54 billion in operating cash flow and returned almost $32 billion to shareholders, while fiscal 2025 R&D spending rose to $34.550 billion, equal to 8% of total net sales.",
           "points": [
-            "Apple spent $34.550 billion on research and development in fiscal 2025, representing 8% of total net sales.",
-            "Fiscal Q1 2026 saw $54 billion in operating cash flow, with nearly $32 billion returned to shareholders."
+            "Apple returned almost $32 billion to shareholders in fiscal Q1 2026, funded by nearly $54 billion of operating cash flow generated during the quarter.",
+            "Research and development spending increased to $34.550 billion in fiscal 2025 from $31.370 billion in fiscal 2024, showing continued reinvestment in future products and services.",
+            "R&D equaled 8% of fiscal 2025 total net sales, a meaningful commitment for a company already producing $416.161 billion in annual revenue."
           ]
         },
         {
           "title": "Shareholder Alignment",
           "grade": "strong",
-          "summary": "Executive compensation is designed to align with shareholder interests and has shown consistency over time.",
+          "summary": "Apple's stated governance objective is to serve long-term shareholder interests, and Tim Cook's compensation design includes a large equity component. His 2025 target compensation was $59 million, including $50 million of target equity award value, with 75% of that equity award performance-based.",
           "points": [
-            "In 2025, 75% of Tim Cook's $50 million equity award was performance-based.",
-            "Tim Cook's base salary has been unchanged since 2016, and the 2025 equity award structure was also unchanged from the prior year."
+            "Tim Cook's 2025 target compensation was weighted heavily toward equity, with $50 million of the $59 million target package tied to equity award value.",
+            "Apple's proxy said 75% of Cook's 2025 equity award was performance-based, linking a substantial portion of CEO compensation to performance outcomes rather than fixed pay.",
+            "Cook's base salary has remained the same since 2016, and Apple said the 2025 equity award structure was unchanged from 2024."
           ]
         },
         {
           "title": "Communication",
           "grade": "strong",
-          "summary": "Apple provides comprehensive financial disclosures in both SEC filings and earnings releases, with detailed breakdowns of results and segments.",
+          "summary": "Apple gives investors detailed category, segment, margin and cash-flow disclosures in its public filings and earnings releases. The fiscal 2025 Form 10-K reported net sales by product category and geography, while the Q1 2026 release reported $143.8 billion of revenue, $2.84 diluted EPS, nearly $54 billion of operating cash flow and almost $32 billion returned to shareholders.",
           "points": [
-            "The Q1 2026 earnings release disclosed revenue of $143.8 billion, diluted EPS of $2.84, operating cash flow, and capital return figures.",
-            "Regular and detailed financial information is included in the annual Form 10-K and quarterly earnings releases."
+            "The fiscal 2025 Form 10-K disclosed net sales by category: iPhone $209.586 billion, Services $109.158 billion, Wearables/Home/Accessories $35.686 billion, Mac $33.708 billion and iPad $28.023 billion.",
+            "Apple also disclosed fiscal 2025 geographic segment sales, including Americas $178.353 billion, Europe $111.032 billion and Greater China $64.377 billion, with Greater China down 4% versus 2024.",
+            "The Q1 2026 release stated revenue of $143.8 billion, up 16% year over year, and diluted EPS of $2.84, up 19% year over year.",
+            "The Q1 2026 release also gave cash-flow and capital-return facts: nearly $54 billion in operating cash flow and almost $32 billion returned to shareholders."
           ]
         },
         {
           "title": "Governance",
-          "grade": "strong",
-          "summary": "Apple's board publicly states its oversight responsibilities over management and its alignment with long-term shareholder interests, with risk management and compensation policies documented in filings.",
+          "grade": "middle",
+          "summary": "Apple states that its Board oversees the CEO and senior management in the competent and ethical operation of the company and seeks to assure that long-term shareholder interests are served. The governance picture is helped by performance-based CEO equity, but investors still need to weigh Apple's disclosed risks in macro conditions, tariffs, competition, third-party reliance, IT failures and legal or regulatory proceedings.",
           "points": [
-            "The board oversees the CEO and senior management to ensure competent and ethical operation and to serve long-term shareholder interests.",
-            "Apple identifies risks including macroeconomic factors, competition, reliance on third parties, and legal proceedings in its 10-K and earnings releases.",
-            "Executive compensation policies, including a substantial performance-based equity component, are published in the annual proxy statement."
+            "Apple says its Board oversees the CEO and senior management in the competent and ethical operation of Apple and seeks to assure that long-term shareholder interests are served.",
+            "The CEO compensation structure includes $50 million of target equity award value for 2025, with 75% of that equity award performance-based.",
+            "Apple identifies risks from macroeconomic conditions, tariffs and other measures, global and regional economic conditions, and competition in rapidly changing markets.",
+            "Apple also names reliance on third parties for components, technology, manufacturing, applications, services, support and content, plus IT failures and legal or regulatory proceedings."
           ]
         }
       ]
@@ -60,27 +66,32 @@
         {
           "type": "Product Ecosystem",
           "grade": "strong",
-        "summary": "Apple's ecosystem covers a wide product range - iPhone 17 Pro/Air, Macs, iPad families, Apple Watch, AirPods, Apple TV, HomePod, and Vision Pro - reinforcing customer lock-in and cross-device usage."
+          "summary": "Apple's moat is anchored in a broad ecosystem of devices and services rather than a single hardware line. Its 2025 product families included iPhone 17 models, MacBook Air and Pro, iPad models, Apple Watch Series 11, AirPods, Apple Vision Pro, Apple TV 4K and HomePod, supported by more than 2.5 billion active devices as of January 2026."
         },
         {
           "type": "Switching Costs",
           "grade": "strong",
-          "summary": "With more than 2.5 billion active devices as of January 2026, users benefit from tightly integrated hardware, software, and services, driving inertia against switching."
+          "summary": "Apple's more than 2.5 billion active devices create a large installed base across iPhone, Mac, iPad, Apple Watch, AirPods and other products. The breadth of connected product categories and related services makes the customer relationship deeper than a one-time device sale, which supports ecosystem-based switching costs."
         },
         {
           "type": "Services Economics",
           "grade": "strong",
-          "summary": "Services rose to $109.158 billion in net sales in fiscal 2025 with a 75.4% gross margin, much higher than hardware margins."
+          "summary": "Services are a high-quality part of Apple's model, with fiscal 2025 Services net sales of $109.158 billion, up 14% from $96.169 billion. The economics are materially different from hardware: Services gross margin was 75.4% in fiscal 2025, compared with a 36.8% Products gross margin percentage."
         },
         {
           "type": "Scale",
           "grade": "strong",
-          "summary": "Fiscal 2025 net sales reached $416.161 billion, providing scale advantages in manufacturing, supply chain management, and negotiating power."
+          "summary": "Apple operates at exceptional revenue scale, with fiscal 2025 total net sales of $416.161 billion and fiscal Q1 2026 revenue of $143.8 billion. Its scale spans categories and geographies, including fiscal 2025 sales of $178.353 billion in the Americas, $111.032 billion in Europe and $64.377 billion in Greater China."
+        },
+        {
+          "type": "Brand",
+          "grade": "strong",
+          "summary": "The packet supports Apple's brand strength through the breadth and continued relevance of named product families across phones, computers, tablets, wearables, accessories and home devices. In fiscal 2025, iPhone alone generated $209.586 billion of net sales, while Mac, iPad and Wearables/Home/Accessories together added another $97.417 billion."
         },
         {
           "type": "R&D / Integration",
           "grade": "strong",
-        "summary": "Apple increased R&D spend to $34.550 billion in 2025 (8% of sales), supporting advances across devices and integration of hardware, software, and services."
+          "summary": "Apple's integration advantage is supported by its control over multiple product families and its large R&D budget. Fiscal 2025 R&D spending was $34.550 billion, up from $31.370 billion in fiscal 2024, funding development across smartphones, personal computers, tablets, wearables, accessories and related services."
         }
       ]
     }

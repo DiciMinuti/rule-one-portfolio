@@ -11,6 +11,7 @@
     "qualitative:template": "node scripts/qualitative/create-fact-template.mjs",
     "qualitative:generate": "node scripts/qualitative/generate.mjs",
     "qualitative:index": "node scripts/qualitative/index-briefs.mjs",
+    "qualitative:universe": "node scripts/qualitative/update-universe.mjs",
     "qualitative:validate": "node scripts/qualitative/validate.mjs"
   },
   "dependencies": {

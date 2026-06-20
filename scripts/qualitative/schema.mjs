@@ -83,6 +83,14 @@ function hasText(value) {
   return typeof value === "string" && value.trim().length > 0;
 }
 
+function wordCount(value) {
+  if (typeof value !== "string") {
+    return 0;
+  }
+
+  return value.trim().split(/\s+/).filter(Boolean).length;
+}
+
 function isGrade(value) {
   return GRADES.includes(value);
 }
@@ -103,6 +111,8 @@ function validateManagementSection(section, index, errors) {
 
   if (!hasText(section.summary)) {
     errors.push(`management.sections[${index}].summary is required.`);
+  } else if (wordCount(section.summary) < 28) {
+    errors.push(`management.sections[${index}].summary must contain at least 28 words.`);
   }
 
   if (!Array.isArray(section.points) || section.points.length < 2) {
@@ -111,6 +121,8 @@ function validateManagementSection(section, index, errors) {
     section.points.forEach((point, pointIndex) => {
       if (!hasText(point)) {
         errors.push(`management.sections[${index}].points[${pointIndex}] is required.`);
+      } else if (wordCount(point) < 16) {
+        errors.push(`management.sections[${index}].points[${pointIndex}] must contain at least 16 words.`);
       }
     });
   }
@@ -132,6 +144,8 @@ function validateMoatType(moat, index, errors) {
 
   if (!hasText(moat.summary)) {
     errors.push(`moat.types[${index}].summary is required.`);
+  } else if (wordCount(moat.summary) < 30) {
+    errors.push(`moat.types[${index}].summary must contain at least 30 words.`);
   }
 }
 

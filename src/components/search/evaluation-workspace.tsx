@@ -1189,11 +1189,7 @@ function ManagementStep({ brief }: { brief: QualitativeBrief }) {
   return (
     <div className="stack">
       <div className="qualitative-header">
-        <div>
-          <h2 className="section-title">Management</h2>
-          <p className="management-summary">Overall: {brief.management.grade}</p>
-        </div>
-        <span className={`pill ${gradeTone(brief.management.grade)}`}>{brief.management.grade}</span>
+        <h2 className="section-title">Management</h2>
       </div>
 
       <div className="qualitative-list">
@@ -1209,11 +1205,7 @@ function MoatStep({ brief }: { brief: QualitativeBrief }) {
   return (
     <div className="stack">
       <div className="qualitative-header">
-        <div>
-          <h2 className="section-title">Moat</h2>
-          <p className="management-summary">Overall: {brief.moat.grade}</p>
-        </div>
-        <span className={`pill ${gradeTone(brief.moat.grade)}`}>{brief.moat.grade}</span>
+        <h2 className="section-title">Moat</h2>
       </div>
 
       <div className="moat-grid">
@@ -1230,7 +1222,6 @@ function ManagementBriefCard({ section }: { section: QualitativeBriefSection }) 
     <section className="qualitative-card">
       <div className="split aligned">
         <h3 className="section-title">{section.title}</h3>
-        <span className={`pill ${gradeTone(section.grade)}`}>{section.grade}</span>
       </div>
       <p className="management-summary">{section.summary}</p>
       <ul className="qualitative-points">
@@ -1247,7 +1238,6 @@ function MoatBriefCard({ moat }: { moat: QualitativeMoatType }) {
     <section className="qualitative-card">
       <div className="split aligned">
         <h3 className="section-title">{moat.type}</h3>
-        <span className={`pill ${gradeTone(moat.grade)}`}>{moat.grade}</span>
       </div>
       <p className="management-summary">{moat.summary}</p>
     </section>
