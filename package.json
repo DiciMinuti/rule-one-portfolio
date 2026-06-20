@@ -7,7 +7,11 @@
     "build": "next build",
     "lint": "eslint . --max-warnings=0",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "qualitative:template": "node scripts/qualitative/create-fact-template.mjs",
+    "qualitative:generate": "node scripts/qualitative/generate.mjs",
+    "qualitative:index": "node scripts/qualitative/index-briefs.mjs",
+    "qualitative:validate": "node scripts/qualitative/validate.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

@@ -1,0 +1,92 @@
+{
+  "symbol": "AAPL",
+  "companyName": "Apple Inc.",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business model",
+      "statement": "Apple designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells related services.",
+      "source": "Apple 2025 Form 10-K, Item 1 Business, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Product ecosystem",
+      "statement": "Apple's 2025 product lines included iPhone 17 Pro, iPhone Air, iPhone 17, iPhone 16 and iPhone 16e; MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio and Mac Pro; iPad Pro, iPad Air, iPad and iPad mini; Apple Watch Series 11, Apple Watch SE 3 and Apple Watch Ultra 3; AirPods, AirPods Pro, AirPods Max, Beats, Apple Vision Pro, Apple TV 4K, HomePod and accessories.",
+      "source": "Apple 2025 Form 10-K, Item 1 Business, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "FY2025 revenue scale",
+      "statement": "Apple reported fiscal 2025 total net sales of $416.161 billion, up 6% from $391.035 billion in fiscal 2024.",
+      "source": "Apple 2025 Form 10-K, Products and Services Performance, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "FY2025 revenue by category",
+      "statement": "Fiscal 2025 net sales by category were iPhone $209.586 billion, Services $109.158 billion, Wearables/Home/Accessories $35.686 billion, Mac $33.708 billion and iPad $28.023 billion.",
+      "source": "Apple 2025 Form 10-K, Products and Services Performance, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Services growth",
+      "statement": "Services net sales rose 14% in fiscal 2025, from $96.169 billion to $109.158 billion; Apple attributed the increase primarily to advertising, the App Store and cloud services.",
+      "source": "Apple 2025 Form 10-K, Products and Services Performance, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Services economics",
+      "statement": "Apple's fiscal 2025 Services gross margin was $82.314 billion and Services gross margin percentage was 75.4%, compared with Products gross margin percentage of 36.8%.",
+      "source": "Apple 2025 Form 10-K, Gross Margin, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "iPhone dependence",
+      "statement": "iPhone generated $209.586 billion of Apple's $416.161 billion fiscal 2025 net sales, a little over half of total net sales.",
+      "source": "Apple 2025 Form 10-K, Products and Services Performance, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Geographic mix",
+      "statement": "Fiscal 2025 net sales by reportable segment were Americas $178.353 billion, Europe $111.032 billion, Greater China $64.377 billion, Japan $28.703 billion and Rest of Asia Pacific $33.696 billion; Greater China declined 4% versus 2024.",
+      "source": "Apple 2025 Form 10-K, Segment Operating Performance, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Installed base",
+      "statement": "Apple said in January 2026 that its installed base had more than 2.5 billion active devices.",
+      "source": "Apple Q1 FY2026 earnings release, Jan. 29, 2026: https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/"
+    },
+    {
+      "topic": "Recent operating momentum",
+      "statement": "For fiscal Q1 2026 ended December 27, 2025, Apple reported quarterly revenue of $143.8 billion, up 16% year over year, and diluted EPS of $2.84, up 19% year over year.",
+      "source": "Apple Q1 FY2026 earnings release, Jan. 29, 2026: https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/"
+    },
+    {
+      "topic": "Shareholder returns",
+      "statement": "Apple said fiscal Q1 2026 generated nearly $54 billion in operating cash flow and allowed it to return almost $32 billion to shareholders.",
+      "source": "Apple Q1 FY2026 earnings release, Jan. 29, 2026: https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Apple spent $34.550 billion on research and development in fiscal 2025, equal to 8% of total net sales, up from $31.370 billion in fiscal 2024.",
+      "source": "Apple 2025 Form 10-K, Operating Expenses, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "Leadership",
+      "statement": "Tim Cook signed Apple's 2025 Form 10-K as Chief Executive Officer and Director, and Kevan Parekh signed as Senior Vice President and Chief Financial Officer.",
+      "source": "Apple 2025 Form 10-K, Signatures, SEC: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    },
+    {
+      "topic": "CEO compensation design",
+      "statement": "Apple's 2026 proxy said Tim Cook's 2025 target compensation was $59 million: $3 million base salary, $6 million target cash incentive opportunity and $50 million target equity award value, with 75% of the equity award performance-based.",
+      "source": "Apple 2026 Proxy Statement, CEO compensation, SEC: https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm"
+    },
+    {
+      "topic": "CEO pay context",
+      "statement": "Apple's 2026 proxy said Tim Cook's base salary has remained the same since 2016 and that the 2025 equity award structure was unchanged from 2024.",
+      "source": "Apple 2026 Proxy Statement, CEO compensation, SEC: https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm"
+    },
+    {
+      "topic": "Governance",
+      "statement": "Apple states that its Board oversees the CEO and senior management in the competent and ethical operation of Apple and seeks to assure that long-term shareholder interests are served.",
+      "source": "Apple Investor Relations, Leadership and Governance: https://investor.apple.com/leadership-and-governance/"
+    },
+    {
+      "topic": "Risk factors",
+      "statement": "Apple identifies risks from macroeconomic conditions, tariffs and other measures, global and regional economic conditions, competition in rapidly changing markets, reliance on third parties for components, technology, manufacturing, applications, services, support and content, information technology failures and legal or regulatory proceedings.",
+      "source": "Apple 2025 Form 10-K and Apple Q1 FY2026 earnings release risk language: https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    }
+  ]
+}

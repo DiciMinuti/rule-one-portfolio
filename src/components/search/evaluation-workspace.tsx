@@ -12,7 +12,7 @@ import {
   Plus,
   Search,
 } from "lucide-react";
-import { type CSSProperties, useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
   buildBigFive,
@@ -20,7 +20,7 @@ import {
   deriveBusinessGrade,
   deriveDefaultAssumptions,
 } from "@/lib/rule1";
-import { selectManagementDocuments } from "@/lib/data/management-documents";
+import { getQualitativeBrief } from "@/lib/data/qualitative-briefs";
 import {
   formatCurrency,
   formatDate,
@@ -46,10 +46,10 @@ import type {
   CompanyProfile,
   CompanySearchResult,
   FilingLink,
-  ManagementBrief,
-  ManagementSignal,
-  ManagementTable,
   PriceHistory,
+  QualitativeBrief,
+  QualitativeBriefSection,
+  QualitativeMoatType,
   RuleOneEvaluation,
   SavedBusinessItem,
   ValuationAssumptions,
@@ -72,7 +72,7 @@ type LoadedCompany = {
   financials: AnnualFinancials[];
   prices: PriceHistory;
   filings: FilingLink[];
-  management: ManagementBrief;
+  qualitativeBrief?: QualitativeBrief;
   news: CompanyNewsItem[];
   bigFive: BigFiveResult;
   loadedAt: string;
@@ -95,7 +95,7 @@ type GroupRunSummary = {
   nope: number;
 };
 
-const steps = ["Result", "Business", "Management", "Inputs"];
+const baseSteps = ["Result", "Business", "Inputs"];
 const groupLimitOptions = [10, 25, 50, 100, 0];
 
 const initialLoadSteps: LoadStep[] = [
@@ -103,7 +103,6 @@ const initialLoadSteps: LoadStep[] = [
   { id: "facts", label: "SEC facts", status: "idle" },
   { id: "prices", label: "Price history", status: "idle" },
   { id: "reports", label: "Reports", status: "idle" },
-  { id: "management", label: "Management", status: "idle" },
   { id: "news", label: "News", status: "idle" },
   { id: "calculation", label: "Rule #1 calculation", status: "idle" },
 ];
@@ -119,49 +118,6 @@ function initialNotes(): CompanyNotes {
     management: "middle",
     moatTypes: [],
     managementChecklist: {},
-  };
-}
-
-function fallbackManagementBrief(symbol: string, filings: FilingLink[], reason?: string): ManagementBrief {
-  return {
-    symbol: symbol.toUpperCase(),
-    generatedAt: new Date().toISOString(),
-    documents: selectManagementDocuments(filings),
-    signals: [
-      {
-        id: "leaders",
-        label: "Leadership",
-        question: "Who leads the business, and how long have they been in the business?",
-        status: "needs-review",
-        summary: "Open the latest annual report or proxy to review executive names, roles, background, and tenure.",
-        excerpts: [],
-      },
-      {
-        id: "compensation",
-        label: "Compensation",
-        question: "What are the leaders paid, including salary and total compensation?",
-        status: "needs-review",
-        summary: "Open the latest proxy statement and review the Summary Compensation Table.",
-        excerpts: [],
-      },
-      {
-        id: "ownership",
-        label: "Ownership",
-        question: "How much stock do leaders and directors own?",
-        status: "needs-review",
-        summary: "Open the latest proxy statement and review the beneficial ownership table.",
-        excerpts: [],
-      },
-      {
-        id: "shareholderLetter",
-        label: "CEO Letter",
-        question: "What does the latest CEO or shareholder letter say?",
-        status: "needs-review",
-        summary: "Open the annual report and look for a CEO or shareholder letter. Some companies publish it outside SEC filings.",
-        excerpts: [],
-      },
-    ],
-    warnings: reason ? [reason] : [],
   };
 }
 
@@ -315,17 +271,16 @@ export function EvaluationWorkspace() {
 
       setLoadSteps((current) =>
         current.map((step) =>
-          ["facts", "prices", "reports", "management", "news"].includes(step.id)
-            ? { ...step, status: "loading" }
-            : step,
+          ["facts", "prices", "reports", "news"].includes(step.id) ? { ...step, status: "loading" } : step,
         ),
       );
 
-      const [factsResult, pricesResult, filingsResult, managementResult, newsResult] = await Promise.allSettled([
+      const qualitativeBrief = getQualitativeBrief(normalizedSymbol);
+
+      const [factsResult, pricesResult, filingsResult, newsResult] = await Promise.allSettled([
         fetchJson<{ financials: AnnualFinancials[] }>(`/api/company/${normalizedSymbol}/facts`),
         fetchJson<{ prices: PriceHistory }>(`/api/company/${normalizedSymbol}/prices`),
         fetchJson<{ filings: FilingLink[] }>(`/api/company/${normalizedSymbol}/filings`),
-        fetchJson<{ management: ManagementBrief }>(`/api/company/${normalizedSymbol}/management`),
         fetchJson<{ news: CompanyNewsItem[] }>(`/api/company/${normalizedSymbol}/news`),
       ]);
 
@@ -343,15 +298,16 @@ export function EvaluationWorkspace() {
               },
             } satisfies PriceHistory);
       const filings = filingsResult.status === "fulfilled" ? filingsResult.value.filings : [];
-      const management =
-        managementResult.status === "fulfilled"
-          ? managementResult.value.management
-          : fallbackManagementBrief(
-              normalizedSymbol,
-              filings,
-              managementResult.reason instanceof Error ? managementResult.reason.message : "Management extraction failed.",
-            );
       const news = newsResult.status === "fulfilled" ? newsResult.value.news : [];
+
+      if (qualitativeBrief) {
+        setNotes((current) => ({
+          ...current,
+          moat: qualitativeBrief.moat.grade,
+          management: qualitativeBrief.management.grade,
+          moatTypes: qualitativeBrief.moat.types.map((moat) => moat.type),
+        }));
+      }
 
       setLoadSteps((current) => {
         let next = updateLoadStep(
@@ -372,19 +328,6 @@ export function EvaluationWorkspace() {
           filingsResult.status === "fulfilled" && filings.length ? "done" : "warning",
           filings.length ? undefined : "No filing links returned.",
         );
-        next = updateLoadStep(
-          next,
-          "management",
-          managementResult.status === "fulfilled" &&
-            management.signals.some((signal) => signal.status === "found")
-            ? "done"
-            : "warning",
-          managementResult.status === "rejected"
-            ? managementResult.reason.message
-            : management.signals.some((signal) => signal.status === "found")
-              ? undefined
-              : "Open the source filings to complete this review.",
-        );
         return updateLoadStep(
           next,
           "news",
@@ -401,7 +344,7 @@ export function EvaluationWorkspace() {
         financials,
         prices,
         filings,
-        management,
+        qualitativeBrief,
         news,
         bigFive,
         loadedAt: new Date().toISOString(),
@@ -572,6 +515,16 @@ export function EvaluationWorkspace() {
       nope: doneRows.filter((row) => row.evaluation?.valuation.priceVerdict === "nope").length,
     };
   }, [visibleGroupRows]);
+
+  const evaluationSteps = useMemo(
+    () => (loaded?.qualitativeBrief ? ["Result", "Business", "Moat", "Management", "Inputs"] : baseSteps),
+    [loaded?.qualitativeBrief],
+  );
+  const activeStepLabel = evaluationSteps[activeStep] ?? evaluationSteps[0];
+
+  useEffect(() => {
+    setActiveStep((current) => Math.min(current, evaluationSteps.length - 1));
+  }, [evaluationSteps.length]);
 
   async function handleSaveToggle() {
     if (!loaded || !assumptions || !valuation) {
@@ -783,12 +736,17 @@ export function EvaluationWorkspace() {
             onSaveToggle={handleSaveToggle}
           />
           <section className="panel evaluation-panel">
-            <Stepper activeStep={activeStep} onStepChange={setActiveStep} />
+            <Stepper steps={evaluationSteps} activeStep={activeStep} onStepChange={setActiveStep} />
             <div className="evaluation-body">
-              {activeStep === 0 ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
-              {activeStep === 1 ? <BusinessStep loaded={loaded} /> : null}
-              {activeStep === 2 ? <ManagementStep loaded={loaded} /> : null}
-              {activeStep === 3 ? (
+              {activeStepLabel === "Result" ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
+              {activeStepLabel === "Business" ? <BusinessStep loaded={loaded} /> : null}
+              {activeStepLabel === "Moat" && loaded.qualitativeBrief ? (
+                <MoatStep brief={loaded.qualitativeBrief} />
+              ) : null}
+              {activeStepLabel === "Management" && loaded.qualitativeBrief ? (
+                <ManagementStep brief={loaded.qualitativeBrief} />
+              ) : null}
+              {activeStepLabel === "Inputs" ? (
                 <ValuationStep
                   assumptions={assumptions}
                   setAssumption={setAssumption}
@@ -810,8 +768,8 @@ export function EvaluationWorkspace() {
             <button
               className="button"
               type="button"
-              disabled={activeStep === steps.length - 1}
-              onClick={() => setActiveStep((step) => Math.min(steps.length - 1, step + 1))}
+              disabled={activeStep === evaluationSteps.length - 1}
+              onClick={() => setActiveStep((step) => Math.min(evaluationSteps.length - 1, step + 1))}
             >
               Next
               <ChevronRight size={16} />
@@ -1082,7 +1040,15 @@ function ValueMini({ label, value, tone }: { label: string; value: string; tone?
   );
 }
 
-function Stepper({ activeStep, onStepChange }: { activeStep: number; onStepChange: (step: number) => void }) {
+function Stepper({
+  steps,
+  activeStep,
+  onStepChange,
+}: {
+  steps: string[];
+  activeStep: number;
+  onStepChange: (step: number) => void;
+}) {
   return (
     <nav className="stepper" aria-label="Evaluation steps">
       {steps.map((step, index) => (
@@ -1219,108 +1185,72 @@ function BusinessStep({
   );
 }
 
-function ManagementStep({
-  loaded,
-}: {
-  loaded: LoadedCompany;
-}) {
-  const management = loaded.management;
-
+function ManagementStep({ brief }: { brief: QualitativeBrief }) {
   return (
     <div className="stack">
-      {management.warnings.length ? (
-        <div className="warning-box">
-          {management.warnings.map((warning) => (
-            <div key={warning}>{warning}</div>
-          ))}
+      <div className="qualitative-header">
+        <div>
+          <h2 className="section-title">Management</h2>
+          <p className="management-summary">Overall: {brief.management.grade}</p>
         </div>
-      ) : null}
+        <span className={`pill ${gradeTone(brief.management.grade)}`}>{brief.management.grade}</span>
+      </div>
 
-      <div className="management-list">
-        {management.signals.map((signal, index) => (
-          <section className="management-section" key={signal.id}>
-            <div className="split aligned">
-              <h3 className="section-title">
-                {index + 1}. {signal.label}
-              </h3>
-              {signal.source?.url ? (
-                <a className="subtle-link" href={signal.source.url}>
-                  <ExternalLink size={14} />
-                  Source
-                </a>
-              ) : null}
-            </div>
-            <p className="management-summary">{signal.summary}</p>
-            <ManagementSignalContent signal={signal} />
-          </section>
+      <div className="qualitative-list">
+        {brief.management.sections.map((section) => (
+          <ManagementBriefCard section={section} key={section.title} />
         ))}
       </div>
     </div>
   );
 }
 
-function ManagementSignalContent({ signal }: { signal: ManagementSignal }) {
-  if (signal.tables?.length) {
-    return (
-      <div className="management-tables">
-        {signal.tables.map((table) => (
-          <ManagementTableGrid key={table.id} table={table} />
+function MoatStep({ brief }: { brief: QualitativeBrief }) {
+  return (
+    <div className="stack">
+      <div className="qualitative-header">
+        <div>
+          <h2 className="section-title">Moat</h2>
+          <p className="management-summary">Overall: {brief.moat.grade}</p>
+        </div>
+        <span className={`pill ${gradeTone(brief.moat.grade)}`}>{brief.moat.grade}</span>
+      </div>
+
+      <div className="moat-grid">
+        {brief.moat.types.map((moat) => (
+          <MoatBriefCard moat={moat} key={moat.type} />
         ))}
       </div>
-    );
-  }
-
-  if (signal.excerpts.length) {
-    return (
-      <div className="management-letter">
-        {signal.excerpts.map((excerpt) => (
-          <p className="management-result" key={excerpt}>
-            {excerpt}
-          </p>
-        ))}
-      </div>
-    );
-  }
-
-  return <p className="management-result muted">{signal.summary}</p>;
+    </div>
+  );
 }
 
-function ManagementTableGrid({ table }: { table: ManagementTable }) {
-  const gridTemplate = table.columns
-    .map((column) => `minmax(${column.minWidth ?? "120px"}, ${column.align === "end" ? "0.7fr" : "1fr"})`)
-    .join(" ");
-  const tableStyle = { "--management-table-columns": gridTemplate } as CSSProperties;
-
+function ManagementBriefCard({ section }: { section: QualitativeBriefSection }) {
   return (
-    <div className="management-table-wrap">
-      {table.title ? <h4 className="management-table-title">{table.title}</h4> : null}
-      <div className="management-table-grid" role="table" style={tableStyle}>
-        <div className="management-table-header" role="row">
-          {table.columns.map((column) => (
-            <span className={column.align === "end" ? "align-end" : ""} role="columnheader" key={column.key}>
-              {column.label}
-            </span>
-          ))}
-        </div>
-        <div className="management-table-rows">
-          {table.rows.map((row, rowIndex) => (
-            <div className="management-table-row" role="row" key={`${table.id}-${rowIndex}`}>
-              {table.columns.map((column) => (
-                <div
-                  className={`management-table-value ${column.align === "end" ? "align-end" : ""}`}
-                  data-label={column.label}
-                  role="cell"
-                  key={column.key}
-                >
-                  {row[column.key] || "—"}
-                </div>
-              ))}
-            </div>
-          ))}
-        </div>
+    <section className="qualitative-card">
+      <div className="split aligned">
+        <h3 className="section-title">{section.title}</h3>
+        <span className={`pill ${gradeTone(section.grade)}`}>{section.grade}</span>
       </div>
-      {table.note ? <p className="management-table-note">{table.note}</p> : null}
-    </div>
+      <p className="management-summary">{section.summary}</p>
+      <ul className="qualitative-points">
+        {section.points.map((point) => (
+          <li key={point}>{point}</li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
+function MoatBriefCard({ moat }: { moat: QualitativeMoatType }) {
+  return (
+    <section className="qualitative-card">
+      <div className="split aligned">
+        <h3 className="section-title">{moat.type}</h3>
+        <span className={`pill ${gradeTone(moat.grade)}`}>{moat.grade}</span>
+      </div>
+      <p className="management-summary">{moat.summary}</p>
+    </section>
   );
 }
 

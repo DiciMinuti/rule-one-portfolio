@@ -19,3 +19,5 @@ Navigation is intentionally KISS:
 The app is built around free public data, browser-local storage, and transparent assumptions.
 
 Planning docs live in `docs/`.
+
+Qualitative moat and management briefs are generated offline with OpenAI and committed as JSON. See `docs/05-qualitative-generation.md`.

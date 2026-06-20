@@ -1161,6 +1161,42 @@ a:hover {
   word-break: break-word;
 }
 
+.qualitative-header {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.qualitative-list {
+  display: grid;
+  gap: 12px;
+}
+
+.moat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.qualitative-card {
+  display: grid;
+  gap: 10px;
+  min-width: 0;
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: 14px 16px;
+}
+
+.qualitative-points {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 18px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .warning-box {
   border: 1px solid rgba(251, 191, 36, 0.24);
   border-radius: var(--radius);
@@ -1317,7 +1353,8 @@ a:hover {
   .checklist,
   .group-summary-strip,
   .saves-controls,
-  .docs-layout {
+  .docs-layout,
+  .moat-grid {
     grid-template-columns: 1fr;
   }
 

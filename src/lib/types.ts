@@ -94,6 +94,33 @@ export type ManagementBrief = {
   warnings: string[];
 };
 
+export type QualitativeBriefSection = {
+  title: string;
+  grade: BusinessGrade;
+  summary: string;
+  points: string[];
+};
+
+export type QualitativeMoatType = {
+  type: string;
+  grade: BusinessGrade;
+  summary: string;
+};
+
+export type QualitativeBrief = {
+  symbol: string;
+  companyName: string;
+  generatedAt: string;
+  management: {
+    grade: BusinessGrade;
+    sections: QualitativeBriefSection[];
+  };
+  moat: {
+    grade: BusinessGrade;
+    types: QualitativeMoatType[];
+  };
+};
+
 export type AnnualFinancials = {
   fiscalYear: number;
   revenue?: number;

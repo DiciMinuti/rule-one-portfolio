@@ -1,0 +1,60 @@
+# Qualitative Brief Generation
+
+The app does not call OpenAI at runtime. Qualitative management and moat briefs are generated locally, committed as JSON, and loaded by the frontend.
+
+## Files
+
+- `src/lib/data/qualitative/facts/{SYMBOL}.json` - source fact packet used as model input.
+- `src/lib/data/qualitative/briefs/{SYMBOL}.json` - generated committed brief.
+- `src/lib/data/qualitative/briefs/index.json` - committed registry imported by the app.
+- `scripts/qualitative/schema.mjs` - JSON Schema and local validation.
+- `scripts/qualitative/openai.mjs` - OpenAI Responses API call.
+- `scripts/qualitative/generate.mjs` - generation CLI.
+
+## Commands
+
+Create a fact-packet template:
+
+```bash
+npm run qualitative:template -- AAPL
+```
+
+Check a fact packet without calling OpenAI:
+
+```bash
+npm run qualitative:generate -- AAPL --dry-run
+```
+
+Generate a brief:
+
+```bash
+OPENAI_API_KEY=... npm run qualitative:generate -- AAPL --force
+```
+
+Choose a model explicitly:
+
+```bash
+OPENAI_API_KEY=... OPENAI_MODEL=gpt-5.5 npm run qualitative:generate -- AAPL --force
+```
+
+Validate committed briefs:
+
+```bash
+npm run qualitative:validate
+```
+
+Rebuild the frontend registry after editing per-symbol JSON manually:
+
+```bash
+npm run qualitative:index
+```
+
+## Process
+
+1. Create or update the fact packet for the business.
+2. Run `qualitative:generate -- SYMBOL --dry-run`.
+3. Generate with OpenAI.
+4. Review the generated JSON.
+5. Commit the fact packet, the per-symbol brief, and `index.json`.
+
+The generator uses OpenAI Structured Outputs with a JSON Schema so the model response matches the app's committed data shape.
