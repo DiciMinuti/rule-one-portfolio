@@ -404,14 +404,20 @@ export function deriveHistoricalEpsGrowthRate(
   splits: StockSplit[] = [],
 ) {
   const sorted = financials.toSorted((a, b) => a.fiscalYear - b.fiscalYear);
+  const epsPoints = sorted.map((row) => ({
+    fiscalYear: row.fiscalYear,
+    value: splitAdjustedEps(row, splits),
+  }));
+  const tenYearGrowth = calculateGrowthWindow(epsPoints, DEFAULT_YEARS).value;
+
+  if (tenYearGrowth !== null) {
+    return tenYearGrowth;
+  }
+
   return (
-    calculateGrowthWindow(
-      sorted.map((row) => ({
-        fiscalYear: row.fiscalYear,
-        value: splitAdjustedEps(row, splits),
-      })),
-      DEFAULT_YEARS,
-    ).value ?? undefined
+    WINDOWS.map((window) => calculateGrowthWindow(epsPoints, window).value)
+      .filter((value) => isFiniteNumber(value) && value > 0)
+      .at(0) ?? undefined
   );
 }
 

@@ -126,6 +126,7 @@ describe("Rule #1 calculations", () => {
     const assumptions = deriveDefaultAssumptions(
       [
         { fiscalYear: 2015, epsDiluted: 10, sourceFacts: {} },
+        { fiscalYear: 2020, epsDiluted: 12, sourceFacts: {} },
         { fiscalYear: 2025, epsDiluted: 8, sourceFacts: {} },
       ],
       100,
@@ -137,6 +138,21 @@ describe("Rule #1 calculations", () => {
     expect(assumptions.historicalGrowthRate).toBeLessThan(0);
     expect(assumptions.growthRate).toBeCloseTo(0.07, 4);
     expect(assumptions.futurePe).toBeCloseTo(14, 2);
+  });
+
+  it("falls back to the longest usable positive EPS growth when 10-year CAGR cannot be calculated", () => {
+    const assumptions = deriveDefaultAssumptions(
+      [
+        { fiscalYear: 2015, epsDiluted: -0.84, sourceFacts: {} },
+        { fiscalYear: 2020, epsDiluted: 2.06, sourceFacts: {} },
+        { fiscalYear: 2025, epsDiluted: 2.65, sourceFacts: {} },
+      ],
+      100,
+    );
+
+    expect(assumptions.historicalGrowthRate).toBeCloseTo((2.65 / 2.06) ** (1 / 5) - 1, 4);
+    expect(assumptions.growthRate).toBeGreaterThan(0);
+    expect(assumptions.futurePe).toBeGreaterThan(0);
   });
 
   it("adjusts old EPS for stock splits before calculating 10-year growth", () => {

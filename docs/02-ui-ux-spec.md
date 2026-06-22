@@ -362,7 +362,7 @@ Purpose: calculate sticker price and MOS.
 Inputs:
 
 - Current/TTM EPS.
-- 10y EPS growth rate.
+- Historical EPS growth rate.
 - Analyst growth rate.
 - Growth rate used.
 - Historical PE.

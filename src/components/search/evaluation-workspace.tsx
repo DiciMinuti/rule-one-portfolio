@@ -1335,7 +1335,7 @@ function ValuationStep({
       <div className="grid four">
         <NumberField label="Current/TTM EPS" value={assumptions.eps} onChange={(value) => setNumber("eps", value)} />
         <NumberField
-          label="10y EPS growth %"
+          label="Historical EPS growth %"
           value={assumptions.historicalGrowthRate === undefined ? undefined : assumptions.historicalGrowthRate * 100}
           onChange={(value) => setRuleOneInput("historicalGrowthRate", value, true)}
         />
