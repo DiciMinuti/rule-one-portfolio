@@ -1303,6 +1303,50 @@ a:hover {
   padding: 14px 16px;
 }
 
+.indicator-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.indicator-card {
+  display: grid;
+  gap: 14px;
+  min-width: 0;
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: 14px 16px;
+}
+
+.indicator-card.good {
+  background: rgba(74, 222, 128, 0.03);
+}
+
+.indicator-card.warn {
+  background: rgba(251, 191, 36, 0.03);
+}
+
+.indicator-card.bad {
+  background: rgba(248, 113, 113, 0.03);
+}
+
+.indicator-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(88px, 1fr));
+  gap: 8px;
+}
+
+.indicator-stat {
+  display: grid;
+  gap: 4px;
+  min-width: 0;
+}
+
+.indicator-stat strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-size: 1rem;
+}
+
 .qualitative-points {
   display: grid;
   gap: 8px;

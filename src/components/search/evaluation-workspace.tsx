@@ -16,6 +16,11 @@ import {
 import { Fragment, type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
+  buildTechnicalIndicators,
+  type IndicatorSignal,
+  type SummarySignal,
+} from "@/lib/indicators";
+import {
   buildBigFive,
   calculateValuation,
   deriveBusinessGrade,
@@ -27,6 +32,7 @@ import { getQualitativeBrief } from "@/lib/data/qualitative-briefs";
 import {
   formatCurrency,
   formatDate,
+  formatNumber,
   formatPercent,
   gradeTone,
   verdictTone,
@@ -107,7 +113,7 @@ type GroupRunSummary = {
   nope: number;
 };
 
-const baseSteps = ["Result", "Business", "Inputs"];
+const baseSteps = ["Result", "Business", "Indicators", "Inputs"];
 const groupLimitOptions = [10, 25, 50, 100, 0];
 const priceBandFilters: { id: PriceBandFilter; label: string }[] = [
   { id: "all", label: "All" },
@@ -622,7 +628,10 @@ export function EvaluationWorkspace() {
   }, [visibleGroupRows]);
 
   const evaluationSteps = useMemo(
-    () => (loaded?.qualitativeBrief ? ["Result", "Business", "Moat", "Management", "Inputs"] : baseSteps),
+    () =>
+      loaded?.qualitativeBrief
+        ? ["Result", "Business", "Moat", "Management", "Indicators", "Inputs"]
+        : baseSteps,
     [loaded?.qualitativeBrief],
   );
   const activeStepLabel = evaluationSteps[activeStep] ?? evaluationSteps[0];
@@ -773,6 +782,7 @@ export function EvaluationWorkspace() {
             {activeStepLabel === "Management" && loaded.qualitativeBrief ? (
               <ManagementStep brief={loaded.qualitativeBrief} />
             ) : null}
+            {activeStepLabel === "Indicators" ? <IndicatorsStep prices={loaded.prices} /> : null}
             {activeStepLabel === "Inputs" ? (
               <ValuationStep
                 assumptions={assumptions}
@@ -1450,6 +1460,123 @@ function BusinessStep({
             <div className="empty-list">No news returned from the free feed.</div>
           )}
         </div>
+      </div>
+    </div>
+  );
+}
+
+function indicatorTone(signal: IndicatorSignal | SummarySignal) {
+  if (signal === "bullish") {
+    return "good";
+  }
+
+  if (signal === "bearish") {
+    return "bad";
+  }
+
+  return "warn";
+}
+
+function IndicatorStat({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="indicator-stat">
+      <span className="label">{label}</span>
+      <strong>{value}</strong>
+    </div>
+  );
+}
+
+function IndicatorCard({
+  title,
+  meta,
+  signal,
+  detail,
+  children,
+}: {
+  title: string;
+  meta: string;
+  signal: IndicatorSignal | SummarySignal;
+  detail: string;
+  children: ReactNode;
+}) {
+  const tone = indicatorTone(signal);
+
+  return (
+    <section className={`indicator-card ${tone}`}>
+      <div className="split aligned">
+        <div className="stack compact-gap">
+          <div className="row wrap">
+            <h3 className="section-title">{title}</h3>
+            <span className="subtle">{meta}</span>
+          </div>
+          <div className="muted">{detail}</div>
+        </div>
+      </div>
+      <div className="indicator-stat-grid">{children}</div>
+    </section>
+  );
+}
+
+function IndicatorsStep({ prices }: { prices: PriceHistory }) {
+  const indicators = useMemo(
+    () => buildTechnicalIndicators(prices.history),
+    [prices.history],
+  );
+  const macd = indicators.macd;
+  const stochastics = indicators.stochastics;
+  const movingAverage = indicators.movingAverage;
+  const summary = indicators.summary;
+
+  return (
+    <div className="stack">
+      <div className="qualitative-header">
+        <h2 className="section-title">Indicators</h2>
+      </div>
+
+      <div className="indicator-grid">
+        <IndicatorCard
+          title="MACD"
+          meta={`${macd.fastPeriod}/${macd.slowPeriod}/${macd.signalPeriod}`}
+          signal={macd.signal}
+          detail={macd.detail}
+        >
+          <IndicatorStat label="MACD" value={formatNumber(macd.latest?.macd, 3)} />
+          <IndicatorStat label="Signal" value={formatNumber(macd.latest?.signal, 3)} />
+          <IndicatorStat label="Histogram" value={formatNumber(macd.latest?.histogram, 3)} />
+        </IndicatorCard>
+
+        <IndicatorCard
+          title="Stochastics"
+          meta={`${stochastics.period}/${stochastics.signalPeriod}`}
+          signal={stochastics.signal}
+          detail={stochastics.detail}
+        >
+          <IndicatorStat label="%K" value={formatNumber(stochastics.latest?.k, 1)} />
+          <IndicatorStat label="%D" value={formatNumber(stochastics.latest?.d, 1)} />
+          <IndicatorStat label="Range" value="20 / 80" />
+        </IndicatorCard>
+
+        <IndicatorCard
+          title="Moving Average"
+          meta={`${movingAverage.period} day`}
+          signal={movingAverage.signal}
+          detail={movingAverage.detail}
+        >
+          <IndicatorStat label="Close" value={formatCurrency(movingAverage.latest?.close)} />
+          <IndicatorStat label="Average" value={formatCurrency(movingAverage.latest?.average)} />
+          <IndicatorStat label="Date" value={formatDate(movingAverage.latest?.date)} />
+        </IndicatorCard>
+
+        <IndicatorCard
+          title="Three Tools"
+          meta={`${summary.availableCount}/${summary.totalCount}`}
+          signal={summary.signal}
+          detail={summary.detail}
+        >
+          <IndicatorStat label="Overall" value={summary.label} />
+          <IndicatorStat label="Bullish" value={String(summary.bullishCount)} />
+          <IndicatorStat label="Bearish" value={String(summary.bearishCount)} />
+        </IndicatorCard>
       </div>
     </div>
   );

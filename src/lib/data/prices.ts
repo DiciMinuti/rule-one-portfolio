@@ -25,6 +25,9 @@ type YahooChartResponse = {
         indicators?: {
           quote?: [
             {
+              open?: Array<number | null>;
+              high?: Array<number | null>;
+              low?: Array<number | null>;
               close?: Array<number | null>;
             },
           ];
@@ -51,7 +54,10 @@ function parseStooqCsv(csv: string): PricePoint[] {
 
   return dataRows
     .map((row) => {
-      const [date, , , , close] = row.split(",");
+      const [date, open, high, low, close] = row.split(",");
+      const openNumber = Number(open);
+      const highNumber = Number(high);
+      const lowNumber = Number(low);
       const closeNumber = Number(close);
 
       if (!date || !Number.isFinite(closeNumber)) {
@@ -60,6 +66,9 @@ function parseStooqCsv(csv: string): PricePoint[] {
 
       return {
         date,
+        ...(Number.isFinite(openNumber) ? { open: openNumber } : {}),
+        ...(Number.isFinite(highNumber) ? { high: highNumber } : {}),
+        ...(Number.isFinite(lowNumber) ? { low: lowNumber } : {}),
         close: closeNumber,
       };
     })
@@ -111,10 +120,17 @@ function parseYahooChart(symbol: string, data: YahooChartResponse, url: string):
 
   const result = data.chart?.result?.[0];
   const timestamps = result?.timestamp ?? [];
-  const closes = result?.indicators?.quote?.[0]?.close ?? [];
+  const quote = result?.indicators?.quote?.[0];
+  const opens = quote?.open ?? [];
+  const highs = quote?.high ?? [];
+  const lows = quote?.low ?? [];
+  const closes = quote?.close ?? [];
   const splits = parseYahooSplits(result?.events?.splits);
   const history = timestamps
     .map((timestamp, index) => {
+      const open = opens[index];
+      const high = highs[index];
+      const low = lows[index];
       const close = closes[index];
       if (!Number.isFinite(timestamp) || !Number.isFinite(close)) {
         return undefined;
@@ -122,6 +138,9 @@ function parseYahooChart(symbol: string, data: YahooChartResponse, url: string):
 
       return {
         date: new Date(timestamp * 1000).toISOString().slice(0, 10),
+        ...(Number.isFinite(open) ? { open: open as number } : {}),
+        ...(Number.isFinite(high) ? { high: high as number } : {}),
+        ...(Number.isFinite(low) ? { low: low as number } : {}),
         close: close as number,
       };
     })
