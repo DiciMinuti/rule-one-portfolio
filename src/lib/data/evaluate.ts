@@ -42,8 +42,13 @@ export async function evaluateCompany(
             : undefined,
         );
   const filings = filingsResult.status === "fulfilled" ? filingsResult.value : [];
-  const bigFive = buildBigFive(financials);
-  const assumptions = deriveDefaultAssumptions(financials, prices.latest?.close ?? 0, prices.history);
+  const bigFive = buildBigFive(financials, undefined, prices.splits);
+  const assumptions = deriveDefaultAssumptions(
+    financials,
+    prices.latest?.close ?? 0,
+    prices.history,
+    prices.splits,
+  );
   const businessGrade = deriveBusinessGrade({ bigFive });
   const valuation = calculateValuation(assumptions, businessGrade);
 

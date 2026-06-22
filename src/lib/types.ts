@@ -143,10 +143,17 @@ export type PricePoint = {
   close: number;
 };
 
+export type StockSplit = {
+  date: string;
+  numerator: number;
+  denominator: number;
+};
+
 export type PriceHistory = {
   symbol: string;
   latest?: PricePoint;
   history: PricePoint[];
+  splits?: StockSplit[];
   source: DataSourceRef;
 };
 

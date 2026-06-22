@@ -7,6 +7,7 @@ import type {
   GrowthWindow,
   MetricStatus,
   PricePoint,
+  StockSplit,
   ValuationAssumptions,
   ValuationResult,
 } from "@/lib/types";
@@ -101,14 +102,6 @@ function average(values: number[]) {
   }
 
   return values.reduce((sum, value) => sum + value, 0) / values.length;
-}
-
-function usableGrowth(value: number | null | undefined) {
-  if (!isFiniteNumber(value)) {
-    return null;
-  }
-
-  return Math.max(0, value);
 }
 
 export function deriveEps(netIncome?: number, dilutedShares?: number) {
@@ -216,6 +209,7 @@ function roicMetric(financials: AnnualFinancials[], threshold: number): BigFiveM
 export function buildBigFive(
   financials: AnnualFinancials[],
   threshold = DEFAULT_BIG_FIVE_THRESHOLD,
+  splits: StockSplit[] = [],
 ): BigFiveResult {
   const sorted = financials.toSorted((a, b) => a.fiscalYear - b.fiscalYear);
   const metrics: BigFiveMetric[] = [
@@ -232,7 +226,7 @@ export function buildBigFive(
       "EPS growth",
       sorted.map((row) => ({
         fiscalYear: row.fiscalYear,
-        value: row.epsDiluted ?? deriveEps(row.netIncome, row.sharesDiluted) ?? null,
+        value: splitAdjustedEps(row, splits),
       })),
       threshold,
       "Diluted EPS CAGR",
@@ -242,7 +236,12 @@ export function buildBigFive(
       "Equity growth",
       sorted.map((row) => ({
         fiscalYear: row.fiscalYear,
-        value: bookValuePerShare(row.stockholdersEquity, row.sharesDiluted) ?? row.stockholdersEquity ?? null,
+        value:
+          splitAdjustedPerShareValue(
+            bookValuePerShare(row.stockholdersEquity, row.sharesDiluted),
+            row.fiscalYear,
+            splits,
+          ) ?? row.stockholdersEquity ?? null,
       })),
       threshold,
       "Book value per share CAGR",
@@ -256,7 +255,10 @@ export function buildBigFive(
           isFiniteNumber(cashFlow) && isFiniteNumber(row.sharesDiluted) && row.sharesDiluted > 0
             ? cashFlow / row.sharesDiluted
             : cashFlow;
-        return { fiscalYear: row.fiscalYear, value: perShare ?? null };
+        return {
+          fiscalYear: row.fiscalYear,
+          value: splitAdjustedPerShareValue(perShare, row.fiscalYear, splits) ?? null,
+        };
       }),
       threshold,
       "Free cash flow per share CAGR",
@@ -339,25 +341,63 @@ export function selectRuleOneGrowthRate(
   analystGrowthRate?: number,
   cap = DEFAULT_MAX_GROWTH_RATE,
 ) {
-  const candidates = [historicalGrowthRate, analystGrowthRate]
-    .filter(isFiniteNumber)
-    .map((growthRate) => Math.max(0, Math.min(cap, growthRate)));
+  const positiveHistoricalGrowth =
+    isFiniteNumber(historicalGrowthRate) && historicalGrowthRate > 0
+      ? Math.min(cap, historicalGrowthRate)
+      : undefined;
+  const positiveAnalystGrowth =
+    isFiniteNumber(analystGrowthRate) && analystGrowthRate > 0
+      ? Math.min(cap, analystGrowthRate)
+      : undefined;
+  const candidates = [positiveHistoricalGrowth, positiveAnalystGrowth].filter(isFiniteNumber);
 
   return candidates.length ? Math.min(...candidates) : 0;
 }
 
-export function deriveHistoricalEpsGrowthRate(financials: AnnualFinancials[]) {
+function splitAdjustmentFactor(fiscalYear: number, splits: StockSplit[]) {
+  const fiscalYearEnd = `${fiscalYear}-12-31`;
+  return splits
+    .filter(
+      (split) =>
+        split.date > fiscalYearEnd &&
+        isFiniteNumber(split.numerator) &&
+        split.numerator > 0 &&
+        isFiniteNumber(split.denominator) &&
+        split.denominator > 0,
+    )
+    .reduce((factor, split) => factor * (split.denominator / split.numerator), 1);
+}
+
+function splitAdjustedPerShareValue(
+  value: number | null | undefined,
+  fiscalYear: number,
+  splits: StockSplit[],
+) {
+  if (!isFiniteNumber(value)) {
+    return null;
+  }
+
+  return value * splitAdjustmentFactor(fiscalYear, splits);
+}
+
+function splitAdjustedEps(row: AnnualFinancials, splits: StockSplit[]) {
+  const eps = row.epsDiluted ?? deriveEps(row.netIncome, row.sharesDiluted);
+  return splitAdjustedPerShareValue(eps, row.fiscalYear, splits);
+}
+
+export function deriveHistoricalEpsGrowthRate(
+  financials: AnnualFinancials[],
+  splits: StockSplit[] = [],
+) {
   const sorted = financials.toSorted((a, b) => a.fiscalYear - b.fiscalYear);
   return (
-    usableGrowth(
-      calculateGrowthWindow(
-        sorted.map((row) => ({
-          fiscalYear: row.fiscalYear,
-          value: row.epsDiluted ?? deriveEps(row.netIncome, row.sharesDiluted) ?? null,
-        })),
-        DEFAULT_YEARS,
-      ).value,
-    ) ?? undefined
+    calculateGrowthWindow(
+      sorted.map((row) => ({
+        fiscalYear: row.fiscalYear,
+        value: splitAdjustedEps(row, splits),
+      })),
+      DEFAULT_YEARS,
+    ).value ?? undefined
   );
 }
 
@@ -375,12 +415,16 @@ function yearEndCloseByFiscalYear(priceHistory: PricePoint[]) {
     }, new Map<number, number>());
 }
 
-export function deriveHistoricalPe(financials: AnnualFinancials[], priceHistory: PricePoint[] = []) {
+export function deriveHistoricalPe(
+  financials: AnnualFinancials[],
+  priceHistory: PricePoint[] = [],
+  splits: StockSplit[] = [],
+) {
   const pricesByYear = yearEndCloseByFiscalYear(priceHistory);
   const ratios = financials
     .toSorted((a, b) => a.fiscalYear - b.fiscalYear)
     .map((row) => {
-      const eps = row.epsDiluted ?? deriveEps(row.netIncome, row.sharesDiluted);
+      const eps = splitAdjustedEps(row, splits);
       const price = pricesByYear.get(row.fiscalYear);
 
       if (!isFiniteNumber(eps) || eps <= 0 || !isFiniteNumber(price) || price <= 0) {
@@ -435,7 +479,11 @@ export function calculateValuation(
   }
 
   if (!isFiniteNumber(futurePe) || futurePe <= 0) {
-    warnings.push("Future PE needs a positive value.");
+    warnings.push(
+      isFiniteNumber(growthRate) && growthRate === 0
+        ? "Growth rate is 0%, so future PE is 0. Enter a growth rate to calculate sticker price."
+        : "Future PE needs a positive value.",
+    );
   }
 
   if (
@@ -495,12 +543,13 @@ export function deriveDefaultAssumptions(
   financials: AnnualFinancials[],
   currentPrice: number,
   priceHistory: PricePoint[] = [],
+  splits: StockSplit[] = [],
   overrides?: Partial<ValuationAssumptions>,
 ): ValuationAssumptions {
   const latest = latestAnnualFinancial(financials);
   const eps = latest?.epsDiluted ?? deriveEps(latest?.netIncome, latest?.sharesDiluted) ?? 0;
-  const historicalGrowthRate = deriveHistoricalEpsGrowthRate(financials);
-  const historicalPe = deriveHistoricalPe(financials, priceHistory);
+  const historicalGrowthRate = deriveHistoricalEpsGrowthRate(financials, splits);
+  const historicalPe = deriveHistoricalPe(financials, priceHistory, splits);
   const baseAssumptions = {
     eps,
     historicalGrowthRate,

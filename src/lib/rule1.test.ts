@@ -40,6 +40,7 @@ describe("Rule #1 calculations", () => {
   it("uses the lower historical or analyst growth rate with a 15% auto cap", () => {
     expect(selectRuleOneGrowthRate(0.12, undefined)).toBe(0.12);
     expect(selectRuleOneGrowthRate(0.12, 0.08)).toBe(0.08);
+    expect(selectRuleOneGrowthRate(-0.02, 0.08)).toBe(0.08);
     expect(selectRuleOneGrowthRate(0.25, undefined)).toBe(0.15);
   });
 
@@ -113,11 +114,78 @@ describe("Rule #1 calculations", () => {
       financials,
       priceHistory.at(-1)?.close ?? 0,
       priceHistory,
+      [],
       { analystGrowthRate: 0.08 },
     );
 
     expect(assumptions.growthRate).toBeCloseTo(0.08, 4);
     expect(assumptions.futurePe).toBeCloseTo(16, 2);
+  });
+
+  it("uses analyst growth when historical EPS growth is negative", () => {
+    const assumptions = deriveDefaultAssumptions(
+      [
+        { fiscalYear: 2015, epsDiluted: 10, sourceFacts: {} },
+        { fiscalYear: 2025, epsDiluted: 8, sourceFacts: {} },
+      ],
+      100,
+      [],
+      [],
+      { analystGrowthRate: 0.07 },
+    );
+
+    expect(assumptions.historicalGrowthRate).toBeLessThan(0);
+    expect(assumptions.growthRate).toBeCloseTo(0.07, 4);
+    expect(assumptions.futurePe).toBeCloseTo(14, 2);
+  });
+
+  it("adjusts old EPS for stock splits before calculating 10-year growth", () => {
+    const assumptions = deriveDefaultAssumptions(
+      [
+        { fiscalYear: 2015, epsDiluted: 9.22, sourceFacts: {} },
+        { fiscalYear: 2025, epsDiluted: 7.46, sourceFacts: {} },
+      ],
+      298.84,
+      [],
+      [{ date: "2020-08-31", numerator: 4, denominator: 1 }],
+    );
+
+    expect(assumptions.historicalGrowthRate).toBeCloseTo(0.1246, 4);
+    expect(assumptions.growthRate).toBeCloseTo(0.1246, 4);
+    expect(assumptions.futurePe).toBeCloseTo(24.92, 2);
+  });
+
+  it("uses split-adjusted EPS growth in Big Five results", () => {
+    const bigFive = buildBigFive(
+      [
+        { fiscalYear: 2015, epsDiluted: 9.22, sourceFacts: {} },
+        { fiscalYear: 2025, epsDiluted: 7.46, sourceFacts: {} },
+      ],
+      undefined,
+      [{ date: "2020-08-31", numerator: 4, denominator: 1 }],
+    );
+    const epsGrowth = bigFive.metrics.find((metric) => metric.id === "epsGrowth");
+
+    expect(epsGrowth?.windows[10].value).toBeCloseTo(0.1246, 4);
+    expect(epsGrowth?.status).toBe("healthy");
+  });
+
+  it("uses split-adjusted EPS when calculating historical PE", () => {
+    const assumptions = deriveDefaultAssumptions(
+      [
+        { fiscalYear: 2015, epsDiluted: 9.22, sourceFacts: {} },
+        { fiscalYear: 2025, epsDiluted: 7.46, sourceFacts: {} },
+      ],
+      186.5,
+      [
+        { date: "2015-12-31", close: 46.1 },
+        { date: "2025-12-31", close: 186.5 },
+      ],
+      [{ date: "2020-08-31", numerator: 4, denominator: 1 }],
+    );
+
+    expect(assumptions.historicalPe).toBeCloseTo(22.5, 1);
+    expect(assumptions.futurePe).toBeCloseTo(22.5, 1);
   });
 
   it("caps automatic growth at 15%", () => {

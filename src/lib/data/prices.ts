@@ -1,4 +1,4 @@
-import type { PriceHistory, PricePoint } from "@/lib/types";
+import type { PriceHistory, PricePoint, StockSplit } from "@/lib/types";
 import https from "node:https";
 
 const STOOQ_DAILY_URL = "https://stooq.com/q/d/l/";
@@ -6,6 +6,13 @@ const YAHOO_CHART_URL = "https://query2.finance.yahoo.com/v8/finance/chart";
 const STOOQ_USER_AGENT =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125 Safari/537.36";
 const YAHOO_USER_AGENT = "Mozilla/5.0";
+
+type YahooSplitEvent = {
+  date?: number;
+  numerator?: number;
+  denominator?: number;
+  splitRatio?: string;
+};
 
 type YahooChartResponse = {
   chart?: {
@@ -21,6 +28,9 @@ type YahooChartResponse = {
               close?: Array<number | null>;
             },
           ];
+        };
+        events?: {
+          splits?: Record<string, YahooSplitEvent>;
         };
       },
     ];
@@ -102,6 +112,7 @@ function parseYahooChart(symbol: string, data: YahooChartResponse, url: string):
   const result = data.chart?.result?.[0];
   const timestamps = result?.timestamp ?? [];
   const closes = result?.indicators?.quote?.[0]?.close ?? [];
+  const splits = parseYahooSplits(result?.events?.splits);
   const history = timestamps
     .map((timestamp, index) => {
       const close = closes[index];
@@ -135,6 +146,7 @@ function parseYahooChart(symbol: string, data: YahooChartResponse, url: string):
     symbol: symbol.toUpperCase(),
     latest,
     history: history.slice(-2600),
+    splits,
     source: {
       label: "Yahoo Finance public chart",
       url,
@@ -147,9 +159,44 @@ function parseYahooChart(symbol: string, data: YahooChartResponse, url: string):
 
 async function getYahooPriceHistory(symbol: string): Promise<PriceHistory> {
   const normalizedSymbol = symbol.trim().toUpperCase();
-  const url = `${YAHOO_CHART_URL}/${encodeURIComponent(normalizedSymbol)}?range=10y&interval=1d`;
+  const url = `${YAHOO_CHART_URL}/${encodeURIComponent(normalizedSymbol)}?range=10y&interval=1d&events=split`;
   const data = await getJsonWithHttps<YahooChartResponse>(url);
   return parseYahooChart(normalizedSymbol, data, url);
+}
+
+function parseYahooSplits(splits: Record<string, YahooSplitEvent> | undefined) {
+  return Object.values(splits ?? {})
+    .map((split): StockSplit | undefined => {
+      const date = split.date;
+      const numerator = split.numerator;
+      const denominator = split.denominator;
+
+      if (
+        !Number.isFinite(date) ||
+        !Number.isFinite(numerator) ||
+        !Number.isFinite(denominator) ||
+        !numerator ||
+        !denominator
+      ) {
+        return undefined;
+      }
+
+      return {
+        date: new Date((date as number) * 1000).toISOString().slice(0, 10),
+        numerator: numerator as number,
+        denominator: denominator as number,
+      };
+    })
+    .filter((split): split is StockSplit => Boolean(split))
+    .toSorted((a, b) => a.date.localeCompare(b.date));
+}
+
+async function getYahooSplitHistory(symbol: string) {
+  const normalizedSymbol = symbol.trim().toUpperCase();
+  const url = `${YAHOO_CHART_URL}/${encodeURIComponent(normalizedSymbol)}?range=10y&interval=1d&events=split`;
+  const data = await getJsonWithHttps<YahooChartResponse>(url);
+  const result = data.chart?.result?.[0];
+  return parseYahooSplits(result?.events?.splits);
 }
 
 function getJsonWithHttps<T>(url: string): Promise<T> {
@@ -195,7 +242,13 @@ export async function getPriceHistory(symbol: string): Promise<PriceHistory> {
   const failures: string[] = [];
 
   try {
-    return await getStooqPriceHistory(symbol);
+    const stooq = await getStooqPriceHistory(symbol);
+    try {
+      const splits = await getYahooSplitHistory(symbol);
+      return { ...stooq, splits };
+    } catch {
+      return stooq;
+    }
   } catch (error) {
     failures.push(error instanceof Error ? error.message : "Stooq price request failed.");
   }

@@ -59,8 +59,8 @@ Default assumptions:
 - Required return: 15%.
 - Horizon: 10 years.
 - MOS discount: 50%.
-- Future PE: lower of historical high/average PE and 2x selected growth rate, with user override.
-- Future growth: lower of 10-year EPS growth and analyst growth when an analyst estimate is entered, capped at 15% by default. Since free analyst data may not be reliable, manual entry must be first-class.
+- Future PE: lower of historical high/average PE and 2x selected growth rate, with user override. Historical PE should use split-adjusted EPS when split data is available.
+- Future growth: lower of split-adjusted 10-year EPS growth and analyst growth when both are positive, capped at 15% by default. If historical EPS growth is zero or negative and analyst growth is positive, use analyst growth. Since free analyst data may not be reliable, manual entry must be first-class.
 
 Formula:
 

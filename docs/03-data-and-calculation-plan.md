@@ -257,8 +257,8 @@ Defaults:
 - Required return: `0.15`.
 - Years: `10`.
 - Margin of safety: `0.5`.
-- Growth rate: lower of 10-year EPS growth and analyst growth when an analyst estimate is entered, capped at 15% for automatic defaults.
-- Future PE: `min(historicalPeCap, growthRate * 2 * 100)` where percent handling must be explicit in code.
+- Growth rate: lower of split-adjusted 10-year EPS growth and analyst growth when both are positive, capped at 15% for automatic defaults. If historical EPS growth is zero or negative and analyst growth is positive, use analyst growth.
+- Future PE: `min(historicalPeCap, growthRate * 2 * 100)` where percent handling must be explicit in code. Historical PE should use split-adjusted EPS when split data is available.
 
 Implementation note:
 

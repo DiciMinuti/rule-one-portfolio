@@ -339,8 +339,13 @@ export function EvaluationWorkspace() {
       });
 
       setLoadSteps((current) => updateLoadStep(current, "calculation", "loading"));
-      const bigFive = buildBigFive(financials);
-      const nextAssumptions = deriveDefaultAssumptions(financials, prices.latest?.close ?? 0, prices.history);
+      const bigFive = buildBigFive(financials, undefined, prices.splits);
+      const nextAssumptions = deriveDefaultAssumptions(
+        financials,
+        prices.latest?.close ?? 0,
+        prices.history,
+        prices.splits,
+      );
       setLoaded({
         profile: profileData.profile,
         financials,
