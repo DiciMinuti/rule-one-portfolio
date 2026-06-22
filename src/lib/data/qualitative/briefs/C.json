@@ -1,0 +1,90 @@
+{
+  "symbol": "C",
+  "companyName": "Citigroup",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Citigroup is led by Jane Fraser as both Chair of the Board and Chief Executive Officer, with Mark A. L. Mason as Chief Financial Officer and Brent J. McIntosh as Chief Legal Officer and Corporate Secretary. The leadership team is managing a large national commercial bank while also executing a multiyear transformation tied to risk, controls, data quality, and internal control remediation.",
+        "points": [
+          "Jane Fraser holds the combined Chair and CEO role, while John Dugan serves as Lead Independent Director, giving the board a named independent leadership counterweight.",
+          "Management is overseeing five reported operating segments: Services, Markets, Banking, Wealth, and US Personal Banking, which makes execution more complex than a single-line banking model.",
+          "The company says it has embarked on a multiyear transformation aimed at strengthening risk and controls while improving value to customers, clients, and shareholders.",
+          "Leadership still carries remediation burden from 2020 FRB and OCC consent orders and 2024 civil money penalty consent orders tied to remediation shortcomings."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Citigroup returned over $17.5 billion to stockholders in 2025, split between $13.250 billion of common stock repurchases and $4.340 billion of common dividends. Capital returns were made while the company ended 2025 with a 13.2% CET1 capital ratio, roughly 160 basis points above its minimum regulatory requirement.",
+        "points": [
+          "The 2025 capital return mix leaned heavily toward buybacks, with $13.250 billion of common stock repurchases compared with $4.340 billion of common dividends.",
+          "Citigroup ended 2025 with $208.598 billion of stockholders' equity and long-term debt of $287.3 billion, underscoring the balance-sheet scale and leverage of the bank.",
+          "The company reported FY2025 net income of $9.228 billion on revenues of $78.066 billion, giving management room for returns but not eliminating execution risk.",
+          "Portfolio simplification continued through non-core exits outside the United States, including Banamex progress, an agreement to sell Poland consumer operations, and the AO Citibank Russia sale."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Citigroup's 2026 proxy gives investors several direct alignment markers: a 2025 capital return above $17.5 billion, an advisory vote on executive compensation, and a proposal to approve additional shares for the 2019 Stock Incentive Plan. The company also reports 2025 RoTCE of 8.8% excluding notable items, a useful profitability measure for common shareholders.",
+        "points": [
+          "Common shareholders received both dividends and buybacks in 2025, with repurchases representing the larger portion of the more than $17.5 billion total return.",
+          "The proxy includes an advisory vote to approve 2025 executive compensation, giving stockholders a formal annual channel to express views on pay decisions.",
+          "The Annual Meeting materials ask shareholders to approve additional shares for the Citigroup 2019 Stock Incentive Plan, tying part of compensation governance to equity authorization.",
+          "Citigroup's 2025 RoTCE was 8.8% excluding notable items, while reported results also included Russia held-for-sale accounting impacts and a Mexico goodwill impairment charge."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Citigroup provides investors with formal SEC reporting that breaks the company into Services, Markets, Banking, Wealth, and US Personal Banking. Its 10-K glossary also defines specific business activities, including Treasury and Trade Solutions, Branded Cards, Retail Services, commercial cards, International region clusters, and Wealth net new investment asset flows.",
+        "points": [
+          "The 10-K lists operating segments as Services, Markets, Banking, Wealth, and US Personal Banking, giving investors a structured view of the company's major business lines.",
+          "Citigroup's glossary defines Treasury and Trade Solutions as cash management and trade-related services, and commercial cards as payment services for corporate and public sector clients.",
+          "The company discloses Retail Services relationships by name, including The Home Depot, Best Buy, and Macy's, rather than describing the U.S. cards business only generically.",
+          "The 2026 proxy provides specific capital and profitability disclosures, including 2025 capital returns, a 13.2% CET1 ratio, and 8.8% RoTCE excluding notable items."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Citigroup's governance structure includes 13 directors up for election, Jane Fraser as combined Chair and CEO, and John Dugan as Lead Independent Director. The key governance issue for investors is oversight of risk and controls, because the company remains tied to 2020 FRB and OCC consent orders and 2024 civil money penalty consent orders addressing remediation shortcomings.",
+        "points": [
+          "Stockholders are being asked to elect 13 directors at the 2026 Annual Meeting, giving investors a direct vote on the full board slate described in the materials.",
+          "Jane Fraser combines the Chair and CEO roles, while John Dugan is identified as Lead Independent Director, a relevant structure for board oversight assessment.",
+          "The board and management must oversee remediation tied to enterprise-wide risk management, compliance, data quality management related to governance, and internal controls.",
+          "Governance materials include both an advisory vote on 2025 executive compensation and a request for more shares under the 2019 Stock Incentive Plan."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Diversified banking scale",
+        "grade": "middle",
+        "summary": "Citigroup has significant scale, with FY2025 revenues of $78.066 billion, net income of $9.228 billion, and stockholders' equity of $208.598 billion. The bank operates across Services, Markets, Banking, Wealth, and US Personal Banking, which gives it multiple revenue sources but also adds complexity and regulatory oversight demands."
+      },
+      {
+        "type": "Global operating footprint",
+        "grade": "middle",
+        "summary": "Citigroup's International region spans six disclosed clusters: United Kingdom; Japan, Asia North and Australia; LATAM; Asia South; Europe; and Middle East, Africa and Russia. That footprint supports a broad banking network for multinational activity, although the company is also simplifying through non-core exits such as Banamex progress, Poland consumer sale agreement, and Russia sale completion."
+      },
+      {
+        "type": "Treasury, trade, and commercial card services",
+        "grade": "middle",
+        "summary": "Citigroup's Treasury and Trade Solutions business provides cash management and trade-related services, while commercial cards support procurement, corporate travel and entertainment, expense management, and business-to-business payments for corporate and public sector clients. These services can be embedded in client workflows, but the packet does not provide retention rates or market-share data."
+      },
+      {
+        "type": "Card partnership relationships",
+        "grade": "middle",
+        "summary": "Citigroup's U.S. Retail Services cards business includes co-brand and private label relationships with named retailers including The Home Depot, Best Buy, and Macy's. Its Branded Cards business also includes proprietary cards, co-branded cards, and personal installment loans, giving the company several consumer credit channels without proving a durable pricing advantage from the packet alone."
+      }
+    ]
+  }
+}

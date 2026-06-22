@@ -1,0 +1,122 @@
+{
+  "symbol": "VZ",
+  "companyName": "Verizon",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "identity",
+      "statement": "Verizon Communications Inc. is identified in SEC submissions as a company with ticker VZ and listing on the NYSE.",
+      "source": "https://data.sec.gov/submissions/CIK0000732712.json"
+    },
+    {
+      "topic": "industry classification",
+      "statement": "Verizon's SEC submission metadata describes its SIC industry as Telephone Communications (No Radiotelephone).",
+      "source": "https://data.sec.gov/submissions/CIK0000732712.json"
+    },
+    {
+      "topic": "business model",
+      "statement": "Verizon's 2025 annual report describes operations across Verizon Consumer and Verizon Business, and also refers to wireless and wireline contracts and services in its disclosures.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "financial scale",
+      "statement": "Verizon reported FY2025 revenue of $133.974 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "Verizon reported FY2025 net income of $11.614 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "Verizon reported FY2025 operating cash flow of $37.475 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "Verizon reported cash and equivalents of $4.194 billion at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json"
+    },
+    {
+      "topic": "capital intensity",
+      "statement": "Verizon's 2025 annual report disclosed depreciation expense of $15.350 billion for 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "capital intensity",
+      "statement": "Verizon's 2025 annual report disclosed capitalized interest costs of $(740) million for 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "debt burden",
+      "statement": "Verizon's company facts data show long-term debt of $47.618 billion for FY2013; the 2025 annual report also lists numerous long-dated debt securities outstanding, including notes due in 2037, 2045, 2055, and 2065.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000732712.json"
+    },
+    {
+      "topic": "debt servicing",
+      "statement": "Verizon's 2025 annual report disclosed interest costs on debt balances of $7.291 billion for 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "working capital / receivables",
+      "statement": "Verizon's Schedule II in the 2025 annual report shows an allowance for credit losses deducted from accounts receivable of $2.045 billion at year-end 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "customer credit exposure",
+      "statement": "Verizon's Schedule II says that approximately $794 million of the 2025 allowance for credit losses related to long-term device payment receivables.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "supplier finance",
+      "statement": "Verizon maintained a voluntary supplier finance program in 2025; confirmed obligations outstanding under the program were $723 million at December 31, 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "supplier finance terms",
+      "statement": "Verizon disclosed that suppliers in its supplier finance program may sell receivables to a financial institution on a non-recourse basis, that Verizon pays the financial institution according to original invoice terms generally at 90 days, and that Verizon does not pledge assets or provide guarantees in connection with the program.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "litigation risk",
+      "statement": "Verizon disclosed that it is involved in approximately 30 federal district court actions alleging patent infringement.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "regulatory/legal risk",
+      "statement": "Verizon stated that it is involved in various litigation and regulatory proceedings at the state and federal level, and that future resolution of pending matters could have a material effect on results of operations for a given reporting period.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "commitments",
+      "statement": "Verizon estimated unconditional purchase obligations with terms greater than one year at $15.0 billion, including commitments to purchase content, network equipment, software and services, marketing services and other items.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "renewable energy contracts",
+      "statement": "Verizon disclosed 29 renewable energy purchase agreements as of December 31, 2025; 21 of the associated facilities had entered commercial operation and the remainder were under development.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "governance",
+      "statement": "Verizon's proxy materials state that shareholders were asked to elect nine directors at the 2026 annual meeting, approve executive compensation on an advisory basis, approve the 2026 Long-Term Incentive Plan, and ratify the independent auditor.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000130817926000210/vz014688_def14a.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "Verizon's 2025 annual report identifies Daniel Schulman as Chief Executive Officer, Anthony Skiadas as Chief Financial Officer, and Mary-Lee Stillwell as Senior Vice President and Controller.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "management transition",
+      "statement": "Verizon's 2025 annual report says Daniel Schulman joined as Chief Executive Officer in October 2025, and that Alfonso Villanueva Rodriguez joined Verizon in November 2025 as Chief Transformation Officer and began his current role in February 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    },
+    {
+      "topic": "internal controls",
+      "statement": "Verizon's management concluded that disclosure controls and procedures were effective as of December 31, 2025, and that internal control over financial reporting was effective with no material weaknesses identified.",
+      "source": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+    }
+  ]
+}

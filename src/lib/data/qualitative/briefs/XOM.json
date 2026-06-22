@@ -1,0 +1,87 @@
+{
+  "symbol": "XOM",
+  "companyName": "Exxon Mobil",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Exxon Mobil is led by Darren W. Woods as Chairman and principal executive officer, with Neil A. Hansen as Senior Vice President and CFO and Len M. Fox as Controller, Tax, and principal accounting officer. The leadership message emphasizes scale, integration, technology, operations, and a portfolio shift toward advantaged production in the Permian Basin, Guyana, and LNG.",
+        "points": [
+          "Darren W. Woods' proxy letter frames ExxonMobil's competitive position around scale, integration, technology, and operations rather than a single commodity or geography.",
+          "Management identifies Permian Basin, Guyana, and LNG production as a growing share of output, described as lower cost of supply, lower emissions intensity, and higher unit earnings.",
+          "The senior finance structure named in the 2025 Form 10-K includes Neil A. Hansen as CFO and Len M. Fox as principal accounting officer, supporting accountability for a very large balance sheet."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation is large and asset-heavy, consistent with an integrated oil and gas business. ExxonMobil generated FY2025 operating cash flow of $55.369 billion, spent $28.997 billion of Cash Capital Expenditures, and reported $23.029 billion of cash and equivalents alongside $263.705 billion of stockholders' equity.",
+        "points": [
+          "Cash Capital Expenditures were $28.997 billion in 2025, up from $25.647 billion in 2024, showing management is still investing heavily through the cycle.",
+          "FY2025 operating cash flow of $55.369 billion covered a capital program almost half that size, leaving room for balance-sheet flexibility before considering other uses of cash.",
+          "The company reported $900 million of FY2025 R&D expense, with the proxy identifying Proxxima resin systems, carbon materials, and Low Carbon Solutions as emerging platforms."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports some alignment evidence, but not enough detail to grade it as exceptional. Darren W. Woods' proxy letter cites five-year total annualized shareholder returns of 29% through December 31, 2025, while the 10-K lists equity and incentive programs including restricted stock units and short-term incentives.",
+        "points": [
+          "The proxy states ExxonMobil led all IOCs with five-year total annualized shareholder returns of 29% for the period ending December 31, 2025, sourced from FactSet.",
+          "The 10-K exhibit index lists the 2003 Incentive Program, Restricted Stock Unit Agreements, Short Term Incentive Program, and Earnings Bonus Unit instrument among compensatory plans.",
+          "The packet does not provide executive ownership levels, payout formulas, or performance targets, so alignment cannot be judged beyond the disclosed plans and cited shareholder-return record."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "ExxonMobil provides investors with detailed SEC-based reporting across financial statements, reserves, segments, and proxy materials. The packet includes FY2025 revenue, net income, operating cash flow, R&D, balance-sheet figures, reserve quantities, standardized reserve cash-flow measures, segment categories, and proxy-level non-GAAP Cash Capex disclosure.",
+        "points": [
+          "The 2025 Form 10-K reports segment data across Upstream, Energy Products, Chemical Products, Specialty Products, operating segments, and Corporate Non-Segment categories with U.S. and Non-U.S. dimensions.",
+          "SEC company facts provide FY2025 revenue of $344.582 billion, net income of $36.010 billion, operating cash flow of $55.369 billion, R&D expense of $900 million, and cash of $23.029 billion.",
+          "The 10-K reports total proved reserves of 19.311 billion oil-equivalent barrels and explicitly warns that standardized discounted future net cash flows are not a reliable reserve value estimate.",
+          "The proxy defines Cash Capital Expenditures as a non-GAAP measure and reports 2025 Cash Capex of $28.997 billion, allowing investors to compare capital intensity with operating cash flow."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures show a formal board and policy framework, but the packet does not provide enough detail to assess board independence, ownership levels, or compensation rigor. Darren W. Woods is Chairman and principal executive officer, Joseph L. Hooley is Lead Director, and the proxy lists 12 director nominees.",
+        "points": [
+          "The 2026 annual meeting agenda includes director elections, ratification of PricewaterhouseCoopers LLP, an advisory executive compensation vote, redomiciliation from New Jersey to Texas, and shareholder proposals.",
+          "The 10-K exhibit index includes a Code of Ethics and Business Conduct, an Insider Trading Policy, and a policy for recovery of erroneously awarded compensation.",
+          "Joseph L. Hooley is identified as Lead Director, which is relevant because Darren W. Woods holds both Chairman of the Board and principal executive officer roles.",
+          "The packet names multiple compensation-related plans, including Supplemental Savings, Supplemental Pension, Additional Payments, Executive Life Insurance and Death Benefit, and Non-Employee Director Restricted Stock plans."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale and integration",
+        "grade": "strong",
+        "summary": "ExxonMobil operates at a scale few energy companies can match, with FY2025 revenue of $344.582 billion, net income of $36.010 billion, and operating cash flow of $55.369 billion. Management describes its competitive position as based on scale, integration, technology, and operations, supported by Upstream, Energy Products, Chemical Products, and Specialty Products reporting categories."
+      },
+      {
+        "type": "Reserve base and advantaged upstream portfolio",
+        "grade": "strong",
+        "summary": "The company reported 19.311 billion oil-equivalent barrels of total proved reserves at December 31, 2025, including 13.242 billion barrels of liquids and 36,408 billion cubic feet of natural gas. Management says Permian Basin, Guyana, and LNG production represent a growing share of output and have lower cost of supply, lower emissions intensity, and higher unit earnings."
+      },
+      {
+        "type": "Technology and product platforms",
+        "grade": "middle",
+        "summary": "ExxonMobil spent $900 million on R&D in FY2025 and identifies technology as part of its competitive position. The proxy names Proxxima resin systems, carbon materials, and Low Carbon Solutions' large-scale end-to-end carbon capture and storage network for industrial customers as emerging platforms, but the packet does not quantify their revenue or returns."
+      },
+      {
+        "type": "Diversified earnings streams",
+        "grade": "middle",
+        "summary": "ExxonMobil's business is not limited to crude production; the 2025 Form 10-K references Upstream, Energy Products, Chemical Products, Specialty Products, and Corporate Non-Segment categories. The proxy reports 2025 Specialty Products U.S. GAAP earnings of $2.857 billion and Chemical Products U.S. GAAP earnings of $800 million, adding non-upstream profit pools to the enterprise."
+      }
+    ]
+  }
+}

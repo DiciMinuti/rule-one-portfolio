@@ -1,0 +1,85 @@
+{
+  "symbol": "AMGN",
+  "companyName": "Amgen",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Robert A. Bradway serves as Chairman of the Board, Chief Executive Officer, and President, giving one named leader both executive control and board leadership. Under this leadership, Amgen reported $28.19 billion of FY2025 revenue, $6.717 billion of net income, and continued to expand approved medicines and late-stage programs.",
+        "points": [
+          "Bradway holds the combined Chairman, CEO, and President roles, so investors should weigh clear accountability against the reduced separation between board leadership and management.",
+          "The 2026 proxy highlights a broad operating year: 18 products achieved record sales, 14 products exceeded $1 billion in sales, and 13 products delivered double-digit sales growth.",
+          "Amgen advanced six global Phase 3 studies for MariTide across chronic weight management, cardiovascular outcomes, heart failure, and obstructive sleep apnea, showing management is funding large late-stage programs."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Amgen generated $8.471 billion of FY2025 operating cash flow and ended the year with $11.973 billion of cash and equivalents, giving management meaningful funding capacity. The balance sheet also carried $56.549 billion of long-term debt and $3.661 billion of stockholders' equity, so capital allocation discipline matters.",
+        "points": [
+          "Amgen announced $900 million of additional investment in Ohio and $650 million in Puerto Rico in 2025, following a $1 billion North Carolina expansion announced in 2024.",
+          "The manufacturing investments are intended to support increased drug production and integrate advanced process development technologies that improve yield, resilience, and flexibility across the supply network.",
+          "Amgen made the final $1.8 billion U.S. repatriation tax payment in 2025 under the 2017 Tax Act installment election, removing that disclosed installment obligation."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports some shareholder-alignment practices, including an advisory vote on executive compensation and governance outreach with holders of approximately 59% of outstanding shares. However, no detailed compensation structure, insider ownership, or capital-return policy is provided, limiting the evidence for a stronger grade.",
+        "points": [
+          "The 2026 annual meeting agenda includes an advisory vote on executive compensation, giving shareholders a recurring channel to express approval or dissatisfaction with pay outcomes.",
+          "Amgen said it conducted governance-focused outreach with stockholders holding approximately 59% of outstanding shares since the prior annual meeting, a concrete engagement effort.",
+          "The proxy's operating scorecard emphasizes patient reach, product sales records, FDA approvals, and Phase 3 progress, but the packet does not provide detailed executive-pay metrics."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Amgen's investor disclosures include SEC company facts for revenue, net income, operating cash flow, cash, debt, and equity, plus proxy detail on product sales milestones and pipeline progress. The 10-K also identifies specific patent, biosimilar, and antitrust litigation matters, giving investors named issues to track.",
+        "points": [
+          "The SEC company facts summary reports FY2025 revenue of $28.19 billion, net income of $6.717 billion, and operating cash flow of $8.471 billion.",
+          "The 2026 proxy discloses product-level milestones, including FDA approvals for IMDELLTRA, LUMAKRAS with Vectibix, UPLIZNA, and TEZSPIRE in specific indications.",
+          "The 10-K names patent and biosimilar litigation involving Prolia/XGEVA, PAVBLU, KYPROLIS, and TAVNEOS, including injunction and damages requests in federal courts."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Amgen has annual director elections on the 2026 agenda, an auditor ratification vote for Ernst & Young LLP, and an advisory compensation vote. Governance is tempered by the combined Chairman and CEO role, the board's opposition to an independent-chair proposal, and disclosed litigation and antitrust risks.",
+        "points": [
+          "The 2026 annual meeting agenda includes election of 12 directors for terms expiring at the 2027 annual meeting, keeping board seats subject to annual shareholder review.",
+          "The board recommended voting against a stockholder proposal requiring an independent board chairman, while Robert A. Bradway remains Chairman, CEO, and President.",
+          "Amgen disclosed a Delaware jury verdict against it in the Regeneron antitrust case, while stating it had not recorded a liability because loss was not considered probable."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Diversified biologic and biosimilar medicine portfolio",
+        "grade": "strong",
+        "summary": "Amgen's portfolio has breadth beyond a single flagship product: in 2025, 18 products achieved record sales, 14 products exceeded $1 billion in sales, and 13 products delivered double-digit sales growth. The company describes its innovative and biosimilar medicine portfolios as serving millions of patients globally."
+      },
+      {
+        "type": "Clinical development and regulatory execution",
+        "grade": "middle",
+        "summary": "Amgen reported several FDA approvals, including IMDELLTRA for second-line or later extensive-stage small cell lung cancer and LUMAKRAS with Vectibix for third-line KRAS G12C-mutated metastatic colorectal cancer. It also initiated and advanced six global Phase 3 MariTide studies across four obesity and obesity-related conditions."
+      },
+      {
+        "type": "Biologics manufacturing scale and supply investment",
+        "grade": "middle",
+        "summary": "Amgen is adding manufacturing capacity through $900 million of additional Ohio investment and $650 million in Puerto Rico in 2025, following a $1 billion North Carolina expansion announced in 2024. The stated goal is higher drug production, advanced process development technologies, improved yield, resilience, and supply-network flexibility."
+      },
+      {
+        "type": "Financial scale in biological products",
+        "grade": "strong",
+        "summary": "Amgen operates at large scale in the SEC SIC category \"Biological Products, (No Diagnostic Substances),\" with FY2025 revenue of $28.19 billion and operating cash flow of $8.471 billion. That scale supports funding for manufacturing expansions, late-stage Phase 3 trials, and multiple approved medicine franchises."
+      }
+    ]
+  }
+}

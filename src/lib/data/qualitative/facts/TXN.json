@@ -1,0 +1,127 @@
+{
+  "symbol": "TXN",
+  "companyName": "Texas Instruments",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "Texas Instruments is listed in SEC submissions as TEXAS INSTRUMENTS INC, ticker TXN, traded on Nasdaq, with SIC description \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000097476.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Texas Instruments reported FY2025 revenue of $17.519 billion, filed February 6, 2026 under RevenueFromContractWithCustomerExcludingAssessedTax.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Texas Instruments reported FY2025 net income of $6.510 billion, filed February 6, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "Texas Instruments reported FY2025 net cash provided by operating activities of $6.420 billion, filed February 6, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Texas Instruments reported FY2025 research and development expense of $1.863 billion, filed February 6, 2026.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At FY2025, Texas Instruments reported stockholders' equity of $16.903 billion, long-term debt of $12.846 billion, and cash and equivalents of $3.200 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000097476.json"
+    },
+    {
+      "topic": "Segments",
+      "statement": "Texas Instruments' 2025 10-K XBRL identifies reportable segment members for Analog, Embedded Processing and All Other Segments.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Manufacturing footprint and restructuring",
+      "statement": "In 2025, Texas Instruments recorded $85 million of restructuring charges that included severance, benefits and other exit costs related to operational-efficiency efforts, including planned closures of its two remaining factories with 150mm production.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Restructuring and impairment",
+      "statement": "Texas Instruments reported restructuring charges/other of $117 million in 2025, consisting of $85 million of restructuring charges and a $32 million goodwill impairment; 2024 restructuring charges/other were a $124 million net gain due to gains on sales of assets.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Goodwill by segment",
+      "statement": "At December 31, 2025, Texas Instruments reported goodwill of $4.158 billion in Analog, $172 million in Embedded Processing, and zero in Other, for total goodwill of $4.330 billion.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Property, plant and equipment",
+      "statement": "At December 31, 2025, Texas Instruments reported property, plant and equipment at cost of $17.682 billion, including $162 million of land, $6.830 billion of buildings and improvements, and $10.690 billion of machinery and equipment.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "CHIPS Act incentives",
+      "statement": "At December 31, 2025, Texas Instruments reported CHIPS Act incentives of $1.709 billion in prepaid expenses and other current assets and $1.639 billion in other long-term assets.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Acquisition and capital allocation",
+      "statement": "Texas Instruments announced on February 4, 2026 that it entered into a definitive agreement to acquire Silicon Labs for $231.00 per share in an all-cash transaction with total enterprise value of about $7.5 billion.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Acquisition financing",
+      "statement": "Texas Instruments said the Silicon Labs acquisition is expected to close in the first half of 2027, subject to regulatory approvals, customary closing conditions and Silicon Labs stockholder approval, and that it expects to fund the transaction with cash on hand and debt financing arranged before closing.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "The 2025 Form 10-K signatures identify Haviv Ilan as Director, Chairman of the Board, President and Chief Executive Officer; Rafael R. Lizardi as Senior Vice President and Chief Financial Officer; and Julie Knecht as Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Legal leadership",
+      "statement": "The 2026 proxy statement notice was signed by Katie Kane as Senior Vice President, Secretary and General Counsel.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "Texas Instruments' 2026 proxy states that the board is composed of 12 directors, 11 of whom are independent.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Director nomination and tenure governance",
+      "statement": "Texas Instruments' board considers criteria including relevant commercial expertise, international operations experience, financial acumen, government experience, integrity, independent analytical inquiry, ability to represent total corporate interests, board diversity, and time commitment; directors cannot stand for election after reaching age 75.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Board service limits",
+      "statement": "Texas Instruments' proxy states that directors should not serve on the boards of more than three other public companies.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Equity compensation plans",
+      "statement": "At December 31, 2025, Texas Instruments had 31,040,591 securities to be issued upon exercise of outstanding options, warrants and rights under equity compensation plans approved by security holders, with a weighted average exercise price of $151.34 and 59,899,276 securities remaining available for future issuance.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Compensation committee governance",
+      "statement": "During 2025, Mark Blinn, Martin Craighead, Ronald Kirk and Carrie Cox served on the compensation committee, and the proxy states that no committee member was a TI officer or employee, formerly a TI officer, or had a related-person transaction disclosure relationship under Item 404 of Regulation S-K.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Related-person transaction policy",
+      "statement": "Texas Instruments' related-person transaction policy requires specified approvals by the GSR committee, GSR committee chair or chief compliance officer depending on the related person, and no related-person arrangement may be approved unless determined to be in, or not inconsistent with, the best interests of the company and its stockholders.",
+      "source": "DEF 14A filed 2026-03-04 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000078/txn-20260303.htm"
+    },
+    {
+      "topic": "Audit and controls",
+      "statement": "Ernst & Young LLP issued an unqualified opinion on Texas Instruments' consolidated financial statements and internal control over financial reporting as of December 31, 2025, and the 10-K states EY has served as the company's auditor since 1952.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    },
+    {
+      "topic": "Risk factors",
+      "statement": "Texas Instruments identifies risks including intense product and price competition, semiconductor demand particularly in industrial and automotive markets, key-customer purchase curtailments or inventory adjustments, cybersecurity threats, timely implementation of manufacturing technologies and equipment installation, availability and cost of key materials and manufacturing services, ability to maintain or improve profit margins, tax and tariff changes, intellectual-property protection, debt service, and impairments of non-financial assets.",
+      "source": "10-K filed 2026-02-06 - https://www.sec.gov/Archives/edgar/data/97476/000009747626000059/txn-20251231.htm"
+    }
+  ]
+}

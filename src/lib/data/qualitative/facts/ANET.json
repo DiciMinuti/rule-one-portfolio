@@ -1,0 +1,147 @@
+{
+  "symbol": "ANET",
+  "companyName": "Arista Networks",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "Arista Networks, Inc. is a Delaware corporation headquartered at 5453 Great America Parkway, Santa Clara, California 95054, and its common stock trades on the New York Stock Exchange under the symbol ANET.",
+      "source": "SEC submissions metadata; 10-K filed 2026-02-17"
+    },
+    {
+      "topic": "industry classification",
+      "statement": "The company's SEC submissions list its SIC description as Computer Communications Equipment.",
+      "source": "SEC submissions metadata"
+    },
+    {
+      "topic": "business model",
+      "statement": "Arista describes itself as delivering data-driven, client-to-cloud networking-as-a-service through a network-as-a-service platform anchored by its Extensible Operating System (EOS) and Network Data Lake (NetDL).",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "business focus",
+      "statement": "Management says Arista's platform connects four primary domains: AI Centers, Data Centers, Campus Centers, and WAN Centers.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "product differentiation",
+      "statement": "Arista says its solutions are differentiated by reliability, open and standards-based technology that avoids vendor lock-in, and real-time telemetry and intelligent automation that reduce manual operator workload.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "product line",
+      "statement": "The company expects to derive substantially all of its product revenue from sales of its switching and routing platforms for the foreseeable future.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "customer segmentation",
+      "statement": "Arista says it serves a global customer base segmented into three primary categories: Cloud and AI Titans, AI and Specialty Providers, and Enterprise.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "market position",
+      "statement": "The company states that market research confirms it continues to be a leader in high-speed Ethernet switching.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "2025 revenue",
+      "statement": "Arista reported FY2025 revenue of $5.86 billion in the SEC company facts summary and $9.01 billion in the FY2025 10-K, reflecting a different revenue presentation in the source materials.",
+      "source": "SEC company facts summary; 10-K filed 2026-02-17"
+    },
+    {
+      "topic": "profitability",
+      "statement": "The SEC company facts summary reports FY2025 net income of $2.087 billion, while the FY2025 10-K reports net income of $3.511 billion.",
+      "source": "SEC company facts summary; 10-K filed 2026-02-17"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of $2.034 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "research and development",
+      "statement": "The SEC company facts summary reports FY2025 research and development expense of $854.9 million.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 stockholders' equity of $4.886 billion and cash and equivalents of $2.762 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "debt",
+      "statement": "The SEC company facts summary shows long-term debt of $0 for FY2014 and does not report long-term debt in the FY2025 summary provided.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "segment reporting",
+      "statement": "Arista reports as one reportable segment, and management says the CODM focuses on revenue, gross margin, operating margin, and net income in evaluating performance and allocating resources.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "geographic revenue",
+      "statement": "For FY2025, the 10-K reports revenue by shipping address of $7.122 billion in the Americas, $1.070 billion in Europe, Middle East and Africa, and $813.3 million in Asia Pacific.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "gross margin",
+      "statement": "The FY2025 10-K reports GAAP gross margin of 64.1% and non-GAAP gross margin of 64.6%.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "operating margin",
+      "statement": "The FY2025 10-K reports GAAP operating margin of 42.8% and non-GAAP operating margin of 48.2%.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "share count",
+      "statement": "Arista reported 1,256,537,906 shares of common stock outstanding on February 10, 2026.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "capital return",
+      "statement": "The FY2025 10-K discusses share repurchase programs, including a prior repurchase program and a new repurchase program identified in its XBRL tagging.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "The company says it believes its existing cash and cash equivalents together with cash flow from operations will be sufficient to meet working capital requirements and growth strategies for the foreseeable future, and it says it will not pay cash dividends in the foreseeable future.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "stock-based compensation",
+      "statement": "The FY2025 10-K reports total stock-based compensation expense of $439.2 million and $1.5 billion of unrecognized compensation costs related to unvested awards as of December 31, 2025.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "management",
+      "statement": "As of the FY2025 10-K, Jayshree Ullal signed as Chief Executive Officer and Chairperson, and Chantelle Breithaupt signed as Senior Vice President, Chief Financial Officer and Principal Accounting Officer.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "management changes",
+      "statement": "In the 2026 proxy statement's 2025 business highlights, Arista said Todd Nightingale was appointed President and Chief Operating Officer, Kenneth Duda was promoted to President and Chief Technology Officer, and Tyson Lamoreaux was appointed Senior Vice President of Cloud and AI Networking.",
+      "source": "DEF 14A filed 2026-04-16"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement says Arista will seek stockholder approval on an advisory basis for named executive officer compensation and ratification of Ernst & Young LLP as independent registered public accounting firm.",
+      "source": "DEF 14A filed 2026-04-16"
+    },
+    {
+      "topic": "governance",
+      "statement": "The FY2025 10-K states that management assessed internal control over financial reporting as effective as of December 31, 2025, and Ernst & Young LLP audited that effectiveness and expressed an unqualified opinion.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "risk factors",
+      "statement": "The 10-K's forward-looking statements highlight risks including supply chain delays, access to key commodities or technologies, geopolitical events, competition, customer concentration, pricing pressure from large customers, and the company's ability to scale operational and manufacturing capacity.",
+      "source": "10-K filed 2026-02-17"
+    },
+    {
+      "topic": "tax",
+      "statement": "The FY2025 10-K reports a 17.37% effective tax rate, $1.096 billion of cash paid for income taxes net of refunds, and $191.7 million of gross unrecognized tax benefits at December 31, 2025.",
+      "source": "10-K filed 2026-02-17"
+    }
+  ]
+}

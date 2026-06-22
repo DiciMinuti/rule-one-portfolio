@@ -1,0 +1,127 @@
+{
+  "symbol": "DELL",
+  "companyName": "Dell",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Dell Technologies Inc. is listed on the NYSE under ticker DELL, and the SEC submissions metadata lists its SIC description as \"Electronic Computers.\"",
+      "source": "SEC submissions metadata"
+    },
+    {
+      "topic": "FY2026 revenue scale",
+      "statement": "The SEC company facts summary reports FY2026 revenue of $88.425 billion, filed March 16, 2026 under the Revenues concept.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "FY2026 proxy financial highlights",
+      "statement": "Dell's 2026 proxy statement reports fiscal 2026 net revenue of $113.5 billion, operating income of $8.1 billion, non-GAAP operating income of $10.0 billion, diluted EPS of $8.68, and non-GAAP diluted EPS of $10.30.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "The SEC company facts summary reports FY2026 net income of $3.388 billion, filed March 16, 2026 under the NetIncomeLoss concept.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "The SEC company facts summary reports FY2026 operating cash flow of $8.676 billion, filed March 16, 2026 under the NetCashProvidedByUsedInOperatingActivities concept.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "The SEC company facts summary reports FY2026 research and development expense of $2.801 billion, filed March 16, 2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Balance sheet leverage",
+      "statement": "The SEC company facts summary reports FY2026 long-term debt of $19.363 billion and stockholders' equity of negative $1.482 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Liquidity",
+      "statement": "The SEC company facts summary reports FY2026 cash and cash equivalents of $3.633 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Dell's 2026 Form 10-K XBRL references operating segments including Infrastructure Solutions Group, Client Solutions, and All Other Segments.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Product and service categories",
+      "statement": "Dell's 2026 Form 10-K XBRL includes product and service revenue/cost category members, indicating reporting across product and service categories.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "AI positioning",
+      "statement": "In the 2026 proxy letter, Michael S. Dell said Dell is positioned to extend AI \"from the largest at-scale neoclouds, into enterprise workloads, and out to the edge with the PC.\"",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Dell's 2026 proxy statement reports $7.5 billion of shareholder return in fiscal 2026 through share repurchases and dividends.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Chairman and CEO",
+      "statement": "Michael S. Dell signed the 2026 Form 10-K as Chairman and Chief Executive Officer and principal executive officer.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Chief financial officer",
+      "statement": "David Kennedy signed the 2026 Form 10-K as Executive Vice President and Chief Financial Officer and principal financial officer.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Chief accounting officer",
+      "statement": "Richard Troy Sharp signed the 2026 Form 10-K as Senior Vice President, Corporate Finance and Chief Accounting Officer and principal accounting officer.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Board nominees",
+      "statement": "Dell's 2026 proxy lists Group I director nominees Michael S. Dell, David W. Dorman, Egon Durban, David Grain, William D. Green, Ellen J. Kullman, and Steven M. Mollenkopf, and lists Lynn Vojvodich Radakovich as the Group IV director nominee.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Voting structure",
+      "statement": "For Dell's 2026 annual meeting, seven Group I directors are to be elected by holders of Class A, Class B, and Class C common stock voting together, while the Group IV director is to be elected by holders of Class C common stock voting separately as a series.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Governance proposal",
+      "statement": "Dell's board recommended that stockholders approve redomestication of Dell Technologies Inc. from Delaware to Texas by conversion at the 2026 annual meeting.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Auditor",
+      "statement": "Dell's board recommended ratification of PricewaterhouseCoopers LLP as Dell Technologies Inc.'s independent registered public accounting firm for the fiscal year ending January 29, 2027.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Executive compensation governance",
+      "statement": "Dell's 2026 proxy includes a non-binding advisory vote to approve named executive officer compensation, and the board recommended voting for the proposal.",
+      "source": "DEF 14A filed 2026-05-15"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "Dell's 2026 Form 10-K exhibit list includes the Dell Technologies Inc. 2023 Stock Incentive Plan and forms of time-based restricted stock unit, performance-based restricted stock unit, deferred stock unit, and performance-based stock option agreements.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Compensation recovery policy",
+      "statement": "Dell's 2026 Form 10-K exhibit list includes the Dell Technologies Inc. Incentive-Based Compensation Recovery Policy effective September 28, 2023.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Customer and supplier concentration references",
+      "statement": "Dell's 2026 Form 10-K XBRL includes references to one-customer concentration risk and to the three largest contract manufacturers.",
+      "source": "10-K filed 2026-03-16"
+    },
+    {
+      "topic": "Related-party and stockholder agreements",
+      "statement": "Dell's 2026 Form 10-K exhibit list includes stockholder agreements involving Michael S. Dell, the Susan Lieberman Dell Separate Property Trust, Silver Lake entities, and management stockholders, as well as a Commercial Framework Agreement dated November 1, 2021 between Dell Technologies Inc. and VMware, Inc.",
+      "source": "10-K filed 2026-03-16"
+    }
+  ]
+}

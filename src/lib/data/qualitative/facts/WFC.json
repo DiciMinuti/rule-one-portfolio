@@ -1,0 +1,162 @@
+{
+  "symbol": "WFC",
+  "companyName": "Wells Fargo",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "Wells Fargo & Company is a Delaware corporation and a financial holding company and bank holding company registered under the Bank Holding Company Act of 1956.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "business model",
+      "statement": "The company's principal business is to act as a holding company for its subsidiaries.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "industry classification",
+      "statement": "Its SIC description is National Commercial Banks.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000072971.json)"
+    },
+    {
+      "topic": "scale",
+      "statement": "At December 31, 2025, Wells Fargo reported approximately $2.1 trillion of assets, $986.2 billion of loans, $1.4 trillion of deposits, and $181.1 billion of stockholders' equity.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "scale",
+      "statement": "The company said it was the fourth largest bank holding company in the United States based on assets at December 31, 2025.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "principal subsidiary",
+      "statement": "Wells Fargo Bank, N.A. was described as the company's principal subsidiary and had assets of $1.8 trillion, or 85% of the company's assets, at December 31, 2025.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "operating segments",
+      "statement": "As of December 31, 2025, Wells Fargo reported four operating segments for management reporting: Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth and Investment Management.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "consumer products",
+      "statement": "The company said it provides consumer financial products and services including checking and savings accounts, credit and debit cards, and home, auto, personal, and small business lending.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "wealth management",
+      "statement": "Wells Fargo said it provides personalized wealth management, brokerage, financial planning, lending, private banking, trust and fiduciary products and services.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "commercial and institutional banking",
+      "statement": "The company said it provides banking and credit products, secured lending and lease products, and treasury management to private, family-owned and public companies and municipalities.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "capital markets",
+      "statement": "Wells Fargo said it provides corporate, commercial real estate, government and institutional clients with capital markets, banking and financial products and services including corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity and fixed income solutions, sales, trading, and research capabilities.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "financial performance",
+      "statement": "SEC company facts report net income of $19.142 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "SEC company facts report operating cash flow of $40.358 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json)"
+    },
+    {
+      "topic": "equity",
+      "statement": "SEC company facts report stockholders' equity of $179.120 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json)"
+    },
+    {
+      "topic": "debt",
+      "statement": "SEC company facts report long-term debt of $173.078 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json)"
+    },
+    {
+      "topic": "revenue",
+      "statement": "SEC company facts report revenue of $88.389 billion for FY2019.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000072971.json)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Charles W. Scharf was listed as Chairman, Chief Executive Officer and President since October 2025.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Michael P. Santomassimo was listed as Senior Executive Vice President and Chief Financial Officer since October 2020.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Derek A. Flowers was listed as Senior Executive Vice President and Chief Risk Officer since January 2022.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Barry Sommers was listed as Senior Executive Vice President and CEO of Wealth and Investment Management since June 2020.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Saul Van Beurden was listed as Senior Executive Vice President, Co-CEO of Consumer Banking and Lending, and Head of Artificial Intelligence since November 2025.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "leadership",
+      "statement": "Kleber R. Santos was listed as Senior Executive Vice President and Co-CEO of Consumer Banking and Lending since November 2025.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement said the Board currently consists of 13 directors and that it will be reduced to 12 directors when Celeste A. Clark retires at the 2026 Shareholder Meeting.",
+      "source": "DEF 14A filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000200/wfc-20260318.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement said the Board's independent directors appointed Charles W. Scharf as Chairman of the Board in 2025, and Steven D. Black became Lead Independent Director.",
+      "source": "DEF 14A filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000200/wfc-20260318.htm)"
+    },
+    {
+      "topic": "compensation",
+      "statement": "The company's executive compensation program is described as linking pay to Company, individual, and, as applicable, line-of-business performance, with a majority of total compensation delivered in long-term equity awards subject to ongoing risk and service conditions.",
+      "source": "DEF 14A filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000200/wfc-20260318.htm)"
+    },
+    {
+      "topic": "risk management",
+      "statement": "The company said compensation is designed to promote effective risk management and discourage imprudent or excessive risk-taking.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "employee scale",
+      "statement": "At December 31, 2025, Wells Fargo reported approximately 205,000 active employees, with approximately 76% based in the United States.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "regulatory status",
+      "statement": "The company said that on June 3, 2025 the Federal Reserve removed the limitation on growth in total assets that had been imposed under the 2018 consent order, while the remaining provisions of the consent order remained in place.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "regulatory risk",
+      "statement": "The company disclosed that Wells Fargo Bank, N.A. entered into a formal agreement with the OCC on September 12, 2024 requiring enhancement of anti-money laundering and sanctions risk management practices.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "regulatory risk",
+      "statement": "Wells Fargo said the company is subject to a consent order and other regulatory actions that may require changes to its business, operations, products and services, and risk management practices.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    },
+    {
+      "topic": "competition",
+      "statement": "The company described the financial services industry as highly competitive and said its subsidiaries compete with banks, credit unions, finance companies, mortgage banking companies, insurance companies, investment banks, investment advisory firms, mutual fund companies, nonbank institutions, and financial technology companies.",
+      "source": "SEC Form 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm)"
+    }
+  ]
+}

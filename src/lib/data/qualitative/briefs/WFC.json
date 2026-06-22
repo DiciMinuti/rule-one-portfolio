@@ -1,0 +1,90 @@
+{
+  "symbol": "WFC",
+  "companyName": "Wells Fargo",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Wells Fargo is led by Charles W. Scharf, listed as Chairman, Chief Executive Officer and President since October 2025. The senior team includes named leaders across finance, risk, wealth management, consumer banking, and artificial intelligence, but several top operating titles changed in late 2025.",
+        "points": [
+          "Michael P. Santomassimo has been Senior Executive Vice President and Chief Financial Officer since October 2020, giving investors a named finance leader through the latest reporting period.",
+          "Derek A. Flowers has been Senior Executive Vice President and Chief Risk Officer since January 2022, an important role given Wells Fargo's disclosed consent order and OCC agreement.",
+          "Consumer Banking and Lending had co-CEOs as of November 2025: Saul Van Beurden, also Head of Artificial Intelligence, and Kleber R. Santos.",
+          "Barry Sommers has led Wealth and Investment Management since June 2020, covering wealth management, brokerage, financial planning, lending, private banking, trust, and fiduciary services."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "The packet does not provide dividend, buyback, or acquisition details, so capital allocation has to be judged mainly through balance-sheet scale and capital resources. Wells Fargo reported $2.1 trillion of assets, $986.2 billion of loans, $1.4 trillion of deposits, and $181.1 billion of stockholders' equity at December 31, 2025.",
+        "points": [
+          "Wells Fargo's principal subsidiary, Wells Fargo Bank, N.A., held $1.8 trillion of assets, or 85% of company assets, making bank-level allocation central to the company.",
+          "SEC company facts report FY2025 net income of $19.142 billion and operating cash flow of $40.358 billion, showing large internal earnings and cash generation.",
+          "SEC company facts also report FY2025 long-term debt of $173.078 billion and stockholders' equity of $179.120 billion, both material figures for investor risk review.",
+          "The Federal Reserve removed the asset-growth limitation on June 3, 2025, but remaining consent-order provisions may still affect business, operations, products, and risk practices."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Wells Fargo's proxy describes compensation as tied to company, individual, and applicable line-of-business performance. A majority of total compensation is delivered in long-term equity awards subject to ongoing risk and service conditions, but the packet does not provide executive ownership levels.",
+        "points": [
+          "The executive compensation program links pay to Company, individual, and line-of-business performance where applicable, which connects incentives to both enterprise and operating-unit outcomes.",
+          "A majority of total compensation is delivered in long-term equity awards, subject to ongoing risk and service conditions rather than only short-term cash pay.",
+          "The company states compensation is designed to promote effective risk management and discourage imprudent or excessive risk-taking, a key issue for a large regulated bank.",
+          "The packet does not include insider ownership, share-purchase history, or dividend policy, limiting the evidence available for direct owner-operator alignment."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Wells Fargo provides investor disclosure through its Form 10-K, SEC company facts, and proxy statement, including segment structure, balance-sheet scale, leadership, compensation, and regulatory matters. The reporting is concrete enough to track the four operating segments and major risk items, but the packet does not include investor-day targets or management guidance practices.",
+        "points": [
+          "The 2025 Form 10-K identifies four management-reporting segments: Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth and Investment Management.",
+          "The filing describes product coverage by segment, including consumer deposits and lending, treasury management, capital markets, commercial real estate lending, brokerage, private banking, and fiduciary services.",
+          "SEC company facts provide comparable reported figures including FY2025 net income, operating cash flow, stockholders' equity, long-term debt, and historical FY2019 revenue.",
+          "The 2026 proxy gives board size, board-leadership changes, and executive-compensation design, while the 10-K discloses consent-order status and the OCC formal agreement."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has clear board and compensation disclosures, including a 13-director board expected to decline to 12 directors after Celeste A. Clark retires at the 2026 Shareholder Meeting. The structure also includes Charles W. Scharf as Chairman and Steven D. Black as Lead Independent Director, while regulatory obligations remain a central oversight issue.",
+        "points": [
+          "The Board's independent directors appointed Charles W. Scharf as Chairman in 2025, and Steven D. Black became Lead Independent Director.",
+          "The 2026 proxy said the Board currently has 13 directors and will be reduced to 12 when Celeste A. Clark retires at the 2026 Shareholder Meeting.",
+          "Governance oversight must address the remaining provisions of the 2018 Federal Reserve consent order, even after the asset-growth limitation was removed in June 2025.",
+          "Wells Fargo Bank, N.A. entered into a September 12, 2024 formal agreement with the OCC requiring enhanced anti-money laundering and sanctions risk management practices."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Scale and deposit base",
+        "grade": "strong",
+        "summary": "Wells Fargo has major banking scale, with approximately $2.1 trillion of assets, $986.2 billion of loans, $1.4 trillion of deposits, and $181.1 billion of stockholders' equity at December 31, 2025. The company also said it was the fourth largest U.S. bank holding company by assets at that date."
+      },
+      {
+        "type": "Diversified financial-services platform",
+        "grade": "middle",
+        "summary": "The company operates across Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth and Investment Management. This gives Wells Fargo exposure to consumer deposits and loans, treasury management, secured lending, investment banking, capital markets, brokerage, private banking, and fiduciary services, although the company describes financial services as highly competitive."
+      },
+      {
+        "type": "Regulated bank subsidiary infrastructure",
+        "grade": "middle",
+        "summary": "Wells Fargo Bank, N.A. is the principal subsidiary and held $1.8 trillion of assets, or 85% of company assets, at December 31, 2025. That regulated bank infrastructure supports broad deposit, lending, and treasury services, but it also carries consent-order obligations and an OCC agreement covering anti-money laundering and sanctions risk management."
+      },
+      {
+        "type": "Large employee and operating footprint",
+        "grade": "middle",
+        "summary": "Wells Fargo reported approximately 205,000 active employees at December 31, 2025, with about 76% based in the United States. That workforce supports a broad mix of consumer, commercial, institutional, and wealth services, but the packet also notes competition from banks, credit unions, fintech companies, investment firms, and other financial providers."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "symbol": "XOM",
+  "companyName": "Exxon Mobil",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Exxon Mobil is listed on the NYSE under ticker XOM, and the SEC submissions metadata identifies its SIC description as \"Petroleum Refining.\"",
+      "source": "SEC submissions metadata, https://data.sec.gov/submissions/CIK0000034088.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "SEC company facts report Exxon Mobil revenue of $344.582 billion for FY2025, filed February 18, 2026 under the Revenues concept.",
+      "source": "SEC company facts summary, https://data.sec.gov/api/xbrl/companyfacts/CIK0000034088.json"
+    },
+    {
+      "topic": "Profit and operating cash flow",
+      "statement": "SEC company facts report FY2025 net income of $36.010 billion and operating cash flow of $55.369 billion, both filed February 18, 2026.",
+      "source": "SEC company facts summary, https://data.sec.gov/api/xbrl/companyfacts/CIK0000034088.json"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "SEC company facts report Exxon Mobil R&D expense of $900 million for FY2025, filed February 18, 2026.",
+      "source": "SEC company facts summary, https://data.sec.gov/api/xbrl/companyfacts/CIK0000034088.json"
+    },
+    {
+      "topic": "Balance sheet scale",
+      "statement": "SEC company facts report stockholders' equity of $263.705 billion and cash and equivalents of $23.029 billion for FY2025.",
+      "source": "SEC company facts summary, https://data.sec.gov/api/xbrl/companyfacts/CIK0000034088.json"
+    },
+    {
+      "topic": "Reported business categories",
+      "statement": "The 2025 Form 10-K segment data references Upstream, Energy Products, Chemical Products, Specialty Products, operating segments, and Corporate Non-Segment categories across U.S. and Non-U.S. dimensions.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Management description of competitive position",
+      "statement": "Darren W. Woods' proxy letter states that ExxonMobil's competitive position is defined by advantages in scale, integration, technology, and operations.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Upstream portfolio focus",
+      "statement": "The Chairman and CEO's proxy letter says ExxonMobil's advantaged production in the Permian Basin, Guyana, and LNG continues to represent a larger share of total output and is described as having lower cost of supply, lower emissions intensity, and higher unit earnings.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Product and growth platforms",
+      "statement": "The proxy letter identifies Proxxima resin systems and carbon materials as emerging businesses, and states that Low Carbon Solutions is advancing a large-scale end-to-end carbon capture and storage network for industrial customers.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Liquids reserves",
+      "statement": "ExxonMobil reported total liquids proved reserves of 13.242 billion barrels at December 31, 2025, including crude oil, natural gas liquids, bitumen, and synthetic oil.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Total proved reserves",
+      "statement": "At December 31, 2025, ExxonMobil reported total proved reserves of 36,408 billion cubic feet of natural gas and 19.311 billion oil-equivalent barrels for total all products.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Reserve development and production",
+      "statement": "For 2025, ExxonMobil consolidated subsidiaries reported extensions/discoveries of 2.048 billion oil-equivalent barrels and production of 1.478 billion oil-equivalent barrels in the natural gas and oil-equivalent proved reserves table.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Discounted future cash flows from reserves",
+      "statement": "ExxonMobil reported total consolidated and equity interests in standardized measure of discounted future net cash flows of $149.129 billion at December 31, 2025, compared with $185.664 billion at December 31, 2024.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Reserve valuation caveat",
+      "statement": "The 2025 Form 10-K states that the standardized measure of discounted future cash flows does not provide a reliable estimate of expected future cash flows or reserve value because it is based on prescribed assumptions including first-day-of-the-month average prices, year-end costs, legislated tax rates, and a 10% discount factor.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Capital expenditures",
+      "statement": "The proxy defines Cash Capital Expenditures as a non-GAAP measure and reports total Cash Capex of $28.997 billion for 2025, up from $25.647 billion in 2024.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Chemical Products segment earnings",
+      "statement": "The proxy reports Chemical Products 2025 U.S. GAAP earnings of $800 million and earnings excluding identified items of $1.070 billion.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Specialty Products segment earnings",
+      "statement": "The proxy reports Specialty Products 2025 U.S. GAAP earnings of $2.857 billion and earnings excluding identified items of $2.857 billion.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Corporate and Financing results",
+      "statement": "The proxy reports a 2025 Corporate and Financing U.S. GAAP loss of $3.590 billion, including restructuring charges of $419 million and identified items of negative $585 million.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Senior management",
+      "statement": "The 2025 Form 10-K signatures identify Darren W. Woods as Chairman of the Board and principal executive officer, Neil A. Hansen as Senior Vice President and Chief Financial Officer, and Len M. Fox as Vice President, Controller and Tax and principal accounting officer.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Board leadership and nominees",
+      "statement": "The proxy identifies Joseph L. Hooley as Lead Director and lists 12 director nominees: Michael J. Angelakis, Angela F. Braly, Maria S. Dreyfus, Gregory C. Garland, John D. Harris II, Kaisa H. Hietala, Joseph L. Hooley, Steven A. Kandarian, Alexander A. Karsner, Lawrence W. Kellner, Dina Powell McCormick, and Darren W. Woods.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Governance agenda",
+      "statement": "The 2026 annual meeting agenda includes election of directors, ratification of PricewaterhouseCoopers LLP as independent auditors, an advisory vote to approve executive compensation, approval of redomiciliation from New Jersey to Texas through a plan of merger, and shareholder proposals.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    },
+    {
+      "topic": "Compensation and governance policies",
+      "statement": "The 2025 Form 10-K exhibit index identifies multiple management contracts or compensatory plans, including the 2003 Incentive Program, Restricted Stock Unit Agreements, Short Term Incentive Program, Earnings Bonus Unit instrument, Supplemental Savings Plan, Supplemental Pension Plan, Additional Payments Plan, Executive Life Insurance and Death Benefit Plan, and Non-Employee Director Restricted Stock Plan.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Ethics and clawback governance",
+      "statement": "The 2025 Form 10-K exhibit index includes a Code of Ethics and Business Conduct, an Insider Trading Policy, and a Policy Relating to Recovery of Erroneously Awarded Compensation.",
+      "source": "10-K filed 2026-02-18, https://www.sec.gov/Archives/edgar/data/34088/000003408826000045/xom-20251231.htm"
+    },
+    {
+      "topic": "Shareholder-return claim",
+      "statement": "Darren W. Woods' proxy letter states that ExxonMobil led all IOCs with five-year total annualized shareholder returns of 29% for the period ending December 31, 2025, sourced from FactSet.",
+      "source": "DEF 14A filed 2026-04-08, https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm"
+    }
+  ]
+}

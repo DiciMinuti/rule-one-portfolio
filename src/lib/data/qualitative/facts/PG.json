@@ -1,0 +1,127 @@
+{
+  "symbol": "PG",
+  "companyName": "Procter & Gamble",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business classification",
+      "statement": "Procter & Gamble is listed on the NYSE under ticker PG, and the SEC submissions metadata describes its SIC industry as \"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000080424.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "For FY2025, Procter & Gamble reported revenue of $82.006 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "For FY2025, Procter & Gamble reported net income of $14.653 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "For FY2025, Procter & Gamble reported operating cash flow of $16.848 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "For FY2025, Procter & Gamble reported research and development expense of $2.000 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json"
+    },
+    {
+      "topic": "Balance sheet leverage",
+      "statement": "For FY2025, Procter & Gamble reported long-term debt of $25.269 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000080424.json"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "The FY2025 Form 10-K identifies Procter & Gamble operating segments including Beauty, Grooming, Health Care, Fabric & Home Care, and Baby, Feminine & Family Care.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "The FY2025 Form 10-K maps Hair Care, Personal Care, and Skin Care to the Beauty segment; Grooming to the Grooming segment; Oral Care and Personal Health Care to the Health Care segment; Fabric Care and Home Care to the Fabric & Home Care segment; and Baby Care, Feminine Care, and Family Care to the Baby, Feminine & Family Care segment.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "The FY2025 Form 10-K includes Walmart Inc. and affiliates in its customer concentration risk disclosure for net sales.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Strategy",
+      "statement": "In the 2025 proxy letter, Chairman, President and CEO Jon R. Moeller described P&G's strategy as focused on daily-use products where performance drives brand choice, superiority across product, package, brand communication, retail execution and value, productivity, constructive disruption, and an empowered, agile, accountable organization.",
+      "source": "DEF 14A filed 2025-08-29 - https://www.sec.gov/Archives/edgar/data/80424/000119312525191749/d875382ddef14a.htm"
+    },
+    {
+      "topic": "Restructuring",
+      "statement": "In the 2025 proxy letter, P&G said it had announced a restructuring program focused on portfolio actions, supply chain interventions, and organization design changes, including potential strategic exits in categories, brands, and product forms in individual markets and possible brand divestitures.",
+      "source": "DEF 14A filed 2025-08-29 - https://www.sec.gov/Archives/edgar/data/80424/000119312525191749/d875382ddef14a.htm"
+    },
+    {
+      "topic": "Leadership transition",
+      "statement": "P&G disclosed that Jon R. Moeller will transition to Executive Chairman of the Board beginning January 1, 2026, and that the Board elected Shailesh Jejurikar as incoming President and Chief Executive Officer.",
+      "source": "DEF 14A filed 2025-08-29 - https://www.sec.gov/Archives/edgar/data/80424/000119312525191749/d875382ddef14a.htm"
+    },
+    {
+      "topic": "Management tenure",
+      "statement": "The 2025 proxy letter states that Shailesh Jejurikar has a 36-year P&G career and has been part of P&G's leadership team for the past 12 years.",
+      "source": "DEF 14A filed 2025-08-29 - https://www.sec.gov/Archives/edgar/data/80424/000119312525191749/d875382ddef14a.htm"
+    },
+    {
+      "topic": "Credit facilities",
+      "statement": "P&G maintained an $8.0 billion bank credit facility to support its commercial paper program, split between a $3.2 billion five-year facility expiring in October 2029 and a $4.8 billion 364-day facility expiring in October 2025; the facilities were undrawn and the company anticipated they would remain undrawn.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Debt maturity profile",
+      "statement": "P&G disclosed long-term debt maturities of $5.377 billion in fiscal 2026, $4.606 billion in fiscal 2027, $2.142 billion in fiscal 2028, $2.027 billion in fiscal 2029, and $3.996 billion in fiscal 2030.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Interest cost",
+      "statement": "P&G disclosed a weighted average interest rate of 3.3% on long-term debt, including the effects of interest rate swaps, for FY2025.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Supplier finance",
+      "statement": "P&G supports a Supply Chain Finance program with several global financial institutions; participating suppliers may sell receivables from P&G to SCF banks, and P&G says it does not provide any guarantee under these financing arrangements.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Supplier finance obligations",
+      "statement": "P&G's confirmed obligations outstanding under its Supply Chain Finance program increased from $5.559 billion at June 30, 2024 to $5.790 billion at June 30, 2025.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Purchase commitments",
+      "statement": "P&G disclosed take-or-pay purchase obligations of $893 million in fiscal 2026, $585 million in fiscal 2027, $365 million in fiscal 2028, $248 million in fiscal 2029, $130 million in fiscal 2030, and $397 million thereafter.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Lease obligations",
+      "statement": "P&G disclosed total operating lease cost of $357 million for FY2025 and total operating lease liabilities of $956 million as of June 30, 2025.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Legal and environmental risk",
+      "statement": "P&G said it is subject to legal proceedings and claims covering matters including antitrust and trade regulation, product liability, advertising, contracts, environmental, patent and trademark, labor and employment, and tax; management and counsel believe ultimate resolution will not materially affect financial position, results of operations, or cash flows.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "P&G disclosed that Chairman, President and CEO Jon R. Moeller and CFO Andre Schulten evaluated disclosure controls and procedures as of the end of FY2025 and concluded they were effective.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Governance",
+      "statement": "The Board determined that Audit Committee members Brett Biggs, Christine McCarthy (Chair), and Patricia Woertz are independent and are Audit Committee financial experts as defined by SEC rules.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "As of June 30, 2025, P&G's shareholder-approved equity compensation plans had 96,633,659 securities issuable upon exercise of outstanding stock options/stock appreciation rights, 6,677,267 securities tied to RSUs/PSUs, and 58 million shares available for future issuance under the 2019 Stock and Incentive Compensation Plan.",
+      "source": "10-K filed 2025-08-04 - https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "symbol": "IBM",
+  "companyName": "IBM",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "International Business Machines Corporation is listed on the NYSE and uses the ticker IBM.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0000051143.json"
+    },
+    {
+      "topic": "business classification",
+      "statement": "IBM's SEC submissions metadata describes its SIC category as Computer & office Equipment.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0000051143.json"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "IBM reported FY2025 revenues of $61.86 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "IBM reported FY2025 net income of $7.502 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "IBM reported FY2025 operating cash flow of $13.931 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "research investment",
+      "statement": "IBM reported FY2025 research and development expense of $6.775 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "IBM reported stockholders' equity of $27.307 billion at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "leverage",
+      "statement": "IBM reported long-term debt of $49.884 billion at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "IBM reported cash and cash equivalents of $13.947 billion at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000051143.json"
+    },
+    {
+      "topic": "segment structure",
+      "statement": "IBM's 2025 operating segments include Software, Consulting, Infrastructure, and Financing.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "software lines",
+      "statement": "IBM's software-related operating segments in the filing include Hybrid Cloud, Automation, Data, and Transaction Processing.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "consulting lines",
+      "statement": "IBM's consulting-related operating segments in the filing include Strategy and Technology and Intelligent Operations.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "infrastructure lines",
+      "statement": "IBM's infrastructure-related operating segments in the filing include Hybrid Infrastructure and Infrastructure Support.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "financing lines",
+      "statement": "IBM's financing segment includes Financing Services and Used Equipment Sales.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "customer obligations",
+      "statement": "IBM's 2025 filing includes a revenue remaining performance obligation disclosure for periods one and two, indicating contracted future revenue is material enough to be separately tracked.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "acquisition activity",
+      "statement": "IBM's 2025 filing references acquisition-related operating segments and acquisition-specific compensation plans, including plans for HashiCorp and 2025 acquisitions.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "specific acquisition",
+      "statement": "IBM's 2025 filing states that the IBM HashiCorp Acquisition Long-Term Performance Plan was adopted in connection with IBM's acquisition of HashiCorp, Inc. on February 27, 2025.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "another acquisition",
+      "statement": "IBM's 2025 filing references the StreamSets and WebMethods acquisition as part of its 2024 acquisition-related disclosures.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "board leadership",
+      "statement": "IBM's 2026 proxy statement says Arvind Krishna is Chairman of the Board, President and Chief Executive Officer.",
+      "source": "DEF 14A filed 2026-03-10; https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm"
+    },
+    {
+      "topic": "financial leadership",
+      "statement": "IBM's 2026 proxy statement says James J. Kavanaugh is Senior Vice President, Finance and Operations, and Chief Financial Officer.",
+      "source": "DEF 14A filed 2026-03-10; https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm"
+    },
+    {
+      "topic": "board oversight",
+      "statement": "IBM's 2026 proxy statement says the Board actively oversees enterprise risk, including cybersecurity, talent management, and responsible business initiatives.",
+      "source": "DEF 14A filed 2026-03-10; https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm"
+    },
+    {
+      "topic": "shareholder engagement",
+      "statement": "IBM's 2026 proxy statement says the company maintains a year-round stockholder engagement process and uses feedback from those engagements to inform practices and policies across areas including AI, corporate governance, board composition, and executive compensation.",
+      "source": "DEF 14A filed 2026-03-10; https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm"
+    },
+    {
+      "topic": "board refreshment",
+      "statement": "IBM's 2026 proxy statement says the Board added Ramon Laguarta to the Board since the last Annual Meeting.",
+      "source": "DEF 14A filed 2026-03-10; https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm"
+    },
+    {
+      "topic": "equity compensation",
+      "statement": "IBM's 2025 annual report states that 32,163,174 equity awards were outstanding or available under equity compensation plans at December 31, 2025, and 40,998,234 securities remained available for future issuance.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    },
+    {
+      "topic": "cash flow and valuation reserve",
+      "statement": "IBM's 2025 annual report shows allowance for credit losses increased from $273 million at the start of 2025 to $276 million at year-end, and revenue-based provisions increased from $298 million to $388 million.",
+      "source": "10-K filed 2026-02-24; https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+    }
+  ]
+}

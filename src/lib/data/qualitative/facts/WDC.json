@@ -1,0 +1,127 @@
+{
+  "symbol": "WDC",
+  "companyName": "Western Digital",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Western Digital trades on Nasdaq under ticker WDC, and the SEC submissions metadata identifies its SIC description as \"Computer Storage Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000106040.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "The SEC company facts summary reports FY2025 revenue of $6.255 billion for Western Digital under RevenueFromContractWithCustomerExcludingAssessedTax, filed August 14, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000106040.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "The SEC company facts summary reports FY2025 net income of negative $1.684 billion for Western Digital, filed August 14, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000106040.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of negative $408 million for Western Digital, filed August 14, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000106040.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 stockholders' equity of $12.323 billion, long-term debt of $5.684 billion, and cash and equivalents of $1.551 billion for Western Digital.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000106040.json)"
+    },
+    {
+      "topic": "Business focus after separation",
+      "statement": "Western Digital's 2025 proxy statement says the 2025 annual meeting is its first annual meeting following the February 21, 2025 separation of its flash business, Sandisk.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Product line",
+      "statement": "Western Digital describes hard disk drives, or HDDs, as the foundation of the data economy and says its HDD technology is positioned for mass storage opportunities.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Customers and end markets",
+      "statement": "Western Digital says it provides scalable technology for hyperscalers, enterprises, and cloud providers.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Product value proposition",
+      "statement": "Western Digital says it delivers high-capacity drives with improved performance, energy efficiency, and lowest total cost of ownership.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Strategic priorities",
+      "statement": "Western Digital's six stated strategic pillars are Enhanced Customer Focus, Product and Technology Leadership, Innovation and Growth, Operational Excellence, Rigorous Financial Discipline, and High Performance Teams.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Technology and IP strategy",
+      "statement": "Under its Product and Technology Leadership pillar, Western Digital says it aims to deliver the best total cost of ownership, lead with differentiated IP and proprietary technologies, and use disciplined product management to prioritize consistent innovation.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Growth strategy",
+      "statement": "Under its Innovation and Growth pillar, Western Digital says it plans to explore adjacent markets, expand in high-growth global markets, and incubate emerging technologies.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Operational strategy",
+      "statement": "Under its Operational Excellence pillar, Western Digital says it is focused on improving margin profile through cost optimization, executing with precision, and optimizing operations to enhance agility and scale.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Western Digital says its capital allocation strategy is to reinvest in the business, reduce debt, and return cash to stockholders; it also says it has initiated a quarterly dividend and authorized a share repurchase program.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "The 2025 10-K signatures identify Irving Tan as Chief Executive Officer and Director, Kris Sennesael as Executive Vice President and Chief Financial Officer, and Gene Zamiska as Senior Vice President, Global Accounting and Chief Accounting Officer.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "The 2025 10-K signatures identify Martin I. Cole as Chair of the Board and directors Kimberly E. Alexy, Tunç Doluca, Bruce Kiddoo, Matthew E. Massengill, Roxanne Oulman, and Stephanie A. Streeter.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Governance and ethics",
+      "statement": "Western Digital says its Board of Directors has adopted a Code of Business Ethics that applies to all directors, employees, and officers, including the Chief Executive Officer and Chief Financial Officer.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Management, including the Chief Executive Officer and Chief Financial Officer, concluded that Western Digital's disclosure controls and procedures were effective as of the end of the period covered by the 2025 10-K; management also concluded internal control over financial reporting was effective.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Executive compensation governance",
+      "statement": "Western Digital's 2025 proxy statement says its executive compensation strategy is designed to attract and retain best-in-class talent while aligning pay with performance and stockholder value creation.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "Western Digital's 2025 annual meeting proposals include approval of an amendment and restatement of the 2005 Employee Stock Purchase Plan to increase by 8 million the number of common shares available for issuance under that plan.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    },
+    {
+      "topic": "Insider trading plans",
+      "statement": "During the quarter ended June 27, 2025, CEO Irving Tan adopted a Rule 10b5-1 plan on May 12, 2025 for potential sale of up to 80,000 shares before May 26, 2026, and Cynthia Tregillis, Executive Vice President, Chief Legal Officer and Secretary, adopted a Rule 10b5-1 plan on May 23, 2025 for potential sale of up to 17,502 shares before May 26, 2026.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Litigation risk",
+      "statement": "Western Digital disclosed that MR Technologies had obtained a July 2024 jury award of $262 million plus $117 million of prejudgment interest, but in April 2025 Western Digital and MRT reached a global settlement of $130 million for all pending legal disputes, resulting in dismissal of the MRT matters and reversal of previously recorded charges and interest.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Litigation risk",
+      "statement": "Western Digital disclosed that SPEX Technologies obtained an October 2024 jury award of $316 million plus prejudgment interest of $237 million and legal costs, but on June 27, 2025 the court entered an amended judgment awarding SPEX nominal damages of $1 with no prejudgment interest and no legal costs; Western Digital appealed the infringement finding and SPEX appealed damages-related issues.",
+      "source": "10-K filed 2025-08-14 (https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm)"
+    },
+    {
+      "topic": "Business risks",
+      "statement": "Western Digital's 2025 proxy statement lists risks including tariffs or trade restrictions, dependence on a limited number of qualified suppliers, demand volatility, competitive products and pricing, manufacturing or supply-chain disruptions, key employee hiring and retention, debt and other financial obligations, changes in key customer relationships, cybersecurity incidents, and legal proceedings.",
+      "source": "DEF 14A filed 2025-10-06 (https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm)"
+    }
+  ]
+}

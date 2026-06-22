@@ -1,0 +1,97 @@
+{
+  "symbol": "MRVL",
+  "companyName": "Marvell Technology",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Marvell is led by Matthew J. Murphy as Chairman and Chief Executive Officer, with Willem Meintjes as Chief Financial Officer and Christopher Koopmans as President and Chief Operating Officer. The leadership team has driven a clear shift toward data infrastructure semiconductors, with more than 97% of revenue tied to data infrastructure markets in the 2026 proxy CEO letter.",
+        "points": [
+          "The 10-K identifies Sandeep Bharathi as President, Data Center Group, which matches the company's stated focus on data center, AI infrastructure, high-speed connectivity, custom silicon, switching, and storage semiconductors.",
+          "Marvell reports that data center revenue grew from about $200 million when its transformation began to more than $6 billion in fiscal 2026, a 45% compound annual growth rate over 10 years.",
+          "The company says execution improved since 2018, with first-pass silicon success from A0 to production up 90% and average tape-out cycle time down approximately 60%."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation has been active and strategic, centered on reshaping Marvell around data infrastructure. The company reports more than $24 billion of acquisitions and nearly $4.5 billion of divestitures over the past decade, while FY2026 also included approximately $2.2 billion returned to stockholders through repurchases and dividends.",
+        "points": [
+          "Marvell identifies Cavium, Avera, Inphi, Innovium, Celestial AI, and XConn as acquisitions that expanded capabilities in compute, custom ASICs, electro-optics, cloud switching, and AI connectivity.",
+          "The company divested businesses it says no longer fit long-term strategy, including Wi-Fi connectivity, broadband, LTE, multimedia, and automotive Ethernet.",
+          "The Wi-Fi business sale to NXP brought $1.8 billion, and the automotive Ethernet sale to Infineon brought $2.5 billion in cash.",
+          "After fiscal 2026 year end, Marvell paid about $1.3 billion in cash and issued about 24.5 million shares for Celestial AI, with additional contingent consideration possible through fiscal 2029.",
+          "Marvell ended FY2026 with $948.3 million of cash and equivalents, $3.9343 billion of long-term debt, and $15.6372 billion of stockholders' equity."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Marvell has returned capital to shareholders, but alignment also includes meaningful equity issuance and executive trading plans. In fiscal 2026 it returned approximately $2.2 billion through share repurchases and dividends, while post-year-end acquisitions of Celestial AI and XConn used both cash and common shares.",
+        "points": [
+          "The Celestial AI acquisition included approximately 24.5 million common shares, and the XConn acquisition included approximately 2.1 million common shares, creating dilution alongside the strategic technology additions.",
+          "As of January 31, 2026, shareholder-approved equity compensation plans had 16,973,973 securities tied to outstanding options, warrants, and rights.",
+          "The same equity compensation plans had 78,364,382 securities remaining available for future issuance, excluding securities already reflected in the outstanding-awards column.",
+          "In the fourth quarter of fiscal 2026, Matthew J. Murphy, Sandeep Bharathi, Willem Meintjes, and Christopher Koopmans adopted Rule 10b5-1 plans covering planned share sales."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Marvell provides investors with SEC filings, company-facts financial data, proxy CEO-letter strategy updates, and operating metrics tied to its data infrastructure transformation. The packet includes specific disclosures on revenue, net income, operating cash flow, R&D expense, segment-like data center mix, optical interconnect growth, and custom silicon contribution.",
+        "points": [
+          "The SEC company facts summary reports FY2026 revenue of $5.5077 billion, net income of negative $933.4 million, operating cash flow of $1.3705 billion, and R&D expense of $1.8962 billion.",
+          "The 2026 proxy CEO letter states that more than 97% of revenue is tied to data infrastructure markets, giving investors a clear view of the company's strategic revenue exposure.",
+          "The proxy CEO letter provides data center detail, stating that data center accounted for approximately three-quarters of total revenue and that data center revenue exceeded $6 billion in fiscal 2026.",
+          "Marvell discloses operating progress metrics, including a 90% improvement in first-pass silicon success from A0 to production and an approximately 60% reduction in average tape-out cycle time since 2018.",
+          "The company also breaks out growth areas within data center, saying optical interconnect is roughly half of data center revenue and custom silicon is approximately 25% of data center revenue."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures include named executive roles, controls conclusions, auditor attestation, equity-plan capacity, and executive Rule 10b5-1 plans. Management concluded disclosure controls and internal control over financial reporting were effective as of January 31, 2026, and Deloitte & Touche LLP issued an effective internal-control opinion for the same date.",
+        "points": [
+          "Matthew J. Murphy serves as both Chairman and Chief Executive Officer, so investors should note that the packet identifies combined board leadership and executive leadership in one role.",
+          "Management concluded that Marvell's disclosure controls and procedures and internal control over financial reporting were effective as of January 31, 2026.",
+          "Deloitte & Touche LLP issued an opinion that Marvell maintained effective internal control over financial reporting as of January 31, 2026.",
+          "The packet identifies planned executive sales under Rule 10b5-1 plans for Murphy, Bharathi, Meintjes, and Koopmans, ranging from 60,000 to 97,500 shares.",
+          "Governance-related dilution oversight is relevant because shareholder-approved equity plans still had 78,364,382 securities available for future issuance at January 31, 2026."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Data infrastructure focus",
+        "grade": "strong",
+        "summary": "Marvell's moat is tied to a focused position in data infrastructure semiconductors rather than broad consumer-chip exposure. The 2026 proxy CEO letter says more than 97% of revenue is tied to data infrastructure markets, and the company serves leading hyperscale cloud customers building AI infrastructure at scale."
+      },
+      {
+        "type": "High-speed connectivity portfolio",
+        "grade": "strong",
+        "summary": "Marvell has a broad high-speed connectivity portfolio spanning electrical and optical connectivity, from links between data centers to die-to-die connectivity within a package. The company says it deploys these technologies across high-speed interconnects, custom silicon, switching, and storage semiconductor businesses, making the portfolio especially relevant to data center AI systems."
+      },
+      {
+        "type": "Optical interconnect and custom silicon scale",
+        "grade": "strong",
+        "summary": "Within data center, Marvell reports that optical interconnect has grown at about a 50% compound annual growth rate for five straight years and represents roughly half of data center revenue. It also says custom silicon scaled from effectively zero to approximately 25% of data center revenue in only a few years."
+      },
+      {
+        "type": "Engineering execution capability",
+        "grade": "middle",
+        "summary": "Marvell's design execution metrics suggest a capability advantage in turning complex semiconductor programs into production. Since 2018, the company says first-pass silicon success from A0 to production improved by 90%, while average tape-out cycle time decreased by approximately 60%, both important measures for custom silicon and connectivity programs."
+      },
+      {
+        "type": "Acquisition-built technology breadth",
+        "grade": "middle",
+        "summary": "Marvell has expanded its technology base through targeted acquisitions, including Cavium in compute, Avera in custom ASICs, Inphi in high-speed electro-optics, Innovium in cloud switching, Celestial AI in Photonic Fabric, and XConn in PCIe and CXL switching silicon. This breadth supports its data infrastructure strategy, though acquisitions also require integration and capital discipline."
+      }
+    ]
+  }
+}

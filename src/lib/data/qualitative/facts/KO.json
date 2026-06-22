@@ -1,0 +1,137 @@
+{
+  "symbol": "KO",
+  "companyName": "Coca-Cola",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Coca-Cola is listed on the NYSE under ticker KO, and the SEC submissions metadata lists its SIC description as \"Beverages.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000021344.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Coca-Cola reported FY2025 revenue of $45.754 billion, filed February 20, 2026 under the Revenues concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Profit scale",
+      "statement": "Coca-Cola reported FY2025 net income of $10.714 billion, filed February 20, 2026 under the NetIncomeLoss concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Coca-Cola reported FY2025 operating cash flow of $11.599 billion, filed February 20, 2026 under the NetCashProvidedByUsedInOperatingActivities concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Balance sheet liquidity",
+      "statement": "Coca-Cola reported cash and equivalents of $9.366 billion for FY2025, filed February 20, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Balance sheet capitalization",
+      "statement": "Coca-Cola reported stockholders' equity of $24.856 billion for FY2025, filed February 20, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Debt",
+      "statement": "Coca-Cola reported long-term debt of $36.377 billion for FY2023, filed February 20, 2024.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000021344.json)"
+    },
+    {
+      "topic": "Business model and reach",
+      "statement": "The 2026 proxy describes Coca-Cola as having evolved from one iconic drink into a \"total beverage company,\" with 2.2 billion servings of its drinks enjoyed in more than 200 countries and territories each day.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Brand portfolio",
+      "statement": "The 2026 proxy states that Coca-Cola owns 32 billion-dollar brands across several beverage categories worldwide.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Portfolio focus",
+      "statement": "James Quincey's 2026 proxy letter says Coca-Cola evolved into a total beverage company with a focused portfolio of approximately 200 brands.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Brand development",
+      "statement": "James Quincey's 2026 proxy letter states that Coca-Cola added 12 billion-dollar brands since 2017.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Organization and distribution system",
+      "statement": "James Quincey's 2026 proxy letter says Coca-Cola built a networked organization combining global scale with local market expertise, and that its bottling partners are investing for growth.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Marketing and innovation",
+      "statement": "James Quincey's 2026 proxy letter states that Coca-Cola transformed its marketing to be digital-first and consumer-centric, and that digital represented a majority of its media investment in 2025.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Strategy",
+      "statement": "The 2026 proxy letter describes Coca-Cola's growth strategy as focusing on consumers, disciplined innovation, building brands that matter, and executing through its global system.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "The 2025 10-K iXBRL text identifies segment members for Europe, Middle East & Africa; Latin America; North America; Asia Pacific; and Bottling Investments for 2025 reporting contexts.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm)"
+    },
+    {
+      "topic": "Business operations",
+      "statement": "The 2025 10-K iXBRL text includes reporting contexts for concentrate operations and finished product operations, including U.S. and non-U.S. member tags.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm)"
+    },
+    {
+      "topic": "Equity method and bottling relationships",
+      "statement": "The 2025 10-K iXBRL text references equity method or investee members including Monster, Coca-Cola Europacific Partners, Coca-Cola FEMSA, Coca-Cola HBC, Coca-Cola Bottlers Japan, Coca-Cola Icecek, and Andina.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm)"
+    },
+    {
+      "topic": "Free cash flow and capital expenditures",
+      "statement": "The 2026 proxy Annex C reconciliation reports 2025 net cash provided by operating activities of $7.408 billion, purchases of property, plant and equipment of $2.112 billion, free cash flow of $5.296 billion, and free cash flow excluding the fairlife contingent consideration payment of $11.365 billion.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Management succession",
+      "statement": "In the 2026 proxy letter, James Quincey described the letter as his last as CEO and said he was preparing to pass the baton to Henrique Braun, who joined Coca-Cola 30 years earlier.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Executive officers",
+      "statement": "The 2025 10-K signatures identify James Quincey as Chairman of the Board of Directors and Chief Executive Officer, John Murphy as President and Chief Financial Officer, and Erin L. May as Senior Vice President, Controller and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm)"
+    },
+    {
+      "topic": "Board nominees and governance",
+      "statement": "For the 2026 annual meeting, the proxy card lists 12 director nominees: Herb Allen, Bela Bajaria, Ana Botín, Henrique Braun, Christopher C. Davis, Carolyn Everson, Thomas S. Gayner, Max Levchin, Amity Millhiser, James Quincey, Caroline J. Tsay, and David B. Weinberg.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Auditor and annual meeting recommendations",
+      "statement": "For the 2026 annual meeting, Coca-Cola's Board recommended voting FOR the election of all 12 director nominees, FOR advisory approval of executive compensation, and FOR ratification of Ernst & Young LLP as independent auditors for fiscal 2026.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Executive compensation structure",
+      "statement": "The 2026 proxy says Coca-Cola's Annual Incentive Plan provides eligible employees an annual cash payment based on predefined performance measures, with no participant allowed to receive an annual payment greater than $10 million.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Long-term incentives",
+      "statement": "The 2026 proxy says Coca-Cola's long-term incentive plans may grant stock options, PSUs, restricted stock and RSUs, performance-based awards payable in cash or common stock, stock appreciation rights, and other stock-based awards; it also states no named executive officer received RSUs or a performance cash award in 2025.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    },
+    {
+      "topic": "Compensation governance",
+      "statement": "The 2025 10-K exhibit list includes The Coca-Cola Company Incentive Based Compensation Recoupment Policy as Exhibit 97, incorporated by reference from the company's 2023 Annual Report on Form 10-K.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/21344/000162828026010047/ko-20251231.htm)"
+    },
+    {
+      "topic": "Shareowner risk and sustainability proposals",
+      "statement": "For the 2026 annual meeting, the Board recommended votes AGAINST shareowner proposals requesting a sustainability committee by-law amendment, a report evaluating plastics packaging policies, a report on diversity, equity and inclusion efforts, a report on risks related to ingredients, and a report on plans to increase sustainability disclosure.",
+      "source": "DEF 14A filed 2026-03-16 (https://www.sec.gov/Archives/edgar/data/21344/000110465926028215/ko-20260429xdef14a.htm)"
+    }
+  ]
+}

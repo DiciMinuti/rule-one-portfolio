@@ -1,0 +1,127 @@
+{
+  "symbol": "UNH",
+  "companyName": "UnitedHealth",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "UnitedHealth Group Inc. is listed on the NYSE under ticker UNH, and the SEC submissions metadata classifies its SIC description as \"Hospital & Medical Service Plans.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000731766.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "UnitedHealth reported FY2025 revenue of $371.622 billion, filed on 2026-03-02 under the SEC Revenues concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "UnitedHealth reported FY2025 net income of $22.381 billion, filed on 2026-03-02 under the SEC NetIncomeLoss concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "UnitedHealth reported FY2025 operating cash flow of $29.068 billion, filed on 2026-03-02 under the SEC NetCashProvidedByUsedInOperatingActivities concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "UnitedHealth reported FY2025 long-term debt of $72.359 billion and cash and equivalents of $25.312 billion, each filed on 2026-03-02 in SEC company facts.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000731766.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "UnitedHealth describes itself as operating through two distinct and complementary businesses: Optum and UnitedHealthcare.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Optum service lines",
+      "statement": "Optum brings together clinical expertise, data, and innovative products and services to provide comprehensive care, insights, and pharmacy services to individuals and care teams.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "UnitedHealthcare service lines",
+      "statement": "UnitedHealthcare provides health coverage through individual, employer-sponsored, and government programs to support people across all stages of life.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Strategic focus",
+      "statement": "In the Chair and CEO letter, UnitedHealth said it refocused the organization on U.S. health care by exiting non-U.S. businesses.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Leadership refresh",
+      "statement": "UnitedHealth said it refreshed nearly half of its top 100 leadership roles as part of evolving the enterprise to meet its mission-related responsibilities.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Technology investment",
+      "statement": "UnitedHealth said it expects to invest nearly $1.5 billion in intelligent technologies in 2026 and at least that much in 2027.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Reform agenda",
+      "statement": "UnitedHealth said it advanced reform efforts across Optum and UnitedHealthcare in data and process interoperability, prior authorization, transparency, pharmacy practices, and other areas.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Transparency initiatives",
+      "statement": "UnitedHealth said it had published three independent reviews of critical business practices, adopted all recommendations from those reviews, and begun publishing results on prior authorizations, claim approval rates, rebate practices, prices, and core management practices and policies.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "UnitedHealth's parent company 2025 cash flows included $5.545 billion of common stock repurchases and $7.916 billion of cash dividends paid.",
+      "source": "10-K filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)"
+    },
+    {
+      "topic": "Debt financing",
+      "statement": "UnitedHealth's parent company 2025 cash flows included $2.969 billion of proceeds from long-term debt issuance and $3.050 billion of repayments of long-term debt.",
+      "source": "10-K filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)"
+    },
+    {
+      "topic": "Dividend metric",
+      "statement": "UnitedHealth's proxy summary listed an annual cash dividend of $8.84.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "As of December 31, 2025, UnitedHealth had 18 million securities to be issued upon exercise of outstanding options, warrants, and rights under equity compensation plans approved by shareholders, with a weighted-average exercise price of $395.",
+      "source": "10-K filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)"
+    },
+    {
+      "topic": "Equity plan capacity",
+      "statement": "As of December 31, 2025, UnitedHealth had 54 million securities remaining available for future issuance under equity compensation plans, including 15 million under the ESPP and 39 million under the 2020 Stock Incentive Plan.",
+      "source": "10-K filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "UnitedHealth's 2025 Form 10-K was signed by Stephen Hemsley as Chair and Chief Executive Officer, Wayne DeVeydt as Chief Financial Officer, and Thomas Roos as Senior Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2026-03-02 (https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm)"
+    },
+    {
+      "topic": "CEO and chair structure",
+      "statement": "The Lead Independent Director letter said Stephen Hemsley was appointed Chief Executive Officer in May 2025, and the company departed from its long-standing practice of separate CEO and Chair roles under extraordinary circumstances, while stating it did not intend to continue that practice indefinitely.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "CFO transition",
+      "statement": "The Lead Independent Director letter said Wayne DeVeydt was appointed Chief Financial Officer in September 2025.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Succession planning",
+      "statement": "UnitedHealth said management regularly reviews the top 750 leaders with the Board and has succession plans in place for over 90% of that leadership group.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Board governance",
+      "statement": "UnitedHealth established a Public Responsibility Committee responsible for monitoring and overseeing risk consistent with the company's role in improving health and well-being, including the impact of key decisions on people served, public reputation, and mission.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    },
+    {
+      "topic": "Risk and unusual costs",
+      "statement": "UnitedHealth's proxy reconciliation identified 2025 adjustments including $799 million of direct response costs related to a cyberattack and $2.521 billion of restructuring and other items, including real estate rationalization and workforce reductions, a loss contract reserve, contract reassessments, net valuation losses on equity securities, and advance funding of the United Health Foundation.",
+      "source": "DEF 14A filed 2026-04-21 (https://www.sec.gov/Archives/edgar/data/731766/000110465926046125/tm261387-6_def14a.htm)"
+    }
+  ]
+}

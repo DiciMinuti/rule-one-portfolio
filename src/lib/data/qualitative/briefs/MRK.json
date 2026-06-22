@@ -1,0 +1,92 @@
+{
+  "symbol": "MRK",
+  "companyName": "Merck & Co., Inc.",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Merck is led by Robert M. Davis, who signed the 2025 Form 10-K as Chairman, Chief Executive Officer and President, with Caroline Litchfield as Executive Vice President and Chief Financial Officer. The leadership team is running a research-intensive biopharmaceutical model with large late-stage development activity and active business development across human and animal health.",
+        "points": [
+          "Robert M. Davis, Caroline Litchfield, and Dalton Smart signed the 2025 Form 10-K in the CEO, CFO, and principal accounting officer roles, giving investors clear accountability for reported results.",
+          "Management describes Merck as research-intensive, and the proxy cites approximately 80 ongoing Phase 3 studies across multiple therapeutic areas and modalities.",
+          "Leadership is extending beyond KEYTRUDA with sac-TMT in 17 Phase 3 trials, enlicitide, WINREVAIR, OHTUVAYRE, ENFLONSIA, CAPVAXIVE, and HIV pipeline candidates.",
+          "Animal Health remains part of the leadership agenda, with NUMELVI tablets for dogs receiving European Commission approval in 2025 and recently receiving FDA approval."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Merck is allocating heavily to internal R&D and external business development. FY2025 revenue was $60.115 billion and operating cash flow was $13.006 billion, but net income was only $365 million while R&D expense reached $30.531 billion, showing a business currently absorbing very large reinvestment costs.",
+        "points": [
+          "FY2025 research and development expense was $30.531 billion, a very large commitment relative to $60.115 billion of reported revenue.",
+          "Business development is described as a core growth strategy, with over $60 billion invested since 2021, including the 2025 Verona Pharma acquisition and January 2026 Cidara Therapeutics acquisition.",
+          "The balance sheet ended FY2025 with $13.242 billion of cash and equivalents, $34.462 billion of long-term debt, and $46.313 billion of stockholders' equity.",
+          "The Verona Pharma acquisition added OHTUVAYRE, described by Merck as a first-in-class maintenance treatment for adults with chronic obstructive pulmonary disease."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Merck's incentive design links management pay to operating and market outcomes, including revenue, pre-tax income, pipeline, EPS, and relative TSR. The structure includes shareholder-approved equity compensation capacity, but the packet does not provide insider ownership or long-term shareholding data to judge owner-operator alignment.",
+        "points": [
+          "The Company Scorecard weights annual incentive measures at 35% revenue, 35% pre-tax income, 20% pipeline, and 10% sustainability.",
+          "Long-term incentive metrics are split evenly between EPS weighted 50% and relative TSR weighted 50%, directly tying part of compensation to per-share performance and relative stock returns.",
+          "Annual employee compensation, including senior management compensation, is derived in part using a non-GAAP pre-tax income metric disclosed in the proxy.",
+          "As of December 31, 2025, shareholder-approved equity plans covered 12,476,856 securities issuable upon outstanding awards and 65,539,454 securities remaining available for future issuance."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Merck gives investors detailed SEC-based reporting across financial results, controls, compensation metrics, pipeline activity, approvals, and audit risks. The packet supports a communication process anchored in the Form 10-K, proxy statement, XBRL company facts, named product updates, and specific compensation scorecard weights.",
+        "points": [
+          "The 2025 Form 10-K identifies Robert M. Davis, Caroline Litchfield, and Dalton Smart as signers responsible for executive, financial, and accounting certification roles.",
+          "SEC company facts provide FY2025 revenue, net income, operating cash flow, R&D expense, cash, long-term debt, stockholders' equity, and other standardized financial concepts.",
+          "The 2026 proxy gives specific pipeline disclosure, including approximately 80 ongoing Phase 3 studies and more than 20 potential new growth drivers.",
+          "Merck discloses product-level developments including KEYTRUDA QLEX, sac-TMT, enlicitide, WINREVAIR, OHTUVAYRE, ENFLONSIA, CAPVAXIVE, GARDASIL, and NUMELVI.",
+          "The 10-K includes a named critical audit matter: U.S. rebate accruals for Medicaid, Managed Care, and Medicare Part D, with a $1.5 billion accrued balance for aggregate customer discounts."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Merck reports effective disclosure controls and internal control over financial reporting as of FY2025, with CEO and CFO participation in the disclosure-control conclusion. Governance disclosures also cover companywide Code of Conduct training, internal audit monitoring, shareholder-approved equity plans, and a financially material rebate-accrual audit matter.",
+        "points": [
+          "Management, with participation from the CEO and CFO, concluded that disclosure controls and procedures were effective as of the end of FY2025.",
+          "Management concluded internal control over financial reporting was effective as of December 31, 2025, according to the 2025 Form 10-K.",
+          "Merck's Code of Conduct applies to all employees, including the principal executive officer, principal financial officer, and principal accounting officer.",
+          "All employees are required annually to complete Code of Conduct training, and internal auditors regularly monitor the adequacy and application of internal controls worldwide.",
+          "PwC identified U.S. rebate accruals for Medicaid, Managed Care, and Medicare Part D as a critical audit matter, highlighting a specific financial reporting risk."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "R&D scale and late-stage pipeline",
+        "grade": "strong",
+        "summary": "Merck's clearest moat is the scale of its research engine: FY2025 R&D expense was $30.531 billion, and the company cited approximately 80 ongoing Phase 3 studies. The pipeline spans oncology, cardiometabolic, respiratory, vaccines, infectious disease, immunology, ophthalmology, and animal health, with management identifying over 20 potential new growth drivers."
+      },
+      {
+        "type": "Approved-product and therapeutic breadth",
+        "grade": "strong",
+        "summary": "Merck's portfolio is not dependent on one disease area in the packet: it includes KEYTRUDA QLEX, GARDASIL and GARDASIL 9, CAPVAXIVE, ENFLONSIA, WINREVAIR, OHTUVAYRE, and Animal Health products such as NUMELVI. FDA and European Commission approvals across oncology, vaccines, respiratory, and animal health support a broad regulated product base."
+      },
+      {
+        "type": "Oncology development depth",
+        "grade": "strong",
+        "summary": "Merck has a deep oncology position supported by KEYTRUDA-related approvals and a large follow-on development effort. The FDA approved KEYTRUDA QLEX for subcutaneous administration across all solid tumor indications, the European Commission approved subcutaneous KEYTRUDA across all adult indications in Europe, and sac-TMT is being evaluated in 17 Phase 3 trials."
+      },
+      {
+        "type": "Business development capacity",
+        "grade": "middle",
+        "summary": "Merck uses acquisitions and collaborations to widen its pipeline and product set, not just internal discovery. The company says business development is core to growth, invested over $60 billion since 2021, closed Verona Pharma in 2025, completed Cidara Therapeutics in January 2026, and is developing sac-TMT with Kelun-Biotech."
+      }
+    ]
+  }
+}

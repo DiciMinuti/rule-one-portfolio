@@ -1,0 +1,152 @@
+{
+  "symbol": "NEE",
+  "companyName": "Nextera Energy",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "NextEra Energy, Inc. is identified in SEC submissions as a Florida corporation with SIC description 'Electric Services' and is traded on the NYSE under ticker NEE.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0000753308.json"
+    },
+    {
+      "topic": "holding company structure",
+      "statement": "The 2025 Form 10-K identifies Florida Power & Light Company as a subsidiary/related filing entity within NextEra Energy's consolidated reporting structure.",
+      "source": "10-K filed 2026-02-13; https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm"
+    },
+    {
+      "topic": "year-end scale",
+      "statement": "The 2026 proxy statement says NextEra Energy had about $213 billion in total assets as of 12/31/2025.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "operating scale",
+      "statement": "The 2026 proxy statement says NextEra Energy had about 80 GW in operation as of 12/31/2025, with the figure including assets operated by NextEra Energy Resources and those owned by XPLR Infrastructure at NextEra Energy's ownership share.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "renewables pipeline",
+      "statement": "The 2026 proxy statement says NextEra Energy Resources had 13.5 GW in origination and about 30 GW of year-end backlog as of 12/31/2025.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "workforce",
+      "statement": "The 2026 proxy statement says NextEra Energy had approximately 17,400 employees as of 12/31/2025.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "profitability",
+      "statement": "SEC company facts show NextEra Energy reported $7.31 billion of net income for FY2025.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "SEC company facts show NextEra Energy generated $11.301 billion of operating cash flow for FY2025.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "SEC company facts show NextEra Energy had $50.101 billion of stockholders' equity at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "leverage",
+      "statement": "SEC company facts show NextEra Energy had $72.385 billion of long-term debt at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "SEC company facts show NextEra Energy had $1.487 billion of cash and cash equivalents at FY2025 year-end.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "historical revenue",
+      "statement": "SEC company facts show NextEra Energy reported $15.317 billion of revenue for FY2012.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0000753308.json"
+    },
+    {
+      "topic": "executive leadership",
+      "statement": "The 2025 Form 10-K states that John W. Ketchum was Chairman, President and Chief Executive Officer of NextEra Energy as of February 13, 2026.",
+      "source": "10-K filed 2026-02-13; https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm"
+    },
+    {
+      "topic": "finance leadership",
+      "statement": "The 2025 Form 10-K states that Michael H. Dunne was Executive Vice President, Finance and Chief Financial Officer of NextEra Energy as of February 13, 2026.",
+      "source": "10-K filed 2026-02-13; https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm"
+    },
+    {
+      "topic": "accounting leadership",
+      "statement": "The 2025 Form 10-K states that William J. Gough was Vice President, Controller and Chief Accounting Officer of NextEra Energy as of February 13, 2026.",
+      "source": "10-K filed 2026-02-13; https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/nee-20251231.htm"
+    },
+    {
+      "topic": "board composition",
+      "statement": "The 2026 proxy statement says 11 of 12 director nominees are independent, and the CEO is the only non-independent director.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "board committees",
+      "statement": "The 2026 proxy statement says all members of the Audit Committee, Compensation Committee, Finance & Investment Committee, and Governance & Nominating Committee are independent directors.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "lead director",
+      "statement": "The 2026 proxy statement says an independent lead director is selected by the independent directors and chairs regularly scheduled executive sessions of independent directors.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "annual election and voting standard",
+      "statement": "The 2026 proxy statement says all directors stand for election annually and uncontested director elections use a simple majority voting standard.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "shareholder rights",
+      "statement": "The 2026 proxy statement says shareholders of 20% or more of outstanding shares may call a special meeting, and the company has no poison pill and no supermajority vote requirements in its bylaws.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "proxy access",
+      "statement": "The 2026 proxy statement says proxy access is available to a shareholder, or group of up to 20 shareholders, owning 3% of outstanding shares for at least 3 years, with nomination rights for the greater of 2 directors or up to 20% of the board.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "management ownership requirements",
+      "statement": "The 2026 proxy statement says the CEO is required to hold shares equal to 7x base salary, senior executives are required to hold shares equal to 3x base salary, and directors are required to hold shares equal to 7x the cash portion of the annual retainer.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "compensation governance",
+      "statement": "The 2026 proxy statement says the company has a recoupment/clawback policy aligned with NYSE rules and a policy prohibiting short sales, hedging, and margin accounts.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "capital allocation outlook",
+      "statement": "The 2026 proxy statement says NextEra Energy expects capital deployment of about $295 billion to $325 billion from 2025 through 2032.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "operating performance",
+      "statement": "The 2026 proxy statement says NextEra Energy reported GAAP net income attributable to the company of $6.835 billion and adjusted earnings of $7.683 billion for full-year 2025.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "shareholder returns",
+      "statement": "The 2026 proxy statement says NextEra Energy's 10-year total shareholder return through 12/31/2025 was 299%, and that this outperformed the S&P 500 Electric Utilities Index, the S&P 500 Utilities Index, and the UTY over the same period.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "sustainability claim",
+      "statement": "The 2026 proxy statement says NextEra Energy's overall company carbon dioxide emissions rate was 52% below the national average as of 12/31/2024.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "reliability claim",
+      "statement": "The 2026 proxy statement says FPL's reliability was 67% better than the national average as of 12/31/2024.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    },
+    {
+      "topic": "storm resilience",
+      "statement": "The 2026 proxy statement says FPL's smart grid technology avoided nearly 800,000 outages during Hurricanes Debby, Helene, and Milton in 2024.",
+      "source": "DEF 14A filed 2026-04-01; https://www.sec.gov/Archives/edgar/data/753308/000110465926038551/tm261592-1_def14a.htm"
+    }
+  ]
+}

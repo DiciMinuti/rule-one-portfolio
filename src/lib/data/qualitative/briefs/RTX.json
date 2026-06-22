@@ -1,0 +1,92 @@
+{
+  "symbol": "RTX",
+  "companyName": "RTX",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "RTX is led by Christopher T. Calio as Chairman and Chief Executive Officer, with Neil G. Mitchill, Jr. as Executive Vice President and Chief Financial Officer and Amy L. Johnson as Senior Vice President and Controller. Management oversees a large three-segment aerospace and defense company with Collins Aerospace, Pratt & Whitney, and Raytheon, supported by the CORE operating system.",
+        "points": [
+          "The leadership team is identified in SEC materials: Christopher T. Calio signs as Chairman and CEO, Neil G. Mitchill, Jr. as CFO, and Amy L. Johnson as Controller.",
+          "RTX's operating scope is broad, with three reported segments: Collins Aerospace, Pratt & Whitney, and Raytheon, requiring management attention across commercial aerospace, engines, and defense-related activities.",
+          "The proxy describes CORE, or Customer Oriented Results and Excellence, as RTX's business operating system intended to drive continuous improvement and operational excellence.",
+          "The company reported FY2025 revenue of $68.92 billion, net income of $3.195 billion, and operating cash flow of $7.883 billion, showing leadership is managing a very large industrial base."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "RTX generated substantial cash in FY2025, with proxy-reported free cash flow of $7.940 billion and operating cash flow of $7.883 billion. The company states that free cash flow is used to assess capacity for acquisitions, debt service, share repurchases, and distributions to shareowners, but the packet also shows large long-term debt reported for FY2024.",
+        "points": [
+          "RTX's proxy states free cash flow is used to assess the company's ability to fund acquisitions, debt service, repurchases of RTX common stock, and distributions of earnings to shareowners.",
+          "FY2025 free cash flow was reported at $7.940 billion in the proxy, calculated as operating cash flow less capital expenditures, giving investors a management-defined cash measure.",
+          "The company reported FY2025 research and development expense of $2.805 billion, a meaningful capital priority for an aircraft engines, aerospace, and defense business.",
+          "RTX reported long-term debt of $43.638 billion for FY2024, so debt service remains an important capital allocation use alongside acquisitions and shareholder returns."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "RTX's executive incentive framework includes metrics that connect management pay to earnings, free cash flow, adjusted EPS, return on invested capital, and relative total shareowner return. The alignment is practical rather than exceptional because the packet provides compensation metrics and equity-plan capacity, but not executive ownership levels or actual capital-return amounts.",
+        "points": [
+          "The 2026 proxy says 2025 incentive metrics included earnings, free cash flow, adjusted earnings per share, return on invested capital, and relative total shareowner return.",
+          "Relative total shareowner return is explicitly included in the incentive design, tying at least part of management compensation to RTX's performance versus other public equities.",
+          "As of December 31, 2025, RTX had 22,606,067 securities issuable under shareowner-approved equity compensation plans and 101,179,202 still available for future issuance.",
+          "Management's stated free cash flow framework includes repurchases and distributions to shareowners, but the packet does not provide 2025 dollar amounts for buybacks or dividends."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "RTX gives investors segment-level and adjusted performance detail in its filings and proxy materials. The packet includes FY2025 organic sales change by segment, consolidated and adjusted segment operating profit, adjusted segment operating margin, and a free-cash-flow calculation, which helps investors separate reported results from management's adjusted operating view.",
+        "points": [
+          "RTX reports three operating segments in its 2025 filing materials: Collins Aerospace, Pratt & Whitney, and Raytheon, giving investors a clear segment map for the business.",
+          "The proxy provides an organic sales reconciliation for 2025 versus 2024, showing consolidated organic change of 11%, with Collins at 9%, Pratt & Whitney at 17%, and Raytheon at 6%.",
+          "The proxy reports 2025 consolidated segment operating profit of $4.749 billion and adjusted segment operating profit of $8.018 billion, along with adjusted segment operating margin of 10.5%.",
+          "RTX's proxy defines free cash flow as operating cash flow less capital expenditures and reports FY2025 free cash flow of $7.940 billion, supporting cash-generation analysis.",
+          "The 2026 proxy lists annual meeting items clearly: election of ten director nominees, advisory vote on executive compensation, and appointment of PricewaterhouseCoopers LLP as independent auditor."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "RTX discloses a formal board committee structure, shareowner votes on directors and executive compensation, and compensation metrics tied to financial and market outcomes. Governance carries added monitoring burden because the 2025 10-K exhibits include State Department, DOJ, and SEC settlement or agreement materials tied to trade compliance, contract pricing disputes, and related investigations.",
+        "points": [
+          "RTX names board committee charters available on its website, including Audit, Finance, Governance and Public Policy, Human Capital and Compensation, and Special Activities committees.",
+          "The 2026 annual meeting includes election of ten director nominees, an advisory vote on executive compensation, and appointment of PricewaterhouseCoopers LLP as independent auditor for 2026.",
+          "The Human Capital and Compensation framework includes earnings, free cash flow, adjusted EPS, return on invested capital, and relative total shareowner return as 2025 incentive metrics.",
+          "The 10-K exhibits include a U.S. Department of State consent agreement dated August 29, 2024 and DOJ deferred prosecution agreements dated October 15-16, 2024.",
+          "The 10-K also references Raytheon Company settlement-related materials tied to DOJ investigation and contract pricing disputes, as well as trade compliance consent-agreement materials."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Scale across aerospace and defense segments",
+        "grade": "strong",
+        "summary": "RTX operates at large scale across Collins Aerospace, Pratt & Whitney, and Raytheon, with FY2025 revenue of $68.92 billion. That breadth gives investors exposure to aerospace systems, aircraft engines and engine parts, and Raytheon defense activities within one company, supported by FY2025 operating cash flow of $7.883 billion."
+      },
+      {
+        "type": "Engineering and operating capability",
+        "grade": "middle",
+        "summary": "RTX reported FY2025 research and development expense of $2.805 billion and uses CORE, its Customer Oriented Results and Excellence operating system, to drive continuous improvement and operational excellence. This supports a capability-based moat, but the packet does not provide patents, installed-base data, program win rates, or product-level economics."
+      },
+      {
+        "type": "Segment diversification",
+        "grade": "middle",
+        "summary": "RTX's 2025 organic sales reconciliation shows growth across all three segments: Collins Aerospace at 9%, Pratt & Whitney at 17%, and Raytheon at 6%, with consolidated organic change of 11%. The mix reduces reliance on a single business line, though the packet does not show customer concentration, backlog, or contract duration."
+      },
+      {
+        "type": "Cash generation supporting reinvestment",
+        "grade": "middle",
+        "summary": "RTX reported FY2025 operating cash flow of $7.883 billion and proxy-reported free cash flow of $7.940 billion, calculated as operating cash flow less capital expenditures. That cash generation can support R&D, debt service, acquisitions, repurchases, and distributions, but the packet also shows significant long-term debt reported for FY2024."
+      }
+    ]
+  }
+}

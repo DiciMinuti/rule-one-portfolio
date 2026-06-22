@@ -1,0 +1,90 @@
+{
+  "symbol": "TMUS",
+  "companyName": "T-Mobile US",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "T-Mobile is led by Srinivasan Gopalan as Chief Executive Officer and Peter Osvaldik as Chief Financial Officer, according to the FY2025 10-K signature page. The leadership team is running a very large wireless communications business, with FY2025 revenue of $78.558 billion, while also managing restructuring, debt, cybersecurity-related costs, and a controlling stockholder structure.",
+        "points": [
+          "Srinivasan Gopalan signed the FY2025 10-K as Chief Executive Officer, and Peter Osvaldik signed as Chief Financial Officer, giving investors named accountability for operations and reporting.",
+          "Management reported FY2025 net income of $8.317 billion and operating cash flow of $18.559 billion, showing the leadership team is managing a profitable, cash-generative telecom business.",
+          "The company began network restructuring initiatives in Q4 2025 to rationalize network and backhaul services and eliminate duplicative costs, including network decommissioning and contract termination costs.",
+          "Leadership also dealt with non-routine cost items in FY2025, including $390 million of severance and related costs tied to a workforce transformation."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "T-Mobile generates large cash flows, but the balance sheet is also heavily leveraged. Management's proxy appendix says Adjusted Free Cash Flow is used to evaluate cash available for debt repayment, share repurchases, dividends, and reinvestment, which are the main capital allocation levers investors should watch.",
+        "points": [
+          "FY2025 net cash provided by operating activities was $18.559 billion, while proxy-reported Adjusted Free Cash Flow was $17.995 billion, giving management substantial annual capital flexibility.",
+          "Management specifically says Adjusted Free Cash Flow helps evaluate cash available to pay debt, repurchase shares, pay dividends, and provide further investment in the business.",
+          "The company reported FY2025 long-term debt of $74.197 billion and cash and cash equivalents of $5.409 billion, making debt servicing a central capital allocation constraint.",
+          "Network restructuring started in Q4 2025 is aimed at rationalizing network and backhaul services and eliminating duplicative costs, but it also brings decommissioning and contract termination costs."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Compensation and incentive structures are tied to operating and cash-flow measures that matter in this business, including Adjusted EBITDA, Core Adjusted EBITDA, and Adjusted Free Cash Flow. Alignment is complicated by Deutsche Telekom's approximately 54.5% voting control, which gives one controlling stockholder major influence over board composition and shareholder outcomes.",
+        "points": [
+          "Management says Adjusted EBITDA and Core Adjusted EBITDA are used internally to monitor performance, allocate resources, evaluate and compensate personnel, and benchmark performance against competitors.",
+          "The proxy appendix reported FY2025 Adjusted EBITDA of $33.937 billion and Core Adjusted EBITDA of $33.924 billion, making these metrics central to management evaluation.",
+          "The 10-K index identifies a 2023 Incentive Award Plan, restricted stock unit award agreements, deferred executive compensation, an executive continuity plan, and a compensation recoupment policy.",
+          "Deutsche Telekom controlled approximately 54.5% of outstanding common stock voting power as of March 31, 2026, so minority holders invest alongside a controlling stockholder."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "T-Mobile provides investors with detailed SEC reporting on revenue categories, cash-flow metrics, adjusted profitability measures, capital returns capacity, and risk factors. The filings distinguish service, prepaid, postpaid, wholesale, and equipment-related revenue streams, which is useful for understanding how a radiotelephone communications business earns money.",
+        "points": [
+          "The FY2025 10-K identifies branded postpaid revenue, branded prepaid revenue, wholesale and other service revenue, service revenue, and product equipment revenue as reporting categories.",
+          "The company also tracks product and service other categories, showing that investor reporting separates recurring service revenue from equipment-related revenue streams.",
+          "The proxy appendix reconciles and explains Adjusted Free Cash Flow, Adjusted EBITDA, and Core Adjusted EBITDA, including how management uses those metrics internally.",
+          "The proxy's forward-looking statement section names specific risks, including competition, cyberattacks, spectrum scarcity and renewal risk, debt servicing risk, regulatory change, and supply-chain disruptions."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance is shaped by Deutsche Telekom's control position and board designation rights, not by a widely dispersed shareholder base. The company still has formal annual meeting votes, independent directors under Nasdaq and SEC standards, auditor ratification, executive pay voting, and documented compensation and recoupment arrangements.",
+        "points": [
+          "As of March 31, 2026, Deutsche Telekom held voting control over approximately 54.5% of T-Mobile's outstanding common stock and was described as the controlling stockholder.",
+          "Under the June 22, 2020 Second Amended and Restated Stockholders' Agreement, Deutsche Telekom has the right to designate 10 members of the board.",
+          "The proxy says the board includes independent directors, including three designated by the Nominating, Corporate Governance and Compliance Committee, meeting applicable Nasdaq and SEC independence standards.",
+          "For the 2026 annual meeting, stockholders are asked to elect 13 director nominees, ratify Deloitte & Touche LLP, and hold an advisory vote on 2025 executive compensation."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Network scale economics",
+        "grade": "middle",
+        "summary": "T-Mobile operates at a scale that smaller wireless competitors would be hard-pressed to replicate quickly, with FY2025 revenue of $78.558 billion and proxy-reported Adjusted EBITDA of $33.937 billion. The moat is not costless, because the company also disclosed network and backhaul restructuring, network decommissioning, and contract termination costs tied to eliminating duplicative expenses."
+      },
+      {
+        "type": "Regulated spectrum and wireless infrastructure",
+        "grade": "middle",
+        "summary": "The business is classified as radiotelephone communications, and its filings identify spectrum scarcity and spectrum renewal risk as important forward-looking risks. That suggests the wireless operating base depends on regulated, scarce network inputs, but the same facts also make the moat vulnerable to regulatory change and renewal outcomes."
+      },
+      {
+        "type": "Large recurring service revenue base",
+        "grade": "middle",
+        "summary": "T-Mobile reports multiple service revenue categories, including branded postpaid revenue, branded prepaid revenue, wholesale and other service revenue, and total service revenue. This mix gives the business more than equipment sales alone, though the packet does not provide churn, contract length, customer counts, or market-share data to prove a stronger switching-cost moat."
+      },
+      {
+        "type": "Cash generation capacity",
+        "grade": "middle",
+        "summary": "The company produced FY2025 operating cash flow of $18.559 billion and proxy-reported Adjusted Free Cash Flow of $17.995 billion. That cash generation can support debt repayment, repurchases, dividends, and reinvestment, but FY2025 long-term debt of $74.197 billion keeps the advantage from being clearly strong."
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "symbol": "BA",
+  "companyName": "Boeing",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Boeing is led by Robert K. Ortberg, who became President and CEO and joined the Board on August 8, 2024. Several major operating and finance roles are also relatively recent appointments, so investors are evaluating a refreshed leadership team while the company manages aircraft programs, services, defense, safety, and quality priorities.",
+        "points": [
+          "Robert K. Ortberg serves as President and CEO and is also a Boeing director, giving the chief executive a formal role in Board-level oversight.",
+          "Jesus Malave, Jr. became Executive Vice President and CFO in August 2025, adding another recent leadership change at a company with $53.625 billion of long-term debt.",
+          "Stephanie F. Pope leads Boeing Commercial Airplanes, Stephen K. Parker leads Defense, Space & Security, and D. Christopher Raymond leads Global Services, matching leadership roles to Boeing's three operating segments."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "dull",
+        "summary": "Boeing's capital allocation picture is constrained by weak profitability and a leveraged balance sheet. FY2025 included $77.794 billion of revenue, a $2.222 billion net loss, negative year-end stockholders' equity of $3.908 billion, and $53.625 billion of long-term debt.",
+        "points": [
+          "The proxy statement reports FY2025 free cash flow of negative $1.877 billion after $2.942 billion of additions to property, plant and equipment.",
+          "Boeing reported $12.691 billion of cash and cash equivalents at FY2025 year-end, which provides liquidity but sits alongside substantial long-term debt.",
+          "Portfolio actions in 2025 included completing the Spirit AeroSystems acquisition and divesting portions of the digital aviation solutions business, changing the mix of assets management must integrate and optimize."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports some shareholder-alignment structure, but not enough to conclude exceptional alignment. Boeing uses shareholder-approved equity compensation plans, including the employee stock purchase plan and the 2023 Incentive Stock Plan, while shareholders also face dilution capacity from outstanding and available equity awards.",
+        "points": [
+          "Boeing's shareholder-approved equity plans include the employee stock purchase plan, the 2023 Incentive Stock Plan, and its predecessor plan.",
+          "At FY2025, 7,159,329 shares were issuable upon exercise of outstanding options and units, with 13,770,650 shares remaining available for future issuance under shareholder-approved plans.",
+          "The packet does not provide insider ownership levels, dividend policy, buyback activity, or executive stock ownership requirements, limiting the alignment evidence available."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Boeing provides investor disclosure through SEC submissions, including the 10-K, proxy statement, and XBRL company facts used for revenue, cash flow, debt, equity, and R&D figures. Its reporting identifies the three operating segments and names major airplane programs, which helps investors separate Commercial Airplanes, Defense, Space & Security, and Global Services.",
+        "points": [
+          "The 10-K identifies three operating segments: Commercial Airplanes, Defense, Space & Security, and Global Services, giving investors a basic operating framework.",
+          "The 10-K references airplane programs including 737, 777X, and 787, connecting financial reporting to specific commercial aircraft programs.",
+          "The proxy statement separately reports FY2025 operating cash flow and free cash flow after capital expenditures, while XBRL company facts provide standardized financial line items."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Boeing's governance disclosures show a Board structure with substantial independence and defined risk oversight areas. The proxy statement says the company has an independent Board Chair, 11 of 12 director nominees are independent, all committee members are independent, and independent directors hold executive sessions after every regular Board meeting.",
+        "points": [
+          "The Board's stated oversight areas include safety and quality, development programs, succession planning, human capital, cybersecurity, and sustainability risks.",
+          "The proxy says Boeing's Board and management are focused on strengthening safety and quality, and the company maintains a dedicated Safety & Quality website.",
+          "The independent Board Chair and fully independent committees provide a governance structure for overseeing management during a period that includes leadership changes and major portfolio actions."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Large-scale aircraft program capability",
+        "grade": "middle",
+        "summary": "Boeing operates at a scale few industrial companies can match, with FY2025 revenue of $77.794 billion and R&D expense of $3.377 billion. The 10-K references major airplane programs including 737, 777X, and 787, indicating a complex product base that requires significant engineering, production, certification, and capital resources."
+      },
+      {
+        "type": "Aerospace segment breadth",
+        "grade": "middle",
+        "summary": "Boeing's business is not a single-product aircraft operation; its 10-K identifies Commercial Airplanes, Defense, Space & Security, and Global Services as operating segments. That breadth gives investors exposure to aircraft production, defense and space activities, and services, though the packet also shows FY2025 net income was negative $2.222 billion."
+      },
+      {
+        "type": "Vertical integration from Spirit AeroSystems acquisition",
+        "grade": "middle",
+        "summary": "Boeing completed the acquisition of Spirit AeroSystems on December 8, 2025, a portfolio move tied to its aircraft manufacturing base. The packet does not quantify cost savings or production benefits, but the acquisition is a concrete structural change in how Boeing controls parts of its aerospace production chain."
+      },
+      {
+        "type": "Focused portfolio pruning",
+        "grade": "middle",
+        "summary": "Boeing also completed a 2025 divestiture of portions of its digital aviation solutions business, showing management is reshaping the portfolio rather than simply adding assets. This is a narrower moat support point than aircraft programs or segment breadth, but it may help concentrate resources on Boeing's core aerospace operations."
+      }
+    ]
+  }
+}

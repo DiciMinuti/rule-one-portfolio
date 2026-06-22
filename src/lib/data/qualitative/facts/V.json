@@ -1,0 +1,127 @@
+{
+  "symbol": "V",
+  "companyName": "Visa",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business model",
+      "statement": "Visa describes itself as one of the world's leaders in digital payments, with a purpose to be \"the best way to pay and be paid.\"",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Visa provides transaction processing services, primarily authorization, clearing, and settlement, among consumers, issuing and acquiring financial institutions, and sellers in what it calls a \"four-party\" model.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Business model evolution",
+      "statement": "Visa says it has broadened its model to include digital banks, digital wallets, fintechs, governments, and non-governmental organizations as the payments ecosystem evolves.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Network and reach",
+      "statement": "Visa is focused on extending, enhancing, and investing in VisaNet, its proprietary advanced transaction processing network, to offer a single connection point for money movement to multiple endpoints across more than 200 countries and territories.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Transaction scale",
+      "statement": "During fiscal 2025, 329 billion payments and cash transactions with Visa's brand were processed by Visa or other networks, averaging 901 million transactions per day.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Transaction scale",
+      "statement": "Of the 329 billion total Visa-branded fiscal 2025 transactions, 258 billion were processed by Visa.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Payment volume",
+      "statement": "Visa reported $14.2 trillion of payments volume for fiscal 2025, up 8% from the prior year.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Visa reported fiscal 2025 net revenue of $40.0 billion, up 11% from the prior year.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Visa reported fiscal 2025 GAAP net income of $20.1 billion, up 2% from the prior year, and non-GAAP net income of $22.5 billion, up 11% from the prior year.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "The SEC company facts summary reports Visa's fiscal 2025 operating cash flow as $20.755 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports Visa's fiscal 2025 cash and equivalents as $11.975 billion and long-term debt as $20.836 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001403161.json)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Visa reported $22.8 billion of dividends and share repurchases in fiscal 2025, up 9% from the prior year.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Strategic categories",
+      "statement": "Visa states that its strategy is to accelerate revenue growth through Consumer Payments, Commercial & Money Movement Solutions, and Value-Added Services, while fortifying foundations including brand, product innovation, platforms and security, government affairs, sales and service, and talent and people.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Value-added services",
+      "statement": "Visa describes its value-added services as products and solutions that help clients and partners optimize performance, differentiate offerings, and create better customer experiences; the proxy also cites services covering fraud management and security, data products, consulting, and analytics.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Innovation",
+      "statement": "Visa says it continues to invest in next-generation technologies including generative AI, stablecoins, and agentic commerce, building on its earlier adoption and integration of AI models in payment systems.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Workforce",
+      "statement": "Visa reported approximately 34,100 employees located in more than 85 countries and territories around the world in fiscal 2025.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Visa's fiscal 2025 Form 10-K was signed by Ryan McInerney as Chief Executive Officer and Director, Chris Suh as Chief Financial Officer, and Peter Andreski as Global Corporate Controller and Chief Accounting Officer.",
+      "source": "10-K filed 2025-11-06 (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Visa identifies John F. Lundgren as Independent Board Chair and Ryan McInerney as Chief Executive Officer and Director in its 2026 proxy shareholder letter.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Governance",
+      "statement": "Visa's 2026 proxy voting roadmap states that 91% of director nominees are independent, the Board has an independent Chair, regular executive sessions of independent directors, and 100% independent Board committees.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Governance",
+      "statement": "Visa's corporate governance practices include annual director elections with a majority vote standard and an annual say-on-pay vote, according to the 2026 proxy voting roadmap.",
+      "source": "DEF 14A filed 2025-12-08 (https://www.sec.gov/Archives/edgar/data/1403161/000130817925000635/v-20251208.htm)"
+    },
+    {
+      "topic": "Compensation and controls",
+      "statement": "Visa's 2025 Form 10-K exhibit index lists multiple management compensation arrangements, including the Visa Inc. 2007 Equity Incentive Compensation Plan, Visa Inc. Incentive Plan, Visa Inc. Executive Severance Plan, Visa Executive Officer Cash Severance Policy, and Visa Inc. Clawback Policy.",
+      "source": "10-K filed 2025-11-06 (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Management concluded that Visa's disclosure controls and procedures and internal control over financial reporting were effective as of September 30, 2025, and KPMG LLP audited the effectiveness of internal control over financial reporting.",
+      "source": "10-K filed 2025-11-06 (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)"
+    },
+    {
+      "topic": "Legal and regulatory risk",
+      "statement": "Visa disclosed U.S. debit class actions alleging monopolization or attempted monopolization of general purpose debit network services and card-not-present debit network services in the United States; Visa filed motions to dismiss the merchant and cardholder consolidated complaints on February 24, 2025, which were granted in part and denied in part on October 29, 2025.",
+      "source": "10-K filed 2025-11-06 (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)"
+    },
+    {
+      "topic": "Legal and regulatory risk",
+      "statement": "Visa disclosed that on August 30, 2024, the European Commission informed Visa that it opened a preliminary investigation into Visa's fees charged to acquirers, and Visa said it is cooperating with the investigation.",
+      "source": "10-K filed 2025-11-06 (https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm)"
+    }
+  ]
+}

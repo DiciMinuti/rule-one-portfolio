@@ -1,0 +1,90 @@
+{
+  "symbol": "INTC",
+  "companyName": "Intel",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Intel is operating under refreshed leadership, with Lip-Bu Tan appointed Chief Executive Officer in 2025 and also serving as a director. The 2025 Form 10-K was signed by Tan, CFO David Zinsner, and Chief Accounting Officer Scott Gawel, while the board added four independent directors since 2024.",
+        "points": [
+          "Lip-Bu Tan became CEO in 2025, which makes current execution partly a transition story rather than a long, proven management record under the same leader.",
+          "The 2025 Form 10-K identifies David Zinsner as Executive Vice President and Chief Financial Officer and Scott Gawel as Corporate Vice President and Chief Accounting Officer.",
+          "Board refreshment is active: Intel added four independent directors since 2024, including Dr. Craig H. Barratt in November 2025.",
+          "Management is executing restructuring plans aimed at lowering expenses, reducing management layers, and reallocating resources toward Intel's core client and server businesses."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Intel still has large financial resources, with FY2025 revenue of $54.228 billion, operating cash flow of $11.471 billion, and stockholders' equity of $99.270 billion. Capital allocation is under pressure from heavy R&D spending, long-term debt of $46.282 billion, and restructuring plans intended to reduce operating expenses, capital expenditures, and cost of sales.",
+        "points": [
+          "Intel spent $16.046 billion on research and development in FY2025, showing that advanced semiconductor technology remains a major claim on cash generation.",
+          "The 2024 Restructuring Plan targets lower operating expenses, lower capital expenditures, and lower cost of sales while continuing to fund Intel's core strategy.",
+          "The 2025 Restructuring Plan shifts resources toward core client and server businesses by reducing investment in lower-priority programs and initiatives.",
+          "Intel reported $8.249 billion of cash and equivalents against $46.282 billion of long-term debt, making balance-sheet discipline important for future flexibility."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Intel's proxy describes several shareholder-friendly voting rights, including one vote per share, no dual-class share structure, no poison pill, and annual director elections by majority vote with a resignation policy. Executive compensation is designed around financial and operational performance, strategic objectives, pay-for-performance, governance, and stockholder feedback, but the packet does not provide outcome-level pay results.",
+        "points": [
+          "Shareholders have proxy access at 3% ownership held for 3 years for up to 20% of the board, according to Intel's 2026 proxy.",
+          "Stockholders can call special meetings at a 15% ownership threshold, and Intel reports no poison pill or dual-class share structure.",
+          "The Compensation Committee states that executive pay is tied to financial and operational performance, strategic objectives, pay-for-performance, and stockholder feedback.",
+          "Intel's 2006 Equity Incentive Plan granted equity awards to more than 73% of employees in 2025, extending stock-based incentives broadly across the workforce."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Intel provides detailed SEC reporting across financial concepts, operating segments, customers, geography, and governance practices. The packet cites FY2025 revenue, net income, operating cash flow, R&D, debt, cash, and equity from SEC company facts, plus 10-K XBRL tags for segment, customer-concentration, and geographic revenue categories.",
+        "points": [
+          "Intel's SEC company facts report FY2025 revenue of $54.228 billion, net income of $1.689 billion, and operating cash flow of $11.471 billion.",
+          "The 2025 Form 10-K XBRL segment tags identify Client Computing Group, Data Center and AI, Network and Edge, Intel Foundry, Mobileye, Altera, and All Other Segments.",
+          "Customer-concentration disclosures identify Dell Inc., Lenovo Group Limited, HP Inc., and Intel's three largest customers as tied to FY2025 net sales revenue disclosures.",
+          "Geographic revenue categories in the 2025 10-K include the United States, China including Hong Kong, Singapore, Taiwan, and other countries."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Intel's governance framework includes an independent board chair, executive sessions of independent directors at least four times annually, annual director elections, proxy access, and one vote per share. Board oversight explicitly covers strategy and business, human capital management, enterprise risk management, ethics, legal and regulatory matters, cybersecurity, and corporate social responsibility.",
+        "points": [
+          "The board has an independent chair, and independent directors meet in executive session at least four times annually, according to Intel's 2026 proxy.",
+          "The board oversees strategy and business, human capital management, enterprise risk management, ethics, legal and regulatory matters, cybersecurity, and corporate social responsibility.",
+          "Director elections are annual and decided by majority vote with a resignation policy, giving shareholders a regular mechanism to vote on board accountability.",
+          "Legal oversight matters because Intel had accrued approximately $1.0 billion for VLSI litigation as of December 27, 2025, with possible excess losses not reasonably estimable."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Proprietary semiconductor technology",
+        "grade": "middle",
+        "summary": "Intel has company-developed technologies that can support differentiation in advanced chips and foundry services. The 2025 Form 10-K describes EMIB 2.5D packaging for high-density interconnect of heterogeneous chips, PowerVia backside power delivery for advanced nodes, and RibbonFET gate-all-around transistor technology using ribbon-shaped nanosheets."
+      },
+      {
+        "type": "Scale-funded research and development",
+        "grade": "middle",
+        "summary": "Intel's size gives it capacity to fund very large technical programs, with FY2025 revenue of $54.228 billion, operating cash flow of $11.471 billion, and R&D expense of $16.046 billion. This scale is meaningful, but the moat is tempered by $46.282 billion of long-term debt and ongoing restructuring to reduce expenses and capital intensity."
+      },
+      {
+        "type": "Broad semiconductor portfolio",
+        "grade": "middle",
+        "summary": "Intel participates across multiple semiconductor categories rather than relying on one product line. Its 2025 reporting categories include Client Computing Group, Data Center and AI, Network and Edge, Intel Foundry, Mobileye, Altera, and All Other Segments, while Altera offers programmable semiconductors, primarily FPGAs, for a broad range of applications."
+      },
+      {
+        "type": "Customer and channel reach",
+        "grade": "middle",
+        "summary": "Intel sells into major global computer and technology channels, with FY2025 customer-concentration tags identifying Dell Inc., Lenovo Group Limited, HP Inc., and Intel's three largest customers. This reach is valuable for volume and market access, but the same disclosure also highlights concentration risk rather than proving customer lock-in."
+      }
+    ]
+  }
+}

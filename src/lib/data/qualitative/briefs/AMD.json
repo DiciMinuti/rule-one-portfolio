@@ -1,0 +1,91 @@
+{
+  "symbol": "AMD",
+  "companyName": "AMD",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "AMD's leadership disclosure identifies Lisa T. Su as President, Chief Executive Officer, and a director, with Jean Hu serving as Executive Vice President, Chief Financial Officer, and Treasurer. The named team also includes Emily Ellis as Chief Accounting Officer and Mark Papermaster as Executive Vice President and Chief Technology Officer, giving investors clear accountability across operations, finance, accounting, and technology.",
+        "points": [
+          "Lisa T. Su signs the 2025 Form 10-K as President and Chief Executive Officer and also serves on the board, linking executive leadership with board-level accountability.",
+          "Jean Hu is identified as Executive Vice President, Chief Financial Officer, and Treasurer, placing finance leadership over AMD's reported $22.680 billion of FY2025 revenue and $3.933 billion of cash and equivalents.",
+          "Emily Ellis is identified as Corporate Vice President and Chief Accounting Officer, a relevant role given management's conclusion that internal control over financial reporting was effective as of December 27, 2025.",
+          "Mark Papermaster is identified as Executive Vice President and Chief Technology Officer, a notable position for a semiconductor company that reported $5.872 billion of FY2025 research and development expense."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "AMD's disclosed capital allocation is centered on heavy R&D spending, strategic transactions, and maintaining a sizable equity base. FY2025 figures show $5.872 billion of R&D expense, $1.667 billion of operating cash flow, $3.933 billion of cash and equivalents, and $1.721 billion of long-term debt.",
+        "points": [
+          "AMD spent $5.872 billion on research and development in FY2025, a large commitment relative to its $22.680 billion of reported revenue and central to competing in semiconductors.",
+          "The 2025 Form 10-K exhibit list incorporates the Xilinx merger agreement dated October 26, 2020, showing that acquisitions are part of AMD's strategic capital allocation record.",
+          "AMD also incorporated a Stock Purchase Agreement with ZT Group Int'l, Inc. dated August 17, 2024, and an Equity Purchase Agreement involving Sanmina Corporation dated May 18, 2025.",
+          "The balance sheet shows $55.892 billion of stockholders' equity, $3.933 billion of cash and equivalents, and $1.721 billion of long-term debt for FY2025."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "AMD's shareholder structure gives common stockholders one vote per share, with 1,630,338,779 shares outstanding on the March 19, 2026 record date. Alignment is supported by equity-based compensation governance and clawback provisions, though the 2026 proposal to add 65 million authorized incentive-plan shares is an important dilution item for investors to monitor.",
+        "points": [
+          "Each AMD common share was entitled to one vote at the 2026 annual meeting, based on 1,630,338,779 shares outstanding on the March 19, 2026 record date.",
+          "AMD asked stockholders to approve increasing shares authorized under the 2023 Equity Incentive Plan by 65 million shares for employees, consultants, and directors.",
+          "The amended and restated 2023 Equity Incentive Plan allows awards to be subject to recovery, recoupment, clawback, and forfeiture policies.",
+          "Potential forfeiture events include fraud, breach of fiduciary duty, certain financial-statement restatements, termination for cause or misconduct, material policy violations, and restrictive-covenant breaches."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "AMD provides investor reporting through SEC filings that include XBRL-tagged financial statements, segment members, geographic members, customer concentration tags, and incorporated transaction exhibits. The packet supports concrete disclosure around revenue, net income, operating cash flow, R&D, balance sheet items, segment structure, geography, and top-customer concentration risk.",
+        "points": [
+          "AMD's SEC company facts report FY2025 revenue of $22.680 billion, net income of $854 million, operating cash flow of $1.667 billion, and R&D expense of $5.872 billion.",
+          "The 2025 Form 10-K XBRL includes operating segment members for Datacenter, Client, Gaming, Embedded, and All Other, giving investors a disclosed framework for business-line analysis.",
+          "AMD's 2025 Form 10-K XBRL includes country members for revenue-related reporting covering the United States, China, Taiwan, Singapore, and Other Countries.",
+          "The 2025 Form 10-K XBRL includes customer concentration risk tags tied to revenue from contracts with customers and accounts receivable for top-customer members."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "AMD's governance disclosures identify Nora M. Denzel as Lead Independent Director and list eight director nominees for the 2026 annual meeting. The company also filed an insider trading policy, disclosed a CTO Rule 10b5-1 plan, and received an Ernst & Young attestation over internal control effectiveness as of December 27, 2025.",
+        "points": [
+          "The 2026 proxy card lists eight director nominees: Nora M. Denzel, Michael P. Gregoire, Joseph A. Householder, John W. Marren, KC McClure, Lisa T. Su, Abhi Y. Talwalkar, and Elizabeth W. Vanderslice.",
+          "Nora M. Denzel is identified as Lead Independent Director, while Lisa T. Su is both President and Chief Executive Officer and a director.",
+          "AMD filed an insider trading policy as Exhibit 19.1 governing purchases, sales, and other dispositions of AMD securities by directors, officers, employees, and associated individuals.",
+          "On November 14, 2025, Mark Papermaster adopted a Rule 10b5-1 trading plan allowing sales of up to 124,936 AMD shares before the plan's scheduled November 16, 2026 termination.",
+          "Management concluded internal control over financial reporting was effective as of December 27, 2025, and Ernst & Young LLP issued an attestation report on that control assessment."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Semiconductor IP and R&D base",
+        "grade": "middle",
+        "summary": "AMD's moat has support from its scale of technical investment and disclosed intellectual property agreements. The company reported $5.872 billion of FY2025 R&D expense and its 2025 Form 10-K incorporates patent or IP cross-license agreements with Intel Corporation and Broadcom Corporation, which are concrete assets in a semiconductor business."
+      },
+      {
+        "type": "Broad compute portfolio",
+        "grade": "middle",
+        "summary": "AMD reports operating segment members for Datacenter, Client, Gaming, Embedded, and All Other, showing exposure across multiple semiconductor end markets rather than a single product category. That breadth can help the business pursue demand across compute infrastructure, PCs, gaming, and embedded applications, though the packet does not provide segment revenue or margin detail."
+      },
+      {
+        "type": "Financial scale",
+        "grade": "middle",
+        "summary": "AMD operates at meaningful scale, with FY2025 revenue of $22.680 billion, stockholders' equity of $55.892 billion, and cash and equivalents of $3.933 billion. Scale matters in semiconductors because the packet also shows $5.872 billion of annual R&D expense, but FY2025 net income of $854 million keeps the moat grade from being stronger."
+      },
+      {
+        "type": "Strategic transaction platform",
+        "grade": "middle",
+        "summary": "AMD's filings show a pattern of major strategic transactions, including the Xilinx merger agreement, a ZT Group Int'l stock purchase agreement, and a 2025 equity purchase agreement involving Sanmina Corporation. These deals indicate management is using transactions to broaden or reshape the platform, although the packet does not provide deal economics or post-transaction performance."
+      }
+    ]
+  }
+}

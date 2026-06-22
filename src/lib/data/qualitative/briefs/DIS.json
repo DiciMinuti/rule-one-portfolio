@@ -1,0 +1,90 @@
+{
+  "symbol": "DIS",
+  "companyName": "Walt Disney",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Disney is led by Robert A. Iger as Chief Executive Officer, with James P. Gorman serving as Chairman of the Board. Management is operating a large three-part business-Entertainment, Sports, and Experiences-while also managing a pending CEO succession process that the Board currently expects to conclude with an announcement in early 2026.",
+        "points": [
+          "The proxy identifies Disney's operating businesses as Entertainment, Sports, and Experiences, giving management responsibility across content, sports distribution, streaming, parks, cruise ships, and related consumer-facing operations.",
+          "Robert A. Iger remains Chief Executive Officer while the Board's Succession Planning Committee leads management succession oversight, making leadership continuity a key near-term investor issue.",
+          "Management reported concrete execution milestones in fiscal 2025, including Entertainment DTC operating income of $1.3 billion and ESPN's first full direct-to-consumer service launch.",
+          "Disney is also running a major Experiences expansion pipeline, including Magic Kingdom's largest-ever expansion, five additional cruise ships beyond fiscal 2026, and a planned Abu Dhabi theme park."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Disney generated FY2025 operating cash flow of $9.866 billion and ended the year with $14.182 billion of cash against $38.970 billion of long-term debt. Capital allocation is balanced between shareholder returns, debt and currency risk management, streaming integration, and a large Experiences investment pipeline that will require disciplined execution.",
+        "points": [
+          "Management said Disney increased its dividend by 50% to $1.50 and increased its target share repurchase by 100% in fiscal 2026.",
+          "The balance sheet has scale, with $100.696 billion of stockholders' equity, but leverage remains material because long-term debt was $38.970 billion at FY2025.",
+          "Disney uses swaps and hedges to manage financing and currency exposure, including $9.3 billion of net foreign exchange cash flow hedges at September 27, 2025.",
+          "The Experiences pipeline is capital-intensive, with projects including major park expansion, five additional cruise ships beyond fiscal 2026, and a new planned Abu Dhabi theme park."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet shows explicit actions aimed at shareholder returns and incentive alignment, including a higher dividend, a larger repurchase target, and compensation changes tied to performance. Alignment is not founder-led in the packet; ownership is led by large institutions, with Vanguard and BlackRock disclosed as the two principal holders.",
+        "points": [
+          "Disney disclosed The Vanguard Group as holder of 8.5% of shares and BlackRock, Inc. as holder of 6.9% of shares outstanding as of January 15, 2026.",
+          "The Compensation Committee made targeted fiscal 2025 enhancements intended to strengthen the link between executive compensation and performance and align incentives with shareholder interests.",
+          "The dividend increase to $1.50 and the doubled fiscal 2026 repurchase target give shareholders a direct capital return framework, supported by FY2025 operating cash flow.",
+          "Shareholder alignment must be weighed against large reinvestment needs, including theme park expansion, cruise ship growth, streaming integration, and sports direct-to-consumer distribution."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Disney's filings provide investors with useful segment and operating disclosures, including the Entertainment, Sports, and Experiences structure, fiscal 2025 total segment operating income, and Entertainment DTC profitability. The proxy and 10-K also disclose strategic updates, capital return targets, risk factors, hedging amounts, leases, and active litigation categories.",
+        "points": [
+          "The proxy's non-GAAP reconciliation shows total segment operating income of $17.551 billion for fiscal 2025, alongside FY2025 revenue of $88.898 billion and net income of $2.354 billion.",
+          "Disney disclosed Entertainment DTC operating income of $1.3 billion and described the planned Disney+ and Hulu unified one-app experience.",
+          "Management reported sports distribution progress by stating ESPN launched its full direct-to-consumer service and enhanced ESPN app with its complete suite available directly to consumers.",
+          "The 10-K and proxy list specific risks, including content and talent competition, subscriber churn, regulatory developments, labor stoppages, weather and natural disasters, and content availability."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance is structured around a named chairman, a Board-led succession process, director nominees, and a Compensation Committee framework tied to performance. The main governance watch item is transition risk: the Board expects to announce the next CEO in early 2026 while Disney also faces legal, regulatory, labor, technology, and consumer-demand risks.",
+        "points": [
+          "James P. Gorman is identified as Chairman of the Board, and the proxy identifies eleven director nominees for election at the 2026 annual meeting.",
+          "The Board's Succession Planning Committee leads management succession oversight, and the Board currently expects to announce Disney's next CEO in early 2026.",
+          "The Compensation Committee made fiscal 2025 enhancements to strengthen the link between executive compensation and performance and align incentives with shareholder interests.",
+          "Disney disclosed active litigation including securities, fiduciary duty, antitrust, and other business-related claims, with possible losses not reasonably estimable in certain cases."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Franchise content engine",
+        "grade": "strong",
+        "summary": "Disney's content engine showed unusually high box office output in the packet: management said six franchise films each generated more than $1 billion globally over the past two years. For calendar 2025 alone, Disney said three films exceeded $1 billion globally and total global box office receipts exceeded $6.5 billion."
+      },
+      {
+        "type": "Integrated streaming and sports distribution",
+        "grade": "middle",
+        "summary": "Disney is turning its media assets into direct consumer products, with Entertainment DTC generating $1.3 billion of operating income in fiscal 2025. Management also said Disney is integrating Disney+ and Hulu into one app, while ESPN launched its full direct-to-consumer service and enhanced app for the first time."
+      },
+      {
+        "type": "Experiences asset expansion",
+        "grade": "strong",
+        "summary": "Disney's Experiences moat is supported by hard-to-replicate physical assets and a large expansion pipeline. Management said it has more theme park expansion projects underway globally than ever before, including Magic Kingdom's largest-ever expansion, five additional cruise ships scheduled beyond fiscal 2026, and a new theme park planned for Abu Dhabi."
+      },
+      {
+        "type": "Scale and cash generation",
+        "grade": "middle",
+        "summary": "Disney operates at large scale, with FY2025 revenue of $88.898 billion, total segment operating income of $17.551 billion, and operating cash flow of $9.866 billion. That scale helps fund content, sports distribution, streaming integration, parks, cruises, dividends, and buybacks, though long-term debt of $38.970 billion limits the grade."
+      }
+    ]
+  }
+}

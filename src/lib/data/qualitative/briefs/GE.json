@@ -1,0 +1,92 @@
+{
+  "symbol": "GE",
+  "companyName": "General Electric",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "General Electric now operates as GE Aerospace, led by Chairman and CEO H. Lawrence Culp, Jr., with Rahul Ghai as CFO and Robert Giglietti as chief accounting officer, controller, and treasurer. Management is running a focused aerospace business with two reportable segments, large installed bases, and a lean operating model tied to safety, quality, delivery, and cost.",
+        "points": [
+          "GE Aerospace reports through Commercial Engines & Services and Defense & Propulsion Technologies, giving leadership a more focused operating scope than the former conglomerate structure.",
+          "FLIGHT DECK is described as GE Aerospace's proprietary lean operating model, prioritizing safety, quality, delivery, and cost in that order across the business.",
+          "The proxy says FLIGHT DECK helped increase material input from priority suppliers by more than 40% year over year and enabled 26% higher total engine deliveries in 2025."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation in 2025 balanced investment, research, and shareholder returns. GE Aerospace invested $1 billion in U.S. manufacturing, funded roughly $3 billion of total R&D including customer and partner funding, and returned nearly $9 billion to shareholders while generating $7.694 billion of non-GAAP free cash flow.",
+        "points": [
+          "The company funded roughly $3 billion of total R&D in 2025, including customer and partner funding, which fits an engine business where product durability and certification matter.",
+          "GE Aerospace returned nearly $9 billion to shareholders in 2025, a large distribution relative to reported non-GAAP free cash flow of $7.694 billion.",
+          "The balance sheet carried $19.342 billion of stockholders' equity and $20.469 billion of long-term debt at FY2025, so leverage remains an important capital allocation consideration."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "The strongest shareholder-alignment evidence is economic: management returned nearly $9 billion to shareholders while still investing in manufacturing and R&D. The packet does not provide executive ownership or compensation-plan details, so alignment is best judged from capital returns, cash generation, and focus on profitable aerospace segments.",
+        "points": [
+          "GE Aerospace reported 2025 GAAP profit of $10.000 billion, GAAP profit margin of 21.8%, cash from operating activities of $8.543 billion, and non-GAAP free cash flow of $7.694 billion.",
+          "Commercial Engines & Services produced $8.861 billion of 2025 segment profit, making the approximately 50,000-engine commercial installed base central to shareholder value.",
+          "The provided facts do not describe executive stock ownership or incentive-compensation metrics, limiting a deeper assessment of whether pay is directly tied to per-share outcomes."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "GE Aerospace gives investors useful operating detail through SEC filings and the proxy, including segment revenue, equipment versus services revenue, segment profit, orders, backlog, and remaining performance obligations. The disclosures are especially helpful because they separate equipment and services economics and provide timing expectations for equipment-related and services-related RPO.",
+        "points": [
+          "The 2025 Form 10-K reports revenue by segment and by equipment versus services, including $33.314 billion for Commercial Engines & Services and $10.554 billion for Defense & Propulsion Technologies.",
+          "The company discloses contracted revenue allocated to unsatisfied or partially unsatisfied performance obligations, including $190.564 billion total RPO at December 31, 2025.",
+          "GE Aerospace provides RPO timing detail, expecting 86% of services-related RPO to be recognized within 15 years and 89% of equipment-related RPO within 5 years.",
+          "The proxy reports operating metrics such as $66.2 billion of 2025 orders, approximately $190 billion of backlog, 1,450 LEAP-1A durability kits delivered, and 26% higher engine deliveries."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has a positive independence marker, with the 2026 proxy stating that 8 of 9 director nominees are independent. The packet does not provide committee structure, insider ownership, or compensation-plan design, so the governance view is constructive but incomplete for a Rule #1 investor.",
+        "points": [
+          "As of January 29, 2026, H. Lawrence Culp, Jr. served as Chairman and CEO, combining the board chair and chief executive roles in one named leader.",
+          "The 2026 proxy states that 8 of 9 director nominees are independent, providing a concrete counterweight to the combined Chairman and CEO structure.",
+          "Governance oversight must account for business exposures disclosed in the filings, including 60% non-U.S. revenue in 2025 and U.S. Government sales equal to 10% of revenue.",
+          "The provided facts do not state executive compensation structure, director committee assignments, insider ownership levels, or specific shareholder-rights provisions."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Installed engine base and aftermarket services",
+        "grade": "strong",
+        "summary": "GE Aerospace has a large recurring-service base tied to approximately 50,000 commercial engines across widebody and narrowbody platforms. Commercial Engines & Services generated $25.010 billion of 2025 services revenue versus $8.304 billion of equipment revenue, showing that the installed base is a major driver of revenue and segment profit."
+      },
+      {
+        "type": "Long-duration contracted backlog",
+        "grade": "strong",
+        "summary": "The business has unusually visible contracted demand, with approximately $190 billion of backlog and $190.564 billion of remaining performance obligations at December 31, 2025. Services-related RPO was $163.029 billion, and GE expects to recognize 86% of that services RPO within 15 years, supporting long-duration aftermarket visibility."
+      },
+      {
+        "type": "Defense platform position",
+        "grade": "strong",
+        "summary": "GE Aerospace's military installed base is approximately 30,000 engines and powers a variety of defense platforms globally, including two-thirds of all U.S. military combat and helicopter fleets. Defense & Propulsion Technologies generated $10.554 billion of 2025 revenue, and 2025 wins included a $5 billion USAF contract for F110 engines."
+      },
+      {
+        "type": "Aerospace joint-venture ecosystem",
+        "grade": "middle",
+        "summary": "GE Aerospace participates in major engine programs through joint ventures that expand its product reach. The proxy states that equipment includes products made by CFM, a 50/50 joint venture with Safran Aircraft Engines, and Engine Alliance, a 50/50 joint venture with Pratt & Whitney."
+      },
+      {
+        "type": "Operating process capability",
+        "grade": "middle",
+        "summary": "GE Aerospace describes FLIGHT DECK as its proprietary lean operating model, focused on safety, quality, delivery, and cost in that order. The proxy links FLIGHT DECK to more than 40% higher material input from priority suppliers year over year and a 26% increase in total engine deliveries in 2025."
+      }
+    ]
+  }
+}

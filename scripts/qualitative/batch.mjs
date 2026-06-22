@@ -66,7 +66,7 @@ function briefAudit(brief) {
   const errors = validateQualitativeBrief(brief);
   const warnings = [];
   const hasConcreteDetail = (text) =>
-    /\d|billion|million|revenue|margin|customer|device|segment|cash|asset|store|cloud|product|service|board|proxy|10-K|Form|risk|compensation|shareholder/i.test(
+    /\d|billion|million|revenue|margin|customer|device|segment|cash|asset|store|cloud|product|service|board|proxy|10-K|Form|risk|compensation|shareholder|platform|architecture|GPU|chip|wafer|semiconductor|network|distribution|fulfillment|optical|connectivity|global|office|data center|installed base|portfolio/i.test(
       text,
     );
 
@@ -101,6 +101,9 @@ async function retryStep(label, maxRetries, action) {
     } catch (error) {
       lastError = error;
       console.error(`${label}: attempt ${attempt} failed: ${error instanceof Error ? error.message : String(error)}`);
+      if (error instanceof Error && error.message.includes("insufficient_quota")) {
+        throw error;
+      }
     }
   }
 
@@ -209,6 +212,10 @@ for (const company of companies) {
 
   if (result.error) {
     console.error(`${company.symbol}: failed\n${result.error}`);
+    if (result.error.includes("insufficient_quota")) {
+      console.error("Stopping batch because the OpenAI account is out of quota.");
+      break;
+    }
   } else {
     console.log(`${company.symbol}: ok (${result.factStatus} facts, ${result.briefStatus} brief)`);
   }

@@ -1,0 +1,92 @@
+{
+  "symbol": "MA",
+  "companyName": "Mastercard",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Mastercard is led by Michael Miebach, who signed the 2025 Form 10-K as President, Chief Executive Officer, and director. The leadership structure is tied closely to one reported operating segment, Payment Solutions, with the CEO identified as the chief operating decision-maker for assessing performance and allocating resources.",
+        "points": [
+          "Michael Miebach signed the 2025 Form 10-K as President and Chief Executive Officer, while Sachin Mehra signed as Chief Financial Officer and Sandra Arkell as Corporate Controller.",
+          "The executive disclosure also identifies Ed McLaughlin as President & Chief Technology Officer, Ling Hai as regional president for APEMEA, and Craig Vosburg as Chief Services Officer.",
+          "Mastercard identifies its three strategic priorities as core payments, commercial and new payment flows, and value-added services and solutions, matching the company's payments network and services mix."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Mastercard's capital allocation framework is explicitly linked to Consolidated Net Income and the Payment Solutions segment. The 10-K states that the CEO, as CODM, decides whether profits are reinvested in the segment or directed to acquisitions, dividends, or share repurchases.",
+        "points": [
+          "The 10-K says the CODM uses Consolidated Net Income to decide whether to reinvest in Payment Solutions or allocate capital to acquisitions, dividends, or share repurchases.",
+          "Mastercard generated $14.968 billion of Consolidated Net Income in 2025, up from $12.874 billion in 2024 and $11.195 billion in 2023.",
+          "The SEC company facts summary reports FY2025 operating cash flow of $11.980 billion, cash and equivalents of $8.442 billion, and long-term debt of $17.476 billion."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Mastercard provides some alignment through performance-based compensation that uses Consolidated Net Income and other measures, but the packet does not provide detailed targets or payout formulas. Shareholder rights are supported by majority-voting mechanics and proxy access provisions, while capital returns are included in the stated allocation menu.",
+        "points": [
+          "Mastercard says Consolidated Net Income and other measures are used for internal planning, forecasting, and the calculation of performance-based compensation.",
+          "The board received contingent resignations from each of the 11 director nominees under its majority-voting policy for uncontested elections.",
+          "Stockholders or groups of up to 20 holders owning at least 3% of Class A shares for three years may submit nominees for up to 20% of the board, subject to bylaw requirements."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Mastercard's filings provide useful investor detail on segment structure, multi-year revenue, profitability, geography, customer concentration, and operating metrics. The company also reports network metrics such as transactions, gross dollar volume growth, cross-border growth, commercial payment mix, tokenization progress, and Mastercard Move endpoint scale.",
+        "points": [
+          "The 10-K identifies Payment Solutions as Mastercard's segment and states that the CEO is the chief operating decision-maker for segment performance and resource allocation.",
+          "Mastercard discloses Payment Solutions net revenue for 2025, 2024, and 2023, along with Consolidated Net Income for the same three-year period.",
+          "The company reports that U.S. revenue was approximately 29% of 2025 net revenue and that no individual customer generated more than 10% of net revenue.",
+          "The 2026 proxy says Mastercard facilitated more than 175 billion transactions in 2025, with gross dollar volume up 9% and cross-border volume up 15% in local currency."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures include an 11-director slate, majority-voting contingent resignations, proxy access rights, and audited controls. The main caution is that Mastercard recorded $504 million of 2025 pre-tax litigation provisions tied to merchant litigation, liability shift litigation, and ATM surcharge complaints.",
+        "points": [
+          "The 2026 proxy states that the board nominated 11 directors, recommended votes for all nominees, and received contingent resignations under the majority-voting policy.",
+          "Mastercard's President and Chief Executive Officer and Chief Financial Officer concluded disclosure controls and procedures were effective as of December 31, 2025.",
+          "PricewaterhouseCoopers LLP audited Mastercard's consolidated financial statements and internal control over financial reporting for the 2025 Form 10-K.",
+          "Mastercard recorded $504 million of 2025 pre-tax litigation provisions, including items related to U.S. merchant class litigation opt-outs, liability shift litigation, and ATM surcharge complaints."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Two-sided global payments network",
+        "grade": "strong",
+        "summary": "Mastercard's core moat is the scale of its acceptance and account network. The company says its global acceptance footprint serves more than 3.7 billion accounts and connects hundreds of millions of acceptance locations and digital access points across more than 220 countries and territories."
+      },
+      {
+        "type": "Transaction scale and payments data",
+        "grade": "strong",
+        "summary": "Mastercard's network scale produces large volumes of payment activity and data that smaller rivals would struggle to replicate. The company facilitated more than 175 billion transactions in 2025 and cites more than 15 petabytes of structured, clean, usable data generated from transactions touching its network."
+      },
+      {
+        "type": "Security and tokenization infrastructure",
+        "grade": "strong",
+        "summary": "Mastercard's payments infrastructure includes security capabilities that are embedded into network activity. As of December 2025, the company had tokenized nearly 40% of all switched transactions and stated a goal of reaching 100% tokenization of e-commerce payments by 2030."
+      },
+      {
+        "type": "Global revenue diversification",
+        "grade": "middle",
+        "summary": "Mastercard's revenue base is not dependent on one country outside the United States or on one large customer. U.S. revenue was about 29% of 2025 net revenue, no other country exceeded 10%, and no individual customer generated more than 10% of net revenue in 2025, 2024, or 2023."
+      },
+      {
+        "type": "New payment-flow reach",
+        "grade": "middle",
+        "summary": "Mastercard is extending beyond traditional card payments through commercial and new payment flows. The company says Mastercard Move transmits value across 17 billion endpoints, while commercial credit and debit represented 13% of 2025 gross dollar volumes and grew 11% year over year in local currency."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "symbol": "BA",
+  "companyName": "Boeing",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business",
+      "statement": "Boeing is identified in SEC submissions as an aircraft company listed on the NYSE.",
+      "source": "https://data.sec.gov/submissions/CIK0000012927.json"
+    },
+    {
+      "topic": "revenue",
+      "statement": "Boeing reported FY2025 revenue of $77.794 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "Boeing reported FY2025 net income of negative $2.222 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "Boeing reported FY2025 operating cash flow of $5.96 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "Boeing's proxy statement reports FY2025 operating cash flow of $1.065 billion and free cash flow of negative $1.877 billion after $2.942 billion of additions to property, plant and equipment.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    {
+      "topic": "research and development",
+      "statement": "Boeing reported FY2025 research and development expense of $3.377 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "Boeing reported stockholders' equity of negative $3.908 billion at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "Boeing reported long-term debt of $53.625 billion at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "Boeing reported cash and cash equivalents of $12.691 billion at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000012927.json"
+    },
+    {
+      "topic": "segments",
+      "statement": "Boeing's 10-K identifies three operating segments: Commercial Airplanes, Defense, Space & Security, and Global Services.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "portfolio change",
+      "statement": "The 10-K text indicates Boeing completed the acquisition of Spirit AeroSystems on December 8, 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "portfolio change",
+      "statement": "The 10-K text also indicates Boeing completed a divestiture of portions of its digital aviation solutions business in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "Robert K. Ortberg is President and Chief Executive Officer and a member of Boeing's Board, since August 8, 2024.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "Jesus Malave, Jr. is Executive Vice President and Chief Financial Officer since August 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "Stephanie F. Pope is Executive Vice President; President and Chief Executive Officer, Boeing Commercial Airplanes since March 2024.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "Stephen K. Parker is Executive Vice President; President and Chief Executive Officer of Boeing Defense, Space & Security since July 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "D. Christopher Raymond is Executive Vice President, President and Chief Executive Officer, Boeing Global Services since January 2024.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "governance",
+      "statement": "The proxy statement says Boeing has an independent Board Chair and that 11 of 12 director nominees, and all committee members, are independent.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    {
+      "topic": "governance",
+      "statement": "The proxy statement says Boeing's governance highlights include executive sessions of independent directors after every regular Board meeting.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    {
+      "topic": "compensation",
+      "statement": "Boeing's 2025 equity compensation plan information shows 7,159,329 shares to be issued upon exercise of outstanding options and units and 13,770,650 shares remaining available for future issuance under equity compensation plans approved by shareholders.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "compensation",
+      "statement": "The 10-K states Boeing's equity compensation plans approved by shareholders include the employee stock purchase plan and the 2023 Incentive Stock Plan and its predecessor plan.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    },
+    {
+      "topic": "risk",
+      "statement": "Boeing's proxy materials highlight Board oversight of safety and quality, development programs, succession planning, human capital, cybersecurity, and sustainability risks.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    {
+      "topic": "risk",
+      "statement": "The proxy statement says Boeing's Board and management are focused on strengthening safety and quality and that the company has a dedicated Safety & Quality website.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm"
+    },
+    {
+      "topic": "product/program",
+      "statement": "The 10-K text references Boeing airplane programs including 737, 777X, and 787.",
+      "source": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+    }
+  ]
+}

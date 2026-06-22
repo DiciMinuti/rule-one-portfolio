@@ -1,0 +1,157 @@
+{
+  "symbol": "BLK",
+  "companyName": "BlackRock",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business model",
+      "statement": "BlackRock describes itself as a global asset manager and says its focus is to deliver investment solutions for each client in line with their objectives and goals.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "operating model",
+      "statement": "The company says its platform includes alpha-seeking active, private markets, index, and cash management investment strategies across asset classes, and that it provides whole-portfolio solutions and differentiated outcomes for clients.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "technology offering",
+      "statement": "BlackRock says its investment platform is supported by its technology and risk management system, Aladdin, and that it offers technology services to a broad base of institutional and wealth management clients.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "growth strategy",
+      "statement": "The company says it has continuously invested to build a comprehensive and integrated investment and technology platform across public and private markets.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "client inflows",
+      "statement": "BlackRock reported record $698 billion of net inflows in 2025 in the proxy statement.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "organic growth",
+      "statement": "The company said those 2025 net inflows reflected 9% organic base fee growth.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "technology growth",
+      "statement": "BlackRock said technology services annual contract value growth was 16% in 2025.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "scale",
+      "statement": "The proxy statement says BlackRock ended 2025 with a new assets under management high of $14 trillion.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "financial performance",
+      "statement": "SEC company facts report FY2025 revenue of $17.859 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "profitability",
+      "statement": "SEC company facts report FY2025 net income of $5.502 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "SEC company facts report FY2025 operating cash flow of $4.165 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "SEC company facts report FY2025 stockholders' equity of $47.495 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "SEC company facts report FY2025 cash and equivalents of $12.762 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "leverage",
+      "statement": "SEC company facts report FY2025 long-term debt of $12.314 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0002012383.json)"
+    },
+    {
+      "topic": "segment structure",
+      "statement": "BlackRock says it operates in one asset management operating segment and that management directs the business as one business.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "management and decision-making",
+      "statement": "The company says its chief operating decision maker is its Chairman and Chief Executive Officer, who reviews consolidated financial information and uses total revenue, operating income, and net income attributable to BlackRock to make operating decisions.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "BlackRock says those same metrics are used by management for capital allocation, determining annual and long-term compensation, and managing costs in relation to revenue.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "shareholder returns",
+      "statement": "The proxy statement says BlackRock returned a record $5.0 billion to shareholders in 2025 through dividends and share repurchases.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "repurchases",
+      "statement": "The 10-K says BlackRock repurchased 1.6 million shares and share equivalents for about $1.6 billion during 2025, and had about 2.2 million shares still authorized for repurchase at December 31, 2025.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "dividends",
+      "statement": "The 10-K says BlackRock paid cash dividends of $20.84 per share, or $3.3 billion, during 2025, and the proxy statement says the board approved a quarterly dividend of $5.73 per share to be paid on March 24, 2026.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm); DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "compensation",
+      "statement": "The proxy statement says the Board targets a 40% to 50% dividend payout ratio and uses a consistent share repurchase program as part of its capital return strategy.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "executive compensation",
+      "statement": "Shareholders are asked to approve, in a non-binding advisory vote, the compensation for BlackRock's named executive officers.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The proxy statement says BlackRock's board submits the appointment of Deloitte LLP as independent registered public accounting firm for fiscal 2026 for shareholder ratification.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The proxy statement proposes amending the certificate of incorporation of BlackRock Finance, Inc., a subsidiary, to remove a pass-through voting provision described as highly unusual for a consolidated subsidiary of a public company.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "management name",
+      "statement": "The proxy statement is signed by Laurence D. Fink as Chairman and Chief Executive Officer.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "risk",
+      "statement": "The 10-K says BlackRock is required to maintain net capital in certain regulated subsidiaries across multiple jurisdictions, and that those subsidiaries may be restricted in their ability to transfer cash between jurisdictions and to their parents.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "risk",
+      "statement": "The 10-K says BlackRock Institutional Trust Company, N.A. is subject to OCC regulatory capital requirements and that failure to meet minimum capital requirements could have a direct material effect on the company's consolidated financial statements.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "related-party exposure",
+      "statement": "The 10-K says a majority of BlackRock's investment advisory, administration fees, and investment advisory performance fees, as well as related accounts receivable, are from related parties, because these revenues are derived from investment funds it manages.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/blk-20251231.htm)"
+    },
+    {
+      "topic": "organization and workforce",
+      "statement": "The proxy statement says BlackRock had approximately 24,900 employees in more than 30 countries as of December 31, 2025.",
+      "source": "DEF 14A filed 2026-04-10 (https://www.sec.gov/Archives/edgar/data/2012383/000130817926000262/ny-20260410.htm)"
+    },
+    {
+      "topic": "stock exchange",
+      "statement": "SEC submissions metadata identifies BlackRock as trading on the NYSE under ticker BLK.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0002012383.json)"
+    }
+  ]
+}

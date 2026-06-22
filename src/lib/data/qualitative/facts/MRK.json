@@ -1,0 +1,127 @@
+{
+  "symbol": "MRK",
+  "companyName": "Merck",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "Merck & Co., Inc. trades on the NYSE under ticker MRK and is classified in the SEC submissions metadata under the SIC description \"Pharmaceutical Preparations.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000310158.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Merck describes itself as a research-intensive biopharmaceutical company focused on delivering innovative health solutions that advance the prevention and treatment of diseases in people and animals.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Merck reported FY2025 revenue of $60.115 billion, filed February 24, 2026 under the Revenues concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Merck reported FY2025 net income of $365 million, filed February 24, 2026 under the NetIncomeLoss concept.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Merck reported FY2025 net cash provided by operating activities of $13.006 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Merck reported FY2025 research and development expense of $30.531 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At FY2025, Merck reported stockholders' equity of $46.313 billion, long-term debt of $34.462 billion, and cash and equivalents of $13.242 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000310158.json)"
+    },
+    {
+      "topic": "Pipeline scale",
+      "statement": "Merck stated in its 2026 proxy that it had approximately 80 ongoing Phase 3 studies across multiple therapeutic areas and modalities and saw an opportunity to launch over 20 potential new growth drivers.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Oncology products",
+      "statement": "Merck stated that the FDA approved KEYTRUDA QLEX, enabling subcutaneous administration of KEYTRUDA across all solid tumor indications, and that the European Commission approved subcutaneous administration for KEYTRUDA across all adult indications in Europe.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Oncology pipeline",
+      "statement": "Merck is developing sacituzumab tirumotecan, or sac-TMT, an investigational anti-TROP2 antibody-drug conjugate in collaboration with Kelun-Biotech, and stated it was evaluating sac-TMT in 17 Phase 3 trials.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Cardiometabolic and respiratory portfolio",
+      "statement": "Merck identified enlicitide as an investigational oral PCSK9 inhibitor for adults with high LDL cholesterol, WINREVAIR as a medicine for adults with pulmonary arterial hypertension, and OHTUVAYRE as a first-in-class maintenance treatment for adults with chronic obstructive pulmonary disease obtained through the Verona Pharma acquisition.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Vaccines and infectious disease portfolio",
+      "statement": "Merck stated it launched ENFLONSIA in the U.S. as an RSV preventive option for infants during their first RSV season without weight-based dosing, continued to see increased uptake of adult pneumococcal vaccine CAPVAXIVE, and described GARDASIL and GARDASIL 9 as important products for preventing certain HPV-related cancers in males and females.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "HIV pipeline",
+      "statement": "Merck reported positive data readouts from its HIV pipeline, including doravirine/islatravir for HIV-1 treatment, and said it initiated Phase 3 trials for alimatravir, also known as MK-8527, as a once-monthly oral HIV-1 PrEP candidate.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Immunology and ophthalmology pipeline",
+      "statement": "Merck stated it broadened tulisokibart clinical development with Phase 2b trials in three inflammatory disease indications beyond ongoing Phase 3 trials in ulcerative colitis and Crohn's disease, and said it is advancing ophthalmology candidates MK-3000 and MK-8748 for certain retinal diseases.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Animal Health",
+      "statement": "Merck described Animal Health as an important contributor to growth and stated that in 2025 it received European Commission approval of NUMELVI tablets for dogs, a second-generation JAK inhibitor for atopic dermatitis, and recently received FDA approval for NUMELVI.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Business development",
+      "statement": "Merck stated that business development is a core part of its growth strategy, that it closed the Verona Pharma acquisition in 2025, completed the acquisition of Cidara Therapeutics in January 2026, and had invested over $60 billion in business development since 2021.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Robert M. Davis signed the 2025 Form 10-K as Chairman, Chief Executive Officer and President; Caroline Litchfield signed as Executive Vice President and Chief Financial Officer; and Dalton Smart signed as Senior Vice President Finance-Global Controller and Principal Accounting Officer.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    },
+    {
+      "topic": "Governance and controls",
+      "statement": "Management, with participation from the CEO and CFO, concluded that Merck's disclosure controls and procedures were effective as of the end of FY2025, and management concluded internal control over financial reporting was effective as of December 31, 2025.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    },
+    {
+      "topic": "Ethics and compliance",
+      "statement": "Merck's Code of Conduct applies to all employees, including the principal executive officer, principal financial officer, and principal accounting officer, and the 10-K states that every Company employee is responsible for business practices in accordance with law and ethical principles.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    },
+    {
+      "topic": "Employee training",
+      "statement": "Merck stated that all employees are required annually to complete Code of Conduct training, and that a staff of internal auditors regularly monitors the adequacy and application of internal controls worldwide.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "For incentive plans, Merck disclosed Company Scorecard weightings of 20% pipeline, 10% sustainability, 35% revenue, and 35% pre-tax income, while long-term metrics include EPS weighted 50% and relative TSR weighted 50%.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Non-GAAP compensation linkage",
+      "statement": "Merck stated that annual employee compensation, including senior management compensation, is derived in part using a non-GAAP pretax income metric.",
+      "source": "DEF 14A filed 2026-04-08 (https://www.sec.gov/Archives/edgar/data/310158/000119312526147704/d85708ddef14a.htm)"
+    },
+    {
+      "topic": "Equity compensation",
+      "statement": "As of December 31, 2025, Merck disclosed 12,476,856 securities to be issued upon exercise of outstanding options, warrants and rights under shareholder-approved equity compensation plans, with a weighted-average exercise price of $87.95 and 65,539,454 securities remaining available for future issuance.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    },
+    {
+      "topic": "Financial reporting risk",
+      "statement": "PricewaterhouseCoopers identified U.S. rebate accruals for Medicaid, Managed Care and Medicare Part D as a critical audit matter; Merck's accrued balance for aggregate customer discounts in accrued and other current liabilities was $1.5 billion as of December 31, 2025, with the majority related to those U.S. rebate accruals.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm)"
+    }
+  ]
+}

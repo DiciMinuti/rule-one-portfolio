@@ -1,0 +1,90 @@
+{
+  "symbol": "JPM",
+  "companyName": "JPMorgan Chase",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "JPMorgan Chase has clearly identified senior leadership in its 2025 Form 10-K, with James Dimon signing as Chairman, CEO, and Principal Executive Officer. The leadership structure is supported by named finance and accounting executives and by a Board process that actively reviews succession across senior management.",
+        "points": [
+          "James Dimon signed the 2025 Form 10-K as Chairman and Chief Executive Officer, while Jeremy Barnum signed as Chief Financial Officer and Principal Financial Officer.",
+          "Elena Korablina signed as Firmwide Controller and Principal Accounting Officer, giving investors named accountability for the company's accounting and financial reporting functions.",
+          "The full Board, rather than one person or one committee, is involved in CEO succession planning and assessing senior executives for CEO and Operating Committee potential.",
+          "Stephen B. Burke serves as Lead Independent Director, and directors met with more than 100 senior managers during the year to assess the leadership pipeline."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "The packet shows a very large, profitable banking franchise with 2025 managed revenue of $185.6 billion, net income of $57.0 billion, ROE of 17%, and ROTCE of 20%. Board oversight explicitly includes key investments, strategy, investment discipline, shareholder returns, and capital strength.",
+        "points": [
+          "JPMorgan Chase reported FY2025 revenue of $158.104 billion under the SEC Revenues concept and $49.552 billion of net income under NetIncomeLoss.",
+          "On a managed basis, the proxy reports 2025 revenue of $185.6 billion, net income of $57.0 billion, return on equity of 17%, and ROTCE of 20%.",
+          "The Board meets at least eight times each year and oversees key investments and strategy, with stated focus on investment discipline, shareholder returns, and capital strength.",
+          "The 10-K states that JPMorgan Chase acquired certain assets and assumed certain liabilities of First Republic Bank from the FDIC on May 1, 2023."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment is supported by reported per-share book value data, high managed-basis returns, and stated Board focus on shareholder returns. The packet does not provide executive compensation design, so pay-based alignment cannot be assessed from these facts alone.",
+        "points": [
+          "At December 31, 2025, the proxy reported book value per share of $126.99 and tangible book value per share of $107.56.",
+          "The proxy reports common stockholders' equity of $342.393 billion and tangible common equity of $290.018 billion, giving investors concrete capital-base measures to track.",
+          "The Board's stated oversight priorities include shareholder returns and capital strength, tying governance attention to financial outcomes relevant to long-term owners.",
+          "JPMorgan Chase's By-laws provide proxy access for eligible holders of at least 3% of outstanding shares for at least three consecutive years."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "JPMorgan Chase provides detailed public-company reporting through SEC submissions, the 2025 Form 10-K, and the 2026 proxy. The packet includes GAAP figures, managed-basis performance, a reconciliation for fully taxable-equivalent adjustments, segment definitions, and business-line descriptions across banking, markets, payments, mortgages, and wealth management.",
+        "points": [
+          "The proxy reconciles 2025 reported total net revenue of $182.447 billion plus $3.134 billion of fully taxable-equivalent adjustments to managed-basis revenue of $185.581 billion.",
+          "The 2025 Form 10-K glossary defines CCB as Consumer & Community Banking, CIB as Commercial & Investment Bank, AWM as Asset & Wealth Management, and LOB as line of business.",
+          "The company describes Markets as CIB's Fixed Income Markets and Equity Markets businesses, with macro activities including Rates, Currencies and Emerging Markets, Fixed Income Financing, and Commodities.",
+          "SEC company facts provide standardized FY2025 figures including $158.104 billion of revenue, $49.552 billion of net income, $12.974 billion of operating cash flow, and $327.878 billion of stockholders' equity."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Governance facts show an active Board structure with a Lead Independent Director, separate independent-director meetings, regular Board meetings, and direct access to senior management. The packet also documents proxy access rights and Board involvement in CEO succession rather than concentrating that responsibility in one person or committee.",
+        "points": [
+          "Stephen B. Burke is identified as Lead Independent Director, and independent directors meet separately at every regular Board meeting for candid discussion and oversight.",
+          "The Board meets at least eight times each year, has open access to senior management, and oversees key investments, strategy, investment discipline, shareholder returns, and capital strength.",
+          "CEO succession planning is handled by the entire Board, which develops and assesses senior executives who may become CEO or Operating Committee candidates.",
+          "Proxy access allows a shareholder group of up to 20 holders with at least 3% ownership for three consecutive years to nominate qualifying Board candidates."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale and diversified banking platform",
+        "grade": "strong",
+        "summary": "JPMorgan Chase operates at a scale that few financial institutions can match, with 2025 managed revenue of $185.6 billion, managed net income of $57.0 billion, and common stockholders' equity of $342.393 billion at year-end. Its disclosed business lines span Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management, reducing dependence on one activity."
+      },
+      {
+        "type": "Payments and transaction capabilities",
+        "grade": "middle",
+        "summary": "The company has a concrete payments footprint through Merchant Services and Commercial Card. Merchant Services enables merchants of all sizes to accept credit and debit card payments and multiple-currency payments, while Commercial Card serves corporate and public sector clients worldwide with procurement, travel, expense management, and business-to-business payment solutions."
+      },
+      {
+        "type": "Client-driven markets breadth",
+        "grade": "middle",
+        "summary": "JPMorgan Chase's CIB Markets business includes Fixed Income Markets and Equity Markets, with macro activities in Rates, Currencies and Emerging Markets, Fixed Income Financing, and Commodities. This breadth supports client-driven market-making revenue, though the disclosed revenue drivers include bid-offer spreads and realized and unrealized gains and losses, making the moat more cyclical than contractual."
+      },
+      {
+        "type": "High-touch lending and relationship breadth",
+        "grade": "middle",
+        "summary": "The company serves clients through multiple lending channels and products, including retail and correspondent mortgage origination and AWM custom lending for Global Private Bank clients. The custom lending definition includes loans to private investment funds and loans collateralized by nontraditional assets such as art work and aircraft, showing specialized relationship-based capabilities."
+      }
+    ]
+  }
+}

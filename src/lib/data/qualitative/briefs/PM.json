@@ -1,0 +1,89 @@
+{
+  "symbol": "PM",
+  "companyName": "Philip Morris International",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "PMI is led by Group CEO Jacek Olczak, with Emmanuel Babeau as Group CFO and Reginaldo Dobrowolski as Group Controller signing the 2025 Form 10-K. Management is overseeing a large global tobacco and nicotine business while shifting mix toward smoke-free products, which reached 41.5% of 2025 net revenues.",
+        "points": [
+          "Jacek Olczak signed the 2025 Form 10-K as Group CEO PMI and Director, tying operating leadership directly to board-level accountability.",
+          "The chairman and CEO letter said 2025 was PMI's fifth consecutive year of volume growth and included further operating margin expansion.",
+          "Management is running both legacy and transition businesses: 2025 net revenues were $23.794 billion from combustibles and $16.854 billion from smoke-free products."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "PMI is allocating meaningful resources to the smoke-free transition while still relying on a large combustible tobacco profit base. The packet supports investment in R&D and financing capacity, but also shows negative stockholders' equity and special-item charges that investors should monitor.",
+        "points": [
+          "PMI reported approximately 1,600 R&D scientists, engineers, technicians, and support staff working on smoke-free products, with FY2025 R&D expense of $709 million.",
+          "The business generated FY2025 operating cash flow of $9.204 billion and held $4.216 billion of cash and equivalents, giving management funding for operations and portfolio evolution.",
+          "PMI reported negative stockholders' equity of $11.750 billion, so investors should watch how financing decisions support the transition without weakening flexibility.",
+          "The 2025 10-K exhibit index lists credit agreements effective January 29, 2025 and dated December 11, 2025, both involving Citibank Europe plc, UK Branch as facility agent."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Executive pay is tied to operating measures that matter to owners, including adjusted revenues, adjusted operating income, operating cash flow, smoke-free shipment volume, and strategic initiatives. Alignment is measurable, but the packet does not provide insider ownership levels or long-term share ownership requirements.",
+        "points": [
+          "The Compensation and Leadership Development Committee certified a 2025 annual cash incentive performance rating of 115 against a target of 100.",
+          "The 2025 annual cash incentive scorecard included Share of Top 30 OI Markets, Smoke-Free Shipment Volume, Adjusted Net Revenues, Adjusted OI, Operating Cash Flow, and Strategic Initiatives.",
+          "Reported 2025 incentive results included 176.9 for Smoke-Free Shipment Volume, 6.5% adjusted net revenues, 10.6% adjusted OI, and 12.2 operating cash flow.",
+          "As of the March 13, 2026 record date, PMI had 1,558,530,268 common shares outstanding, with each shareholder of record entitled to one vote per share."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "PMI gives investors useful category, segment, and non-GAAP reconciliation detail in SEC filings and proxy materials. The disclosures separate combustible and smoke-free economics, identify geographic reportable segments, and show the compensation scorecard used to judge annual management performance.",
+        "points": [
+          "PMI disclosed 2025 net revenues of $40.648 billion, split between $23.794 billion from combustible tobacco and $16.854 billion from smoke-free products.",
+          "The proxy stated smoke-free products represented 41.5% of total net revenues in 2025, giving investors a clear measure of portfolio transition progress.",
+          "The 2025 10-K XBRL tags identify reportable segments including Europe, South and Southeast Asia, CIS, Middle East and Africa, East Asia, Australia and PMI Global Travel Retail, and Americas.",
+          "PMI reconciled 2025 operating income of $14.892 billion to adjusted operating income of $16.428 billion and listed special items behind the adjustment."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures identify board leadership, director nominees, voting matters, auditor ratification, and compensation committee oversight. The packet also highlights tobacco-related governance issues investors should track, including a shareholder proposal on filter cleanup costs and a Germany excise tax classification litigation charge.",
+        "points": [
+          "The 2026 proxy lists André Calantzopoulos as Chairman of the Board and names ten director nominees, including Jacek Olczak, Victoria Harker, and Kalpana Morparia.",
+          "The 2026 annual meeting agenda includes election of ten directors, advisory approval of named executive officer compensation, and ratification of PricewaterhouseCoopers SA as independent auditor for fiscal 2026.",
+          "A shareholder proposal addresses filter cleanup costs and extended producer responsibility laws for filters, showing an investor-facing environmental liability topic tied to PMI's tobacco products.",
+          "PMI's adjusted operating income reconciliation included a $176 million Germany excise tax classification litigation charge, along with a $94 million expected sale loss and $41 million impairment."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Global manufacturing and distribution scale",
+        "grade": "strong",
+        "summary": "PMI operates at a scale few consumer nicotine companies can easily replicate, with approximately 84,900 employees, 50 owned production facilities, and products sold in approximately 170 markets. That footprint supports both its combustible tobacco business and the rollout of smoke-free products across multiple regions."
+      },
+      {
+        "type": "Smoke-free product portfolio and R&D base",
+        "grade": "middle",
+        "summary": "PMI has built a large smoke-free platform that generated $16.854 billion of 2025 net revenues, or 41.5% of total net revenues. The portfolio spans heat-not-burn, e-Vapor, and oral smokeless products, supported by about 1,600 R&D staff and $709 million of FY2025 R&D expense."
+      },
+      {
+        "type": "Combustible tobacco cash engine",
+        "grade": "middle",
+        "summary": "Combustible tobacco still produced $23.794 billion of 2025 net revenues, giving PMI a large legacy profit pool while it funds the smoke-free transition. Management said the combustibles business remained resilient in 2025 and delivered another year of strong performance under disciplined management."
+      },
+      {
+        "type": "Portfolio breadth across nicotine formats",
+        "grade": "middle",
+        "summary": "PMI's heated tobacco lineup includes consumables such as HEETS, TEREA, SENTIA, BLENDS, DELIA, KT&G-licensed Fiit and Miix outside South Korea, and zero-tobacco LEVIA. This breadth gives the company multiple product families within smoke-free nicotine rather than relying on a single format."
+      }
+    ]
+  }
+}

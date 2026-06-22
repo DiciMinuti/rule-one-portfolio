@@ -1,0 +1,90 @@
+{
+  "symbol": "ANET",
+  "companyName": "Arista Networks",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Arista is led by Jayshree Ullal, who signed the FY2025 10-K as Chief Executive Officer and Chairperson, with Chantelle Breithaupt signing as CFO and Principal Accounting Officer. The 2026 proxy also shows management depth being added around operations, technology, and cloud/AI networking as the company scales AI center and data center demand.",
+        "points": [
+          "Jayshree Ullal holds both Chief Executive Officer and Chairperson roles, giving one named leader direct influence over strategy and board leadership.",
+          "Chantelle Breithaupt signed the FY2025 10-K as Senior Vice President, Chief Financial Officer, and Principal Accounting Officer, centralizing finance and accounting responsibility in one named executive.",
+          "The 2026 proxy says Todd Nightingale was appointed President and Chief Operating Officer, adding a named operating leader as Arista scales manufacturing and customer demand.",
+          "Kenneth Duda was promoted to President and Chief Technology Officer, and Tyson Lamoreaux was appointed Senior Vice President of Cloud and AI Networking, both tied to Arista's technical focus."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Arista has a cash-rich model, with FY2025 operating cash flow of $2.034 billion and cash and equivalents of $2.762 billion in the SEC company facts summary. Management is funding growth, R&D, and repurchases while stating it does not expect to pay cash dividends in the foreseeable future.",
+        "points": [
+          "The SEC company facts summary reports FY2025 research and development expense of $854.9 million, showing continued investment in switching, routing, EOS, and NetDL capabilities.",
+          "Management says existing cash and cash flow from operations should be sufficient for working capital needs and growth strategies for the foreseeable future.",
+          "The FY2025 10-K discusses share repurchase programs, including a prior program and a new program identified in XBRL tagging.",
+          "Arista states it will not pay cash dividends in the foreseeable future, so investor returns depend on business growth, valuation, and any repurchase execution."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Arista uses repurchases and equity compensation, which can align employees with shareholders but also creates dilution pressure to monitor. FY2025 stock-based compensation was $439.2 million, and unrecognized compensation costs related to unvested awards were $1.5 billion as of December 31, 2025.",
+        "points": [
+          "The company reported 1,256,537,906 common shares outstanding on February 10, 2026, giving investors a clear share-count base for tracking dilution and repurchases.",
+          "Stock-based compensation expense of $439.2 million is meaningful even against Arista's profitability, so buybacks should be assessed partly against equity-award dilution.",
+          "The $1.5 billion of unrecognized compensation costs tied to unvested awards indicates additional equity-compensation expense is already embedded in future periods.",
+          "The 2026 proxy says shareholders will vote on named executive officer compensation on an advisory basis, giving investors a formal but nonbinding alignment check."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Arista provides useful operating disclosure around one reportable segment, CODM metrics, geography, margins, and major customer categories. A caution is that the provided source materials show different FY2025 revenue and net income presentations between the SEC company facts summary and the FY2025 10-K.",
+        "points": [
+          "Arista reports as one reportable segment, and management says the CODM reviews revenue, gross margin, operating margin, and net income to evaluate performance and allocate resources.",
+          "The FY2025 10-K reports geographic revenue by shipping address: $7.122 billion in the Americas, $1.070 billion in EMEA, and $813.3 million in Asia Pacific.",
+          "The 10-K provides both GAAP and non-GAAP profitability measures, including FY2025 GAAP gross margin of 64.1% and GAAP operating margin of 42.8%.",
+          "Investors should reconcile source presentations because the packet shows FY2025 revenue of $5.86 billion in SEC company facts and $9.01 billion in the 10-K."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures include advisory votes on executive compensation, auditor ratification, and an audited internal-control opinion from Ernst & Young LLP. Investors should also note the combined CEO and Chairperson role and the operating risks named in the 10-K, including supply chain delays and customer concentration.",
+        "points": [
+          "The FY2025 10-K states management assessed internal control over financial reporting as effective as of December 31, 2025, and Ernst & Young issued an unqualified opinion.",
+          "The 2026 proxy asks stockholders to ratify Ernst & Young LLP as independent registered public accounting firm and to approve named executive officer compensation on an advisory basis.",
+          "Jayshree Ullal signed as both Chief Executive Officer and Chairperson, a governance structure investors may weigh when assessing independent board oversight.",
+          "The 10-K highlights risks including supply chain delays, access to key commodities or technologies, geopolitical events, competition, customer concentration, and pricing pressure from large customers."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "EOS and NetDL platform differentiation",
+        "grade": "middle",
+        "summary": "Arista's platform is anchored by its Extensible Operating System and Network Data Lake, supporting its client-to-cloud networking-as-a-service positioning. The company says its solutions use open, standards-based technology, real-time telemetry, and intelligent automation to reduce manual operator workload and avoid vendor lock-in."
+      },
+      {
+        "type": "High-speed Ethernet switching focus",
+        "grade": "strong",
+        "summary": "Arista expects to derive substantially all product revenue from switching and routing platforms, and it states that market research confirms it remains a leader in high-speed Ethernet switching. This focus is supported by FY2025 10-K profitability of 64.1% GAAP gross margin and 42.8% GAAP operating margin."
+      },
+      {
+        "type": "Exposure to AI, cloud, and enterprise networking domains",
+        "grade": "middle",
+        "summary": "Arista's platform connects AI Centers, Data Centers, Campus Centers, and WAN Centers, and its customer categories are Cloud and AI Titans, AI and Specialty Providers, and Enterprise. This gives the company direct exposure to large networking buildouts, but the 10-K also flags customer concentration and pricing pressure from large customers as risks."
+      },
+      {
+        "type": "Scale and cash generation",
+        "grade": "middle",
+        "summary": "The FY2025 10-K reports revenue by shipping address of $7.122 billion in the Americas, $1.070 billion in EMEA, and $813.3 million in Asia Pacific. The SEC company facts summary also reports FY2025 operating cash flow of $2.034 billion and cash and equivalents of $2.762 billion, supporting continued product investment."
+      }
+    ]
+  }
+}

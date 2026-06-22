@@ -1,0 +1,88 @@
+{
+  "symbol": "PG",
+  "companyName": "Procter & Gamble",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "P&G is managing a planned CEO transition from Jon R. Moeller to Shailesh Jejurikar, with Moeller moving to Executive Chairman on January 1, 2026. Jejurikar brings company-specific operating experience, including a 36-year P&G career and 12 years on the leadership team.",
+        "points": [
+          "Jon R. Moeller is Chairman, President and CEO, and the Board elected Shailesh Jejurikar as incoming President and Chief Executive Officer beginning January 1, 2026.",
+          "Jejurikar's 36-year P&G career and 12 years on the leadership team suggest the transition preserves institutional knowledge across P&G's category and operating model.",
+          "Moeller described the strategy as focused on daily-use products where performance drives brand choice, supported by superiority in product, package, brand communication, retail execution, and value."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "P&G has large cash generation, with FY2025 revenue of $82.006 billion, net income of $14.653 billion, and operating cash flow of $16.848 billion. Capital allocation is balanced against leverage, restructuring, R&D spending, supplier finance obligations, and scheduled debt maturities.",
+        "points": [
+          "P&G spent $2.000 billion on research and development in FY2025, which directly supports its stated focus on product superiority in daily-use consumer categories.",
+          "Long-term debt was $25.269 billion in FY2025, with disclosed maturities of $5.377 billion in fiscal 2026 and $4.606 billion in fiscal 2027.",
+          "P&G maintained an undrawn $8.0 billion bank credit facility supporting its commercial paper program, split between facilities expiring in October 2029 and October 2025.",
+          "The announced restructuring program includes portfolio actions, supply chain interventions, organization design changes, possible category or product-form exits, and possible brand divestitures."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports some alignment through shareholder-approved equity compensation plans, but it does not provide executive ownership levels or a full pay-for-performance formula. Investors should weigh the large equity plan capacity against P&G's cash generation, restructuring agenda, and need to keep leadership focused on durable category economics.",
+        "points": [
+          "As of June 30, 2025, shareholder-approved equity plans covered 96,633,659 securities issuable from options or stock appreciation rights and 6,677,267 tied to RSUs or PSUs.",
+          "P&G also had 58 million shares available for future issuance under the 2019 Stock and Incentive Compensation Plan, making dilution and incentive design relevant for shareholders.",
+          "The supplied facts do not specify insider ownership levels, executive shareholding requirements, or the exact performance metrics used for named executive compensation."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "P&G's filings provide useful operating and financial detail for investors, including segment structure, category mapping, debt maturities, credit facilities, supplier finance, purchase obligations, and lease liabilities. The disclosures also identify specific operating risks such as Walmart customer concentration, legal matters, environmental claims, and product-related litigation exposure.",
+        "points": [
+          "The FY2025 Form 10-K identifies five operating segments: Beauty, Grooming, Health Care, Fabric & Home Care, and Baby, Feminine & Family Care.",
+          "P&G maps key product categories to segments, including Hair Care, Personal Care, and Skin Care in Beauty and Oral Care and Personal Health Care in Health Care.",
+          "The company disclosed long-term debt maturities by fiscal year through 2030 and a FY2025 weighted average long-term debt interest rate of 3.3%.",
+          "P&G disclosed confirmed Supply Chain Finance obligations of $5.790 billion at June 30, 2025, up from $5.559 billion one year earlier."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "The packet shows formal board and control oversight, including independent Audit Committee financial experts and management's conclusion that disclosure controls were effective. Governance risk remains worth monitoring because P&G uses substantial equity compensation capacity and operates with legal, environmental, customer concentration, and supply chain finance exposures.",
+        "points": [
+          "The Board determined that Audit Committee members Brett Biggs, Christine McCarthy, and Patricia Woertz are independent and Audit Committee financial experts under SEC rules.",
+          "Jon R. Moeller and CFO Andre Schulten evaluated FY2025 disclosure controls and procedures and concluded they were effective as of fiscal year-end.",
+          "P&G disclosed legal proceedings and claims involving antitrust, trade regulation, product liability, advertising, contracts, environmental, patent and trademark, labor, employment, and tax matters.",
+          "The FY2025 Form 10-K includes Walmart Inc. and affiliates in customer concentration risk disclosure, which is important for a company selling high-volume consumer staples."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale across daily-use consumer categories",
+        "grade": "strong",
+        "summary": "P&G operates at a scale that few consumer-products companies can replicate, with FY2025 revenue of $82.006 billion across Beauty, Grooming, Health Care, Fabric & Home Care, and Baby, Feminine & Family Care. The category spread includes repeat-use areas such as Fabric Care, Home Care, Oral Care, Baby Care, Feminine Care, and Family Care."
+      },
+      {
+        "type": "Product performance and R&D capability",
+        "grade": "middle",
+        "summary": "Management frames P&G's strategy around daily-use products where performance drives brand choice, not around one-off discretionary purchases. FY2025 research and development expense of $2.000 billion supports that approach across product families such as Hair Care, Skin Care, Oral Care, Fabric Care, and Personal Health Care."
+      },
+      {
+        "type": "Retail execution in large consumer channels",
+        "grade": "middle",
+        "summary": "P&G explicitly includes retail execution and value in its strategy, which matters because its products are sold through large retail channels and repeat-purchase categories. The company also discloses Walmart Inc. and affiliates in customer concentration risk, showing that major retailers are central to both reach and bargaining risk."
+      },
+      {
+        "type": "Cash generation supporting reinvestment",
+        "grade": "strong",
+        "summary": "P&G generated FY2025 operating cash flow of $16.848 billion and net income of $14.653 billion, giving the business internal funding capacity for R&D, restructuring, supply chain work, and balance sheet obligations. That financial base supports a broad portfolio rather than relying on a single category or product line."
+      }
+    ]
+  }
+}

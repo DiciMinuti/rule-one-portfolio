@@ -1,0 +1,127 @@
+{
+  "symbol": "SNDK",
+  "companyName": "Sandisk",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Sandisk Corp trades on Nasdaq under ticker SNDK, and the SEC submissions metadata lists its SIC description as \"Computer Storage Devices.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0002023554.json"
+    },
+    {
+      "topic": "Separation history",
+      "statement": "Prior to February 21, 2025, Sandisk was wholly owned by Western Digital Corporation; as of February 21, 2025, Sandisk separated from WDC and became a standalone publicly traded company.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Sandisk describes itself as a developer, manufacturer and provider of data storage devices and solutions based on NAND flash technology.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Product portfolio",
+      "statement": "Sandisk's solutions include solid-state drives, embedded products, removable cards, universal serial bus drives, and wafers and components.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "End-market positioning",
+      "statement": "Sandisk says its flash storage portfolio serves AI workloads in data centers, edge devices, and consumers, and enables use cases ranging from students, gamers and home offices to enterprises and public clouds.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Revenue categories",
+      "statement": "The 10-K XBRL taxonomy identifies Cloud, Client Devices, and Consumer as Sandisk revenue category members for fiscal 2025, 2024, and 2023 periods.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "The SEC company facts summary reports FY2025 revenue of $6.086 billion under RevenueFromContractWithCustomerExcludingAssessedTax.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0002023554.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "The SEC company facts summary reports FY2025 net income of negative $2.143 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0002023554.json"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of negative $713 million.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0002023554.json"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "The SEC company facts summary reports FY2025 research and development expense of $1.167 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0002023554.json"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 stockholders' equity of $12.977 billion, cash and equivalents of $328 million, and long-term debt noncurrent of $0.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0002023554.json"
+    },
+    {
+      "topic": "Adjusted operating performance",
+      "statement": "In the proxy Appendix A reconciliation for the year ended June 27, 2025, Sandisk reported GAAP operating loss of $1.377 billion and non-GAAP operating income of $689 million after adjustments including stock-based compensation, separation costs, employee termination and other, goodwill impairment, and other items.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Goodwill impairment",
+      "statement": "Sandisk recognized a $1.8 billion goodwill impairment charge for the three months ended March 28, 2025 after identifying potential impairment indicators related to its trading price and market capitalization following the separation.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Restructuring and realignment",
+      "statement": "Sandisk says it periodically incurs charges to realign operations with anticipated market demand; in fiscal 2025 it recorded $21 million of employee termination and other charges, including $18 million of employee termination benefits.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Business divestiture",
+      "statement": "In connection with a strategic decision to outsource manufacturing of certain components and assemblies, Sandisk completed the sale of 80% of its equity interest in one manufacturing subsidiary on September 28, 2024, resulting in a $34 million gain on business divestiture in the proxy non-GAAP reconciliation.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Joint ventures",
+      "statement": "Sandisk's summarized non-consolidated joint venture information includes Flash Ventures, the Unis Venture, and SDSS for fiscal 2025; those investees had combined net sales of $2.315 billion, gross loss of $101 million, and net loss of $63 million in fiscal 2025.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Strategic partner relationship",
+      "statement": "The proxy cautionary note identifies reliance on strategic relationships with key partners, including Kioxia Corporation, as a risk factor for Sandisk.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Tax incentives",
+      "statement": "A substantial portion of Sandisk's manufacturing operations in Malaysia operate under tax holidays and incentive programs expiring in whole or in part during 2028 through 2031; these incentives increased 2025 net earnings by $82 million, or $0.56 per share.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Executive management",
+      "statement": "Sandisk's 2025 10-K was signed by David V. Goeckeler as Chief Executive Officer and Director, Luis F. Visoso as Executive Vice President and Chief Financial Officer, and Michael R. Pokorny as Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2025-08-21 - https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "For the 2025 annual meeting, Sandisk nominated seven directors: Richard B. Cassidy II, Thomas Caulfield, David V. Goeckeler, Devinder Kumar, Necip Sayiner, Ellyn J. Shook, and Miyuki Suzuki.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Governance profile",
+      "statement": "The 2025 proxy states that Sandisk's director nominees are 86% independent, 29% women, and have an average age of 66 years.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Board refreshment after separation",
+      "statement": "Sandisk's proxy letter says Matthew Massengill and Kimberly Alexy, two current Western Digital directors appointed to Sandisk's board for leadership continuity through the separation, will not be nominated for reelection at the 2025 annual meeting.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "The proxy Appendix A states that Sandisk's Compensation and Talent Committee used non-GAAP operating income as a pre-established performance goal under the short-term incentive plan for the second half of fiscal 2025.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    },
+    {
+      "topic": "Market and operating risks",
+      "statement": "Sandisk's proxy cautionary note identifies risks including volatility in product demand, pricing trends and average selling price fluctuations, competitive products and pricing, technology transitions, manufacturing or supply chain disruptions, product defects, and business or market conditions.",
+      "source": "DEF 14A filed 2025-10-07 - https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm"
+    }
+  ]
+}

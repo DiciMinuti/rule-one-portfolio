@@ -1,0 +1,132 @@
+{
+  "symbol": "NFLX",
+  "companyName": "Netflix",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Exchange listing and company identity",
+      "statement": "Netflix, Inc. is listed on Nasdaq under ticker NFLX; the SEC submissions metadata identifies the SEC registrant name as NETFLIX INC and the SIC description as Services-Video Tape Rental.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001065280.json)"
+    },
+    {
+      "topic": "Operating segment",
+      "statement": "Netflix operates as one operating segment, and its chief operating decision maker is its co-chief executive officers, who review financial information on a consolidated basis.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Management decision metrics",
+      "statement": "Netflix's co-chief executive officers use consolidated operating margin and net income to assess financial performance and allocate resources, including budget allocation among cost of revenues, sales and marketing, technology and development, and general and administrative expenses.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Membership scale",
+      "statement": "Netflix reported that it surpassed 325 million paid memberships in 2025.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Revenue and operating income scale",
+      "statement": "For 2025, Netflix reported revenue of $45.183 billion and operating income of $13.327 billion, compared with revenue of $39.001 billion and operating income of $10.418 billion in 2024.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Netflix's operating margin was 29.5% in 2025, 26.7% in 2024, and 20.6% in 2023.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Net income",
+      "statement": "Netflix reported net income of $10.981 billion in 2025, up from $8.712 billion in 2024 and $5.408 billion in 2023.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Cost structure",
+      "statement": "In 2025, Netflix reported content amortization of $16.422 billion, other cost of revenues of $6.853 billion, sales and marketing expense of $3.301 billion, technology and development expense of $3.391 billion, and general and administrative expense of $1.888 billion.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Netflix stated that it increased net cash provided by operating activities to over $10.1 billion in 2025.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Advertising business",
+      "statement": "Netflix stated that advertising revenue rose more than 2.5 times in 2025 to over $1.5 billion.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Engagement",
+      "statement": "Netflix reported that members watched 96 billion hours on Netflix in the second half of 2025.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Product and content initiatives",
+      "statement": "In 2025, Netflix rolled out a redesigned TV experience and highlighted films, series, and live events including KPop Demon Hunters, Wednesday, Squid Game, Stranger Things, Adolescence, the Anthony Joshua vs. Jake Paul boxing match, and NFL games on Christmas Day.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Strategic priorities",
+      "statement": "Netflix described its 2026 priorities as improving its core business, sustaining healthy growth, delivering more films and series, enhancing its product, strengthening its ads business, and expanding into live, video podcasts, and games.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Geographic revenue",
+      "statement": "Netflix reported total U.S. revenues of $18.5 billion in 2025, $16.1 billion in 2024, and $13.8 billion in 2023.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Geographic asset base",
+      "statement": "As of December 31, 2025, Netflix's long-lived tangible assets and operating lease right-of-use assets were $3.075 billion in the United States and $1.136 billion internationally.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports Netflix had $7.805 billion of cash and equivalents, $13.798 billion of long-term debt, and $20.777 billion of stockholders' equity for FY2025, filed January 23, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001065280.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "The SEC company facts summary reports Netflix recorded $2.676 billion of research and development expense for FY2025, filed January 23, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001065280.json)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Netflix's board authorized up to $10 billion of common stock repurchases in September 2023 and increased the authorization by $15 billion in December 2024, with both authorizations having no expiration date.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Share repurchases",
+      "statement": "During 2025, Netflix repurchased 86,536,215 shares for an aggregate $9.1 billion, excluding the 1% excise tax on stock repurchases, and had $8.0 billion remaining available for repurchases as of December 31, 2025.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Warner Bros. Discovery transaction financing",
+      "statement": "On January 19, 2026, Netflix entered into an amended and restated merger agreement with Warner Bros. Discovery and related parties, and an incremental commitments agreement increased senior unsecured bridge term loan commitments from $34.0 billion to $42.2 billion for financing the purchase price, related fees and expenses, and, at Netflix's option, refinancing certain indebtedness.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "The 2025 Form 10-K was signed by Ted Sarandos and Greg Peters as co-chief executive officers and directors, Spencer Neumann as chief financial officer, and Jeffrey Karbowski as chief accounting officer.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Board composition and succession",
+      "statement": "Netflix's board consisted of 13 members when the 2026 proxy was filed; Elinor Mertz was appointed to the board effective June 22, 2025, and Reed Hastings informed the company that he would not stand for re-election at the 2026 annual meeting.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Stockholder engagement and governance",
+      "statement": "Since the 2025 annual meeting, Netflix invited 25 stockholders representing about 55% of shares outstanding as of December 31, 2025 to engage, met with 22 stockholders representing about 45% of shares outstanding, and directors participated in meetings with stockholders representing about 38% of shares outstanding.",
+      "source": "DEF 14A filed 2026-04-16 (https://www.sec.gov/Archives/edgar/data/1065280/000119312526159286/d20613ddef14a.htm)"
+    },
+    {
+      "topic": "Compensation",
+      "statement": "Netflix reported total stock-based compensation expense of $368.449 million in 2025, $272.588 million in 2024, and $339.368 million in 2023.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    },
+    {
+      "topic": "Labor-related risk",
+      "statement": "Netflix contributes to multiemployer pension and health plans and states that risks include contributions being used to provide benefits to employees of other participating employers, possible withdrawal liability if Netflix stops participating, and unfunded obligations shifting to remaining participating employers if another company stops contributing.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm)"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "symbol": "NFLX",
+  "companyName": "Netflix",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Netflix is led by co-chief executive officers Ted Sarandos and Greg Peters, who also serve as directors and are identified as the chief operating decision maker for the single operating segment. Their management scorecard is concentrated on consolidated operating margin and net income, tying leadership attention to companywide profitability rather than separate segment targets.",
+        "points": [
+          "Ted Sarandos and Greg Peters signed the 2025 Form 10-K as co-chief executive officers and directors, with Spencer Neumann as chief financial officer.",
+          "The co-CEOs review Netflix financial information on a consolidated basis because the company operates as one operating segment, simplifying resource allocation and accountability.",
+          "Management uses consolidated operating margin and net income to assess performance and allocate budgets across content, marketing, technology and development, and administrative spending."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Netflix is allocating from a much larger profit and cash flow base, with 2025 revenue of $45.183 billion, operating income of $13.327 billion, and operating cash flow over $10.1 billion. The company is also using large buybacks while carrying long-term debt and arranging major bridge financing tied to the Warner Bros. Discovery transaction.",
+        "points": [
+          "Netflix repurchased 86,536,215 shares for $9.1 billion in 2025 and still had $8.0 billion remaining under repurchase authorizations at year-end.",
+          "The board authorized up to $10 billion of buybacks in September 2023 and increased the authorization by $15 billion in December 2024, with no expiration date.",
+          "The balance sheet included $7.805 billion of cash and equivalents, $13.798 billion of long-term debt, and $20.777 billion of stockholders' equity for FY2025.",
+          "Netflix increased senior unsecured bridge term loan commitments to $42.2 billion in connection with the Warner Bros. Discovery transaction financing, a large capital commitment investors should monitor."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Netflix's clearest shareholder-alignment evidence is capital return through repurchases, supported by improving profitability and cash generation. Stock-based compensation is meaningful but disclosed, and the company also conducted broad post-annual-meeting stockholder outreach involving holders representing a large portion of shares outstanding.",
+        "points": [
+          "The $9.1 billion of 2025 repurchases reduced shares outstanding through direct capital return, while remaining authorization gives management flexibility for further buybacks.",
+          "Stock-based compensation expense was $368.449 million in 2025, compared with $272.588 million in 2024 and $339.368 million in 2023.",
+          "Since the 2025 annual meeting, Netflix met with 22 stockholders representing about 45% of shares outstanding as of December 31, 2025.",
+          "Directors participated in stockholder meetings representing about 38% of shares outstanding, giving the board direct exposure to large investor feedback."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Netflix gives investors a consolidated view because it reports one operating segment and says the co-CEOs review financial information on that basis. Its filings also disclose specific operating and financial measures, including operating margin, net income, geographic U.S. revenue, cost categories, paid memberships, engagement hours, and advertising revenue growth.",
+        "points": [
+          "The 2025 Form 10-K, filed January 23, 2026, disclosed revenue, operating income, net income, operating margin, cost lines, debt, cash, and stockholders' equity.",
+          "Netflix reports one operating segment, so investors do not receive separate profitability by product line, geography, advertising, games, live events, or content category.",
+          "The company disclosed U.S. revenue of $18.5 billion in 2025, alongside prior-year U.S. revenue of $16.1 billion and $13.8 billion.",
+          "The 2026 proxy disclosed that Netflix surpassed 325 million paid memberships, members watched 96 billion hours in the second half of 2025, and ad revenue exceeded $1.5 billion."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance includes a 13-member board at the 2026 proxy filing, board-level repurchase authorization, director participation in investor engagement, and a known succession change with Reed Hastings not standing for re-election. Key governance watch items are the large Warner Bros. Discovery financing commitment and labor-related multiemployer plan risks disclosed in the 10-K.",
+        "points": [
+          "Netflix's board had 13 members when the 2026 proxy was filed, and Elinor Mertz was appointed to the board effective June 22, 2025.",
+          "Reed Hastings informed Netflix that he would not stand for re-election at the 2026 annual meeting, making board succession a concrete governance item.",
+          "The board authorized large common stock repurchase programs, including a $10 billion authorization in 2023 and a $15 billion increase in 2024.",
+          "Netflix disclosed multiemployer pension and health plan risks, including possible withdrawal liability and unfunded obligations shifting among participating employers."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Membership and engagement scale",
+        "grade": "strong",
+        "summary": "Netflix's scale is unusually visible: it surpassed 325 million paid memberships in 2025 and reported 96 billion hours watched in the second half of the year. That audience base supports a large revenue engine, with 2025 revenue of $45.183 billion and U.S. revenue alone of $18.5 billion."
+      },
+      {
+        "type": "Content and product breadth",
+        "grade": "strong",
+        "summary": "Netflix combines films, series, live events, product redesign, and newer formats rather than relying on one content category. In 2025 it highlighted KPop Demon Hunters, Wednesday, Squid Game, Stranger Things, Adolescence, the Anthony Joshua vs. Jake Paul boxing match, NFL Christmas Day games, and a redesigned TV experience."
+      },
+      {
+        "type": "Operating leverage from a global platform",
+        "grade": "strong",
+        "summary": "Netflix's operating margin expanded from 20.6% in 2023 to 26.7% in 2024 and 29.5% in 2025 while revenue rose to $45.183 billion. The cost base remains content-heavy, including $16.422 billion of content amortization in 2025, but profit growth shows the platform can scale beyond that spending."
+      },
+      {
+        "type": "Advertising monetization option",
+        "grade": "middle",
+        "summary": "Advertising is still small relative to total Netflix revenue, but it is becoming a more material monetization layer on top of the membership base. Netflix said advertising revenue rose more than 2.5 times in 2025 to over $1.5 billion, and strengthening ads is listed as a 2026 priority."
+      }
+    ]
+  }
+}

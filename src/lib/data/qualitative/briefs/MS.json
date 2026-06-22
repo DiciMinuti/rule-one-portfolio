@@ -1,0 +1,90 @@
+{
+  "symbol": "MS",
+  "companyName": "Morgan Stanley",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Morgan Stanley is led by Edward Pick, who signed the 2025 Form 10-K as Chairman and Chief Executive Officer, with Sharon Yeshaya as Chief Financial Officer and Victoria Worster as Chief Accounting Officer and Controller. The leadership team oversees an Integrated Firm model that combines Wealth Management, Investment Management, and Institutional Securities, including Investment Banking and Markets.",
+        "points": [
+          "Edward Pick holds both Chairman and CEO roles, while the 2026 proxy identifies Thomas H. Glocer as Independent Lead Director, creating a named independent board leadership counterweight.",
+          "The executive signers of the 2025 Form 10-K include Sharon Yeshaya as CFO and Victoria Worster as Chief Accounting Officer and Controller, clarifying financial-reporting accountability.",
+          "Management describes the firm's mission as helping clients raise, manage, and allocate capital across the Integrated Firm, spanning Institutional Securities, Wealth Management, and Investment Management."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation is supported by Morgan Stanley's reported 15.0% standardized CET1 ratio, which the company said provided scope for client and technology investment, dividend growth, and disciplined capital allocation. The Board also reauthorized up to $20 billion of common-stock repurchases beginning in the third quarter of 2025, though buybacks remain subject to Federal Reserve distribution limits.",
+        "points": [
+          "On July 1, 2025, the Board reauthorized a multi-year common-stock repurchase program of up to $20 billion, with no set expiration date, beginning in the third quarter of 2025.",
+          "During the three months ended December 31, 2025, Morgan Stanley purchased 9,108,109 shares at an average price of $167.92 per share, mostly under the repurchase program.",
+          "At December 2025 month-end, $17.415 billion of authorized repurchase capacity remained, but the company states purchases may be suspended and are subject to Federal Reserve distribution limits.",
+          "Morgan Stanley reported a 15.0% standardized CET1 ratio, which management linked to investment in clients and technology while also supporting dividend growth and disciplined capital allocation."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Morgan Stanley has explicit shareholder-return mechanisms through common-stock repurchases and dividend-growth language tied to its capital position. Alignment is also supported by shareholder-approved equity compensation plans and employee stock purchase plans, but the packet does not provide executive ownership levels, named pay targets, or performance-based compensation metrics.",
+        "points": [
+          "The repurchase authorization directly returns capital to common shareholders, and the company had already used it to buy back nearly 9 million program shares in the fourth quarter of 2025.",
+          "Shareholder-approved equity compensation plans had 53,389,903 securities issuable upon exercise of outstanding options, warrants, and rights at December 31, 2025.",
+          "Eligible employees may buy Morgan Stanley common stock at a discount through payroll deductions under the Qualified and Nonqualified Employee Stock Purchase Plans.",
+          "The packet supports broad equity participation but does not provide executive stock ownership, vesting terms, or performance hurdles needed to judge incentive quality more precisely."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Morgan Stanley provides investors with detailed SEC reporting across its Form 10-K, proxy statement, SEC company facts, and submissions metadata. The packet includes segment-level business descriptions, capital ratios, share-repurchase activity, equity-plan data, named executive signers, auditor conclusions, and operating-footprint disclosures, giving investors concrete information about both the business model and balance sheet.",
+        "points": [
+          "The 2026 proxy describes the Integrated Firm model and names the major divisions: Institutional Securities, including Investment Banking and Markets, Wealth Management, and Investment Management.",
+          "Investor disclosures include 2025 net revenues of $70.6 billion, diluted EPS of $10.21, return on average tangible common equity of 21.6%, and total client assets of $9.3 trillion.",
+          "The 2025 Form 10-K discloses repurchase authorization details, fourth-quarter share purchases, remaining buyback capacity, and the Federal Reserve-related limits on distributions.",
+          "SEC company facts provide balance-sheet and cash-flow figures, including $104.511 billion of stockholders' equity, $284.307 billion of long-term debt, and negative $33.536 billion of operating cash flow."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance includes a named Independent Lead Director, a Code of Ethics covering directors, officers, and employees, and an unqualified Deloitte audit opinion on the 2025 financial statements and internal control over financial reporting. The structure still combines Chairman and CEO roles under Edward Pick, and the packet highlights regulatory constraints on distributions as an important oversight factor.",
+        "points": [
+          "Thomas H. Glocer is identified as Independent Lead Director, while Edward Pick serves as both Chairman and CEO, making the lead director role important for board oversight.",
+          "The Code of Ethics and Business Conduct applies to all directors, officers, and employees, including the CEO, CFO, and Chief Accounting Officer and Controller.",
+          "Deloitte & Touche LLP issued an unqualified opinion on the 2025 financial statements and said Morgan Stanley maintained effective internal control over financial reporting as of December 31, 2025.",
+          "Board composition changed during 2025 with Lynn J. Good and Douglas L. Peterson added, Masato Miyachi set to step down, and Yasushi Itagaki nominated as an MUFG director representative.",
+          "A key governance and capital-management constraint is that share repurchases may be suspended and remain subject to Federal Reserve limitations on distributions."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale in wealth, investment management, and capital markets",
+        "grade": "strong",
+        "summary": "Morgan Stanley operates at a scale that few financial firms can match, reporting $70.6 billion of 2025 net revenues, $9.087 billion of net income, and $9.3 trillion of total client assets. That scale sits across Wealth Management, Investment Management, and Institutional Securities, including Investment Banking and Markets."
+      },
+      {
+        "type": "Integrated Firm breadth",
+        "grade": "strong",
+        "summary": "The company's stated Integrated Firm model combines a scaled wealth and investment manager with a leading global investment bank. This breadth lets Morgan Stanley address client needs across raising, managing, and allocating capital through Institutional Securities, Wealth Management, and Investment Management rather than relying on a single business line."
+      },
+      {
+        "type": "Capital capacity",
+        "grade": "middle",
+        "summary": "Morgan Stanley reported a 15.0% standardized CET1 ratio, and the company said this supported investment in clients and technology, dividend growth, and disciplined capital allocation. The same capital base also supports a large repurchase authorization, though distributions remain subject to Federal Reserve limitations."
+      },
+      {
+        "type": "Global operating footprint",
+        "grade": "middle",
+        "summary": "Morgan Stanley's principal executive offices are in New York, with other principal offices in Manhattan and the greater New York metropolitan area, London, Frankfurt, Hong Kong, and Tokyo. This footprint supports a business model that includes global investment banking, markets activity, wealth management, and investment management."
+      }
+    ]
+  }
+}

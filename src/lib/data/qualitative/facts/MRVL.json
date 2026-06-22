@@ -1,0 +1,127 @@
+{
+  "symbol": "MRVL",
+  "companyName": "Marvell Technology",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Marvell Technology, Inc. trades on Nasdaq under ticker MRVL and is classified in the SEC metadata as \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001835632.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "The SEC company facts summary reports FY2026 revenue of $5.5077 billion under the RevenueFromContractWithCustomerExcludingAssessedTax concept, filed March 11, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001835632.json)"
+    },
+    {
+      "topic": "Profitability and cash flow",
+      "statement": "For FY2026, the SEC company facts summary reports net income of negative $933.4 million and operating cash flow of $1.3705 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001835632.json)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Marvell reported FY2026 research and development expense of $1.8962 billion in the SEC company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001835632.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At FY2026, the SEC company facts summary reports stockholders' equity of $15.6372 billion, long-term debt of $3.9343 billion, and cash and equivalents of $948.3 million.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001835632.json)"
+    },
+    {
+      "topic": "Strategic business focus",
+      "statement": "In the 2026 proxy CEO letter, Marvell describes its strategy as becoming a leading provider of data infrastructure semiconductor solutions and states that more than 97% of revenue is tied to data infrastructure markets.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Customer and end-market focus",
+      "statement": "Marvell states that it serves leading hyperscale cloud customers and enables AI infrastructure they are deploying at scale.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Product and technology lines",
+      "statement": "Marvell says it deploys high-speed connectivity technologies across high-speed interconnects, custom silicon, switching, and storage semiconductor businesses.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Connectivity portfolio",
+      "statement": "Marvell describes itself as a leader in end-to-end high-speed connectivity in and around the data center, spanning electrical and optical connectivity from links between data centers to die-to-die connectivity within the package.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Data center revenue mix",
+      "statement": "The 2026 proxy CEO letter states that data center accounted for approximately three-quarters of total revenue in fiscal 2026 and that data center revenue exceeded $6 billion in fiscal 2026.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Data center growth history",
+      "statement": "Marvell states that data center revenue grew from approximately $200 million when its transformation began to more than $6 billion in fiscal 2026, representing a 45% compound annual growth rate over the past 10 years.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Optical interconnect",
+      "statement": "Within data center, Marvell states that optical interconnect has grown at approximately a 50% compound annual growth rate for five straight years and represents roughly half of data center revenue.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Custom silicon",
+      "statement": "Marvell states that its custom silicon business scaled from effectively zero to approximately 25% of data center revenue in a few years.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Execution metrics",
+      "statement": "Marvell states that since 2018, the percentage of programs achieving first-pass silicon success from A0 to production improved by 90%, while average tape-out cycle time decreased by approximately 60%.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Portfolio transformation",
+      "statement": "Marvell states that over the past decade it completed more than $24 billion of acquisitions and nearly $4.5 billion of divestitures.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Major acquisitions",
+      "statement": "Marvell identifies Cavium in compute, Avera in custom ASICs, Inphi in high-speed electro-optics, Innovium in cloud switching, and Celestial AI and XConn in next-generation AI connectivity as acquisitions that expanded its capabilities.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Divestitures",
+      "statement": "Marvell states that it divested businesses no longer aligned with its long-term strategy, including Wi-Fi connectivity, broadband, LTE, multimedia, and automotive Ethernet; the Wi-Fi sale to NXP was for $1.8 billion and the automotive Ethernet sale to Infineon was for $2.5 billion in cash.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Capital returns",
+      "statement": "Marvell states that in fiscal 2026 it returned approximately $2.2 billion to stockholders through share repurchases and dividends.",
+      "source": "DEF 14A filed 2026-05-13 (https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm)"
+    },
+    {
+      "topic": "Subsequent acquisition - Celestial AI",
+      "statement": "After fiscal 2026 year end, on February 2, 2026, Marvell completed the acquisition of Celestial AI, a provider of a Photonic Fabric technology platform for next-generation scale-up interconnect; at close, Marvell paid approximately $1.3 billion in cash, or $1.0 billion net of cash acquired, and issued approximately 24.5 million common shares, with additional contingent consideration possible through fiscal 2029.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    },
+    {
+      "topic": "Subsequent acquisition - XConn",
+      "statement": "After fiscal 2026 year end, on February 10, 2026, Marvell completed the acquisition of XConn Technologies, a provider of advanced PCIe and CXL switching silicon; at close, Marvell paid approximately $280.0 million in cash and issued approximately 2.1 million common shares.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "The 10-K identifies Matthew J. Murphy as Chairman and Chief Executive Officer, Willem Meintjes as Chief Financial Officer, Justin Scarpulla as Chief Accounting Officer, Sandeep Bharathi as President, Data Center Group, and Christopher Koopmans as President and Chief Operating Officer.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    },
+    {
+      "topic": "Governance and controls",
+      "statement": "Management concluded that Marvell's disclosure controls and procedures and internal control over financial reporting were effective as of January 31, 2026, and Deloitte & Touche LLP issued an opinion that Marvell maintained effective internal control over financial reporting as of that date.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    },
+    {
+      "topic": "Executive trading plans",
+      "statement": "In the fourth quarter of fiscal 2026, Matthew J. Murphy, Sandeep Bharathi, Willem Meintjes, and Christopher Koopmans each adopted Rule 10b5-1 trading plans covering planned sales of 97,500, 96,129, 75,994, and 60,000 shares, respectively.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    },
+    {
+      "topic": "Equity compensation and governance",
+      "statement": "As of January 31, 2026, Marvell's equity compensation plans approved by security holders had 16,973,973 securities to be issued upon exercise of outstanding options, warrants and rights and 78,364,382 securities remaining available for future issuance, excluding securities reflected in the outstanding-awards column.",
+      "source": "10-K filed 2026-03-11 (https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)"
+    }
+  ]
+}

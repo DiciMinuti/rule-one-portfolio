@@ -1,0 +1,122 @@
+{
+  "symbol": "JNJ",
+  "companyName": "Johnson & Johnson",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Johnson & Johnson trades on the NYSE under ticker JNJ, and the SEC submissions metadata lists its SIC description as \"Pharmaceutical Preparations.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000200406.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Johnson & Johnson reported FY2025 revenue of $85.159 billion, filed on 2026-02-11 under the SEC company facts concept RevenueFromContractWithCustomerExcludingAssessedTax.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Johnson & Johnson reported FY2025 net income of $35.153 billion, filed on 2026-02-11 under the SEC company facts concept NetIncomeLoss.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Johnson & Johnson reported FY2025 operating cash flow of $22.791 billion, filed on 2026-02-11 under the SEC company facts concept NetCashProvidedByUsedInOperatingActivities.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "Johnson & Johnson reported FY2025 long-term debt of $30.651 billion and cash and equivalents of $24.105 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Johnson & Johnson reported FY2025 R&D expense of $483 million in the supplied SEC company facts summary.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000200406.json"
+    },
+    {
+      "topic": "Business focus",
+      "statement": "The 2026 proxy describes Johnson & Johnson's accelerated growth as driven by innovation in six key businesses: Oncology, Immunology, Neuroscience, Cardiovascular, Surgery, and Vision.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Product and platform scale",
+      "statement": "Johnson & Johnson stated that it had 28 Innovative Medicine products and MedTech platforms with more than $1 billion in annual sales, consisting of 15 Innovative Medicine products and 13 MedTech platforms.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Innovation pipeline",
+      "statement": "For 2025, Johnson & Johnson reported 51 Innovative Medicine regulatory approvals in major markets, 40+ MedTech regulatory approvals in major markets, 32 regulatory submissions across major markets, 17 positive readouts from key studies, 11 new Phase 3 programs initiated, 15 launches in major markets, and more than 60 active clinical trials.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Johnson & Johnson reported approximately $20 billion in free cash flow for 2025, defining free cash flow as cash flow from operating activities less additions to property, plant and equipment.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Johnson & Johnson reported 63 years of dividend increases.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Capital allocation and innovation investment",
+      "statement": "Johnson & Johnson reported that it invested approximately $32 billion in research and inorganic innovation.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Portfolio actions",
+      "statement": "Johnson & Johnson announced its intent to separate its Orthopaedics business, which the Lead Independent Director's proxy letter said was expected to enhance operational focus while accelerating the Company's shift toward higher-growth markets.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Management",
+      "statement": "Joaquin Duato signed the 2025 Form 10-K as Chairman of the Board and Chief Executive Officer; Joseph J. Wolk signed as Chief Financial Officer; and R. J. Decker Jr. signed as Controller and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "Johnson & Johnson's 2026 proxy listed 12 director nominees, stated that all nominees are independent except the Chairman and CEO, and reported average director tenure of approximately five and a half years.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Marillyn A. Hewson served as Lead Independent Director and wrote in the 2026 proxy that the independent directors extended her eligibility to serve on the Board for two years beyond the Company's retirement age.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "Johnson & Johnson's 2026 proxy describes total direct compensation components as base salary, annual incentive, and long-term incentives; annual incentive payouts are based on business and individual performance, while long-term incentives are designed to motivate long-term operational goals, total shareholder return, share price growth, and executive retention.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Long-term incentive design",
+      "statement": "For named executive officers, the 2026 proxy states that performance share units represent 60% of the long-term incentive mix and use a three-year performance period with payouts tied to three-year cumulative adjusted operational EPS and relative total shareholder return.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    },
+    {
+      "topic": "Equity compensation governance",
+      "statement": "As of December 28, 2025, Johnson & Johnson reported 107,318,427 securities to be issued upon exercise of outstanding options and rights under shareholder-approved equity compensation plans, a weighted average exercise price of $131.08, and 93,216,941 securities remaining available for future issuance; it reported no equity compensation plans not approved by security holders.",
+      "source": "10-K filed 2026-02-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Management concluded that Johnson & Johnson's internal control over financial reporting was effective as of December 28, 2025, using COSO Internal Control-Integrated Framework (2013) criteria, and PricewaterhouseCoopers LLP audited the effectiveness of internal control over financial reporting.",
+      "source": "10-K filed 2026-02-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+    },
+    {
+      "topic": "Disclosure controls",
+      "statement": "Joaquin Duato and Joseph J. Wolk reviewed and participated in the evaluation of disclosure controls and procedures and concluded they were effective as of the end of the period covered by the 2025 Form 10-K.",
+      "source": "10-K filed 2026-02-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+    },
+    {
+      "topic": "Litigation risk",
+      "statement": "As of December 28, 2025, Johnson & Johnson reported that the total present value of the reserve to resolve talc claims was approximately $3.4 billion, comprising previously executed settlement agreements, litigation defense, and other costs; management was unable to estimate possible loss or range of loss beyond amounts accrued for these matters.",
+      "source": "10-K filed 2026-02-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm"
+    },
+    {
+      "topic": "Risk factors",
+      "statement": "The 2026 proxy's forward-looking statement disclosure identifies risks including competition, uncertainty of clinical success and regulatory approvals, uncertainty of commercial success for new and existing products, patent challenges and expirations, business combinations and divestitures, manufacturing difficulties or delays, product efficacy or safety concerns, significant adverse litigation or government action, healthcare cost containment, and the ability to separate the Orthopaedics business and realize anticipated benefits.",
+      "source": "DEF 14A filed 2026-03-11 - https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm"
+    }
+  ]
+}

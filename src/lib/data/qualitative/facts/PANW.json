@@ -1,0 +1,132 @@
+{
+  "symbol": "PANW",
+  "companyName": "Palo Alto Networks",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "identity",
+      "statement": "Palo Alto Networks, Inc. is the company name reflected in SEC submission metadata for ticker PANW, and it trades on Nasdaq.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0001327567.json"
+    },
+    {
+      "topic": "fiscal 2025 revenue",
+      "statement": "The company reported FY2025 revenue of $6.893 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "fiscal 2025 profitability",
+      "statement": "The company reported FY2025 net income of $439.7 million.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "fiscal 2025 operating cash flow",
+      "statement": "The company reported FY2025 operating cash flow of $2.7775 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "fiscal 2025 R&D",
+      "statement": "The company reported FY2025 research and development expense of $1.604 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "fiscal 2025 cash",
+      "statement": "The company reported cash and cash equivalents of $1.1353 billion at FY2025.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "balance sheet leverage",
+      "statement": "The source material shows long-term debt of $3.6768 billion for FY2023.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "equity",
+      "statement": "The company reported stockholders' equity of $210 million for FY2025.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001327567.json"
+    },
+    {
+      "topic": "business segments",
+      "statement": "The company states it has one operating and reportable segment.",
+      "source": "10-K filed 2025-08-29; https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    },
+    {
+      "topic": "business geography",
+      "statement": "The company states it conducts business globally and that sales are primarily managed on a geographic theater basis.",
+      "source": "10-K filed 2025-08-29; https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    },
+    {
+      "topic": "CODM",
+      "statement": "The chief operating decision maker is the Chairman and Chief Executive Officer, who reviews consolidated financial information together with revenue information for resource allocation and performance evaluation.",
+      "source": "10-K filed 2025-08-29; https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    },
+    {
+      "topic": "segment profit measure",
+      "statement": "The company says its CODM uses consolidated net income as the measure of segment profit or loss.",
+      "source": "10-K filed 2025-08-29; https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    },
+    {
+      "topic": "platform strategy",
+      "statement": "In its 2025 proxy materials, the company says it is transforming cybersecurity by uniting Network Security, SASE, Cloud Security, Security Operations, and soon Identity Security into an integrated platform.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "AI security product",
+      "statement": "The company says it launched Prisma AIRS, which it describes as a unified AI security platform intended to provide end-to-end security across AI applications, agents, models, and data sets.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "next-generation security ARR",
+      "statement": "The company reported Next-Generation Security Annual Recurring Revenue of $5.58 billion in fiscal 2025, according to the proxy materials.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "network security metrics",
+      "statement": "The proxy materials say Network Security NGS ARR reached $3.9 billion in fiscal 2025 and increased 35% year over year.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "security operations metrics",
+      "statement": "The proxy materials say Security Operations NGS ARR reached $1.7 billion in fiscal 2025 and increased approximately 25% year over year.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "remaining performance obligations",
+      "statement": "The proxy materials say remaining performance obligations reached $15.8 billion in fiscal 2025.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "customer growth",
+      "statement": "The proxy materials say the Cortex XSIAM customer base increased by more than twofold year over year in fiscal 2025.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "The 2025 proxy materials list Nikesh Arora as Chief Executive Officer and Chair of the Board, and Dipak Golechha as Chief Financial Officer.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "leadership transition",
+      "statement": "The proxy materials say Nir Zuk announced his retirement and Lee Klarich now serves as Chief Product and Technology Officer and a member of the Board.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "board composition",
+      "statement": "The 2025 proxy materials list a board that includes Aparna Bawa, John M. Donovan, Carl Eschenbach, James J. Goetz, Ralph Hamers, Rt Hon Sir John Key, Mary Pat McCarthy, Helle Thorning-Schmidt, and Lorraine Twohill, along with Nikesh Arora and Lee Klarich.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "executive compensation",
+      "statement": "For fiscal 2025, the proxy materials state that 100% of named executive officers' equity compensation awards were performance-based.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "shareholder engagement",
+      "statement": "The chair letter says the company engaged with shareholders representing approximately 53% of outstanding shares as of June 30, 2025.",
+      "source": "DEF 14A filed 2025-11-07; https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm"
+    },
+    {
+      "topic": "trading plan disclosure",
+      "statement": "The 2025 proxy materials disclose that Nikesh Arora adopted a Rule 10b5-1 trading plan on June 24, 2025 covering 846,408 shares, with an original expiration date of December 24, 2025 or when all shares have been sold.",
+      "source": "10-K filed 2025-08-29; https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+    }
+  ]
+}

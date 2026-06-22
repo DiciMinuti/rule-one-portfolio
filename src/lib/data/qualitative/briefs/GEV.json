@@ -1,0 +1,89 @@
+{
+  "symbol": "GEV",
+  "companyName": "GE Vernova",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "GE Vernova is led by Scott Strazik, who signed the 2025 Form 10-K as Chief Executive Officer, President, and Director, with Kenneth Parks as Chief Financial Officer and Matthew Potvin as Controller and Chief Accounting Officer. The CEO is also the chief operating decision maker for Power, Wind, and Electrification, which makes segment execution central to judging leadership quality.",
+        "points": [
+          "Scott Strazik is both CEO and chief operating decision maker, so reported results in Power, Wind, and Electrification are directly tied to the top leadership structure.",
+          "Management's stated strategy is specific: grow the installed base, improve underwriting, streamline toward core workhorse products, use Lean, invest with third parties, and return cash.",
+          "Execution is mixed by segment: Power produced $2.902 billion of 2025 segment EBITDA, while Wind reported a $598 million segment EBITDA loss."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation is active and explicitly tied to cash generation, with a stated plan to return at least one-third of cash generation after investments. In 2025, the company returned $3.6 billion through repurchases and dividends, but it also committed capital to M&A and restructuring, so investors should track whether these uses improve segment returns.",
+        "points": [
+          "GE Vernova returned $3.6 billion to shareholders in 2025 through share repurchases and dividends, then doubled its annual dividend to $2 per share in December.",
+          "The company increased its buyback authorization from $6 billion to $10 billion, giving management more room to return capital when cash generation supports it.",
+          "GE Vernova acquired the remaining 50% of Prolec GE for $5.3 billion, with the proxy stating the transaction closed in February 2026.",
+          "A July 2025 restructuring plan is expected to cost about $225 million to $250 million and produce estimated savings of about $250 million beginning in 2026."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The strongest alignment evidence in the packet is the company's stated capital-return policy and the large 2025 cash return to shareholders. Compensation infrastructure exists, including long-term incentives and clawback policy, but the packet does not provide incentive metrics or executive ownership levels, limiting how much alignment can be graded from these facts alone.",
+        "points": [
+          "The proxy states a policy of returning at least one-third of cash generation to stockholders after investments, connecting shareholder returns to internally generated cash.",
+          "The 2025 capital return of $3.6 billion was backed by $4.987 billion of cash from operating activities and $3.710 billion of free cash flow.",
+          "The Form 10-K exhibit list includes a 2024 Long-Term Incentive Plan, an annual incentive plan, executive severance plans, change-in-control severance policy, and clawback policy.",
+          "The packet does not provide executive ownership levels or incentive-plan performance weights, so investors cannot fully judge whether pay is tightly linked to per-share value creation."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "GE Vernova's filings provide useful operating detail beyond consolidated revenue, including segment revenue, business-unit revenue, segment EBITDA, backlog, service mix, and cash-flow measures. The disclosure lets investors separate the profitable Power and Electrification segments from the loss-making Wind segment and connect backlog to remaining performance obligations.",
+        "points": [
+          "The 2025 Form 10-K reports segment revenue and EBITDA, including Power revenue of $19.767 billion and EBITDA of $2.902 billion versus Wind's $598 million EBITDA loss.",
+          "Business-unit revenue is also disclosed, such as Gas Power at $16.006 billion, Onshore Wind at $8.241 billion, and Grid Solutions at $6.620 billion in 2025.",
+          "The proxy reports $59 billion of 2025 orders and $150 billion of year-end backlog, defined on a remaining performance obligation basis.",
+          "Backlog disclosure includes segment service percentages: Power backlog was 74% services, Wind was 58% services, and Electrification was 12% services."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has a clearly independent board structure, with Steve Angel as independent non-executive Chair and Scott Strazik as the only non-independent director. The packet also shows formal controls, compensation, and risk disclosures, but the board is new, with all nine directors having less than three years of tenure.",
+        "points": [
+          "The 2026 proxy lists Steve Angel as independent non-executive Chair, 8 independent directors, and Scott Strazik as the only non-independent director.",
+          "The board profile includes 3 female directors, 3 Black or Latino directors, and all 9 directors with less than 3 years of tenure.",
+          "Management concluded internal control over financial reporting and disclosure controls were effective as of December 31, 2025, and Deloitte audited internal control effectiveness.",
+          "Governance oversight must include legacy risks: environmental and worker exposure reserves were $135 million, and asset retirement obligations were $541 million, including nuclear decommissioning obligations."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Installed base and service relationships",
+        "grade": "strong",
+        "summary": "GE Vernova states that its installed base generates approximately 25% of the world's electricity, creating a large foundation for recurring service work. In 2025, the company reported $17.098 billion of services revenue, and Power's $94.4 billion backlog was 74% services."
+      },
+      {
+        "type": "Scale and portfolio breadth in power infrastructure",
+        "grade": "strong",
+        "summary": "GE Vernova reported $38.068 billion of 2025 revenue across Power, Wind, and Electrification, spanning Gas Power, Nuclear Power, Hydro Power, Steam Power, Grid Solutions, Power Conversion & Storage, and Electrification Software. This breadth gives the company exposure to electricity generation, transfer, conversion, storage, and orchestration rather than a single equipment category."
+      },
+      {
+        "type": "Long-cycle backlog visibility",
+        "grade": "middle",
+        "summary": "The company reported $59 billion of 2025 orders and $150 billion of year-end backlog on a remaining performance obligation basis. Backlog is spread across Power at $94.4 billion, Wind at $21.6 billion, and Electrification at $34.7 billion, giving investors concrete visibility into long-cycle customer commitments."
+      },
+      {
+        "type": "Global revenue footprint",
+        "grade": "middle",
+        "summary": "GE Vernova's 2025 revenue was geographically split between $17.341 billion from the U.S. and $20.728 billion from non-U.S. regions, including Europe, Asia, the Americas outside the U.S., and the Middle East and Africa. That spread reduces reliance on one domestic market, though the packet does not quantify local share positions."
+      }
+    ]
+  }
+}

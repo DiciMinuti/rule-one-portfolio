@@ -1,0 +1,127 @@
+{
+  "symbol": "KLAC",
+  "companyName": "KLA",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "KLA CORP is listed on Nasdaq under ticker KLAC, and the SEC submissions metadata describes its SIC category as \"Optical Instruments & Lenses.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000319201.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "For the year ended June 30, 2025, KLA reported total revenues of $12.156 billion in its revenue tables and in the auditor's critical audit matter discussion.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "In fiscal 2025, KLA's largest major product category was Wafer Inspection, with $6.199 billion of revenue, or 51% of total revenue.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "In fiscal 2025, Patterning generated $2.196 billion of revenue, or 18% of total revenue.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Services revenue",
+      "statement": "In fiscal 2025, Services generated $2.683 billion of revenue, or 22% of total revenue; the 10-K states services are offered in multiple segments.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Other revenue and lifecycle offerings",
+      "statement": "KLA's \"Other\" revenue category was $204.6 million in fiscal 2025 and includes primarily refurbished systems, remanufactured legacy systems, and enhancements and upgrades for previous-generation products that are part of the Semiconductor Process Control segment.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Segments",
+      "statement": "The 10-K identifies Semiconductor Process Control, Specialty Semiconductor Process, and PCB and Component Inspection as operating segment categories in its segment disclosures.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Segment-product linkage",
+      "statement": "KLA states that Wafer Inspection and Patterning products are offered in the Semiconductor Process Control segment.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Revenue recognition model",
+      "statement": "KLA's customer arrangements include various combinations of products and services that are generally distinct performance obligations; product revenue is recognized at a point in time when control transfers, while service revenue is recognized ratably over the service period or when the related service is performed.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Geographic concentration",
+      "statement": "Based on ship-to location, China was KLA's largest fiscal 2025 geography at $4.043 billion of revenue, or 33% of total revenue.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Geographic concentration",
+      "statement": "Based on ship-to location, Taiwan generated $3.205 billion of KLA's fiscal 2025 revenue, or 27% of total revenue.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "In fiscal 2025, one customer accounted for approximately 19% of KLA's total revenues.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Profit and cash flow",
+      "statement": "The SEC company facts summary reports FY2025 net income of $3.387 billion and operating cash flow of $3.670 billion, filed August 8, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json)"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "The SEC company facts summary reports FY2025 research and development expense of $1.297 billion, filed August 8, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 cash and equivalents of $1.977 billion, long-term debt of $5.880 billion, and stockholders' equity of $3.368 billion, filed August 8, 2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000319201.json)"
+    },
+    {
+      "topic": "Physical asset footprint",
+      "statement": "KLA reported net land, property and equipment of $1.253 billion as of June 30, 2025, including $728.2 million in the U.S., $253.8 million in Europe, $153.1 million in Singapore, and $68.6 million in Israel.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Restructuring",
+      "statement": "KLA recorded restructuring charges of $7.7 million in fiscal 2025 and $21.6 million in fiscal 2024, primarily due to severance and related charges for restructuring the former PCB and Display operating segment and write-downs of certain abandoned ROU assets and fixed assets.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "On August 7, 2025, KLA announced that its Board declared a quarterly cash dividend of $1.90 per share, payable September 3, 2025 to stockholders of record as of August 18, 2025.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Liquidity",
+      "statement": "On July 3, 2025, KLA replaced its prior revolving credit facility; the new Credit Agreement matures on July 3, 2030 and allows KLA to request an aggregate $500.0 million increase in the revolving credit facility.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "The 2025 10-K was signed by Richard P. Wallace as President, Chief Executive Officer and Director, Bren D. Higgins as Executive Vice President and Chief Financial Officer, and Virendra A. Kirloskar as Senior Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Board and governance",
+      "statement": "For the 2025 annual meeting, KLA's Board recommended voting for ten director nominees: Robert Calderoni, Jason Conley, Tracy Embree, Jeneanne Hanley, Kevin Kennedy, Michael McMullen, Victor Peng, Jamie Samath, Susan Taylor, and Richard Wallace.",
+      "source": "DEF 14A filed 2025-09-23 (https://www.sec.gov/Archives/edgar/data/319201/000119312525213294/d913108ddef14a.htm)"
+    },
+    {
+      "topic": "Executive compensation governance",
+      "statement": "KLA's 2025 proxy asked stockholders to approve, on a non-binding advisory basis, the company's named executive officer compensation; the proxy also lists executive compensation topics including base salary, short-term executive incentive bonus plan, and long-term incentives.",
+      "source": "DEF 14A filed 2025-09-23 (https://www.sec.gov/Archives/edgar/data/319201/000119312525213294/d913108ddef14a.htm)"
+    },
+    {
+      "topic": "Executive compensation plans",
+      "statement": "KLA's 10-K exhibit list includes the Calendar Year 2025 Executive Incentive Plan, the KLA Corporation 2023 Incentive Award Plan, and forms of restricted stock unit award notifications including performance-vesting, service-vesting, and special awards.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    },
+    {
+      "topic": "Controls and audit oversight",
+      "statement": "Management concluded KLA's disclosure controls and internal control over financial reporting were effective as of June 30, 2025, and PricewaterhouseCoopers LLP opined that KLA maintained effective internal control over financial reporting as of that date; PwC states it has served as KLA's auditor since 1977.",
+      "source": "10-K filed 2025-08-08 (https://www.sec.gov/Archives/edgar/data/319201/000031920125000024/klac-20250630.htm)"
+    }
+  ]
+}

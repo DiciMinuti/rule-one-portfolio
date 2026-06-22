@@ -1,0 +1,127 @@
+{
+  "symbol": "HD",
+  "companyName": "Home Depot",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Home Depot is listed on the NYSE under ticker HD, and the SEC submissions metadata describes the company as \"Retail-Lumber & Other Building Materials Dealers.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000354950.json)"
+    },
+    {
+      "topic": "Fiscal 2025 financial scale",
+      "statement": "The proxy investor factsheet reports Fiscal 2025 sales of $164.7 billion, operating income of $20.9 billion, net earnings of $14.2 billion, and ROIC of 25.7%.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Fiscal 2025 comparison",
+      "statement": "The proxy investor factsheet states Fiscal 2025 sales of $164.7 billion compared with $159.5 billion in Fiscal 2024, operating income of $20.9 billion compared with $21.5 billion in Fiscal 2024, and ROIC of 25.7% compared with 31.3% in Fiscal 2024.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Cash flow and balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of $21.172 billion, cash and equivalents of $1.659 billion, long-term debt of $49.397 billion, and stockholders' equity of $1.044 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json)"
+    },
+    {
+      "topic": "Strategy",
+      "statement": "Home Depot's stated strategy is to drive its core and culture, provide a best-in-class interconnected customer experience, and grow sales to Pros through a unique ecosystem of capabilities.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Claimed competitive advantages",
+      "statement": "The shareholder letter states that Home Depot's competitive advantages include its brand, customer service, product authority in home improvement, scale, real estate portfolio, digital and interconnected experience, supply chain network, relationships with Pros, associates, and culture.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Customer experience investments",
+      "statement": "Home Depot says it is continuously investing to enhance online, in-store, and fulfillment experiences, including investments in associates, differentiated customer capabilities, and other strategic investments in the business.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Product lines",
+      "statement": "The 10-K XBRL text identifies Home Depot's primary segment major product lines as Building Materials, Décor, and Hardlines.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Merchandise categories",
+      "statement": "The 10-K XBRL text references primary-segment product categories including Appliances, Bath, Building Materials, Electrical, Flooring, Hardware, Indoor Garden, Kitchen and Blinds, Lighting, Lumber, Millwork, Outdoor Garden, Paint, Plumbing, Power, and Storage Organization.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Capital allocation framework",
+      "statement": "Home Depot's stated capital allocation priorities are to reinvest in the business to drive growth faster than the market, pay a quarterly dividend after reinvestment, and return excess cash to shareholders through share repurchases after reinvestment and dividends.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Fiscal 2025 capital allocation",
+      "statement": "In Fiscal 2025, Home Depot invested $3.7 billion in capital expenditures and returned $9.2 billion to shareholders through cash dividends after increasing its quarterly cash dividend 2.2% from $2.25 per share to $2.30 per share.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Dividend history",
+      "statement": "The shareholder letter states that Home Depot has paid dividends for 156 consecutive quarters.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Associates and culture",
+      "statement": "Home Depot describes its culture as based on a servant-leadership philosophy represented by an inverted pyramid that places customers and associates, particularly frontline hourly associates, at the top and senior management at the base in a support role.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Talent development",
+      "statement": "The shareholder letter states that in Fiscal 2025 Home Depot increased equity awards to field leadership, including store managers and assistant store managers, and that more than 90% of U.S. store leaders began as hourly associates.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "SRS acquisition rationale",
+      "statement": "The 10-K states that goodwill arising from the SRS acquisition is attributable to anticipated growth acceleration in the Pro market, expansion in high-growth verticals including roofing, additional addressable market opportunities, enhanced delivery network capabilities, and growth in the sales force.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "SRS acquisition accounting",
+      "statement": "For the SRS acquisition, the 10-K excerpt reports total assets acquired of $22.296 billion, total liabilities assumed of $4.268 billion, net assets acquired of $18.028 billion, customer relationships intangible assets with fair value of $5.4 billion and weighted average useful life of 20 years, and trade names with fair value of $380 million and weighted average useful life of 5 years.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "SRS operating contribution",
+      "statement": "The 10-K excerpt states that net sales attributable to SRS since completion of the acquisition and included in fiscal 2024 results totaled $6.4 billion, while net earnings attributable to SRS since completion of the acquisition were immaterial.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "GMS acquisition",
+      "statement": "The 10-K states that Home Depot acquired GMS Inc. on September 4, 2025, and the proxy states that SRS acquired GMS to accelerate the vision of becoming a leading, multi-category building materials distributor.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm); DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    },
+    {
+      "topic": "Internal controls and acquisition integration",
+      "statement": "Management excluded GMS from its February 1, 2026 internal-control assessment because it was acquired during fiscal 2025; GMS represented approximately 3% of consolidated total assets excluding goodwill and intangible assets and approximately 1% of consolidated net sales as of and for the year ended February 1, 2026.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Internal control opinion",
+      "statement": "Management concluded that disclosure controls and procedures and internal control over financial reporting were effective as of February 1, 2026, and KPMG expressed an opinion that the company maintained effective internal control over financial reporting in all material respects as of that date.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Systems transformation",
+      "statement": "Home Depot says it is undergoing a business transformation initiative that includes upgrading and migrating certain accounting and finance systems and expects to migrate additional business processes over the next few years while modifying related internal-control processes.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "Edward P. Decker has served as Chair since October 2022 and as President and Chief Executive Officer since March 2022; Richard V. McPhail has been Executive Vice President and Chief Financial Officer since September 2019.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Leadership roles tied to strategic priorities",
+      "statement": "Jordan Broggi has been Executive Vice President - Customer Experience and President - Online since June 2024, Angela Brown has been Executive Vice President and Chief Information Officer since May 2025, and Michael Rowe serves as Executive Vice President - Pro.",
+      "source": "10-K filed 2026-03-18 (https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm)"
+    },
+    {
+      "topic": "Governance and shareholder matters",
+      "statement": "For the 2026 annual meeting, Home Depot's proxy lists proposals to elect 12 directors, ratify KPMG as independent auditor, approve Say-on-Pay, approve officer exculpation, approve miscellaneous charter amendments, and vote on seven shareholder proposals covering plastics, customer data privacy risks, independent board chair, biodiversity, associate healthcare access, and charitable-support discrimination.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/354950/000035495026000090/hd-20260406.htm)"
+    }
+  ]
+}

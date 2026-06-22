@@ -1,0 +1,147 @@
+{
+  "symbol": "CVX",
+  "companyName": "Chevron",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "SEC submissions metadata identifies Chevron as CHEVRON CORP, ticker CVX, listed on the NYSE, with SIC description \"Petroleum Refining.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000093410.json)"
+    },
+    {
+      "topic": "Business strategy",
+      "statement": "Chevron describes its strategy as leveraging its strengths to safely deliver lower carbon energy to a growing world, with an objective to deliver higher returns, lower carbon, and superior stockholder value in any business environment.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Business lines",
+      "statement": "Chevron states that it aims to grow its oil and gas business, lower the carbon intensity of operations, and grow new energies businesses.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Chevron's 2025 10-K XBRL segment disclosures include U.S. and non-U.S. Upstream segment members and U.S. and non-U.S. Downstream segment members for 2023, 2024, and 2025 periods.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Portfolio and affiliates",
+      "statement": "Chevron's 2025 10-K segment tags identify Tengizchevroil LLP, Caspian Pipeline Consortium, and Angola LNG Limited with the Upstream segment, and Chevron Phillips Chemical Company LLC and GS Caltex Corporation with the Downstream segment.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Chevron reported FY2025 revenue of $196.913 billion, filed February 24, 2026, under RevenueFromContractWithCustomerExcludingAssessedTax.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000093410.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Chevron reported FY2025 net income of $21.369 billion, filed February 24, 2026, under NetIncomeLoss.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000093410.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Chevron reported FY2025 research and development expense of $320 million, filed February 24, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000093410.json)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Chevron's proxy appendix reconciles 2025 free cash flow as $33.939 billion of net cash provided by operating activities less $17.347 billion of capital expenditures, resulting in $16.592 billion of free cash flow.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Balance sheet and leverage",
+      "statement": "Chevron's proxy appendix reports 2025 short-term debt of $977 million, long-term debt of $39.781 billion, total debt of $40.758 billion, cash and cash equivalents of $6.293 billion, and total net debt of $34.461 billion.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Leverage metrics",
+      "statement": "Chevron's proxy appendix reports 2025 debt-to-CFFO of 1.2x, net debt-to-CFFO of 1.0x, debt ratio of 17.9%, and net debt ratio of 15.6%.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Production scale",
+      "statement": "Chevron's Chairman and CEO letter says 2025 production reached a record 3.7 million barrels of oil equivalent per day, 12% higher than the previous year.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Production assets",
+      "statement": "Chevron's Chairman and CEO letter says Permian production surpassed one million barrels of oil equivalent per day in 2025, while the Denver-Julesberg and Bakken basins reached a combined total of roughly 600,000 barrels of oil equivalent per day.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Major projects",
+      "statement": "Chevron's Chairman and CEO letter says new projects and Hess Corp. integration increased Gulf of America production to over 300,000 barrels of oil equivalent per day in 2025.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Major projects",
+      "statement": "Chevron's Chairman and CEO letter says Tengizchevroil's Future Growth Project started up and ramped to design capacity of more than one million barrels of oil equivalent per day of gross production in less than 30 days.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Acquisition and reserves",
+      "statement": "Chevron's Chairman and CEO letter says the Hess Corp. acquisition added a 30% ownership interest in the Guyana Stabroek Block.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Proved reserves",
+      "statement": "Chevron's 2025 10-K reports total consolidated and affiliated net proved reserves of natural gas liquids of 1.348 billion barrels at December 31, 2025.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Proved reserves",
+      "statement": "Chevron's 2025 10-K reports total consolidated and affiliated net proved reserves of natural gas of 29.245 trillion cubic feet at December 31, 2025.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Oil and gas reserve economics",
+      "statement": "Chevron's 2025 10-K reports total consolidated and affiliated standardized measure net cash flows related to proved oil and gas reserves of $111.822 billion at December 31, 2025, down from $119.940 billion at December 31, 2024 and $145.008 billion at December 31, 2023.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Reserve-estimation risk",
+      "statement": "Chevron's 2025 10-K states that estimates of proved reserve quantities are imprecise and change over time as new information becomes available, and that standardized measure calculations do not represent management's estimate of the company's future cash flows or the value of its oil and gas reserves.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Chevron's Chairman and CEO letter says the company returned $27.1 billion to stockholders in 2025 through $12.8 billion of dividends, $12.1 billion of Chevron share repurchases, and the purchase of $2.2 billion of Hess Corp. shares ahead of closing the merger.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Capital allocation priorities",
+      "statement": "Chevron's Chairman and CEO letter says the company's financial priorities are to reward stockholders first by reliably growing the dividend, investing capital efficiently, maintaining a strong balance sheet, and repurchasing shares on a regular basis.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Chevron's 2025 10-K was signed by Michael K. Wirth as Chairman of the Board and Chief Executive Officer, Eimear P. Bonner as Chief Financial Officer, and Alana K. Knowles as Controller.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Governance leadership",
+      "statement": "Chevron's 2026 proxy identifies Dr. Wanda M. Austin as Lead Director and Mary A. Francis as Corporate Secretary and Chief Governance Officer.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Board oversight",
+      "statement": "Chevron's Lead Director letter says the Board regularly reviews company strategy across multiple scenarios, shifting policy environments, and potential technology disruptions, and maintains active oversight of capital allocation and significant portfolio decisions.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Compensation and governance",
+      "statement": "Chevron's 2026 annual meeting agenda includes an advisory vote to approve named executive officer compensation, and the 2025 10-K exhibit index lists the Chevron Incentive Plan, Long-Term Incentive Plan, 2022 Long-Term Incentive Plan award forms, deferred compensation plans, restoration plans, insider trading policies and procedures, and Chevron Corporation Dodd-Frank Clawback Policy.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm); 10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    },
+    {
+      "topic": "Stockholder proposals and governance issues",
+      "statement": "Chevron's 2026 proxy card shows the Board recommended votes against three stockholder proposals: Adopt an Independent Chair, Report on Indigenous Peoples' Rights, and Commission a Third-Party Report on Human Rights Processes.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm)"
+    },
+    {
+      "topic": "Litigation risk",
+      "statement": "Chevron's 2025 10-K XBRL tags include pending litigation members for Climate Change and Coastal Erosion at December 31, 2025, and settled litigation member tags for Coastal Erosion in April 2025.",
+      "source": "10-K filed 2026-02-24 (https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm)"
+    }
+  ]
+}

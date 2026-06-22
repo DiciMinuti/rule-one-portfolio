@@ -1,0 +1,90 @@
+{
+  "symbol": "CRWD",
+  "companyName": "CrowdStrike Holdings, Inc.",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "CrowdStrike is led around a single consolidated operating segment, with the Chief Executive Officer identified as the chief operating decision maker. The leadership team delivered fiscal 2026 revenue growth of 22%, ending ARR growth of 24%, and completed a workforce reduction plan while continuing to invest heavily in research and development.",
+        "points": [
+          "Management runs CrowdStrike as one operating and reportable segment, which fits a unified cloud-native cybersecurity platform across endpoints, cloud workloads, identity, and data.",
+          "Fiscal 2026 execution included $4.81 billion of revenue, $5.25 billion of ending ARR, and 97% gross retention in each quarter of the year.",
+          "CrowdStrike reduced roles by about 500 positions, or 5% of its global workforce, under a May 2025 strategic plan substantially completed by January 31, 2026.",
+          "The company still reported $780.319 million of fiscal 2026 research and development expense, showing continued product investment alongside restructuring actions."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation is active and balanced between acquisitions, internal investment, cash generation, and share repurchases. CrowdStrike generated $1.24 billion of free cash flow in fiscal 2026, but also committed nearly $1 billion of net cash to two acquisitions shortly after year-end, making integration and return on capital important to watch.",
+        "points": [
+          "CrowdStrike reported $1.61 billion of operating cash flow in fiscal 2026, equal to 34% of revenue, and $1.24 billion of free cash flow, a 26% margin.",
+          "The company had $3.375069 billion of cash and cash equivalents, $743.983 million of long-term debt, and $3.279494 billion of stockholders' equity for FY2026.",
+          "CrowdStrike bought 143,801 Class A shares for $50.6 million after January 31, 2026, at an average price of $351.97 per share.",
+          "The company closed SGNL.AI for $627.9 million net cash and Seraphic Algorithms for $327.4 million net cash, adding sizable acquisition execution risk."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment is supported by cash generation, a repurchase authorization, and executive trading plans that are disclosed in SEC filings. The packet does not provide insider ownership percentages or detailed incentive metrics, so alignment should be judged mainly through disclosed capital returns, equity-related plans, and operating performance.",
+        "points": [
+          "About $949.4 million remained available under CrowdStrike's share repurchase program as of March 4, 2026, after $50.6 million of recent repurchases.",
+          "George Kurtz adopted a Rule 10b5-1 trading arrangement covering up to 627,500 shares during the three months ended January 31, 2026.",
+          "Michael Sentonas modified a Rule 10b5-1 plan covering up to 100,000 shares, and Anurag Saha modified a plan covering up to 9,016 shares.",
+          "Fiscal 2026 net income was $72.181 million, while free cash flow was $1.24 billion, so investors should distinguish accounting earnings from cash generation."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "CrowdStrike provides investors with ARR, retention, free cash flow, operating cash flow, module adoption, Falcon Flex ARR, and product-category ARR metrics. It also states that the business is reported as a single consolidated segment, which simplifies reporting but limits visibility into profitability by product family.",
+        "points": [
+          "The company disclosed total revenue of $4.81 billion, ending ARR of $5.25 billion, and 24% year-over-year ARR growth as of January 31, 2026.",
+          "CrowdStrike reported that gross retention was 97% in each quarter of fiscal 2026, giving investors a concrete recurring-revenue durability metric.",
+          "The company disclosed module adoption levels: 50% of customers used six or more modules, 34% used seven or more, and 24% used eight or more, excluding Falcon Go customers.",
+          "CrowdStrike reports as a single operating and reportable segment, so investors do not receive separate segment economics for endpoint, cloud, identity, data, LogScale, or SIEM offerings."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures include effective disclosure controls, effective internal control over financial reporting, and formal executive Rule 10b5-1 trading-plan reporting. The packet does not describe board composition, committee structure, or compensation scorecards, so governance cannot be graded as strong on the available facts alone.",
+        "points": [
+          "Management, the CEO, and the CFO concluded disclosure controls and procedures were effective as of January 31, 2026.",
+          "Management concluded internal control over financial reporting was effective as of January 31, 2026, according to the fiscal 2026 10-K disclosure.",
+          "Named trading-plan disclosures covered George Kurtz, Michael Sentonas, and Anurag Saha, giving investors visibility into planned potential share sales.",
+          "Operating risks visible in the packet include acquisition integration demands, $44.8 million of strategic-plan charges, and a 5% workforce reduction completed during fiscal 2026."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Multi-module platform adoption",
+        "grade": "strong",
+        "summary": "CrowdStrike's Falcon platform shows evidence of customer expansion across multiple security modules rather than single-product use. As of January 31, 2026, 50% of customers had adopted six or more modules, 34% had adopted seven or more, and 24% had adopted eight or more, excluding Falcon Go customers."
+      },
+      {
+        "type": "Recurring-revenue retention",
+        "grade": "strong",
+        "summary": "The business has a large recurring base, with ending ARR of $5.25 billion as of January 31, 2026, up 24% year over year. CrowdStrike also reported 97% gross retention in each quarter of fiscal 2026, indicating that existing subscription revenue was highly retained during the year."
+      },
+      {
+        "type": "Security platform breadth",
+        "grade": "middle",
+        "summary": "CrowdStrike's platform spans enterprise endpoints, cloud workloads, identity, and data, giving it multiple areas to cross-sell within cybersecurity budgets. ARR from cloud security, next-gen identity protection, and LogScale next-gen SIEM together surpassed $1.9 billion as of January 31, 2026."
+      },
+      {
+        "type": "Scale and cash generation",
+        "grade": "middle",
+        "summary": "CrowdStrike has reached meaningful operating scale for a software security company, with fiscal 2026 revenue of $4.81 billion and operating cash flow of $1.61 billion. Free cash flow was $1.24 billion, a 26% margin, supporting continued R&D, acquisitions, and repurchases."
+      }
+    ]
+  }
+}

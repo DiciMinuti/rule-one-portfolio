@@ -1,0 +1,89 @@
+{
+  "symbol": "ABBV",
+  "companyName": "AbbVie",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "AbbVie is led by Robert A. Michael, who signed the 2025 Form 10-K as Chairman of the Board and Chief Executive Officer. The leadership team is operating a large global biopharmaceutical business that reported $61.2 billion of 2025 net revenues and surpassed its prior revenue peak in the second full year after U.S. Humira loss of exclusivity.",
+        "points": [
+          "Robert A. Michael serves as both Chairman of the Board and Chief Executive Officer, giving one named leader responsibility across board leadership and executive operations.",
+          "Scott T. Reents signed the 2025 Form 10-K as Executive Vice President and Chief Financial Officer, while David R. Purdue signed as Senior Vice President and Controller.",
+          "Management has shifted the business beyond Humira, reporting that 2025 total net revenues exceeded the prior peak despite being two full years after U.S. Humira loss of exclusivity."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "AbbVie's capital allocation is centered on funding internal R&D, business development, and dividends from a large cash-flow base. In 2025 it reported $19.0 billion of operating cash flow, $13.8 billion of adjusted R&D investment, approximately fifteen collaborations, licensing agreements, or asset acquisitions, and a quarterly dividend that rose to $1.73 from $0.57 over the last decade.",
+        "points": [
+          "AbbVie reported $13.8 billion of adjusted R&D investment in 2025 and says it has invested more than $85 billion in research, development, and discovery since inception.",
+          "The company strengthened its pipeline in 2025 through approximately fifteen collaborations, licensing agreements, or other asset acquisitions, adding external development sources to internal research.",
+          "AbbVie's declared quarterly dividend increased to $1.73 per share from $0.57 per share over the last decade, while 2025 operating cash flow was $19.0 billion.",
+          "The balance sheet carries material leverage, with FY2025 long-term debt of $64.503 billion versus $5.524 billion of cash and equivalents and $3.325 billion of stockholders' equity."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "AbbVie provides shareholder returns through a growing dividend and has equity compensation plans approved by security holders, but the packet does not describe executive ownership levels or performance-based pay metrics. The company also has a combined Chairman and CEO role, and the board opposed a stockholder proposal requiring an independent board chair.",
+        "points": [
+          "Shareholders have received a higher declared quarterly dividend, rising from $0.57 per share at December 31, 2015 to $1.73 per share at December 31, 2025.",
+          "As of December 31, 2025, AbbVie had 13,938,765 securities issuable under approved equity compensation plans, with a weighted-average exercise price of $132.49.",
+          "AbbVie had 49,917,374 securities remaining available for future issuance under security-holder-approved equity compensation plans, making dilution from future equity grants a factor to watch.",
+          "The board recommended against a stockholder proposal to require an independent board chair, while Robert A. Michael held both Chairman and Chief Executive Officer titles."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "AbbVie gives investors product-level and pipeline detail in its proxy and annual filings rather than only consolidated financial results. The packet includes 2025 total net revenues, non-GAAP constant-currency operational growth, Growth Platform revenue, blockbuster product count, specific regulatory approvals, named regulatory submissions, R&D investment, operating cash flow, EPS, debt, cash, and equity figures.",
+        "points": [
+          "The 2026 proxy summary reported $61.2 billion of 2025 total net revenues and 8.5% operational growth versus 2024 on a non-GAAP constant-currency basis.",
+          "AbbVie separately disclosed Growth Platform net revenues of $56.6 billion, 19.6% growth versus 2024, and that the Growth Platform represented 93% of 2025 total net revenues.",
+          "The company reported 12 blockbuster products with more than $1.0 billion of 2025 net revenues and identified Skyrizi and Rinvoq as growing nearly 50% and 40%, respectively.",
+          "AbbVie named specific 2025 regulatory approvals and submissions, including Rinvoq for giant cell arteritis, Emrelis for previously treated advanced non-small cell lung cancer, and tavapadon for Parkinson's disease."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "AbbVie has stated compliance structures, including a code of business conduct for directors, officers, and employees and a chief ethics and compliance officer overseeing the compliance program. Governance is mixed for a Rule #1 investor because Robert A. Michael combines Chair and CEO roles, and the board opposed a proposal requiring an independent board chair while supporting elimination of supermajority voting.",
+        "points": [
+          "AbbVie says its code of business conduct applies to all directors, officers, and employees, and director or executive officer waivers may be made only by the audit committee.",
+          "The company has a chief ethics and compliance officer overseeing its compliance program, an important structure for a pharmaceutical company operating in more than 180 countries and territories.",
+          "For the 2026 annual meeting, the board recommended voting for management's proposal to eliminate supermajority voting, which would reduce a governance barrier for shareholders.",
+          "The board recommended voting against a stockholder proposal to require an independent board chair, while the 2025 Form 10-K identified Robert A. Michael as Chairman and CEO."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Diversified blockbuster drug portfolio",
+        "grade": "strong",
+        "summary": "AbbVie's portfolio is broader than a single legacy drug, with leadership positions across immunology, neuroscience, oncology, and aesthetics. In 2025 it reported 12 blockbuster products above $1.0 billion of net revenues, $56.6 billion of Growth Platform net revenues, and total net revenues exceeding the prior peak after U.S. Humira loss of exclusivity."
+      },
+      {
+        "type": "R&D and pipeline scale",
+        "grade": "strong",
+        "summary": "AbbVie's research engine is supported by large spending and a broad development pipeline. The company reported approximately 90 active clinical and device programs, $13.8 billion of adjusted R&D investment in 2025, more than $85 billion invested in research and discovery since inception, and approximately fifteen 2025 collaborations, licensing agreements, or asset acquisitions."
+      },
+      {
+        "type": "Regulatory and commercialization capability",
+        "grade": "middle",
+        "summary": "AbbVie operates in pharmaceutical categories where approvals and indications matter, and it demonstrated continued regulatory activity in 2025. The company cited approvals for Rinvoq, Epkinly with rituximab and lenalidomide, and Emrelis, plus submissions for tavapadon, trenibotulinumtoxinE, pivekimab sunirine, and Aquipta across specified diseases and regions."
+      },
+      {
+        "type": "Global scale",
+        "grade": "strong",
+        "summary": "AbbVie has a large operating footprint for developing and selling medicines worldwide. The company says its products help patients and customers in more than 180 countries and territories, it employs approximately 57,000 people in more than 70 countries, and it reported $61.2 billion of 2025 total net revenues."
+      }
+    ]
+  }
+}

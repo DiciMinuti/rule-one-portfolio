@@ -1,0 +1,127 @@
+{
+  "symbol": "LRCX",
+  "companyName": "Lam Research",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business model",
+      "statement": "Lam Research is a global supplier of wafer fabrication equipment and services to the semiconductor industry.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Company history and headquarters",
+      "statement": "Lam Research was incorporated in 1980, is a Delaware corporation, and is headquartered in Fremont, California.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Public listing",
+      "statement": "Lam Research's common stock trades on the Nasdaq Global Select Market under ticker LRCX.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Industry classification",
+      "statement": "The SEC submissions metadata identifies Lam Research's SIC description as \"Special Industry Machinery, NEC.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000707549.json)"
+    },
+    {
+      "topic": "Customer categories",
+      "statement": "Lam's customer base includes leading semiconductor memory, foundry, and integrated device manufacturers that make products such as non-volatile memory, DRAM, and logic devices.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "End-market exposure",
+      "statement": "Lam says its products and services help customers build devices used in mobile phones, personal computers, cloud and enterprise servers, wearables, automotive vehicles, and data storage devices.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Technical competencies",
+      "statement": "Lam describes its core competencies as nanoscale manufacturing enablement, chemistry, plasma and fluidics, advanced systems engineering, and a broad range of operational disciplines.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Core technical competency",
+      "statement": "Lam states that its core technical competency is integrating hardware, process, materials, software, and process control to enable results on the wafer.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "Product-market position",
+      "statement": "Lam states that it has leadership and expertise in deposition, etch, and clean markets, which it believes position it to facilitate innovations in semiconductor device manufacturing.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "Differentiation factors",
+      "statement": "Lam identifies several sources of potential sustainable differentiation: R&D focus, learning from its broad installed base, collaboration with semiconductor ecosystem partners, investment across its product portfolio for technology inflections, and delivery of multi-product solutions.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Lam Research reported FY2025 revenue of $17.428516 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Lam Research reported FY2025 net income of $4.510931 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json)"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "Lam Research reported FY2025 operating cash flow of $5.178938 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "Lam Research reported FY2025 research and development expense of $1.727162 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At FY2025, Lam Research reported $5.337056 billion of cash and equivalents, $6.278366 billion of stockholders' equity, and $4.466045 billion of noncurrent long-term debt.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000707549.json)"
+    },
+    {
+      "topic": "Operating margin",
+      "statement": "Lam's FY2025 GAAP operating income was $5.900968 billion, equal to 32.0% of revenue; non-GAAP operating income was $5.957156 billion, equal to 32.3% of revenue.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "Inventory risk and audit focus",
+      "statement": "Lam's inventories totaled $4.3 billion as of June 29, 2025, representing 20% of total assets, and Ernst & Young identified inventory valuation as a critical audit matter because excess and obsolete inventory estimates involve judgment affected by market and economic conditions outside the company's control.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Risk factors",
+      "statement": "Lam's 2025 10-K cautionary statement identifies risks and uncertainties including wafer fabrication equipment spending changes, quarterly results volatility, customer spending and demand, customer base composition, supply chain constraints and material costs, competition, and its ability to defend or gain market share.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Internal controls",
+      "statement": "Ernst & Young opined that Lam Research maintained effective internal control over financial reporting as of June 29, 2025, based on the COSO 2013 framework.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Auditor tenure",
+      "statement": "Ernst & Young stated that it has served as Lam Research's auditor since 1981.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Lam's 2025 10-K was signed by Timothy M. Archer as President, Chief Executive Officer and Director; Douglas R. Bettinger as Executive Vice President and Chief Financial Officer; and Christina C. Correia as Group Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Abhijit Y. Talwalkar is identified as Chair of the Board in Lam's 2025 proxy materials and as Chairman in the 2025 10-K signature page.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm); 10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    },
+    {
+      "topic": "Executive compensation metrics",
+      "statement": "Lam's compensation and human resources committee uses non-GAAP gross margin as a percentage of revenue and non-GAAP operating income as a percentage of revenue in assessing and making executive compensation determinations.",
+      "source": "DEF 14A filed 2025-09-24 (https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm)"
+    },
+    {
+      "topic": "Governance and ethics",
+      "statement": "Lam has adopted a Corporate Code of Ethics that applies to all employees, officers, and directors, and the code is publicly available on the Investor Relations page of its website.",
+      "source": "10-K filed 2025-08-11 (https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm)"
+    }
+  ]
+}

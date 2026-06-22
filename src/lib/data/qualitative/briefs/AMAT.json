@@ -1,0 +1,94 @@
+{
+  "symbol": "AMAT",
+  "companyName": "Applied Materials",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Applied Materials is led by Gary E. Dickerson, who signed the 2025 Form 10-K as President, Chief Executive Officer and Director. The leadership team is running a large semiconductor equipment and services business, but investors should weigh that operating scale against disclosed export-control and government-investigation matters involving China customer shipments and federal award applications.",
+        "points": [
+          "Gary E. Dickerson signed the 2025 Form 10-K as President, Chief Executive Officer and Director, with Brice Hill as Senior Vice President and Chief Financial Officer.",
+          "Adam Sanders signed as Vice President, Corporate Controller and Chief Accounting Officer, identifying the finance and accounting executives responsible for the fiscal 2025 filing.",
+          "The 2026 proxy letter was signed by Thomas J. Iannotti as Chairman of the Board and Gary E. Dickerson as President and Chief Executive Officer.",
+          "Management reports two segments: Semiconductor Systems and Applied Global Services; Display results are now included in Corporate and Other because Display is no longer considered significant for separate reporting."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Applied Materials generated substantial cash in fiscal 2025, with $8.700 billion of operating cash flow and $6.856 billion of net income. Capital allocation is heavily tied to technology investment and capacity, including $3.102 billion of R&D expense and $2.260 billion of capital expenditures across the company.",
+        "points": [
+          "Fiscal 2025 R&D expense was $3.102 billion, a large internal reinvestment base for a company selling semiconductor capital equipment across deposition, etch, metrology, inspection, and other process steps.",
+          "Capital expenditures totaled $2.260 billion in fiscal 2025, including $507 million in Semiconductor Systems, $57 million in Applied Global Services, and $1.696 billion in Corporate and Other.",
+          "At fiscal 2025 year-end, Applied Materials had $6.132 billion of cash and equivalents, $5.460 billion of long-term debt, and $12.194 billion of stockholders' equity.",
+          "Corporate and Other reported a $882 million operating loss and $181 million of restructuring charges in fiscal 2025, making this area important to monitor alongside segment profitability."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The proxy links executive compensation to financial performance measures, including a defined non-GAAP economic profit metric. That structure can connect management pay to operating income after tax and invested capital discipline, but the packet does not provide ownership figures or detailed payout outcomes to judge alignment more fully.",
+        "points": [
+          "The 2026 proxy appendix states that non-GAAP financial measures are used to evaluate operating and financial performance and as performance measures in the executive compensation program.",
+          "Applied Materials defines non-GAAP economic profit as non-GAAP operating income after tax minus the expected return on invested capital, directly tying one pay metric to capital productivity.",
+          "Gary E. Dickerson is both President and Chief Executive Officer and a director nominee, placing the chief executive inside the board slate presented to shareholders.",
+          "The 2026 proxy card listed ten director nominees: James R. Anderson, Rani Borkar, Judy Bruner, Xun Chen, Aart de Geus, Gary Dickerson, Thomas Iannotti, Alexander Karsner, Kevin March, and Scott McGregor."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Applied Materials gives investors useful operating detail in its filings, including segment revenue, gross profit, gross margin, operating income, operating margin, end-market mix, geography, and customer concentration. The company also explains revenue recognition differences between equipment, spare parts, and service agreements, which helps investors separate equipment sales from service-related revenue patterns.",
+        "points": [
+          "The 2025 Form 10-K reports Semiconductor Systems at $20.798 billion of revenue, 54.2% gross margin, and 35.5% operating margin for fiscal 2025.",
+          "The filing separately reports Applied Global Services at $6.385 billion of revenue, 33.4% gross margin, and 28.1% operating margin for fiscal 2025.",
+          "Applied Materials discloses Semiconductor Systems end-market mix as 67% foundry, logic and other; 26% DRAM; and 7% flash memory NAND in fiscal 2025.",
+          "The company reports geographic revenue by region, including $8.529 billion from China, $6.857 billion from Taiwan, $5.608 billion from Korea, and $3.063 billion from the United States.",
+          "The 10-K states that two customers accounted for approximately 19% and 15% of fiscal 2025 net revenue, giving investors a clear view of customer concentration risk.",
+          "Revenue recognition is described by segment: Semiconductor Systems revenue is point-in-time, while Applied Global Services includes point-in-time goods and over-time service agreements, mostly within 12 months."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures identify the board chair, legal officer, director nominees, and compensation metrics, but the most important governance issue in the packet is risk oversight around export controls and government subpoenas. Applied Materials says it is cooperating with U.S. authorities, yet it cannot predict the outcome or reasonably estimate potential losses or penalties.",
+        "points": [
+          "Thomas J. Iannotti is identified as Chairman of the Board in the 2026 proxy letter, while Teri A. Little signed the annual meeting notice as Chief Legal Officer and Corporate Secretary.",
+          "The 2026 proxy card lists ten director nominees, including Gary E. Dickerson, meaning the CEO is part of the board slate submitted to shareholders.",
+          "Executive compensation uses non-GAAP financial measures, including non-GAAP economic profit, which subtracts an expected return on invested capital from non-GAAP operating income after tax.",
+          "Since 2022, Applied Materials has received multiple subpoenas related to certain China customer shipments and export controls compliance from the DOJ, Commerce Department BIS, and SEC.",
+          "The company also received DOJ subpoenas related to certain federal award applications and information submitted to the federal government, adding another disclosed legal and compliance risk area.",
+          "Applied Materials states it is cooperating fully, continues to receive related subpoenas and requests, and cannot predict the outcome or estimate a loss or penalty range."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Semiconductor process-equipment breadth",
+        "grade": "strong",
+        "summary": "Applied Materials' Semiconductor Systems segment covers multiple materials engineering steps, including etch, rapid thermal processing, deposition, chemical mechanical planarization, metrology and inspection, wafer packaging, and ion implantation. In fiscal 2025, that segment produced $20.798 billion of revenue, 54.2% gross margin, and 35.5% operating margin, showing a broad and profitable equipment franchise."
+      },
+      {
+        "type": "R&D and operating scale",
+        "grade": "strong",
+        "summary": "The company operates at significant scale, with fiscal 2025 consolidated revenue of $28.368 billion, operating income of $8.289 billion, and operating cash flow of $8.700 billion. It also spent $3.102 billion on R&D in fiscal 2025, supporting a product portfolio that spans multiple semiconductor manufacturing process steps rather than a single equipment category."
+      },
+      {
+        "type": "Services, spares, upgrades, and factory software",
+        "grade": "middle",
+        "summary": "Applied Global Services provides spares, upgrades, services, 200 millimeter and other equipment, and factory automation software intended to optimize equipment and fab performance. The segment generated $6.385 billion of fiscal 2025 revenue and $1.792 billion of operating income, with some service agreement revenue recognized over time, mostly within 12 months of contract inception."
+      },
+      {
+        "type": "Global customer exposure with concentration risk",
+        "grade": "middle",
+        "summary": "Applied Materials sells into a global semiconductor manufacturing base, with fiscal 2025 revenue of $8.529 billion from China, $6.857 billion from Taiwan, $5.608 billion from Korea, and $3.063 billion from the United States. This reach supports scale, but two customers represented about 19% and 15% of net revenue, so the moat is not free of concentration risk."
+      }
+    ]
+  }
+}

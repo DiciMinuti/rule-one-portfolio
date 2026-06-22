@@ -1,0 +1,90 @@
+{
+  "symbol": "TXN",
+  "companyName": "Texas Instruments",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Texas Instruments' 2025 Form 10-K identifies Haviv Ilan as Director, Chairman of the Board, President and Chief Executive Officer, with Rafael R. Lizardi as CFO and Julie Knecht as Chief Accounting Officer. The leadership structure is clear, but the combined chair and CEO role concentrates authority at the top despite an otherwise independent board.",
+        "points": [
+          "Haviv Ilan signs the 2025 Form 10-K as Director, Chairman of the Board, President and Chief Executive Officer, making him the central operating and board leader.",
+          "Rafael R. Lizardi is identified as Senior Vice President and Chief Financial Officer, while Julie Knecht is Vice President and Chief Accounting Officer responsible for accounting leadership.",
+          "Katie Kane signed the 2026 proxy notice as Senior Vice President, Secretary and General Counsel, identifying the executive responsible for legal and corporate secretary functions."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Texas Instruments remains highly profitable and cash-generative, with FY2025 revenue of $17.519 billion, net income of $6.510 billion and operating cash flow of $6.420 billion. Capital allocation is currently heavy: the company reported large PPE balances, CHIPS Act incentives, restructuring actions, and a planned $7.5 billion all-cash Silicon Labs acquisition funded with cash and debt.",
+        "points": [
+          "FY2025 research and development expense was $1.863 billion, showing continued investment in semiconductor product development within a business reporting Analog and Embedded Processing segments.",
+          "At December 31, 2025, property, plant and equipment at cost was $17.682 billion, including $10.690 billion of machinery and equipment and $6.830 billion of buildings and improvements.",
+          "Texas Instruments recorded $85 million of 2025 restructuring charges tied to operational-efficiency efforts, including planned closures of its two remaining factories with 150mm production.",
+          "The announced Silicon Labs acquisition has an enterprise value of about $7.5 billion and is expected to be funded with cash on hand and debt financing before closing."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports some alignment mechanisms, especially security-holder-approved equity plans and a related-person transaction policy tied to company and stockholder interests. Investors should also weigh dilution capacity and acquisition financing, since Texas Instruments had significant equity plan availability and plans to use debt for the Silicon Labs transaction.",
+        "points": [
+          "At December 31, 2025, 31,040,591 securities were issuable under security-holder-approved equity compensation plans, with a weighted average exercise price of $151.34.",
+          "Texas Instruments also had 59,899,276 securities remaining available for future issuance under equity compensation plans, which gives flexibility but creates potential dilution capacity.",
+          "The related-person transaction policy permits approval only when an arrangement is determined to be in, or not inconsistent with, the best interests of Texas Instruments and its stockholders.",
+          "The Silicon Labs deal is all-cash at $231.00 per share, but the company expects to use debt financing, adding balance-sheet considerations for shareholders."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Texas Instruments provides investor-useful disclosure through SEC filings, XBRL company facts, segment tagging, proxy governance detail and acquisition terms. The 2025 10-K and 2026 proxy give concrete data on revenue, cash flow, debt, PPE, restructuring, CHIPS Act incentives, board composition, equity plans, auditor history and risk factors.",
+        "points": [
+          "The 2025 10-K XBRL identifies reportable segment members for Analog, Embedded Processing and All Other Segments, giving investors the company's formal segment structure.",
+          "SEC company facts filed February 6, 2026 report FY2025 revenue, net income, operating cash flow, R&D expense, cash, long-term debt and stockholders' equity.",
+          "The 10-K discloses specific restructuring detail, including $85 million of charges and planned closures of the two remaining factories with 150mm production.",
+          "The company disclosed the Silicon Labs agreement terms, including $231.00 per share, about $7.5 billion of enterprise value, expected first-half 2027 close and required approvals."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Governance has several concrete safeguards: the 2026 proxy states the board has 12 directors, 11 independent, with limits on director age and outside public company boards. The packet also shows independent compensation committee members, a related-person transaction approval policy, unqualified EY audit opinions and a broad list of disclosed operating and financial risks.",
+        "points": [
+          "The 2026 proxy states that 11 of 12 directors are independent, although Haviv Ilan combines the roles of Chairman, President and Chief Executive Officer.",
+          "Director criteria include commercial expertise, international operations experience, financial acumen, government experience, integrity, independent analytical inquiry, diversity and ability to represent total corporate interests.",
+          "Directors cannot stand for election after reaching age 75, and Texas Instruments says directors should not serve on more than three other public company boards.",
+          "Mark Blinn, Martin Craighead, Ronald Kirk and Carrie Cox served on the 2025 compensation committee, and the proxy states none was a TI officer, former officer or Item 404 related-party relationship.",
+          "Texas Instruments lists risks including intense product and price competition, industrial and automotive semiconductor demand, key-customer inventory adjustments, cybersecurity threats, manufacturing technology execution, materials availability, tariffs, debt service and impairments."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Semiconductor manufacturing scale",
+        "grade": "middle",
+        "summary": "Texas Instruments has a large manufacturing asset base for a semiconductor company, with $17.682 billion of property, plant and equipment at cost at December 31, 2025, including $10.690 billion of machinery and equipment. This scale can be hard to replicate, but the company also discloses execution risks around manufacturing technologies, equipment installation, key materials and profit margins."
+      },
+      {
+        "type": "Analog and embedded processing breadth",
+        "grade": "middle",
+        "summary": "The company's 2025 10-K identifies reportable segment members for Analog, Embedded Processing and All Other Segments, and goodwill is concentrated in Analog at $4.158 billion versus $172 million in Embedded Processing. The segment breadth supports multiple semiconductor end markets, but the packet also flags demand risk in industrial and automotive markets."
+      },
+      {
+        "type": "Cash generation funding reinvestment",
+        "grade": "middle",
+        "summary": "Texas Instruments reported FY2025 operating cash flow of $6.420 billion and R&D expense of $1.863 billion, giving it internal funding capacity for product development and manufacturing investment. The same capital base is being stretched by long-term debt of $12.846 billion and the planned $7.5 billion Silicon Labs acquisition funded with cash and debt."
+      },
+      {
+        "type": "U.S. manufacturing incentives",
+        "grade": "middle",
+        "summary": "At December 31, 2025, Texas Instruments reported CHIPS Act incentives of $1.709 billion in current assets and $1.639 billion in other long-term assets. These incentives support the company's manufacturing investment profile, though the packet does not state exclusive access or a durable regulatory advantage over competitors."
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "symbol": "MCD",
+  "companyName": "McDonald's Corporation",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "McDonald's is led by Christopher J. Kempczinski, who signed the 2025 Form 10-K as Chairman, President, and CEO, with Ian F. Borden signing as Executive Vice President and Global CFO. Management is steering a very large franchised restaurant system, including 45,356 restaurants at year-end 2025 and a stated goal of 50,000 restaurants by the end of 2027.",
+        "points": [
+          "Christopher J. Kempczinski holds combined Chairman, President, and CEO roles, giving him direct accountability for both board leadership and execution of the company's restaurant growth strategy.",
+          "Ian F. Borden signed the 2025 Form 10-K as Executive Vice President and Global CFO, tying senior finance leadership directly to McDonald's public financial reporting.",
+          "Management advanced the Accelerating the Arches growth strategy in 2025 while operating across more than 100 countries with a locally relevant food and beverage menu.",
+          "The company uses directly operated restaurants to remain a credible franchisor and to provide personnel with a practical venue for restaurant-operations training."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "McDonald's capital model is built around franchising and long-term control of restaurant real estate. The model produced FY2025 operating cash flow of $9.612 billion, but the balance sheet also carried $38.424 billion of long-term debt, $1.085 billion of cash, and negative stockholders' equity of $6.003 billion.",
+        "points": [
+          "At year-end 2025, about 95% of McDonald's 45,356 restaurants were franchised, limiting direct restaurant ownership while collecting rent, royalties, and fees from operators.",
+          "Under conventional franchise arrangements, McDonald's generally owns or secures long-term leases on land and buildings, while franchisees fund equipment, signs, seating, and décor.",
+          "The company's expansion plan targets 50,000 restaurants by the end of 2027, so investors should watch whether growth preserves the cash-flow quality of the franchised model.",
+          "FY2025 long-term debt of $38.424 billion versus $1.085 billion of cash makes leverage a key capital-allocation issue despite $9.612 billion of operating cash flow."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports alignment mainly through the business model and shareholder voting structure, not through executive ownership data. McDonald's collects rent and royalties tied to franchisee sales, while shareholders vote on directors, executive compensation, the auditor, and shareholder proposals at the 2026 annual meeting.",
+        "points": [
+          "Conventional franchisees contribute revenue primarily through rent and royalties based on a percent of sales, with specified minimum rent payments and initial fees for new restaurants or franchises.",
+          "Franchise and license agreements generally run for 20 years and include occupancy and operating rights, giving McDonald's a long-duration economic relationship with operators.",
+          "The 2026 proxy includes an advisory vote on executive compensation, but the packet does not provide the compensation mix, performance targets, or executive ownership levels.",
+          "Shareholders are scheduled to vote on 12 directors, ratification of Ernst & Young LLP as 2026 auditor, and two shareholder proposals at the 2026 annual meeting."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "McDonald's provides investors with detailed public reporting through its Form 10-K, proxy statement, segment disclosures, and operating metrics. The packet includes FY2025 revenue, net income, operating cash flow, systemwide sales, restaurant count, franchise mix, loyalty app users, segment structure, and audit matters.",
+        "points": [
+          "The company reports segments for the United States, International Operated Markets, and International Developmental Licensed Markets & Corporate, which includes over 75 countries plus Corporate activities.",
+          "FY2025 disclosures include $25.494 billion of revenue, $8.469 billion of net income, $9.612 billion of operating cash flow, and nearly $140 billion of systemwide sales.",
+          "The proxy reported nearly 210 million 90-day active loyalty app users across 70 markets at the end of 2025, giving investors a concrete digital-engagement metric.",
+          "Ernst & Young identified measurement of unrecognized tax benefits, totaling $414 million at December 31, 2025, as the critical audit matter in the 2025 audit report."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "The proxy describes board oversight through a robust Lead Independent Director role, a majority independent Board, and committees with defined responsibilities over strategy, risk, culture, and talent. Governance is strengthened by regular shareholder votes, though investors should note the combined Chairman and CEO role held by Christopher J. Kempczinski.",
+        "points": [
+          "The Board's oversight structure includes a Lead Independent Director role, a majority independent Board, and committees assigned responsibilities for strategy, risk, culture, and talent.",
+          "Christopher J. Kempczinski signed the 2025 Form 10-K as Chairman, President, and CEO, so independent board oversight is especially relevant for shareholders.",
+          "Management and the external auditor stated that internal control over financial reporting was effective as of December 31, 2025.",
+          "Named governance items for the 2026 meeting include election of 12 directors, executive compensation advisory vote, auditor ratification, and two shareholder proposals."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Franchised restaurant scale",
+        "grade": "strong",
+        "summary": "McDonald's operates at exceptional system scale, with 45,356 restaurants at year-end 2025, operations in more than 100 countries, and nearly $140 billion of 2025 systemwide sales. Approximately 95% of restaurants were franchised, giving the company a broad global presence without owning most restaurant operations directly."
+      },
+      {
+        "type": "Real-estate-linked franchise economics",
+        "grade": "strong",
+        "summary": "Under conventional franchise arrangements, McDonald's generally owns or secures long-term leases on the land and building while franchisees pay for equipment, signs, seating, and décor. Franchisees then pay rent and royalties based on a percent of sales, with specified minimum rent payments, creating a distinctive economic structure around restaurant locations."
+      },
+      {
+        "type": "Long-duration franchise relationships",
+        "grade": "middle",
+        "summary": "McDonald's franchise and license agreements generally have 20-year terms and include occupancy and operating rights. This gives the company multi-year contractual relationships with conventional franchisees, developmental licensees, and affiliates that supply fees, rent, royalties, and other franchise-related revenue streams."
+      },
+      {
+        "type": "Digital loyalty reach",
+        "grade": "middle",
+        "summary": "McDonald's ended 2025 with nearly 210 million 90-day active users of its loyalty app across 70 markets. The packet also states that franchisees pay fees to recover a portion of technology and digital platform costs, showing that the digital platform is integrated into the franchised system rather than only a company-owned restaurant tool."
+      }
+    ]
+  }
+}

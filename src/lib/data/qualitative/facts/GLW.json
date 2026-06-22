@@ -1,0 +1,147 @@
+{
+  "symbol": "GLW",
+  "companyName": "Corning",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business description",
+      "statement": "Corning describes itself as one of the world's leading innovators in materials science, with capabilities in glass science, ceramic science, and optical physics, and says it develops category-defining products using manufacturing and engineering capabilities.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "business model",
+      "statement": "Corning says it succeeds through sustained investment in research, development and engineering, a combination of material and process innovation, and trust-based relationships with customers who are global leaders in their industries.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "markets served",
+      "statement": "Corning says its markets include optical communications, display, mobile consumer electronics, automotive, life sciences, semiconductors, and solar.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "reportable segments",
+      "statement": "Corning reports five segments for financial reporting: Optical Communications, Display, Specialty Materials, Automotive, and Life Sciences; all other businesses are grouped in Hemlock and Emerging Growth Businesses.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "optical communications",
+      "statement": "The Optical Communications segment manufactures carrier network and enterprise network components for the telecommunications industry, including optical-based communications infrastructure for video, data, and voice communications and optical-based networks for hyperscale data centers.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "display products",
+      "statement": "The Display segment manufactures glass substrates for flat panel displays, including liquid crystal displays and organic light-emitting displays used primarily in televisions, notebook computers, desktop monitors, tablets, and handheld devices.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "specialty materials",
+      "statement": "The Specialty Materials segment makes material formulations for glass, glass ceramics, and crystals, plus precision metrology instruments and software for commercial and industrial markets including mobile consumer electronics, semiconductor equipment optics and consumables, aerospace and defense optics, radiation shielding products, sunglasses, and telecommunications components.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "automotive segment",
+      "statement": "The Automotive segment manufactures ceramic substrates and filter products for emissions control systems in mobile applications, as well as technical glass and optic products and solutions for vehicle interiors and exteriors.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "life sciences",
+      "statement": "The Life Sciences segment develops, manufactures, and supplies laboratory products including labware, equipment, media, serum, and reagents for drug discovery and bioproduction workflow solutions.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "hemlock and emerging growth businesses",
+      "statement": "Corning says Hemlock and Emerging Growth Businesses is primarily comprised of HSG, which it describes as a leading provider of high-purity polysilicon products for the solar power and electronics industries, plus businesses that transform polysilicon into solar wafers and solar modules.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "Corning reported consolidated net sales of $15.629 billion for 2025 and $12.588 billion for 2023.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm; https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "Corning reported net income of $1.742 billion for 2025 and $581 million for 2023.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm; https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "Corning reported cash flows from operating activities of $2.695 billion for 2025, and the proxy statement says adjusted free cash flow was $1.717 billion for 2025.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json; https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "balance sheet strength",
+      "statement": "Corning reported cash and cash equivalents of $1.779 billion and stockholders' equity of $10.686 billion for FY2025.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json"
+    },
+    {
+      "topic": "research intensity",
+      "statement": "Corning reported research and development expense of $900 million for FY2025.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000024741.json"
+    },
+    {
+      "topic": "capital expenditures",
+      "statement": "Corning's capital expenditures were $1.287 billion in 2025, based on segment disclosures, and the proxy statement reports capital expenditures of $1.282 billion in 2025 for adjusted free cash flow purposes.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm; https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "segment performance",
+      "statement": "For 2025, Corning reported segment net income of $1.048 billion for Optical Communications, $993 million for Display, $367 million for Specialty Materials, $278 million for Automotive, $61 million for Life Sciences, and a $26 million loss for Hemlock and Emerging Growth Businesses.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "segment sales",
+      "statement": "For 2025, Corning reported segment net sales of $6.274 billion for Optical Communications, $3.697 billion for Display, $2.211 billion for Specialty Materials, $1.794 billion for Automotive, $972 million for Life Sciences, and $1.460 billion for Hemlock and Emerging Growth Businesses.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "geographic exposure",
+      "statement": "Corning reported 2025 net sales of $7.105 billion in North America, $7.646 billion in Asia Pacific, $1.412 billion in Europe, and $245 million in All Other locations.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "management and governance",
+      "statement": "Corning says the chief operating decision maker is the company's chief executive officer, who allocates resources and assesses performance based on segment net income (loss).",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "executive leadership",
+      "statement": "The proxy statement identifies Wendell P. Weeks as Chairman of the Board, Chief Executive Officer, and President.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "board election",
+      "statement": "Corning's 2026 annual meeting agenda includes election of 10 directors, and the proxy card lists the nominees as Ami Badani, Leslie A. Brun, Stephanie A. Burns, Pamela J. Craig, Robert F. Cummings, Jr., Roger W. Ferguson, Jr., Thomas D. French, Daniel P. Huttenlocher, Kevin J. Martin, and Wendell P. Weeks.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "executive compensation",
+      "statement": "At the 2026 annual meeting, shareholders are asked to cast an advisory vote on executive compensation (Say on Pay).",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm"
+    },
+    {
+      "topic": "dividend",
+      "statement": "Corning's Board declared a quarterly dividend of $0.28 per share on February 11, 2026, payable on March 30, 2026; the proxy also states quarterly dividends of $0.28 per share were paid during 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "share repurchases",
+      "statement": "Corning's 2019 share repurchase authorization allows up to $5.0 billion of additional common stock repurchases, and about $3.0 billion remained available as of December 31, 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "share repurchase activity",
+      "statement": "During 2025, Corning repurchased 3.2 million shares of common stock for approximately $163 million.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "debt and financing",
+      "statement": "Corning's 2025 filing references multiple debt instruments, including debentures due in 2029, 2036, 2037, 2040, 2042, 2048, 2049, 2057, 2068, 2079 and euro-denominated notes due in 2026 and 2031, as well as yen-denominated debentures due from 2025 through 2039.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    },
+    {
+      "topic": "tax risk",
+      "statement": "Corning disclosed that the IRS is currently examining its U.S. federal income tax returns for 2015 through 2018 and 2019 through 2020, and said an unsuccessful defense could have a material impact on its consolidated financial statements.",
+      "source": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+    }
+  ]
+}

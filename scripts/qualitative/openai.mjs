@@ -94,7 +94,7 @@ function buildFactPacketInput({ symbol, companyName, sources }) {
 export async function generateQualitativeBriefWithOpenAI({
   packet,
   apiKey = process.env.OPENAI_API_KEY,
-  model = process.env.OPENAI_MODEL ?? "gpt-5.5",
+  model = process.env.OPENAI_BRIEF_MODEL ?? process.env.OPENAI_MODEL ?? "gpt-5.5",
 }) {
   if (!apiKey) {
     throw new Error("OPENAI_API_KEY is required to generate a qualitative brief.");
@@ -139,7 +139,7 @@ export async function generateFactPacketWithOpenAI({
   companyName,
   sources,
   apiKey = process.env.OPENAI_API_KEY,
-  model = process.env.OPENAI_MODEL ?? "gpt-5.5",
+  model = process.env.OPENAI_FACT_MODEL ?? process.env.OPENAI_MODEL ?? "gpt-5.4-mini",
 }) {
   if (!apiKey) {
     throw new Error("OPENAI_API_KEY is required to generate a fact packet.");

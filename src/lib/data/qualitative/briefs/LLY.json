@@ -1,0 +1,97 @@
+{
+  "symbol": "LLY",
+  "companyName": "Eli Lilly",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Lilly's leadership is managing a large, fast-growing pharmaceutical business with a clear focus on new medicines, manufacturing scale, and global access. The 2025 filing was signed by David Ricks as Chair, President, and CEO, alongside CFO Lucas Montarce and Chief Accounting Officer Donald Zakrowski, giving investors named accountability for financial reporting and execution.",
+        "points": [
+          "David Ricks signed the 2025 10-K as Chair, President, and Chief Executive Officer, while Lucas Montarce served as Executive Vice President and Chief Financial Officer.",
+          "Management describes Lilly's model as discovering first- or best-in-class molecules, developing them faster than competitors, scaling through medicines and manufacturing capacity, and reinvesting profits into innovation.",
+          "In 2025, Lilly advanced orforglipron, its oral GLP-1 therapy, with submissions in the U.S. and Japan for obesity and in the EU for obesity and type 2 diabetes.",
+          "The company also reported progress on drug approvals for cancer and digestive diseases, plus FDA label or regimen updates for Kisunla and Omvoh."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation is heavily aimed at R&D, manufacturing capacity, and selective business development. In 2025, Lilly reported $65.179 billion of revenue, $20.640 billion of net income, large early- and late-stage R&D spending, and major manufacturing expansion plans tied to oral medicines and broader supply capacity.",
+        "points": [
+          "Lilly disclosed 2025 early-stage R&D of $4.881 billion, primarily discovery through Phase 2 trials, and late-stage R&D of $8.456 billion, primarily Phase 3 trials.",
+          "The company reported 2025 expenditures for long-lived assets of $8.672 billion, including property, equipment, and computer software costs.",
+          "Lilly announced manufacturing expansions including a planned $3 billion Netherlands facility, more than $1.2 billion in Puerto Rico, and a $5 billion manufacturing facility in Virginia.",
+          "Business development included the 2025 acquisition of Verve Therapeutics, a Boston-based clinical-stage company developing genetic medicines for cardiovascular disease."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Lilly's stated shareholder alignment comes mainly through reinvesting profits into medicines, R&D, manufacturing, and future innovation rather than through disclosed capital-return policies in the packet. Compensation alignment is mixed: annual cash bonus calculations used adjusted EPS, but the adjustments removed several items that can materially affect reported earnings.",
+        "points": [
+          "The company says it aims to reinvest profits into the next wave of innovation, which fits its 2025 spending on R&D, manufacturing capacity, and acquired in-process R&D.",
+          "For 2025 annual cash bonuses, the Talent and Compensation Committee adjusted reported EPS from $22.95 to $27.06 after excluding specified items such as acquired IPR&D charges.",
+          "The excluded bonus-calculation items also included amortization of intangible assets, asset impairments and restructuring, tax-law-change impacts, divestiture-related impacts, and foreign exchange rate impacts.",
+          "As of December 31, 2025, Lilly had 42,396,427 securities available for future issuance under approved equity plans and 3,484,792 shares underlying outstanding equity awards."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Lilly gives investors useful operating detail through SEC filings, even though it reports only one reportable segment. The 2025 10-K discloses consolidated performance, product and therapeutic revenue categories, early- versus late-stage R&D spending, and key audit judgment areas such as sales rebate and discount accruals.",
+        "points": [
+          "Lilly reports a single reportable segment, and its CODM uses consolidated net income to assess performance and allocate R&D resources.",
+          "The 2025 10-K revenue taxonomy names products including Mounjaro, Zepbound, Trulicity, Jardiance, Verzenio, and Taltz across U.S. and non-U.S. geographies.",
+          "The company separates R&D disclosure into early-stage R&D, primarily discovery through Phase 2 trials, and late-stage R&D, primarily Phase 3 trials.",
+          "Ernst & Young identified Medicaid, Managed Care, and Medicare sales rebate accruals as a critical audit matter, with $17.382 billion in rebate and discount accruals at year-end 2025."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has solid control and compliance facts, including effective internal control over financial reporting, an independent audit committee relationship with Ernst & Young, and a global code of conduct. The main watch item is the complexity and subjectivity of rebate accruals, which the auditor highlighted as a critical audit matter.",
+        "points": [
+          "Management concluded internal control over financial reporting was effective as of December 31, 2025, and Ernst & Young issued an unqualified internal-control opinion.",
+          "The 10-K states Ernst & Young reports directly to the audit committee, which includes four nonemployee independent directors.",
+          "Lilly's global code of conduct, The Red Book, applies to all employees worldwide, requires annual training, and covers conflicts of interest, legal compliance, and confidentiality.",
+          "The Red Book provides an anonymous hotline for suspected violations and includes protection from discrimination or retaliation for reporting concerns.",
+          "Anat Hakim signed the 2026 proxy notice as Executive Vice President, General Counsel and Secretary, identifying named legal and governance leadership.",
+          "The auditor said estimating sales rebate and discount liabilities is challenging because of subjective assumptions and variability in prescription drug costs and data."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "R&D scale and clinical pipeline",
+        "grade": "strong",
+        "summary": "Lilly's moat is supported by unusually large disclosed R&D spending and a pipeline tied to major therapeutic categories. In 2025, it spent $4.881 billion on early-stage R&D and $8.456 billion on late-stage R&D, while submitting oral GLP-1 therapy orforglipron in multiple regions for obesity and type 2 diabetes."
+      },
+      {
+        "type": "Manufacturing capacity",
+        "grade": "strong",
+        "summary": "Manufacturing scale is a practical advantage because Lilly is investing heavily to support medicine supply, including oral medicines. The company reported $8.672 billion of 2025 long-lived asset expenditures and announced capacity projects including a $3 billion Netherlands facility, more than $1.2 billion in Puerto Rico, and a $5 billion Virginia facility."
+      },
+      {
+        "type": "Product and therapeutic breadth",
+        "grade": "strong",
+        "summary": "Lilly is not dependent on a single named product family in its disclosures; its 2025 revenue taxonomy includes Mounjaro, Zepbound, Trulicity, Jardiance, Verzenio, and Taltz. The portfolio spans cardiometabolic health, oncology, immunology, neuroscience, and other products across U.S. and non-U.S. geographies."
+      },
+      {
+        "type": "Access and patient-channel initiatives",
+        "grade": "middle",
+        "summary": "Lilly is building access around high-demand obesity medicines with government and direct-to-consumer initiatives. The company announced a U.S. government agreement to expand access and reduce patient costs, Medicare access for Zepbound expected by July 1, 2026, and a LillyDirect retail pick-up option with direct-to-consumer pricing."
+      },
+      {
+        "type": "AI-enabled discovery infrastructure",
+        "grade": "middle",
+        "summary": "Lilly is investing in discovery infrastructure that could improve molecule identification and validation over time. In 2025, it launched a platform giving biotechnology companies access to AI-enabled drug discovery models and announced an agreement to build an \"AI Factory\" supercomputer for scientists."
+      }
+    ]
+  }
+}

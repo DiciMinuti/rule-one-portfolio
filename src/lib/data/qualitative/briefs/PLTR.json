@@ -1,0 +1,90 @@
+{
+  "symbol": "PLTR",
+  "companyName": "Palantir",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Palantir's leadership team is directly tied to the current operating performance: the 2025 Form 10-K was signed by CEO and Director Alexander C. Karp, President and Director Stephen Cohen, CFO David Glazer, and Chief Accounting Officer Jeffrey Buckley. Under this team, revenue reached $4.475 billion in 2025, with operating income rising to $1.414 billion from $310.4 million in 2024 and $120.0 million in 2023.",
+        "points": [
+          "Alexander C. Karp serves as both Chief Executive Officer and Director, while Stephen Cohen serves as President and Director, keeping two senior operating leaders on the board.",
+          "The company reported net income attributable to common stockholders of $1.625 billion in 2025, with basic EPS of $0.69 and diluted EPS of $0.63.",
+          "Management operates a two-segment business, Government and Commercial, each producing 66% contribution margins in 2025 according to the company's segment reporting.",
+          "CEO and CFO-supervised controls were assessed as effective as of December 31, 2025, including both disclosure controls and internal control over financial reporting."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Palantir's 2025 results show a business producing substantial operating income while still spending heavily on product development and stock-based compensation. The packet supports a mixed capital allocation view: $420.8 million of R&D excluding stock-based compensation, $684.0 million of stock-based compensation expense, $831.0 million of cash and equivalents, and a $40 million investment in Anduril.",
+        "points": [
+          "Research and development expenses excluding stock-based compensation were $420.8 million in 2025, showing continued spending on platforms and enhancements alongside rising profitability.",
+          "Total stock-based compensation expense was $684.0 million in 2025, a material cost investors should weigh against operating income of $1.414 billion.",
+          "The SEC company facts summary lists $831.0 million of cash and equivalents and $5.003 billion of stockholders' equity for FY2025.",
+          "Palantir invested $40 million in Anduril Series G preferred stock in 2025, representing less than 1% ownership of Anduril's preferred and aggregate outstanding stock."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment is complicated by Palantir's multi-class voting structure and founder voting arrangements. Class A shares carry one vote, Class B shares carry ten votes, and founder-related arrangements included 20.166 million Class A shares, 91.130 million Class B shares, and 1.005 million Class F shares held by the Founder Voting Trust.",
+        "points": [
+          "As of February 10, 2026, Palantir had 2.291 billion Class A shares, 99.200 million Class B shares, and 1.005 million Class F shares outstanding.",
+          "The Founder Voting Agreement covered 20.166 million Class A shares and 91.130 million Class B shares, while the Founder Voting Trust held 1.005 million Class F shares.",
+          "Stock-based compensation expense was $684.0 million in 2025, making dilution and compensation cost important shareholder-alignment items to monitor.",
+          "Alexander Karp beneficially owns non-commercial aircraft used under Palantir's security program, and Palantir incurred $17.2 million of related executive aircraft expenses in 2025."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Palantir provides useful operating detail in its filings, including two operating segments, segment revenue, segment expenses, contribution dollars, contribution percentages, and geographic revenue. The 2025 Form 10-K also discloses controls conclusions, risk factors, R&D excluding stock-based compensation, total stock-based compensation, and reconciliation items from contribution to operating income.",
+        "points": [
+          "The company reports Government and Commercial segments, with 2025 revenue of $2.402 billion and $2.073 billion, respectively, plus expenses and contribution for each segment.",
+          "Palantir discloses contribution margin trends, showing total contribution of $2.943 billion, or 66% of revenue, up from 60% in 2024 and 56% in 2023.",
+          "Geographic reporting identifies U.S. revenue of $3.320 billion, U.K. revenue of $427.4 million, and rest-of-world revenue of $728.0 million in 2025.",
+          "The 10-K states geography is based on the customer's headquarters or agency location at sale, and no country besides the U.S. or U.K. reached 10% of revenue."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has both oversight mechanisms and control concerns. The 2026 proxy asks stockholders to elect seven directors, the Audit Committee oversees related-person transactions above $120,000, and management reported effective controls; however, the company also has founder voting arrangements, multi-class shares, related-party transactions, and disclosed AI, security, competition, and integration risks.",
+        "points": [
+          "The 2026 proxy asks stockholders to elect seven directors to serve until the next annual meeting and until successors are elected and qualified.",
+          "The Audit Committee has primary responsibility for reviewing related-person transactions over $120,000, including whether terms are no less favorable than unaffiliated third-party terms.",
+          "Related-party disclosures included $17.66 million of 2025 product and service revenue from Anduril and $167,782 from Chapter, companies linked to Peter Thiel through related entities.",
+          "The 2025 10-K identifies risks including platform demand, customer additions, platform integration, competition, AI-related laws and regulations, and platform security and availability."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Government and commercial platform scale",
+        "grade": "middle",
+        "summary": "Palantir has meaningful scale across two reported operating segments rather than relying on only one customer category. In 2025, Government revenue was $2.402 billion and Commercial revenue was $2.073 billion, and each segment produced contribution equal to 66% of segment revenue."
+      },
+      {
+        "type": "Software operating leverage",
+        "grade": "middle",
+        "summary": "The company's reported segment economics show improving contribution as revenue scaled. Total contribution was $2.943 billion in 2025, equal to 66% of total revenue, up from 60% in 2024 and 56% in 2023, while operating income rose to $1.414 billion."
+      },
+      {
+        "type": "Customer integration requirements",
+        "grade": "middle",
+        "summary": "Palantir's risk disclosures indicate that customer value depends on the company's ability to integrate its platforms for customers and maintain platform security and availability. Those requirements can make the product difficult to replicate operationally, but they are also explicit execution risks in the 2025 Form 10-K."
+      },
+      {
+        "type": "U.S.-centered customer base",
+        "grade": "dull",
+        "summary": "Palantir's revenue base is heavily weighted toward the United States, which can support focus but also limits geographic diversification. In 2025, U.S. revenue was $3.320 billion, or 74% of total revenue, while the U.K. represented 10% and the rest of world represented 16%."
+      }
+    ]
+  }
+}

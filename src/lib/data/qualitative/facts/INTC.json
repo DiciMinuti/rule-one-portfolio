@@ -1,0 +1,127 @@
+{
+  "symbol": "INTC",
+  "companyName": "Intel",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Intel is listed on Nasdaq under ticker INTC, and the SEC submissions metadata classifies the company under the SIC description \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000050863.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Intel reported FY2025 revenue of $54.228 billion, filed January 23, 2026 under the SEC concept RevenueFromContractWithCustomerExcludingAssessedTax.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Intel reported FY2025 net income of $1.689 billion, filed January 23, 2026 under the SEC concept NetIncomeLoss.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json)"
+    },
+    {
+      "topic": "Cash generation",
+      "statement": "Intel reported FY2025 operating cash flow of $11.471 billion, filed January 23, 2026 under the SEC concept NetCashProvidedByUsedInOperatingActivities.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json)"
+    },
+    {
+      "topic": "Research and development intensity",
+      "statement": "Intel reported FY2025 research and development expense of $16.046 billion, filed January 23, 2026 under the SEC concept ResearchAndDevelopmentExpense.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "Intel reported FY2025 stockholders' equity of $99.270 billion, long-term debt of $46.282 billion, and cash and equivalents of $8.249 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000050863.json)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Intel's 2025 Form 10-K XBRL segment tags identify Client Computing Group, Data Center and AI, Network and Edge, Intel Foundry, Mobileye, Altera, and All Other Segments as Intel reporting or operating segment categories used in the filing.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Product lines and architectures",
+      "statement": "Intel states that it offers a range of system-on-chip products across many market segments for a variety of applications; the filing defines SoC as integrating most components of a computer or other electronic system into a single silicon chip.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Programmable semiconductors",
+      "statement": "Intel's 2025 Form 10-K defines Altera as a business offering programmable semiconductors, primarily FPGAs, and related products for a broad range of applications.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Foundry-related business",
+      "statement": "Intel's 2025 Form 10-K defines IMS Nanofabrication GmbH as a business within Intel Foundry that develops and produces electron-beam systems for the semiconductor industry.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Advanced packaging technology",
+      "statement": "Intel describes EMIB as a form of 2.5D packaging technology developed by Intel that enables high-density interconnect of heterogeneous chips.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Manufacturing process technology",
+      "statement": "Intel describes PowerVia as its backside power delivery technology that routes power connections to the back side of the chip through dedicated vias, separating power delivery from signal routing to reduce congestion, improve power efficiency, and enable better chip performance and design flexibility in advanced manufacturing nodes.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Transistor technology",
+      "statement": "Intel describes RibbonFET as a Gate-All-Around transistor technology developed by Intel that uses ribbon-shaped semiconductor nanosheets completely surrounded by the gate electrode.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "Intel's 2025 Form 10-K XBRL tags identify Dell Inc., Lenovo Group Limited, HP Inc., and Intel's three largest customers as customer-concentration-risk members tied to net sales revenue disclosures for FY2025.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Geographic revenue exposure",
+      "statement": "Intel's 2025 Form 10-K XBRL tags identify the United States, China including Hong Kong, Singapore, Taiwan, and other countries as geographic revenue disclosure categories for FY2025.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Restructuring and capital discipline",
+      "statement": "Intel defines its 2024 Restructuring Plan as cost and capital reduction initiatives approved by management, the board, or the Audit & Finance Committee to reduce operating expenses, reduce capital expenditures, and reduce cost of sales while enabling Intel's new operating model and continuing to fund investments in Intel's core strategy.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Restructuring and resource allocation",
+      "statement": "Intel defines its 2025 Restructuring Plan as a transformational initiative announced and approved in Q2 2025 by management to lower expenses, streamline the organizational structure, reduce management layers across functions, and reallocate resources toward core client and server businesses by reducing investment in lower-priority programs and initiatives.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Intel's 2025 Form 10-K was signed by Lip-Bu Tan as Chief Executive Officer and Director, David Zinsner as Executive Vice President and Chief Financial Officer, and Scott Gawel as Corporate Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    },
+    {
+      "topic": "Board leadership and refreshment",
+      "statement": "Intel's 2026 proxy letter states that Lip-Bu Tan was appointed Chief Executive Officer in 2025, and that the board added four independent directors since 2024, including Dr. Craig H. Barratt in November 2025.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)"
+    },
+    {
+      "topic": "Governance rights",
+      "statement": "Intel's 2026 proxy lists governance practices including annual election of directors by majority vote with a resignation policy, proxy access at 3% ownership for 3 years for up to 20% of the board, a 15% ownership threshold for stockholders to call special meetings, no poison pill, and one vote per share with no dual-class share structure.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)"
+    },
+    {
+      "topic": "Board oversight",
+      "statement": "Intel's 2026 proxy states that the board has an independent chair, independent directors meet in executive session at least four times annually, and the board has oversight of strategy and business, human capital management, enterprise risk management, ethics, legal and regulatory matters, cybersecurity, and corporate social responsibility.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)"
+    },
+    {
+      "topic": "Employee equity compensation",
+      "statement": "Intel's 2026 proxy states that the 2006 Equity Incentive Plan was used to grant equity awards to more than 73% of Intel employees in 2025.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)"
+    },
+    {
+      "topic": "Executive compensation design",
+      "statement": "Intel's 2026 proxy states that the Compensation Committee seeks to design executive compensation tied to financial and operational performance, strategic objectives, compensation governance, pay-for-performance, and stockholder feedback.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)"
+    },
+    {
+      "topic": "Legal risk",
+      "statement": "As of December 27, 2025, Intel had accrued a charge of approximately $1.0 billion related to VLSI litigation and stated it was unable to make a reasonable estimate of losses in excess of recorded amounts.",
+      "source": "10-K filed 2026-01-23 (https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)"
+    }
+  ]
+}

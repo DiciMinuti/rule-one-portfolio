@@ -1,0 +1,89 @@
+{
+  "symbol": "CSCO",
+  "companyName": "Cisco Systems, Inc.",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Cisco is led by Charles H. Robbins as Chair and Chief Executive Officer, with Mark Patterson as Executive Vice President and Chief Financial Officer and M. Victoria Wong as Senior Vice President and Chief Accounting Officer. Management's stated direction is to \"securely connect everything,\" adding AI across networking, security, collaboration, and observability while addressing infrastructure, cyber threat, and AI-data needs.",
+        "points": [
+          "Charles H. Robbins signed the fiscal 2025 Form 10-K as Chair and CEO, while Mark Patterson and M. Victoria Wong signed as the senior finance and accounting executives.",
+          "Cisco's chief executive officer is also the chief operating decision maker, and the company measures geographic segment performance using segment revenue and segment gross margin.",
+          "Management frames the company around three customer priorities: building modern infrastructure, protecting against cyber threats, and harnessing AI and data across IT environments."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Cisco returned substantial cash while still funding product development and maintaining a large balance sheet. In fiscal 2025, the company returned $12.4 billion to stockholders through dividends and repurchases, equal to 94% of free cash flow, while reporting $7.551 billion of R&D expense and $19.621 billion of long-term debt.",
+        "points": [
+          "The Chair and CEO stated that Cisco returned $12.4 billion to stockholders in fiscal 2025 through dividends and share repurchases, representing 94% of free cash flow.",
+          "Cisco funded $7.551 billion of R&D expense in FY2025, supporting product portfolios across networking, security, collaboration, and observability.",
+          "The balance sheet included $7.508 billion of cash and equivalents, $19.621 billion of long-term debt, and $39.773 billion of stockholders' equity for FY2025.",
+          "A supplier dispute settlement released about $563 million from escrow but forfeited about $450 million of supplier-held prepayments and caused a $355 million product cost-of-sales charge."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Cisco's shareholder alignment is supported by explicit capital returns, compensation guardrails, and documented investor engagement. The proxy says most annual total direct compensation is performance-based, incentives are capped, executives face ownership and holding requirements, and the company engaged stockholders representing about 61% of shares outstanding in fiscal 2025.",
+        "points": [
+          "Executive compensation practices include performance-based majority annual total direct compensation, caps on incentive compensation, stock ownership guidelines, holding requirements, and a clawback policy.",
+          "Cisco's proxy lists shareholder-friendly limits including no single-trigger vesting of equity awards, no golden parachute tax gross-ups, and no supplemental executive retirement plan.",
+          "Cisco engaged with stockholders representing approximately 61% of shares outstanding at fiscal year-end 2025, including holders representing 30% of its top 30 stockholders.",
+          "Capital returns were material in fiscal 2025, with $12.4 billion returned through dividends and repurchases, equal to 94% of free cash flow."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Cisco's disclosures give investors useful operating detail by product, service, geography, customer concentration, and segment gross margin. The 10-K reports product and services revenue, revenue by Networking, Security, Collaboration, and Observability, and Americas, EMEA, and APJC revenue and gross margin, while also identifying the CEO as the chief operating decision maker.",
+        "points": [
+          "Cisco disclosed fiscal 2025 product revenue of $41.608 billion and services revenue of $15.046 billion, separating hardware-oriented product sales from associated service revenue.",
+          "The company reported product category revenue of $28.304 billion from Networking, $8.094 billion from Security, $4.154 billion from Collaboration, and $1.055 billion from Observability.",
+          "Segment reporting is geographic, with fiscal 2025 Americas, EMEA, and APJC revenue and gross margin disclosed separately for investor analysis.",
+          "Cisco disclosed that no single customer represented 10% or more of revenue in fiscal 2025, 2024, or 2023, helping investors assess customer concentration risk."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Cisco combines a Chair-CEO structure with a named Lead Independent Director, Michael D. Capellas, and the proxy lists several shareholder-rights provisions. Governance disclosures include annual director elections, majority voting in uncontested elections, a majority-independent board, written-consent rights, a 10% special-meeting threshold, no poison pill, and detailed executive compensation limits.",
+        "points": [
+          "The proxy identifies Charles H. Robbins as Board Chair and CEO and Michael D. Capellas as Lead Independent Director, providing a named independent board leadership role.",
+          "Cisco lists annual director elections, majority voting for uncontested director elections, a majority-independent board, stockholder written-consent rights, and no poison pill.",
+          "Shareholders have the right to call a special meeting at a 10% ownership threshold, according to Cisco's proxy governance practices.",
+          "Risk-related disclosures include $2.337 billion of gross unrecognized tax benefits and the supplier settlement that produced a $355 million fiscal fourth-quarter cost-of-sales charge."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale across networking and adjacent IT categories",
+        "grade": "strong",
+        "summary": "Cisco generated $56.654 billion of fiscal 2025 revenue, including $28.304 billion from Networking, $8.094 billion from Security, $4.154 billion from Collaboration, and $1.055 billion from Observability. That breadth gives Cisco a large operating base across the communications and IT industry without relying on a single disclosed product category alone."
+      },
+      {
+        "type": "Product-and-services ecosystem",
+        "grade": "strong",
+        "summary": "Cisco designs and sells IP-based networking and related communications and IT products, and it also provides services associated with those products and their use. In fiscal 2025, the business produced $41.608 billion of product revenue and $15.046 billion of services revenue, showing that customer relationships extend beyond initial product sales."
+      },
+      {
+        "type": "Global and customer diversification",
+        "grade": "middle",
+        "summary": "Cisco is managed globally through the Americas, EMEA, and APJC, with fiscal 2025 revenue of $33.656 billion, $14.824 billion, and $8.174 billion in those segments, respectively. No single customer accounted for 10% or more of revenue in fiscal 2025, 2024, or 2023, reducing dependence on any one buyer."
+      },
+      {
+        "type": "R&D capacity and AI product direction",
+        "grade": "middle",
+        "summary": "Cisco reported $7.551 billion of R&D expense for FY2025 and says it is incorporating artificial intelligence into networking, security, collaboration, and observability. The stated strategy is to integrate products more tightly together while addressing modern infrastructure, cyber threats, and AI-and-data priorities for customers."
+      }
+    ]
+  }
+}

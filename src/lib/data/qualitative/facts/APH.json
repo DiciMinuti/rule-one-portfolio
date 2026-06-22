@@ -1,0 +1,167 @@
+{
+  "symbol": "APH",
+  "companyName": "Amphenol",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business classification",
+      "statement": "Amphenol is identified in SEC submission metadata as an electronic connectors company listed on the NYSE under ticker APH.",
+      "source": "https://data.sec.gov/submissions/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 revenue",
+      "statement": "Amphenol reported FY2025 revenue of $12,554,700,000.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 net income",
+      "statement": "Amphenol reported FY2025 net income of $1,928,000,000.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 operating cash flow",
+      "statement": "Amphenol generated FY2025 operating cash flow of $2,528,700,000.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 cash balance",
+      "statement": "Amphenol reported cash and cash equivalents of $3,317,000,000 at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 equity",
+      "statement": "Amphenol reported stockholders' equity of $9,792,000,000 at FY2025 year-end.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "fiscal 2025 R&D",
+      "statement": "Amphenol recorded research and development expense of $342,200,000 in FY2025.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "long-term debt history",
+      "statement": "SEC company facts show Amphenol reported long-term debt of $2,635,500,000 for FY2017.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000820313.json"
+    },
+    {
+      "topic": "record 2025 sales",
+      "statement": "The 2025 Annual Report says Amphenol achieved sales of $23.1 billion in 2025, up 52% in U.S. dollars and 38% organically versus 2024.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "record 2025 margins",
+      "statement": "The 2025 Annual Report says GAAP operating margin was 25.4% and adjusted operating margin was 26.2% in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "The 2025 Annual Report says Amphenol produced operating cash flow of $5.4 billion and free cash flow of $4.4 billion in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "earnings growth",
+      "statement": "The 2025 Annual Report says GAAP diluted EPS was $3.34 in 2025, up 74% from the prior year, and adjusted diluted EPS was $3.34, up 77% from the prior year.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "acquisition activity",
+      "statement": "The 2025 Annual Report says Amphenol completed five acquisitions during 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "The 2025 Annual Report says Amphenol returned nearly $1.5 billion to shareholders in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "recent acquisition closing",
+      "statement": "The 2025 Annual Report says Amphenol signed an agreement to acquire CommScope's CCS business and closed the acquisition in January 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "commscope acquisition price",
+      "statement": "The 2025 Annual Report says Amphenol completed the acquisition of CommScope on January 9, 2026 for an aggregate purchase price of approximately $10.5 billion in cash, subject to customary post-closing adjustments.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "commscope strategic fit",
+      "statement": "The 2025 Annual Report says the CommScope business adds fiber optic interconnect capabilities for IT datacom and communications networks markets and a range of industrial interconnect products for the building infrastructure connectivity market, and that it will be included in the Communications Solutions segment.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "sales geography",
+      "statement": "The 2025 Annual Report says net sales by geography are based on the customer location to which the product is shipped.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "customer concentration",
+      "statement": "The 2025 Annual Report says no single customer accounted for 10% or more of net sales during 2025, 2024, or 2023.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "business organization",
+      "statement": "The 2025 Annual Report says Amphenol is not organized by product or group of products, so it says it is impracticable to disclose net sales by product or group of products.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "legal and environmental risk",
+      "statement": "The 2025 Annual Report says Amphenol is party to legal and regulatory actions in the normal course of business, and that it believes existing matters are not expected to have a material adverse effect on financial condition, results of operations, or cash flows; it also says its operations are in substantial compliance with applicable environmental laws and regulations.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "purchase commitments",
+      "statement": "The 2025 Annual Report says Amphenol had purchase commitments of $2,006.9 million in 2026, $72.1 million in 2027 and 2028 combined, and $4.2 million beyond 2028.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "ceo and signed officers",
+      "statement": "The 2025 Annual Report was signed on February 11, 2026 by R. Adam Norwitt as President and Chief Executive Officer, Craig A. Lampo as Executive Vice President and Chief Financial Officer, and Michael R. Ivas as Senior Vice President and Corporate Controller.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+    },
+    {
+      "topic": "board leadership",
+      "statement": "The 2025 Annual Report lists Martin H. Loeffler as Chairman of the Board of Directors and David P. Falck as Presiding Director; the 2026 proxy says Mr. Norwitt was appointed to serve as Chairman effective at the Annual Meeting.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm; https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "director nominees",
+      "statement": "The 2026 proxy lists eight director nominees: Nancy A. Altobello, David P. Falck, Sanjiv Lamba, Rita S. Lane, Robert A. Livingston, R. Adam Norwitt, Prahlad Singh, and Anne Clarke Wolff.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "director independence",
+      "statement": "The 2026 proxy states that seven of the eight director nominees are independent; R. Adam Norwitt is identified as not independent.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "board attendance",
+      "statement": "The 2026 proxy says that, except for two directors missing one special Board meeting, each director nominee attended 100% of the Board and committee meetings on which such director sits in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "compensation structure",
+      "statement": "The 2026 proxy says Amphenol's core management compensation program includes base salary, an annual incentive plan payment opportunity, an annual stock option award with 20% vesting each year over a five-year period, insurance benefits, and retirement benefits.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "ceo pay mix",
+      "statement": "The 2026 proxy says fixed compensation elements comprised approximately 9% of the CEO's total 2025 compensation and at-risk compensation linked to increasing shareholder value comprised approximately 91%.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "other nfo pay mix",
+      "statement": "The 2026 proxy says fixed compensation elements comprised approximately 15% of total 2025 compensation for the other named executive officers as a group, with at-risk compensation comprising approximately 85%.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "governance policies",
+      "statement": "The 2026 proxy says Amphenol maintains a clawback policy, insider trading compliance policy, stock ownership guidelines for directors and executives, and a policy prohibiting short sales, derivative transactions, hedging, margin purchases, and pledges by officers and directors.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    },
+    {
+      "topic": "annual meeting details",
+      "statement": "The 2026 proxy states the annual meeting is scheduled for May 21, 2026 at 11:00 a.m. Eastern Time at Amphenol's World Headquarters Conference Center in Wallingford, Connecticut, and the record date is March 23, 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/820313/000110465926040688/tm261344-1_def14a.htm"
+    }
+  ]
+}

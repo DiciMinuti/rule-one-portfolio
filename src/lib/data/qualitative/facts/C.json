@@ -1,0 +1,127 @@
+{
+  "symbol": "C",
+  "companyName": "Citigroup",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business classification",
+      "statement": "Citigroup Inc. is identified in SEC submissions as a National Commercial Bank.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000831001.json)"
+    },
+    {
+      "topic": "exchange listing",
+      "statement": "Citigroup's SEC submissions metadata lists NYSE as its exchange.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000831001.json)"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "Citigroup reported FY2025 revenues of $78.066 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "profitability",
+      "statement": "Citigroup reported FY2025 net income of $9.228 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "Citigroup reported FY2025 operating cash flow of negative $73.416 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "balance sheet strength",
+      "statement": "Citigroup reported stockholders' equity of $208.598 billion at FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "leverage/funding",
+      "statement": "Citigroup reported long-term debt of $287.3 billion at FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "cash position",
+      "statement": "Citigroup reported cash and cash equivalents of $133.097 billion for FY2018 in the company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000831001.json)"
+    },
+    {
+      "topic": "operating segments",
+      "statement": "Citigroup's 10-K lists operating segments including Services, Markets, Banking, Wealth, and US Personal Banking.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "international footprint",
+      "statement": "Citigroup's 10-K glossary defines its International region as comprising six clusters: United Kingdom; Japan, Asia North and Australia; LATAM; Asia South; Europe; and Middle East, Africa and Russia.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "business lines",
+      "statement": "Citigroup's 10-K glossary describes Branded Cards as a business with proprietary cards, co-branded cards, and personal installment loans.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "business lines",
+      "statement": "Citigroup's 10-K glossary describes Retail Services as its U.S. retail services cards business with co-brand and private label relationships, including The Home Depot, Best Buy, and Macy's.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "transaction/services franchise",
+      "statement": "Citigroup's 10-K glossary says Treasury and Trade Solutions provides cash management and trade-related services; the glossary also defines commercial cards as payment services for corporate and public sector clients, including procurement, corporate travel and entertainment, expense management, and business-to-business payment solutions.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "wealth/franchise metrics",
+      "statement": "Citigroup's 10-K glossary defines net new investment asset flows for Wealth as investment asset inflows less outflows, excluding fees, commissions, market movement, internal transfers, and strategic exits.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "risk management / controls",
+      "statement": "Citigroup's 10-K glossary states that in October 2020 Citigroup and Citibank entered consent orders with the FRB and OCC requiring improvements in enterprise-wide risk management, compliance, data quality management related to governance, and internal controls; it also states that in July 2024 the FRB and OCC entered civil money penalty consent orders to address remediation shortcomings.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "transformation program",
+      "statement": "Citigroup's 10-K glossary says the company has embarked on a multiyear transformation aimed at strengthening risk and controls while improving value to customers, clients, and shareholders.",
+      "source": "10-K filed 2026-02-20 (https://www.sec.gov/Archives/edgar/data/831001/000083100126000011/c-20251231.htm)"
+    },
+    {
+      "topic": "restructuring / exits",
+      "statement": "The 2026 proxy statement says Citigroup continued simplifying the franchise through exits of non-core businesses outside the United States, including progress on Banamex, agreement to sell its consumer business in Poland, and completion of the sale of AO Citibank in Russia in February 2026.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "management and board leadership",
+      "statement": "The 2026 proxy statement says Jane Fraser is Chair of the Board and Chief Executive Officer, John Dugan is Lead Independent Director, Mark A. L. Mason is Chief Financial Officer, and Brent J. McIntosh is Chief Legal Officer and Corporate Secretary.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "board composition",
+      "statement": "Citigroup's 2026 Annual Meeting materials state that stockholders are being asked to elect 13 directors.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "executive compensation governance",
+      "statement": "The 2026 Annual Meeting materials include an advisory vote to approve 2025 executive compensation and a proposal to approve additional shares for the Citigroup 2019 Stock Incentive Plan.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "capital return",
+      "statement": "The 2026 proxy statement says Citigroup returned over $17.5 billion to stockholders in 2025, including $13.250 billion of common stock repurchases and $4.340 billion of common dividends.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "capital ratios",
+      "statement": "The 2026 proxy statement says Citigroup ended 2025 with a CET1 capital ratio of 13.2%, roughly 160 basis points above its minimum regulatory requirement.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "profitability metric",
+      "statement": "The 2026 proxy statement says Citigroup reported 2025 RoTCE of 8.8% excluding notable items.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    },
+    {
+      "topic": "portfolio simplification / notable items",
+      "statement": "The 2026 proxy statement says 2025 results included notable items related to Russia HFS accounting treatment loss impact and a Mexico goodwill impairment charge.",
+      "source": "DEF 14A filed 2026-04-02 (https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm)"
+    }
+  ]
+}

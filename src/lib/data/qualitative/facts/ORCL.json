@@ -1,0 +1,132 @@
+{
+  "symbol": "ORCL",
+  "companyName": "Oracle",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "Oracle is listed in SEC submissions metadata as ORACLE CORP with SIC description \"Services-Prepackaged Software,\" exchanges listed as NYSE, and tickers ORCL and ORCL-PD.",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0001341439.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Oracle reported total revenues of $57.399 billion for fiscal 2025, compared with $52.961 billion in fiscal 2024 and $49.954 billion in fiscal 2023.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Oracle reported fiscal 2025 net income of $12.443 billion, basic EPS of $4.46, and diluted EPS of $4.34.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Cash flow and liquidity",
+      "statement": "The SEC company facts summary reports Oracle fiscal 2025 operating cash flow of $17.165 billion and cash and equivalents of $10.454 billion, filed June 18, 2025.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001341439.json"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "Oracle presents summary results for three businesses: cloud and license, hardware, and services; the company states it does not track assets for each business and therefore it is not practical to show assets by operating segment.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Cloud and license segment scale",
+      "statement": "Oracle's cloud and license business generated fiscal 2025 revenues of $49.230 billion, with reported segment margin of $30.930 billion before allocations and excluded expenses described in the filing.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Cloud and license cost structure",
+      "statement": "Oracle states that costs associated with its cloud and license business are largely personnel- and infrastructure-related, including costs to provide cloud services and license support, sales-force salaries and commissions, and marketing program costs.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Cloud services and support mix",
+      "statement": "Oracle's fiscal 2025 cloud services and license support revenues totaled $44.029 billion, consisting of $24.506 billion of cloud services revenues and $19.523 billion of license support revenues.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Applications and infrastructure ecosystems",
+      "statement": "Within cloud services and license support revenues in fiscal 2025, Oracle reported $19.383 billion from applications cloud services and license support and $24.646 billion from infrastructure cloud services and license support.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Hardware business",
+      "statement": "Oracle's hardware business provides infrastructure technologies including Oracle Engineered Systems, servers, storage, industry-specific hardware, operating systems, virtualization, management, and other hardware-related software.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Hardware segment scale",
+      "statement": "Oracle's hardware business generated fiscal 2025 revenues of $2.936 billion and reported segment margin of $1.918 billion before allocations and excluded expenses described in the filing.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Hardware support model",
+      "statement": "Oracle says its hardware support can include software updates for software components essential to hardware functionality, product repairs, maintenance services, and technical support services, typically delivered and recognized ratably over the contractual term.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Services business",
+      "statement": "Oracle's services business provides services to customers and partners to help maximize the performance of their investments in Oracle applications and infrastructure technologies.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Services segment scale",
+      "statement": "Oracle's services business generated fiscal 2025 revenues of $5.233 billion and reported segment margin of $993 million before allocations and excluded expenses described in the filing.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Segment margin definition",
+      "statement": "Oracle's reported operating-segment margins reflect only direct controllable costs and exclude allocations of R&D, general and administrative expenses, amortization of intangible assets, acquisition-related and other expenses, restructuring expenses, stock-based compensation, interest expense, and certain non-operating income or expenses.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "R&D and overhead",
+      "statement": "In the reconciliation from operating-segment margin to income before taxes, Oracle reported fiscal 2025 research and development expense of $9.860 billion and general and administrative expense of $1.602 billion.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Interest expense",
+      "statement": "Oracle reported fiscal 2025 interest expense of $3.578 billion in its reconciliation from operating-segment margin to income before income taxes.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Geographic revenue",
+      "statement": "Oracle's fiscal 2025 revenues by region were $36.339 billion in the Americas, $14.025 billion in EMEA, and $7.035 billion in Asia Pacific.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Country revenue and assets",
+      "statement": "For fiscal 2025, Oracle reported U.S. revenues of $32.075 billion and U.S. long-lived assets of $45.439 billion; the filing defines long-lived assets as excluding goodwill, intangible assets, non-marketable investments, and deferred taxes.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Debt and credit facilities",
+      "statement": "Oracle's 10-K exhibit index references a $6.000 billion 5-year revolving credit agreement dated March 8, 2022 and a $5.630 billion term loan credit agreement dated June 10, 2024.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Management at 10-K signing",
+      "statement": "Oracle's fiscal 2025 Form 10-K was signed by Safra A. Catz as Chief Executive Officer and Director and Principal Executive and Financial Officer; Maria Smith as Executive Vice President and Chief Accounting Officer; and Lawrence J. Ellison as Chairman of the Board of Directors and Chief Technology Officer.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    },
+    {
+      "topic": "Leadership transition",
+      "statement": "The proxy states that on September 22, 2025, Safra A. Catz retired from her CEO position and was appointed Executive Vice Chair of the Board; Clayton M. Magouyrk and Michael D. Sicilia were appointed CEOs of Oracle; and Douglas Kehring was appointed Executive Vice President and Principal Financial Officer.",
+      "source": "DEF 14A filed 2025-09-26 - https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "For the 2025 annual meeting, Oracle asked stockholders to elect 13 director nominees, including Lawrence J. Ellison, Safra A. Catz, Clayton M. Magouyrk, Michael D. Sicilia, Jeffrey O. Henley, and eight other nominees listed in the proxy.",
+      "source": "DEF 14A filed 2025-09-26 - https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    },
+    {
+      "topic": "Governance policy",
+      "statement": "Oracle's Corporate Governance Guidelines include a majority voting and mandatory resignation policy requiring a director nominee in an uncontested election to tender resignation if votes withheld are equal to or greater than votes for that nominee and no successor has been elected, with the Board to act within 90 days after vote certification.",
+      "source": "DEF 14A filed 2025-09-26 - https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm"
+    },
+    {
+      "topic": "Legal risk",
+      "statement": "Oracle disclosed a Netherlands privacy class action filed August 14, 2020 alleging that the Oracle Defendants' Data Management Platform product violates certain EU and Dutch privacy-related laws; Oracle states it believes it has meritorious defenses, cannot estimate a range of loss, and does not believe the matter will have a material impact on its financial position or results of operations.",
+      "source": "10-K filed 2025-06-18 - https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+    }
+  ]
+}

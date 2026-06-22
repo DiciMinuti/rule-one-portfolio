@@ -1,0 +1,127 @@
+{
+  "symbol": "CAT",
+  "companyName": "Caterpillar",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Caterpillar Inc. is listed on the NYSE under ticker CAT, and its SEC SIC description is \"Construction Machinery & Equip.\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000018230.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Caterpillar reported FY2025 revenue of $67.060 billion, filed on 2026-02-13 under the Revenues concept.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000018230.json"
+    },
+    {
+      "topic": "Operating cash flow",
+      "statement": "Caterpillar reported FY2025 operating cash flow of $12.885 billion, filed on 2026-02-13 under NetCashProvidedByUsedInOperatingActivities.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000018230.json"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "Caterpillar reported FY2025 research and development expense of $2.108 billion, filed on 2026-02-13.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000018230.json"
+    },
+    {
+      "topic": "Balance sheet liquidity and debt",
+      "statement": "At FY2025, Caterpillar reported $6.889 billion of cash and equivalents and $27.351 billion of long-term debt.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000018230.json"
+    },
+    {
+      "topic": "Segment categories",
+      "statement": "Caterpillar's 2025 Form 10-K XBRL tags identify operating segment categories including Construction Industries, Resource Industries, Power & Energy, All Other Segments, Machinery/Power/Energy, and Financial Products.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Financial products business categories",
+      "statement": "Caterpillar's 2025 Form 10-K includes Financial Products finance receivable categories for wholesale receivables, wholesale loans, wholesale leases, retail loans, and retail leases.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Geographic exposure",
+      "statement": "Caterpillar's 2025 Form 10-K XBRL tags include sales or finance receivable location categories for the United States, countries outside the United States, North America, EMEA, Asia Pacific, Latin America, China, Brazil, India, and Switzerland.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "2025 proxy performance metrics",
+      "statement": "Caterpillar's 2026 proxy statement says 2025 sales and revenues were $67.6 billion, the highest full-year sales and revenues in company history, and backlog reached $51 billion, up 71% year over year.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "2025 profitability metrics",
+      "statement": "Caterpillar's 2026 proxy statement reports 2025 operating profit of $11.2 billion, adjusted operating profit of $11.6 billion, operating profit margin of 16.5%, and adjusted operating profit margin of 17.2%.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Per-share earnings",
+      "statement": "Caterpillar's 2026 proxy statement reports 2025 profit per share of $18.81 versus $22.05 in 2024, and adjusted profit per share of $19.06 versus $21.90 in 2024.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Free cash flow and shareholder returns",
+      "statement": "Caterpillar's 2026 proxy statement reports 2025 MP&E free cash flow of $9.5 billion and deployment of $7.9 billion to shareholders through share repurchases and dividends.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Enterprise cash balance",
+      "statement": "Caterpillar's 2026 proxy statement reports an enterprise cash balance of $10.0 billion at the end of 2025.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Restructuring costs",
+      "statement": "Caterpillar reported restructuring costs of $448 million in 2025, $359 million in 2024, and $780 million in 2023; 2025 restructuring included companywide actions and inventory write-downs in the Rail division.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Restructuring accounting and segment profit",
+      "statement": "Caterpillar's 2025 Form 10-K says all restructuring costs in 2025, 2024, and 2023 were excluded from segment profit.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Acquisition activity",
+      "statement": "On February 3, 2026, the Federal Court of Australia approved Caterpillar's acquisition of RPMGlobal Holdings Limited, an Australian software company, with an expected purchase price of approximately $790 million excluding cash acquired.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Mining software expansion",
+      "statement": "Caterpillar's 2025 Form 10-K describes RPMGlobal as a leading provider of mining software solutions with domain expertise in mining technology enablement and data-driven software solutions at every stage of the mining lifecycle.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Management leadership transition",
+      "statement": "Joseph E. Creed is Caterpillar's Chairman and CEO in the 2026 proxy statement; the proxy says he became chairman of the board on April 1, 2026, succeeding Jim Umpleby.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Former executive chairman",
+      "statement": "The 2026 proxy statement says Jim Umpleby retired as Executive Chairman on April 1, 2026, after more than four decades with Caterpillar, including eight years as Chairman and CEO.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Key executives and signatories",
+      "statement": "Caterpillar's 2025 Form 10-K was signed by Joseph E. Creed as Chief Executive Officer and Director, Andrew R.J. Bonfield as Chief Financial Officer, William E. Schaupp as Vice President and Chief Accounting Officer, Derek Owens as Chief Legal Officer and General Counsel, and D. James Umpleby III as Executive Chairman.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Board composition",
+      "statement": "Caterpillar's 2026 proxy lists 10 director nominees, 9 independent directors, an average director age of 65, average nominee tenure of 5.5 years, 50% women nominees, and 30% ethnic/racial diversity among nominees.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Governance framework",
+      "statement": "Caterpillar's 2026 proxy governance highlights include annual director elections, majority voting in director elections, a lead independent director, proxy access, shareholder ability to call special meetings, no poison pill, director and executive officer stock ownership guidelines, anti-hedging and pledging policies, and a clawback policy.",
+      "source": "DEF 14A filed 2026-04-30 - https://www.sec.gov/Archives/edgar/data/18230/000130817926000358/cat014496-def14a.htm"
+    },
+    {
+      "topic": "Equity compensation plans",
+      "statement": "As of December 31, 2025, Caterpillar had 4,710,403 securities to be issued upon exercise of outstanding options, warrants and rights under shareholder-approved equity compensation plans, a weighted-average exercise price of $220.52, and 39,336,515 securities remaining available for future issuance; no equity compensation plans not approved by shareholders were listed.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    },
+    {
+      "topic": "Compliance and sanctioned-jurisdiction disclosure",
+      "statement": "Caterpillar disclosed that it maintains trademarks in Iran through counsel and service providers in the United Arab Emirates and Iran, has an OFAC specific license for payments to Iran's Intellectual Property Center at Bank Melli, paid approximately $608 in the period ended December 31, 2024, and generates no revenues or profits from this activity.",
+      "source": "10-K filed 2026-02-13 - https://www.sec.gov/Archives/edgar/data/18230/000001823026000008/cat-20251231.htm"
+    }
+  ]
+}

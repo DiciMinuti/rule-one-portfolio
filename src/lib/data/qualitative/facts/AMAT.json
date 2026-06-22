@@ -1,0 +1,127 @@
+{
+  "symbol": "AMAT",
+  "companyName": "Applied Materials",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "Applied Materials is listed on Nasdaq under ticker AMAT, and the SEC submissions metadata lists its SIC description as \"Semiconductors & Related Devices.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000006951.json)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Applied Materials' 2025 Form 10-K segment table reported consolidated fiscal 2025 net revenue of $28.368 billion and operating income of $8.289 billion.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Profit and cash generation",
+      "statement": "The SEC company facts summary reported fiscal 2025 net income of $6.856 billion and operating cash flow of $8.700 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000006951.json)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "The SEC company facts summary reported fiscal 2025 research and development expense of $3.102 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000006951.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "At fiscal 2025 year-end, the SEC company facts summary reported cash and equivalents of $6.132 billion, long-term debt of $5.460 billion, and stockholders' equity of $12.194 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000006951.json)"
+    },
+    {
+      "topic": "Reportable segments",
+      "statement": "Applied Materials' two reportable segments are Semiconductor Systems and Applied Global Services; Display operating segment results were included in Corporate and Other because management no longer considered Display a significant operating segment for separate reporting.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Semiconductor Systems products",
+      "statement": "The Semiconductor Systems segment includes semiconductor capital equipment for materials engineering steps including etch, rapid thermal processing, deposition, chemical mechanical planarization, metrology and inspection, wafer packaging, and ion implantation.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Applied Global Services offering",
+      "statement": "The Applied Global Services segment provides integrated solutions to optimize equipment and fab performance and productivity, including spares, upgrades, services, 200 millimeter and other equipment, and factory automation software for semiconductor and other products.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Revenue recognition model",
+      "statement": "Semiconductor Systems revenue is recognized at a point in time, while Applied Global Services revenue is recognized at a point in time for tangible goods such as spare parts and equipment and over time for service agreements; the majority of revenue recognized over time is recognized within 12 months of contract inception.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Semiconductor Systems segment economics",
+      "statement": "In fiscal 2025, Semiconductor Systems generated $20.798 billion of net revenue, $11.268 billion of gross profit, 54.2% gross margin, $7.379 billion of operating income, and 35.5% operating margin.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Applied Global Services segment economics",
+      "statement": "In fiscal 2025, Applied Global Services generated $6.385 billion of net revenue, $2.134 billion of gross profit, 33.4% gross margin, $1.792 billion of operating income, and 28.1% operating margin.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Corporate and Other category",
+      "statement": "In fiscal 2025, Corporate and Other reported $1.185 billion of net revenue, $406 million of gross profit, a $882 million operating loss, and $181 million of restructuring charges.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Semiconductor Systems end-market mix",
+      "statement": "Fiscal 2025 Semiconductor Systems revenue by market was 67% foundry, logic and other; 26% DRAM; and 7% flash memory NAND.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "During fiscal 2025, two customers accounted for approximately 19% and 15%, respectively, of Applied Materials' net revenue.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Geographic revenue exposure",
+      "statement": "In fiscal 2025, Applied Materials reported net revenue of $3.063 billion from the United States, $8.529 billion from China, $5.608 billion from Korea, $6.857 billion from Taiwan, $2.273 billion from Japan, $962 million from Europe, and $1.076 billion from Southeast Asia; total revenue outside the United States was $25.305 billion.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Capital expenditures",
+      "statement": "Fiscal 2025 capital expenditures were $2.260 billion in total, including $507 million in Semiconductor Systems, $57 million in Applied Global Services, and $1.696 billion in Corporate and Other.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Management roles",
+      "statement": "The 2025 Form 10-K was signed by Gary E. Dickerson as President, Chief Executive Officer and Director; Brice Hill as Senior Vice President and Chief Financial Officer; and Adam Sanders as Vice President, Corporate Controller and Chief Accounting Officer.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Board leadership and legal officer",
+      "statement": "The 2026 proxy letter was signed by Thomas J. Iannotti as Chairman of the Board and Gary E. Dickerson as President and Chief Executive Officer, and the annual meeting notice was signed by Teri A. Little as Senior Vice President, Chief Legal Officer and Corporate Secretary.",
+      "source": "DEF 14A filed 2026-01-28 (https://www.sec.gov/Archives/edgar/data/6951/000119312526027307/d71992ddef14a.htm)"
+    },
+    {
+      "topic": "Director nominees",
+      "statement": "Applied Materials' 2026 proxy card listed ten director nominees: James R. Anderson, Rani Borkar, Judy Bruner, Xun (Eric) Chen, Aart J. de Geus, Gary E. Dickerson, Thomas J. Iannotti, Alexander A. Karsner, Kevin P. March, and Scott A. McGregor.",
+      "source": "DEF 14A filed 2026-01-28 (https://www.sec.gov/Archives/edgar/data/6951/000119312526027307/d71992ddef14a.htm)"
+    },
+    {
+      "topic": "Executive compensation metrics",
+      "statement": "The 2026 proxy appendix states that management uses non-GAAP financial measures to evaluate operating and financial performance and as performance measures in its executive compensation program; it defines non-GAAP economic profit as non-GAAP operating income after tax minus the expected return on invested capital.",
+      "source": "DEF 14A filed 2026-01-28 (https://www.sec.gov/Archives/edgar/data/6951/000119312526027307/d71992ddef14a.htm)"
+    },
+    {
+      "topic": "Tax structure and effective tax rate",
+      "statement": "Applied Materials' fiscal 2025 income before taxes was $56 million in the U.S. and $9.215 billion in foreign jurisdictions, and its effective income tax rate was 24.5%.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Singapore tax incentives",
+      "statement": "Applied Materials stated that its foreign operations with the most significant effective tax rate impact are in Singapore, where it has conditional reduced tax rates expiring beginning in fiscal 2030, excluding potential renewal and subject to conditions; the related tax benefits were $490 million, or $0.61 per diluted share, in fiscal 2025.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Export-control and government-investigation risk",
+      "statement": "Since 2022, Applied Materials has received multiple subpoenas from government authorities requesting information relating to certain China customer shipments and export controls compliance, including from the U.S. Department of Justice, the U.S. Commerce Department Bureau of Industry and Security, and the U.S. Securities and Exchange Commission; it also received DOJ subpoenas related to certain federal award applications and information submitted to the federal government.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    },
+    {
+      "topic": "Investigation uncertainty",
+      "statement": "Applied Materials stated that it is cooperating fully with the U.S. government on the subpoena matters, has continued to receive related subpoenas and requests for information, may receive additional related subpoenas or requests, and cannot predict the outcome or reasonably estimate a range of loss or penalties, if any.",
+      "source": "10-K filed 2025-12-12 (https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/amat-20251026.htm)"
+    }
+  ]
+}

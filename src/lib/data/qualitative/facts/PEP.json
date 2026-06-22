@@ -1,0 +1,117 @@
+{
+  "symbol": "PEP",
+  "companyName": "Pepsico",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "PepsiCo is identified in SEC submissions as a Nasdaq-listed company with ticker PEP and SIC description \"Beverages.\"",
+      "source": "https://data.sec.gov/submissions/CIK0000077476.json"
+    },
+    {
+      "topic": "financial scale",
+      "statement": "PepsiCo reported FY2025 revenue of $91.471 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "PepsiCo reported FY2025 net income of $9.074 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "PepsiCo reported FY2025 operating cash flow of $13.442 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "research and development",
+      "statement": "PepsiCo reported FY2025 research and development expense of $804 million.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "PepsiCo reported FY2025 stockholders' equity of $18.041 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "leverage",
+      "statement": "PepsiCo reported FY2025 long-term debt of $37.224 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "PepsiCo reported FY2025 cash and cash equivalents of $8.505 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000077476.json"
+    },
+    {
+      "topic": "operating model",
+      "statement": "PepsiCo's 2025 10-K identifies operating segments including PepsiCo Foods North America, PepsiCo Beverages North America, International Beverage Franchise, Europe Middle East Africa, Latin America Foods, and Asia Pacific Foods.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+    },
+    {
+      "topic": "geographic mix",
+      "statement": "The 2025 10-K includes country and regional segment references for the United States, Canada, Mexico, Russia, China, Great Britain, Brazil, South Africa, and an \"All Other Countries\" category.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+    },
+    {
+      "topic": "business structure",
+      "statement": "The 2026 proxy says PepsiCo is pursuing a strategy that includes reigniting its North America business, increasing the size and scale of its international business, and growing its away-from-home business.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "portfolio and operating priorities",
+      "statement": "The 2026 proxy says PepsiCo is investing to strengthen brands, transform its portfolio through innovation and acquisitions, expand manufacturing, right-size warehousing and distribution, and transform its operating model to be more agile and efficient.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "non-GAAP cash flow",
+      "statement": "The 2026 proxy states PepsiCo's FY2025 free cash flow was $8.200 billion and free cash flow excluding certain items was $10.040 billion.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "The 2026 proxy states PepsiCo uses free cash flow primarily for acquisitions and financing activities, including debt repayments, dividends, and share repurchases.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "shareholder returns",
+      "statement": "The 2026 proxy says PepsiCo announced its 54th consecutive annualized dividend per share increase, effective with the expected June 2026 dividend payment.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "The 2025 10-K was signed by Ramon L. Laguarta as Chairman of the Board of Directors and Chief Executive Officer.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+    },
+    {
+      "topic": "management",
+      "statement": "The 2025 10-K was signed by Stephen T. Schmitt as Executive Vice President and Chief Financial Officer.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+    },
+    {
+      "topic": "board governance",
+      "statement": "The 2025 10-K lists a board that included Segun Agbaje, Jennifer Bailey, Cesar Conde, Ian M. Cook, Edith W. Cooper, Susan M. Diamond, Dina Dublon, Michelle Gass, Dave J. Lewis, David C. Page, Robert C. Pohlad, Daniel Vasella, and Alberto Weisser.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+    },
+    {
+      "topic": "board refreshment",
+      "statement": "The 2026 proxy says David W. Gibbs was a new director nominee and that Segun Agbaje and Dr. David C. Page were not standing for re-election at the 2026 Annual Meeting.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "executive compensation",
+      "statement": "The 2026 proxy includes advisory approval of executive compensation as a matter to be voted on at the 2026 Annual Meeting.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "governance and oversight",
+      "statement": "The 2026 proxy says the Board plays a critical role in guiding long-term strategy and provides oversight of strategy, risk management, talent development, and human capital management.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    },
+    {
+      "topic": "risk factors",
+      "statement": "The 2026 proxy identifies risks including product recalls and product quality or safety issues, supply-chain disruption, commodity and packaging cost inflation, water scarcity, cybersecurity incidents, failure to realize productivity initiatives, tariffs and trade relations, climate change, plastic packaging regulation, and litigation or regulatory proceedings.",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm"
+    }
+  ]
+}

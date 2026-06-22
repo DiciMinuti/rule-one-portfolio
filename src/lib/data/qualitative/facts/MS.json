@@ -1,0 +1,127 @@
+{
+  "symbol": "MS",
+  "companyName": "Morgan Stanley",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business classification",
+      "statement": "Morgan Stanley is identified in SEC submissions metadata under the SIC description \"Security Brokers, Dealers & Flotation Companies.\"",
+      "source": "SEC submissions metadata"
+    },
+    {
+      "topic": "Public listing",
+      "statement": "Morgan Stanley's common stock trades on the New York Stock Exchange under the symbol \"MS\"; SEC submissions metadata also lists preferred tickers MS-PK, MS-PE, MS-PA, MS-PF, MS-PI, MS-PL, MS-PO, MS-PP and MS-PQ.",
+      "source": "SEC submissions metadata; 10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Morgan Stanley describes its Integrated Firm business model as combining a scaled wealth and investment manager with a leading global investment bank.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Client value proposition",
+      "statement": "Morgan Stanley states that its mission is to \"raise, manage and allocate capital,\" and its strategy is to help clients raise, manage and allocate capital across the Integrated Firm.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Business lines",
+      "statement": "The proxy statement discusses Institutional Securities, including Investment Banking and Markets, as well as Wealth Management and Investment Management divisions.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Morgan Stanley reported full-year 2025 net revenues of $70.6 billion.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Morgan Stanley reported FY2025 net income of $9.087 billion in SEC company facts.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Earnings per share and return metric",
+      "statement": "Morgan Stanley reported 2025 diluted earnings per share of $10.21 and return on average tangible common equity of 21.6%.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Client assets",
+      "statement": "Morgan Stanley reported total client assets of $9.3 trillion in 2025.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Capital strength",
+      "statement": "Morgan Stanley reported a standardized CET1 ratio of 15.0%, which the company said provided scope for investment in clients and technology while supporting dividend growth and disciplined capital allocation.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "For FY2025, Morgan Stanley reported stockholders' equity of $104.511 billion, long-term debt of $284.307 billion and cash and equivalents of $105.386 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "Morgan Stanley reported FY2025 operating cash flow of negative $33.536 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "On July 1, 2025, Morgan Stanley announced that its Board reauthorized a multi-year repurchase authorization of up to $20 billion of outstanding common stock, without a set expiration date, beginning in the third quarter of 2025.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Share repurchases",
+      "statement": "During the three months ended December 31, 2025, Morgan Stanley purchased 9,108,109 shares at an average price of $167.92 per share, including 8,938,709 shares purchased as part of its share repurchase program.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Repurchase capacity",
+      "statement": "At December 2025 month-end, Morgan Stanley had $17.415 billion of remaining authorized share repurchase capacity under its repurchase authorization.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Repurchase constraints",
+      "statement": "Morgan Stanley states that share purchases under its authorization may be suspended at any time and are subject to limitations on distributions from the Federal Reserve.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Executive leadership",
+      "statement": "Edward Pick signed Morgan Stanley's 2025 Form 10-K as Chairman of the Board and Chief Executive Officer; Sharon Yeshaya signed as Executive Vice President and Chief Financial Officer; Victoria Worster signed as Chief Accounting Officer and Controller.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Morgan Stanley's 2026 proxy identifies Thomas H. Glocer as Independent Lead Director and Edward Pick as Chairman and CEO.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Board composition changes",
+      "statement": "Morgan Stanley added Lynn J. Good and Douglas L. Peterson to its Board during 2025, stated that Masato Miyachi would step down at the 2026 annual meeting, and nominated Yasushi Itagaki as an MUFG director representative.",
+      "source": "DEF 14A filed 2026-04-02"
+    },
+    {
+      "topic": "Governance and ethics",
+      "statement": "Morgan Stanley states that its Code of Ethics and Business Conduct applies to all directors, officers and employees, including its Chief Executive Officer, Chief Financial Officer and Chief Accounting Officer and Controller.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Compensation and equity plans",
+      "statement": "At December 31, 2025, Morgan Stanley had 53,389,903 securities to be issued upon exercise of outstanding options, warrants and rights under equity compensation plans approved by security holders and 135,952,970 securities remaining available for future issuance under such plans.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Employee stock purchase plans",
+      "statement": "Morgan Stanley's equity compensation plan disclosure says eligible employees may purchase common stock at a discount to market price through regular payroll deduction under its Qualified Employee Stock Purchase Plan and Nonqualified Employee Stock Purchase Plan.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Internal control",
+      "statement": "Deloitte & Touche LLP expressed an unqualified opinion on Morgan Stanley's 2025 financial statements and opined that the Firm maintained effective internal control over financial reporting as of December 31, 2025.",
+      "source": "10-K filed 2026-02-19"
+    },
+    {
+      "topic": "Operating footprint",
+      "statement": "Morgan Stanley's global headquarters and principal executive offices are at 1585 Broadway, New York, New York, and other principal offices include locations in Manhattan and the greater New York metropolitan area, London, Frankfurt, Hong Kong and Tokyo.",
+      "source": "10-K filed 2026-02-19"
+    }
+  ]
+}

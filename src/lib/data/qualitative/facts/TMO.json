@@ -1,0 +1,152 @@
+{
+  "symbol": "TMO",
+  "companyName": "Thermo Fisher Scientific",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "identity",
+      "statement": "Thermo Fisher Scientific Inc. is identified in SEC submissions as TMO, traded on the NYSE, with SEC name THERMO FISHER SCIENTIFIC INC.",
+      "source": "SEC submissions metadata https://data.sec.gov/submissions/CIK0000097745.json"
+    },
+    {
+      "topic": "industry classification",
+      "statement": "The company's SIC description in SEC submissions is Measuring & Controlling Devices, NEC.",
+      "source": "SEC submissions metadata https://data.sec.gov/submissions/CIK0000097745.json"
+    },
+    {
+      "topic": "company overview",
+      "statement": "In its 2026 proxy statement, the company describes itself as the world leader in serving science.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "mission",
+      "statement": "The company's mission is to enable customers to make the world healthier, cleaner and safer.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "customer use cases",
+      "statement": "The proxy statement says the company supports customers in life sciences research, complex analytical challenges, laboratory productivity, patient diagnostics, and the development and manufacture of medicines.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "brands",
+      "statement": "The proxy statement says the company serves pharma and biotech customers through brands including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "scale",
+      "statement": "The proxy statement states the company had about $45 billion of revenue and more than 120,000 colleagues.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "The proxy statement states the company invested $1.4 billion in R&D in 2025.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "strategy",
+      "statement": "Management says the company executes a rolling 5-year strategic plan and an annual goal tree to identify opportunities and translate them into objectives.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "operating system",
+      "statement": "The proxy statement says the company's work is powered by its PPI Business System, described as a deeply ingrained philosophy of operational excellence.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "values",
+      "statement": "The company lists four values in the proxy statement: Integrity, Innovation, Intensity and Involvement.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "FY2025 revenue",
+      "statement": "SEC company facts report FY2025 revenue of $42,857,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "FY2025 profitability",
+      "statement": "SEC company facts report FY2025 net income of $5,995,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "SEC company facts report FY2025 operating cash flow of $8,406,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "investment in R&D",
+      "statement": "SEC company facts report FY2025 research and development expense of $1,337,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "SEC company facts report FY2025 stockholders' equity of $49,584,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "debt",
+      "statement": "SEC company facts report FY2025 long-term debt of $31,072,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "SEC company facts report FY2025 cash and cash equivalents of $4,009,000,000.",
+      "source": "SEC company facts summary https://data.sec.gov/api/xbrl/companyfacts/CIK0000097745.json"
+    },
+    {
+      "topic": "capital deployment",
+      "statement": "The proxy statement says the company deployed approximately $16.5 billion in 2025, including $13 billion committed to M&A and $3.6 billion returned to shareholders through stock buybacks and dividends.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "M&A",
+      "statement": "The proxy statement says the company's 2025 M&A included the acquisition of its Filtration and Separation business from Solventum and an agreement to acquire Clario, which it describes as a provider of endpoint data solutions for clinical trials.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "return on capital",
+      "statement": "The proxy statement states the company delivered 11.3% adjusted ROIC in 2025.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "free cash flow",
+      "statement": "The proxy statement reports 2025 free cash flow of $6.34 billion.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "management names",
+      "statement": "The 2025 10-K is signed by Marc N. Casper as Chairman, President and Chief Executive Officer; Stephen Williamson as Senior Vice President and Chief Financial Officer; and Joseph R. Holmes as Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2026-02-26 https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm"
+    },
+    {
+      "topic": "board and officers",
+      "statement": "The proxy statement lists Marc N. Casper, Nelson J. Chai, Ruby R. Chandy, C. Martin Harris, Tyler Jacks, Jennifer M. Johnson, R. Alexandra Keith, Karen S. Lynch, Debora L. Spar, Scott M. Sperling and Dion J. Weisler as director nominees.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "executive compensation vote",
+      "statement": "At the 2026 annual meeting, shareholders are asked to approve an advisory vote on named executive officer compensation.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "audit governance",
+      "statement": "At the 2026 annual meeting, shareholders are asked to ratify the Audit Committee's selection of PricewaterhouseCoopers LLP as the company's independent auditors for 2026.",
+      "source": "DEF 14A filed 2026-04-07 https://www.sec.gov/Archives/edgar/data/97745/000119312526144585/d66426ddef14a.htm"
+    },
+    {
+      "topic": "internal controls",
+      "statement": "The 2025 10-K says management concluded its internal control over financial reporting was effective as of December 31, 2025.",
+      "source": "10-K filed 2026-02-26 https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm"
+    },
+    {
+      "topic": "acquisition carve-out",
+      "statement": "The 2025 10-K says the assessment of internal control over financial reporting excluded the filtration and separation business acquired from Solventum in September 2025, and that this business represented approximately 1% of consolidated assets and 1% of consolidated revenues for 2025.",
+      "source": "10-K filed 2026-02-26 https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm"
+    },
+    {
+      "topic": "trading plans",
+      "statement": "The 2025 10-K says Marc N. Casper, Stephen Williamson and Michael D. Shafer adopted Rule 10b5-1 trading plans during the three months ended December 31, 2025.",
+      "source": "10-K filed 2026-02-26 https://www.sec.gov/Archives/edgar/data/97745/000009774526000018/tmo-20251231.htm"
+    }
+  ]
+}

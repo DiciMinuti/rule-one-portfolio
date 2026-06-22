@@ -1,0 +1,90 @@
+{
+  "symbol": "TMO",
+  "companyName": "Thermo Fisher Scientific",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Thermo Fisher is led by Marc N. Casper, who signed the 2025 10-K as Chairman, President and Chief Executive Officer, with Stephen Williamson as Chief Financial Officer and Joseph R. Holmes as Chief Accounting Officer. The leadership system is framed around a rolling 5-year strategic plan, an annual goal tree, and the PPI Business System for operational execution.",
+        "points": [
+          "Marc N. Casper holds the combined Chairman, President and CEO roles, giving one named executive clear accountability for strategy and operating execution.",
+          "Stephen Williamson signed the 2025 10-K as Senior Vice President and Chief Financial Officer, while Joseph R. Holmes signed as Vice President and Chief Accounting Officer.",
+          "Management says it uses a rolling 5-year strategic plan and annual goal tree to turn opportunities into objectives across a company with about $45 billion of revenue.",
+          "The proxy describes the PPI Business System as a deeply ingrained philosophy of operational excellence, giving leadership a named operating framework beyond normal budgeting."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation is active and large-scale, supported by FY2025 operating cash flow of $8.406 billion and proxy-reported free cash flow of $6.34 billion. In 2025, the company deployed approximately $16.5 billion, including $13 billion committed to M&A and $3.6 billion returned to shareholders through buybacks and dividends.",
+        "points": [
+          "The 2025 capital deployment mix leaned toward M&A, with $13 billion committed versus $3.6 billion returned to shareholders through stock buybacks and dividends.",
+          "2025 M&A included the Filtration and Separation business acquired from Solventum and an agreement to acquire Clario, a provider of endpoint data solutions for clinical trials.",
+          "The company reported 11.3% adjusted ROIC in 2025, giving investors a concrete return measure to compare against its acquisition-heavy capital deployment.",
+          "Thermo Fisher still funded internal investment, with SEC company facts reporting FY2025 R&D expense of $1.337 billion alongside $42.857 billion of revenue."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment is supported by explicit capital returns and annual advisory accountability, but the packet does not provide executive ownership levels or a detailed pay formula. The clearest investor-facing alignment facts are the $3.6 billion of 2025 buybacks and dividends, the advisory vote on named executive officer compensation, and disclosed Rule 10b5-1 trading plans.",
+        "points": [
+          "The company returned $3.6 billion to shareholders in 2025 through stock buybacks and dividends, while also committing a much larger $13 billion to M&A.",
+          "Shareholders at the 2026 annual meeting are asked to approve an advisory vote on named executive officer compensation, providing a recurring say-on-pay mechanism.",
+          "Marc N. Casper, Stephen Williamson and Michael D. Shafer adopted Rule 10b5-1 trading plans during the three months ended December 31, 2025.",
+          "The provided packet does not state executive stock ownership, performance-vesting metrics, or pay mix, so compensation alignment cannot be graded stronger from these facts alone."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Thermo Fisher provides investors with detailed SEC-based reporting on core financials, capital deployment, leadership, controls, and acquisition treatment. The proxy also gives business context by naming brands, customer use cases, colleague scale, R&D investment, and 2025 deployment between M&A and shareholder returns.",
+        "points": [
+          "SEC company facts report FY2025 revenue of $42.857 billion, net income of $5.995 billion, operating cash flow of $8.406 billion, and R&D expense of $1.337 billion.",
+          "The 2026 proxy describes customer use cases across life sciences research, analytical challenges, laboratory productivity, patient diagnostics, and medicine development and manufacturing.",
+          "The proxy names key brands serving pharma and biotech customers, including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD.",
+          "The 2025 10-K discloses that the Solventum filtration and separation acquisition was excluded from internal-control assessment and represented about 1% of assets and revenues."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures identify the director nominee slate, audit process, internal-control conclusion, and shareholder votes, but the packet does not provide independence classifications or committee composition beyond the Audit Committee auditor selection. The combined Chairman, President and CEO role is explicit, while audit ratification and internal-control reporting give investors concrete oversight checkpoints.",
+        "points": [
+          "The 2026 proxy lists director nominees Marc N. Casper, Nelson J. Chai, Ruby R. Chandy, C. Martin Harris, Tyler Jacks, Jennifer M. Johnson, R. Alexandra Keith, Karen S. Lynch, Debora L. Spar, Scott M. Sperling and Dion J. Weisler.",
+          "Shareholders are asked to ratify the Audit Committee's selection of PricewaterhouseCoopers LLP as the independent auditor for 2026.",
+          "Management concluded internal control over financial reporting was effective as of December 31, 2025, according to the 2025 10-K.",
+          "The internal-control assessment excluded the Solventum filtration and separation business acquired in September 2025, disclosed as about 1% of 2025 consolidated assets and revenues."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Workflow breadth across science customers",
+        "grade": "strong",
+        "summary": "Thermo Fisher serves customers across life sciences research, complex analytical challenges, laboratory productivity, patient diagnostics, and the development and manufacture of medicines. That breadth is tied to named brands including Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific, Unity Lab Services, Patheon and PPD, making the business less dependent on one product category."
+      },
+      {
+        "type": "Scale and reinvestment capacity",
+        "grade": "strong",
+        "summary": "The company operates at large scale, with SEC company facts reporting FY2025 revenue of $42.857 billion and the proxy citing more than 120,000 colleagues. Its FY2025 operating cash flow of $8.406 billion, free cash flow of $6.34 billion, and R&D expense of $1.337 billion support continued reinvestment across its science platform."
+      },
+      {
+        "type": "Operating system discipline",
+        "grade": "middle",
+        "summary": "Thermo Fisher's PPI Business System is described in the proxy as a deeply ingrained philosophy of operational excellence. Combined with a rolling 5-year strategic plan and annual goal tree, it gives the company a repeatable management process for a business spanning research tools, diagnostics, services, and medicine manufacturing support."
+      },
+      {
+        "type": "M&A platform breadth",
+        "grade": "middle",
+        "summary": "Thermo Fisher uses acquisitions to extend its platform, committing $13 billion to M&A in 2025. The Filtration and Separation business acquired from Solventum and the agreement to acquire Clario, described as an endpoint data solutions provider for clinical trials, show management adding adjacent capabilities to existing science workflows."
+      }
+    ]
+  }
+}

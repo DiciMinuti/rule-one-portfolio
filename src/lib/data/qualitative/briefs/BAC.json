@@ -1,0 +1,91 @@
+{
+  "symbol": "BAC",
+  "companyName": "Bank of America",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Bank of America is led by a long-tenured CEO, Brian T. Moynihan, who has been CEO and a director since January 2010 and Chair since October 2014. The senior team also changed in 2025, with Dean C. Athanasia and James P. DeMare becoming Co-Presidents and Alastair M. Borthwick becoming CFO.",
+        "points": [
+          "Brian T. Moynihan has led the company as Chief Executive Officer since January 2010 and also serves as Chair, giving him long operating history across credit, markets, and regulatory cycles.",
+          "Dean C. Athanasia and James P. DeMare became Co-Presidents in September 2025 after running Regional Banking and Global Markets, respectively, bringing segment-level experience into top leadership.",
+          "Alastair M. Borthwick became Chief Financial Officer in September 2025, while Geoffrey S. Greener has served as Chief Risk Officer since April 2014, providing continuity in risk leadership."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Bank of America manages a very large balance sheet, with FY2025 stockholders' equity of $273.197 billion, long-term debt of $283.279 billion, and operating cash flow of $44.982 billion. The packet supports scale and profitability, but it does not provide enough detail on buybacks, dividends, or acquisition discipline to grade capital allocation as strong.",
+        "points": [
+          "For FY2025, Bank of America reported $102.769 billion of revenue, $26.305 billion of net income, and $44.982 billion of operating cash flow, showing large internal earnings generation.",
+          "At December 31, 2025, the company reported book value per share of $38.44 and tangible book value per share of $28.73 across 7.212464 billion ending common shares.",
+          "The proxy appendix reconciled 2025 average shareholders' equity of $298.474 billion to average tangible common shareholders' equity of $204.372 billion after specified deductions.",
+          "Long-term debt was $283.279 billion at FY2025, slightly above reported stockholders' equity of $273.197 billion, making funding, asset quality, and interest-rate management central allocation issues."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The proxy states that the Board focuses executive compensation on long-term shareholder value creation, performance, appropriate risk-taking, and pay-for-performance principles. Alignment is supported by shareholder-approved equity plans, but the packet does not include insider ownership levels, realized pay outcomes, or total capital-return history.",
+        "points": [
+          "The Lead Independent Director's proxy letter says executive compensation is designed around long-term shareholder value creation, performance, appropriate risk-taking, and pay-for-performance principles.",
+          "At December 31, 2025, 276,043,362 shares were issuable under outstanding options, warrants, and rights under shareholder-approved equity compensation plans.",
+          "Bank of America reported 198,266,120 shares remaining for future issuance under shareholder-approved equity plans and no equity compensation plans not approved by shareholders.",
+          "The company has an Insider Trading Policy covering directors, officers, employees, and the company itself for purchases, sales, and other dispositions of Bank of America securities."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Bank of America provides detailed public reporting through its Form 10-K, SEC company facts, XBRL tags, and proxy appendix. The disclosures include segment-like business categories, fee income categories, derivative exposures, risk tags, tangible equity reconciliations, controls conclusions, and a specific sanctions-related transaction disclosure.",
+        "points": [
+          "The 2025 Form 10-K XBRL data identifies loan categories including residential mortgage, junior-lien home equity, credit card and other unsecured consumer, vehicle, and commercial portfolios.",
+          "The company discloses fee and noninterest income categories such as interchange fees, deposit-related service charges, asset management fees, brokerage fees, underwriting income, and advisory services.",
+          "Bank of America separately reported 2025 sales and trading revenue of $20.871 billion, net DVA losses of $35 million, and sales and trading revenue excluding net DVA of $20.906 billion.",
+          "The proxy appendix reconciles average shareholders' equity to average tangible common shareholders' equity, including deductions for goodwill, intangible assets, deferred tax liabilities, and preferred stock.",
+          "The 2025 10-K disclosed one Q4 authorized OFAC-related wire payment totaling $3,254 and stated there was no measurable gross revenue or net profit except nominal processing fees."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has formal independent oversight through Lead Independent Director Lionel L. Nowell III and regular executive sessions of independent directors. The structure also concentrates authority because Brian T. Moynihan is both Chair and CEO, making the lead independent director and risk oversight especially important for shareholders.",
+        "points": [
+          "Lionel L. Nowell III is identified as Lead Independent Director and stated that independent directors met regularly in executive session without management present.",
+          "The Lead Independent Director said independent directors engage with management on performance, risk management, strategic direction, and corporate culture.",
+          "Brian T. Moynihan serves as both Chair and Chief Executive Officer, so board-level independent oversight is an important counterweight within the governance structure.",
+          "The company's disclosed risk areas include interest-rate risk, foreign-currency risk, commodity price risk, mortgage activity risk, and credit risk on loans.",
+          "As of the end of 2025, the CEO and CFO concluded disclosure controls and procedures were effective, with no reported Q4 internal-control changes that materially affected financial reporting."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Balance sheet and revenue scale",
+        "grade": "strong",
+        "summary": "Bank of America has scale that few financial institutions can replicate, with FY2025 revenue of $102.769 billion, net income of $26.305 billion, and stockholders' equity of $273.197 billion. That scale supports a broad banking and non-banking platform serving people, companies, and institutions across multiple financial needs."
+      },
+      {
+        "type": "Diversified product and income mix",
+        "grade": "strong",
+        "summary": "The company earns from many categories, including consumer loans, residential mortgages, credit cards, vehicle loans, commercial portfolios, interchange fees, deposit service charges, asset management fees, brokerage fees, underwriting, syndication, and advisory services. This breadth reduces dependence on a single product line, though it also creates complexity and multiple risk exposures."
+      },
+      {
+        "type": "Integrated lines of business",
+        "grade": "middle",
+        "summary": "Bank of America says it goes to market through eight lines of business designed for specific client groups while collaborating through shared insights, coordinated strategies, and a seamless client experience. The packet supports a broad operating model, but it does not quantify cross-sell rates, retention, customer counts, or segment market share."
+      },
+      {
+        "type": "Markets and trading platform",
+        "grade": "middle",
+        "summary": "The company reported 2025 sales and trading revenue excluding net DVA of $20.906 billion and discloses activity across interest rate, foreign exchange, equity, commodity, and credit derivatives. This points to a sizable institutional markets capability, but trading results remain exposed to market, derivative, and risk-management conditions."
+      }
+    ]
+  }
+}

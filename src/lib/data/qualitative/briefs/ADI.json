@@ -1,0 +1,90 @@
+{
+  "symbol": "ADI",
+  "companyName": "Analog Devices",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "ADI is led by Vincent Roche, who serves as both Chief Executive Officer and Chair of the Board, with Richard C. Puccio, Jr. as Executive Vice President and Chief Financial Officer. Management is steering the company around analog, digital, AI, and software solutions for automation and robotics, mobility, energy and data centers, and healthcare.",
+        "points": [
+          "Vincent Roche signs the 10-K as Chief Executive Officer and Chair, giving one named leader responsibility across both executive leadership and board leadership.",
+          "Richard C. Puccio, Jr. is identified as Executive Vice President and Chief Financial Officer, anchoring financial reporting for a business with FY2025 revenue of $12.306 billion.",
+          "The proxy says ADI combines analog, digital, AI, and software technologies into solutions, tying leadership strategy directly to the company's semiconductor product direction.",
+          "The board letter says ADI is putting AI in and around products and also using AI internally to improve productivity and operational efficiency."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "ADI's capital allocation starts from a large cash-generating base: FY2025 operating cash flow was $4.818 billion and proxy free cash flow was $4.279 billion, equal to 39% of revenue. The proxy appendix says free cash flow is used for debt repayment, investments, acquisitions, and other activities, while the company also spent $1.660 billion on R&D.",
+        "points": [
+          "FY2025 free cash flow of $4.279 billion, or 39% of revenue, gives ADI room to fund internal development while managing balance-sheet obligations.",
+          "The proxy appendix says free cash flow is used to repay debt obligations, make investments, fund acquisitions, and for certain other activities.",
+          "ADI reported FY2025 research and development expense of $1.660 billion, a meaningful reinvestment level for its analog, digital, AI, and software product strategy.",
+          "The balance sheet included $1.991 billion of cash and cash equivalents and $6.634 billion of long-term debt at FY2025 year-end."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports basic alignment mechanisms, including equity-based compensation plans and shareholder votes on pay and equity authorization. However, it does not provide named executive ownership, insider buying, dividend history, repurchase amounts, or detailed incentive metrics, so alignment is supported but not proven at a high-conviction level.",
+        "points": [
+          "The 10-K lists a 2020 Equity Incentive Plan and an Amended & Restated 2022 Employee Stock Purchase Plan among compensation-related exhibits.",
+          "At the 2026 annual meeting, shareholders are scheduled to vote on say-on-pay and an amended and restated 2020 equity incentive plan.",
+          "The proxy's risk language specifically includes indebtedness and the ability to pay dividends or repurchase shares, connecting capital returns to balance-sheet and business conditions.",
+          "ADI had 489,654,097 common shares outstanding as of November 1, 2025, giving investors a concrete share-count baseline for dilution monitoring."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "ADI gives investors concrete financial and operating disclosures through SEC filings, proxy appendices, and audited controls. The packet includes GAAP figures, non-GAAP margin metrics, free cash flow, fiscal year timing, annual meeting voting items, and risk-factor categories, which together give investors several ways to track performance and governance decisions.",
+        "points": [
+          "The 10-K states ADI's fiscal year ended November 1, 2025, and SEC company facts show FY2025 revenue, net income, operating cash flow, debt, cash, and equity.",
+          "The 2026 proxy appendix reports both GAAP and adjusted profitability metrics, including gross margin of 61.5%, adjusted gross margin of 69.3%, operating margin of 26.6%, and adjusted operating margin of 41.9%.",
+          "ADI discloses free cash flow in the proxy appendix, reporting FY2025 free cash flow of $4.279 billion, equal to 39% of revenue.",
+          "The 2026 proxy states shareholders will vote on director elections, say-on-pay, auditor ratification, an amended equity incentive plan, and a shareholder proposal."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has formal controls and policies, including an effective internal-control conclusion, Ernst & Young audit attestation, a code of business conduct and ethics, and an insider trading policy. The main caution is structural: Vincent Roche is both CEO and Chair, and the packet does not provide board independence, committee composition, or executive ownership detail.",
+        "points": [
+          "Management concluded, and Ernst & Young attested, that ADI's internal control over financial reporting was effective as of November 1, 2025.",
+          "The 10-K says ADI has a written code of business conduct and ethics and an insider trading policy applying to relevant officers, directors, and employees.",
+          "Vincent Roche is identified as both Chief Executive Officer and Chair of the Board, so investors should note the combined executive and board leadership role.",
+          "The proxy's forward-looking statement section lists risks including tariffs, trade restrictions, semiconductor demand changes, supply chain disruptions, cybersecurity incidents, AI-related risks, litigation, indebtedness, and capital-return capacity."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Product breadth across analog, digital, AI, and software",
+        "grade": "strong",
+        "summary": "ADI's moat is supported by a product strategy that combines analog, digital, artificial intelligence, and software technologies into solutions for customer challenges. The proxy ties these solutions to automation and robotics, mobility, energy and data centers, and healthcare, giving the company exposure to multiple complex end markets rather than a single semiconductor niche."
+      },
+      {
+        "type": "R&D-backed innovation engine",
+        "grade": "middle",
+        "summary": "ADI spent $1.660 billion on research and development in FY2025, supporting its strategy of adding AI in and around products and making them easier for customers to adopt and deploy. This R&D base is a concrete advantage, though the packet does not provide patent counts, design-win data, or product-cycle evidence."
+      },
+      {
+        "type": "Financial scale and profitability",
+        "grade": "strong",
+        "summary": "ADI operates at significant scale, with FY2025 revenue of $12.306 billion, net income of $3.315 billion, and operating cash flow of $4.818 billion. The proxy appendix also reported adjusted gross margin of 69.3% and adjusted operating margin of 41.9%, suggesting the business has attractive economics for a semiconductor company."
+      },
+      {
+        "type": "Cash generation for reinvestment",
+        "grade": "strong",
+        "summary": "ADI reported FY2025 free cash flow of $4.279 billion, equal to 39% of revenue, giving it substantial internally generated funding. The proxy appendix says free cash flow can be used to repay debt obligations, make investments, fund acquisitions, and support other activities, which can reinforce the product and technology base over time."
+      }
+    ]
+  }
+}

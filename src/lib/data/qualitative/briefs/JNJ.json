@@ -1,0 +1,91 @@
+{
+  "symbol": "JNJ",
+  "companyName": "Johnson & Johnson",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Johnson & Johnson is led by named executives with clear public accountability in the 2025 Form 10-K: Joaquin Duato as Chairman and CEO, Joseph J. Wolk as CFO, and R. J. Decker Jr. as Controller and Chief Accounting Officer. The leadership team is managing a large healthcare portfolio focused on Oncology, Immunology, Neuroscience, Cardiovascular, Surgery, and Vision.",
+        "points": [
+          "Joaquin Duato signed the 2025 Form 10-K as both Chairman of the Board and Chief Executive Officer, placing operating leadership and board chair responsibilities with one executive.",
+          "Joseph J. Wolk signed as Chief Financial Officer, while R. J. Decker Jr. signed as Controller and Chief Accounting Officer, identifying financial reporting responsibility at senior levels.",
+          "The proxy frames growth around six businesses: Oncology, Immunology, Neuroscience, Cardiovascular, Surgery, and Vision, giving investors a clear view of management's strategic focus.",
+          "Management is also pursuing a separation of the Orthopaedics business, which the Lead Independent Director said is expected to improve focus and shift toward higher-growth markets."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Johnson & Johnson has substantial capital allocation capacity, supported by FY2025 revenue of $85.159 billion, net income of $35.153 billion, operating cash flow of $22.791 billion, and about $20 billion of free cash flow as defined in the proxy. Management combines shareholder returns with innovation investment and portfolio reshaping, including 63 years of dividend increases and the planned Orthopaedics separation.",
+        "points": [
+          "The company reported approximately $20 billion in 2025 free cash flow, defined as operating cash flow less additions to property, plant and equipment.",
+          "Johnson & Johnson reported 63 years of dividend increases, showing a long record of returning cash to shareholders through regular dividend growth.",
+          "The proxy says the company invested approximately $32 billion in research and inorganic innovation, tying capital allocation to both internal development and external opportunities.",
+          "The balance sheet included $24.105 billion of cash and equivalents and $30.651 billion of long-term debt for FY2025, giving investors concrete leverage and liquidity context."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Executive pay is explicitly linked to operating and shareholder outcomes through base salary, annual incentives, and long-term incentives. For named executive officers, performance share units are 60% of the long-term incentive mix and use a three-year performance period tied to cumulative adjusted operational EPS and relative total shareholder return.",
+        "points": [
+          "Annual incentive payouts are based on business and individual performance, which links a portion of executive compensation to operating execution rather than only fixed pay.",
+          "Long-term incentives are designed to motivate long-term operational goals, total shareholder return, share price growth, and executive retention, according to the 2026 proxy.",
+          "For named executive officers, performance share units represent 60% of the long-term incentive mix and measure three-year cumulative adjusted operational EPS and relative TSR.",
+          "The company reported no equity compensation plans not approved by security holders, and all listed outstanding options and rights were under shareholder-approved plans."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Johnson & Johnson provides detailed SEC reporting on financial results, controls, equity compensation, litigation reserves, and strategic priorities. The packet includes FY2025 revenue, net income, operating cash flow, debt, cash, R&D expense, product-platform scale, regulatory approvals, clinical readouts, Phase 3 starts, launches, and active clinical trials.",
+        "points": [
+          "The company filed FY2025 revenue of $85.159 billion, net income of $35.153 billion, and operating cash flow of $22.791 billion in SEC company facts.",
+          "The 2026 proxy disclosed 28 Innovative Medicine products and MedTech platforms with more than $1 billion in annual sales, split between 15 products and 13 platforms.",
+          "Innovation reporting included 51 Innovative Medicine regulatory approvals, 40+ MedTech regulatory approvals, 32 regulatory submissions, 17 positive key-study readouts, and 11 new Phase 3 programs.",
+          "The 2025 Form 10-K disclosed a talc reserve present value of approximately $3.4 billion and stated management could not estimate losses beyond accrued amounts."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has several investor-friendly structures, including a mostly independent board, a Lead Independent Director, shareholder-approved equity plans, audited internal controls, and disclosure-control certifications by Joaquin Duato and Joseph J. Wolk. The grade is held to middle because investors must also weigh major named risks, including talc litigation, patent challenges, regulatory uncertainty, manufacturing delays, product safety concerns, and Orthopaedics separation execution.",
+        "points": [
+          "The 2026 proxy listed 12 director nominees, stated all nominees were independent except Chairman and CEO Joaquin Duato, and reported average tenure of about five and a half years.",
+          "Marillyn A. Hewson served as Lead Independent Director, and independent directors extended her eligibility to serve two years beyond the company's retirement age.",
+          "Management concluded internal control over financial reporting was effective as of December 28, 2025, using the COSO 2013 framework, with PricewaterhouseCoopers LLP auditing effectiveness.",
+          "Joaquin Duato and Joseph J. Wolk participated in evaluating disclosure controls and procedures and concluded they were effective as of the 2025 Form 10-K period end.",
+          "Governance oversight must account for significant risks named in filings, including adverse litigation or government action, healthcare cost containment, patent expirations, and product safety concerns."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scaled healthcare portfolio",
+        "grade": "strong",
+        "summary": "Johnson & Johnson's portfolio has unusual breadth across Innovative Medicine and MedTech, with 28 products and platforms exceeding $1 billion in annual sales. Those include 15 Innovative Medicine products and 13 MedTech platforms, reducing dependence on a single product family while keeping the business concentrated in large healthcare categories."
+      },
+      {
+        "type": "Clinical and regulatory development engine",
+        "grade": "strong",
+        "summary": "The company's moat is supported by a large innovation pipeline across regulated healthcare markets. In 2025, Johnson & Johnson reported 51 Innovative Medicine regulatory approvals in major markets, 40+ MedTech regulatory approvals, 32 regulatory submissions, 17 positive key-study readouts, 11 new Phase 3 programs, 15 launches, and more than 60 active clinical trials."
+      },
+      {
+        "type": "Cash generation supporting reinvestment",
+        "grade": "strong",
+        "summary": "Johnson & Johnson's FY2025 operating cash flow of $22.791 billion and approximately $20 billion of free cash flow give it substantial capacity to fund research, acquisitions, dividends, and portfolio actions. The proxy also reported approximately $32 billion invested in research and inorganic innovation, reinforcing the company's ability to replenish its healthcare portfolio."
+      },
+      {
+        "type": "Diversification across priority therapeutic and procedure categories",
+        "grade": "middle",
+        "summary": "The proxy identifies six key businesses driving growth: Oncology, Immunology, Neuroscience, Cardiovascular, Surgery, and Vision. This mix gives Johnson & Johnson exposure to both Innovative Medicine and MedTech markets, though filings also name risks from clinical success, regulatory approvals, patent challenges, manufacturing delays, and commercial success of new and existing products."
+      }
+    ]
+  }
+}

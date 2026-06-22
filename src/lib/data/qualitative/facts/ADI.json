@@ -1,0 +1,142 @@
+{
+  "symbol": "ADI",
+  "companyName": "Analog Devices",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business description",
+      "statement": "Analog Devices is described in its SEC submissions as a semiconductor company, and its 10-K says it is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge.",
+      "source": "SEC submissions metadata; 10-K filed 2025-11-25"
+    },
+    {
+      "topic": "product strategy",
+      "statement": "The proxy statement says ADI combines analog, digital, artificial intelligence (AI), and software technologies into solutions for customer challenges.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "end markets",
+      "statement": "The proxy statement says ADI's solutions are aimed at advancements in automation and robotics, mobility, energy and data centers, and healthcare.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "management commentary on AI",
+      "statement": "The board letter says ADI is placing AI in and around its products to enhance them and make them easier for customers to adopt and deploy, and is also leveraging AI within operations to improve productivity and operational efficiency.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "reported revenue scale",
+      "statement": "For FY2025, SEC company facts show revenue of $12.306 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "profitability",
+      "statement": "For FY2025, SEC company facts show net income of $3.315 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "For FY2025, SEC company facts show operating cash flow of $4.818 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "R&D investment",
+      "statement": "For FY2025, SEC company facts show research and development expense of $1.660 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "balance sheet equity",
+      "statement": "For FY2025, SEC company facts show stockholders' equity of $35.176 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "debt",
+      "statement": "For FY2025, SEC company facts show long-term debt of $6.634 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "For FY2025, SEC company facts show cash and cash equivalents of $1.991 billion.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "market listing",
+      "statement": "ADI's common stock is listed on Nasdaq Global Select Market under the ticker ADI.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "fiscal year end",
+      "statement": "The 10-K states ADI's fiscal year ended November 1, 2025.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "aggregate market value",
+      "statement": "The 10-K states the aggregate market value of voting and non-voting common equity held by non-affiliates was approximately $81.121 billion based on the May 3, 2025 closing price.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "shares outstanding",
+      "statement": "The 10-K states there were 489,654,097 shares of common stock outstanding as of November 1, 2025.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "internal controls",
+      "statement": "Management concluded, and Ernst & Young attested, that ADI's internal control over financial reporting was effective as of November 1, 2025.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "non-GAAP margin disclosure",
+      "statement": "In the 2026 proxy appendix, ADI reported FY2025 gross margin of 61.5% and adjusted gross margin of 69.3%.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "operating margin disclosure",
+      "statement": "In the 2026 proxy appendix, ADI reported FY2025 operating margin of 26.6% and adjusted operating margin of 41.9%.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "free cash flow",
+      "statement": "In the 2026 proxy appendix, ADI reported FY2025 free cash flow of $4.279 billion, equal to 39% of revenue.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "The proxy appendix says free cash flow is used to repay debt obligations, make investments, fund acquisitions, and for certain other activities.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "stock compensation",
+      "statement": "The 10-K lists a 2020 Equity Incentive Plan and an Amended & Restated 2022 Employee Stock Purchase Plan among its compensation-related exhibits.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 10-K says ADI has adopted a written code of business conduct and ethics and an insider trading policy, both applying to relevant officers, directors, and employees.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "board leadership",
+      "statement": "The 10-K signature page identifies Vincent Roche as Chief Executive Officer and Chair of the Board of Directors.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "CFO identity",
+      "statement": "The 10-K signature page identifies Richard C. Puccio, Jr. as Executive Vice President and Chief Financial Officer.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "independent auditor",
+      "statement": "The 10-K identifies Ernst & Young LLP, Boston, Massachusetts, as ADI's independent registered accounting firm.",
+      "source": "10-K filed 2025-11-25"
+    },
+    {
+      "topic": "shareholder meeting",
+      "statement": "The 2026 proxy states ADI's annual meeting is scheduled for March 11, 2026, and shareholders will vote on director elections, say-on-pay, auditor ratification, an amended and restated 2020 equity incentive plan, and a shareholder proposal.",
+      "source": "DEF 14A filed 2026-01-23"
+    },
+    {
+      "topic": "risk factors",
+      "statement": "The proxy's forward-looking statement section lists risks including tariffs and trade restrictions, semiconductor demand changes, supply chain disruptions, cybersecurity incidents, AI-related risks, litigation, indebtedness, and the ability to pay dividends or repurchase shares.",
+      "source": "DEF 14A filed 2026-01-23"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "symbol": "SCCO",
+  "companyName": "Southern Copper",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business identity",
+      "statement": "Southern Copper Corporation is identified in SEC submissions as a metal mining company listed on the NYSE under ticker SCCO.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0001001838.json"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "The company reported FY2025 revenue of $9.8958 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001001838.json"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "The company reported FY2025 operating cash flow of $3.5731 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001001838.json"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "At FY2025, the company reported stockholders' equity of $9.1716 billion, long-term debt of $5.7585 billion, and cash and equivalents of $3.2581 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001001838.json"
+    },
+    {
+      "topic": "profitability",
+      "statement": "The source set includes a company facts entry for net income of $929.381 million for FY2011.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001001838.json"
+    },
+    {
+      "topic": "capital structure",
+      "statement": "The 10-K states that Southern Copper had 826,065,041 shares of common stock outstanding and entitled to vote at the April 2, 2026 record date for the 2026 annual meeting.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "board composition",
+      "statement": "At its January 22, 2026 meeting, the board fixed the number of directors at nine; after the death of Oscar Gonzalez Rocha, eight nominees were put forward for the 2026 annual meeting.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "director nominees",
+      "statement": "The eight director nominees listed for election in 2026 were Vicente Ariztegui Andreve, Javier Arrigunaga Gomez del Campo, Enrique Castillo Sánchez Mejorada, Leonardo Contreras Lerdo de Tejada, Germán Larrea Mota-Velasco, Luis Miguel Palomino Bonilla, Carlos Ruiz Sacristán, and Jose Pedro Valenzuela Rionda.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "leadership succession",
+      "statement": "The 2026 proxy says the unexpected passing of former President and CEO Oscar Gonzalez Rocha on April 13, 2026 triggered the company's succession plan and led to the appointment of Leonardo Contreras Lerdo de Tejada as Interim Chief Executive Officer.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "management names",
+      "statement": "The 10-K signature block names Oscar Gonzalez Rocha as President and Chief Executive Officer, Raul Jacob Ruisanchez as Vice President, Finance, Treasurer and Chief Financial Officer, and Lina A. Vingerhoets Vilca as Comptroller (Principal Accounting Officer).",
+      "source": "10-K filed 2026-02-27; https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+    },
+    {
+      "topic": "board chair",
+      "statement": "The 10-K signature block names German Larrea Mota-Velasco as Chairman of the Board and Director.",
+      "source": "10-K filed 2026-02-27; https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+    },
+    {
+      "topic": "insider trading policy",
+      "statement": "The company says it adopted a Securities Law Compliance Policy covering the handling of material non-public information and the purchase, sale, and other dispositions of SCC securities for directors, officers, employees, and other covered individuals.",
+      "source": "10-K filed 2026-02-27; https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+    },
+    {
+      "topic": "executive compensation philosophy",
+      "statement": "The proxy states that the company's compensation objectives are to encourage achievement of business objectives and superior corporate performance, and to reward and retain executives with key core competencies critical to its long-term management strategy.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "director compensation",
+      "statement": "Non-employee directors receive $20,000 per year in cash, $13,000 for in-person board meeting attendance, $6,000 for committee attendance, and $1,000 for participation by telephone conference; they are also reimbursed for meeting-related expenses.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "equity compensation for directors",
+      "statement": "The Directors' Stock Award Plan provides non-employee directors 1,600 shares upon election to the board and 1,600 additional shares per year thereafter, with quarterly 400-share awards contingent on attendance and, starting in the first quarter of 2026, an additional 200 shares contingent on full-year board attendance.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "board attendance",
+      "statement": "The proxy says the board met four times at regularly scheduled meetings in 2025 and that all directors had 100% attendance at those meetings; each director attended or participated in at least 75% of combined board and committee meetings they served on during 2025.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "audit arrangement",
+      "statement": "The company states that Galaz, Yamazaki, Ruiz Urquiza S.C. has been its independent accountant since 2009 and that the board asked stockholders to ratify its selection for calendar year 2026.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "shareholder voting mechanics",
+      "statement": "For the 2026 annual meeting, election of directors required a plurality of votes cast, while ratification of the independent accountants and the advisory vote on executive compensation required a majority of votes cast; the executive pay vote was non-binding.",
+      "source": "DEF 14A filed 2026-04-17; https://www.sec.gov/Archives/edgar/data/1001838/000110465926044982/scco-20260529xdef14a.htm"
+    },
+    {
+      "topic": "related-party / affiliation context",
+      "statement": "The 10-K and proxy materials reference affiliated entities including Grupo Mexico SAB de CV and several other Grupo Mexico-related companies in the company's disclosure and exhibit index.",
+      "source": "10-K filed 2026-02-27; https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "symbol": "KO",
+  "companyName": "Coca-Cola",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Coca-Cola is led by James Quincey, identified in the 2025 10-K as Chairman and Chief Executive Officer, with John Murphy as President and Chief Financial Officer. The 2026 proxy describes an active CEO succession, with Quincey preparing to pass leadership to Henrique Braun, who joined Coca-Cola 30 years earlier.",
+        "points": [
+          "James Quincey's 2026 proxy letter frames the company as a total beverage company with about 200 focused brands, not just the owner of one iconic drink.",
+          "The leadership transition is named and specific: Quincey said this was his last CEO letter and that Henrique Braun was being prepared as successor.",
+          "The executive officer group identified in the 2025 10-K includes John Murphy as President and CFO and Erin L. May as Controller and Chief Accounting Officer."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Coca-Cola generates large cash flow, with FY2025 revenue of $45.754 billion, net income of $10.714 billion, and operating cash flow of $11.599 billion reported in SEC company facts. The packet also shows significant capital needs and obligations, including $2.112 billion of 2025 property, plant and equipment purchases and $36.377 billion of long-term debt reported for FY2023.",
+        "points": [
+          "The 2026 proxy Annex C reports 2025 free cash flow of $5.296 billion after $2.112 billion of purchases of property, plant and equipment.",
+          "Annex C also reports free cash flow excluding the fairlife contingent consideration payment of $11.365 billion, making that payment a notable item for investors to separate.",
+          "The company reported $9.366 billion of cash and equivalents and $24.856 billion of stockholders' equity for FY2025 in SEC company facts.",
+          "The provided packet does not include dividends, share repurchases, acquisition prices, or return-on-invested-capital data, so capital return discipline cannot be fully judged here."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Coca-Cola's compensation program ties annual cash incentives to predefined performance measures and caps any participant's annual payment at $10 million. Long-term incentive tools include stock options, PSUs, restricted stock, RSUs, performance-based awards, SARs, and other stock-based awards, but the packet does not provide ownership levels or realized pay outcomes.",
+        "points": [
+          "The Annual Incentive Plan uses predefined performance measures, which gives shareholders a stated link between annual cash pay and company performance goals.",
+          "No participant in the Annual Incentive Plan may receive more than $10 million for an annual payment, according to the 2026 proxy.",
+          "Long-term incentive plans may use multiple equity-linked vehicles, including stock options, PSUs, restricted stock, RSUs, SARs, and performance-based awards.",
+          "The 2026 proxy states no named executive officer received RSUs or a performance cash award in 2025, an important detail for evaluating that year's pay mix."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Coca-Cola provides investors with standard SEC reporting plus detailed proxy disclosures on strategy, succession, compensation, and non-GAAP cash flow reconciliation. The 2025 10-K iXBRL text identifies reporting contexts for geographic segments, concentrate and finished product operations, and major bottling-related equity method investees.",
+        "points": [
+          "The 2025 10-K identifies reporting contexts for Europe, Middle East & Africa, Latin America, North America, Asia Pacific, and Bottling Investments.",
+          "The 10-K iXBRL text includes contexts for both concentrate operations and finished product operations, including U.S. and non-U.S. member tags.",
+          "The 2026 proxy Annex C reconciles operating cash flow, capital expenditures, free cash flow, and free cash flow excluding the fairlife contingent consideration payment.",
+          "The proxy letter gives investors specific operating context, including 2.2 billion daily servings, more than 200 countries and territories, 32 billion-dollar brands, and about 200 total brands."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "The 2026 proxy card lists 12 director nominees and the Board recommended voting for all of them, for advisory approval of executive compensation, and for ratifying Ernst & Young LLP as independent auditor for fiscal 2026. Governance disclosures also show board-level handling of shareholder proposals on sustainability, plastics packaging, DEI, ingredients, and sustainability disclosure.",
+        "points": [
+          "The 12 director nominees are Herb Allen, Bela Bajaria, Ana Botín, Henrique Braun, Christopher C. Davis, Carolyn Everson, Thomas S. Gayner, Max Levchin, Amity Millhiser, James Quincey, Caroline J. Tsay, and David B. Weinberg.",
+          "James Quincey is both Chairman and Chief Executive Officer in the 2025 10-K signatures, while Henrique Braun appears as a 2026 director nominee and planned CEO successor.",
+          "The 2025 10-K exhibit list includes Coca-Cola's Incentive Based Compensation Recoupment Policy as Exhibit 97, incorporated from the 2023 Form 10-K.",
+          "The Board recommended votes against shareholder proposals seeking additional action or reports on sustainability governance, plastics packaging, DEI, ingredients, and sustainability disclosure."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Brand portfolio and beverage reach",
+        "grade": "strong",
+        "summary": "Coca-Cola's moat is anchored in a broad beverage portfolio with 32 billion-dollar brands and approximately 200 focused brands. The 2026 proxy says its drinks are enjoyed 2.2 billion times per day across more than 200 countries and territories, giving the company unusually broad consumer reach for a beverage business."
+      },
+      {
+        "type": "Global bottling and distribution system",
+        "grade": "strong",
+        "summary": "Coca-Cola operates through a networked organization that combines global scale with local market expertise, supported by bottling partners investing for growth. The 2025 10-K references major equity method or investee relationships including Coca-Cola Europacific Partners, Coca-Cola FEMSA, Coca-Cola HBC, Coca-Cola Bottlers Japan, Coca-Cola Icecek, Andina, and Monster."
+      },
+      {
+        "type": "Marketing and disciplined innovation",
+        "grade": "middle",
+        "summary": "The company has continued to develop large beverage brands, with James Quincey's 2026 proxy letter stating that Coca-Cola added 12 billion-dollar brands since 2017. The same letter says marketing has become digital-first and consumer-centric, with digital representing a majority of media investment in 2025."
+      },
+      {
+        "type": "Concentrate and finished-product operating model",
+        "grade": "middle",
+        "summary": "The 2025 10-K iXBRL text includes reporting contexts for both concentrate operations and finished product operations, including U.S. and non-U.S. member tags. This structure matters because Coca-Cola is not only a brand owner; it also reports across operating models and regions tied to its global beverage system."
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "symbol": "DIS",
+  "companyName": "Walt Disney",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business description",
+      "statement": "The company is classified in the SEC submissions metadata under SIC description 'Services-Miscellaneous Amusement & Recreation' and is listed on the NYSE under ticker DIS.",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0001744489.json"
+    },
+    {
+      "topic": "fiscal 2025 revenue",
+      "statement": "Disney reported FY2025 revenues of $88.898 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json"
+    },
+    {
+      "topic": "fiscal 2025 profitability",
+      "statement": "Disney reported FY2025 net income of $2.354 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json"
+    },
+    {
+      "topic": "fiscal 2025 operating cash flow",
+      "statement": "Disney reported FY2025 net cash provided by operating activities of $9.866 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json"
+    },
+    {
+      "topic": "balance sheet strength",
+      "statement": "Disney reported stockholders' equity of $100.696 billion at FY2025.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json"
+    },
+    {
+      "topic": "debt and liquidity",
+      "statement": "Disney reported long-term debt of $38.970 billion and cash and equivalents of $14.182 billion at FY2025.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0001744489.json"
+    },
+    {
+      "topic": "segment structure",
+      "statement": "The 10-K and proxy materials identify Disney's operating businesses as Entertainment, Sports, and Experiences.",
+      "source": "10-K filed 2025-11-13 - https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm; DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "streaming profitability",
+      "statement": "In fiscal 2025, the Entertainment DTC business generated $1.3 billion in operating income.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "streaming product integration",
+      "statement": "Management said Disney is integrating Disney+ and Hulu into a unified one-app experience.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "sports distribution",
+      "statement": "Management said ESPN launched its full direct-to-consumer service and enhanced ESPN app, making ESPN's complete suite of networks and services available directly to consumers for the first time.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "content performance",
+      "statement": "Management stated that over the past two years Disney delivered six franchise films that each generated more than $1 billion at the global box office.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "box office scale",
+      "statement": "For calendar 2025, Disney said it released three films that each exceeded $1 billion globally and that its total global box office receipts exceeded $6.5 billion.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "experiences investment pipeline",
+      "statement": "Management said Disney has more expansion projects underway at its theme parks globally than ever before, including the largest expansion ever of Magic Kingdom at Walt Disney World, five additional cruise ships scheduled for launch beyond fiscal 2026, and a new theme park planned for development in Abu Dhabi.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "shareholder returns",
+      "statement": "Management said Disney increased its dividend by 50% to $1.50 and increased its target share repurchase by 100% in fiscal 2026.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "risk factors",
+      "statement": "The proxy statement says key risks include competitive pressure for content, talent and advertising; consumer acceptance of content, pricing and price increases; subscriber additions and churn; regulatory and legal developments; technological developments; labor markets and work stoppages; weather and natural disasters; and availability of content.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "legal risk",
+      "statement": "Disney disclosed active litigation including securities, fiduciary duty, antitrust, and other business-related claims, and said it cannot reasonably estimate the amount of any possible loss in certain cases.",
+      "source": "10-K filed 2025-11-13 - https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm"
+    },
+    {
+      "topic": "capital allocation and debt risk management",
+      "statement": "Disney uses interest-rate swaps, foreign-exchange hedges, and cross-currency swaps to manage interest rate and foreign exchange risk; as of September 27, 2025, net foreign exchange cash flow hedges totaled $9.3 billion and pay-floating interest rate swaps had a notional amount of $10.6 billion.",
+      "source": "10-K filed 2025-11-13 - https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm"
+    },
+    {
+      "topic": "lease footprint",
+      "statement": "Disney reported operating lease right-of-use assets of $3.170 billion and finance lease right-of-use assets of $221 million at September 27, 2025, with total lease liabilities of $3.397 billion.",
+      "source": "10-K filed 2025-11-13 - https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm"
+    },
+    {
+      "topic": "lease cost and cash use",
+      "statement": "Disney reported total lease cost of $1.348 billion in fiscal 2025 and cash paid for lease-related amounts of $974 million.",
+      "source": "10-K filed 2025-11-13 - https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm"
+    },
+    {
+      "topic": "fiscal 2025 segment operating income",
+      "statement": "The proxy statement's non-GAAP reconciliation shows total segment operating income of $17.551 billion for fiscal 2025.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "management compensation and succession oversight",
+      "statement": "The proxy statement says the Board's Succession Planning Committee leads management succession oversight, and the Board currently expects to announce the next CEO in early 2026.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "board and executive names disclosed",
+      "statement": "The proxy statement names Robert A. Iger as Chief Executive Officer and James P. Gorman as Chairman of the Board; it also identifies eleven director nominees for election at the 2026 annual meeting.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "executive compensation framework",
+      "statement": "The proxy statement says the Compensation Committee made targeted enhancements in fiscal 2025 to strengthen the link between executive compensation and performance and align incentives with shareholder interests.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    },
+    {
+      "topic": "principal shareholders",
+      "statement": "As of January 15, 2026, Disney disclosed The Vanguard Group as a holder of 8.5% of shares and BlackRock, Inc. as a holder of 6.9% of shares outstanding.",
+      "source": "DEF 14A filed 2026-01-22 - https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "symbol": "ORCL",
+  "companyName": "Oracle",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Oracle entered fiscal 2026 with a notable leadership change after Safra A. Catz retired as CEO on September 22, 2025 and became Executive Vice Chair. Clayton M. Magouyrk and Michael D. Sicilia were appointed CEOs, while Lawrence J. Ellison remained Chairman and Chief Technology Officer, keeping technical leadership tied closely to the board.",
+        "points": [
+          "Oracle's fiscal 2025 Form 10-K was signed by Safra A. Catz as CEO, Director, and Principal Executive and Financial Officer, showing her central role before the transition.",
+          "The proxy states Clayton M. Magouyrk and Michael D. Sicilia became CEOs on September 22, 2025, creating a co-CEO structure investors should watch through execution and reporting.",
+          "Lawrence J. Ellison remained Chairman of the Board and Chief Technology Officer, keeping Oracle's founder-level technology role formally connected to board leadership."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Oracle has large cash generation and continues to fund major product investment, with fiscal 2025 operating cash flow of $17.165 billion and R&D expense of $9.860 billion. The balance sheet also carries financing complexity, including referenced revolving and term loan agreements and fiscal 2025 interest expense of $3.578 billion.",
+        "points": [
+          "Oracle reported fiscal 2025 total revenue of $57.399 billion and net income of $12.443 billion, giving management a large earnings base for investment decisions.",
+          "Research and development expense was $9.860 billion in fiscal 2025, a significant allocation toward Oracle's applications, infrastructure, hardware, and services technology base.",
+          "The 10-K exhibit index references a $6.000 billion five-year revolving credit agreement and a $5.630 billion term loan credit agreement, while interest expense was $3.578 billion.",
+          "The cloud and license business produced $49.230 billion of fiscal 2025 revenue and $30.930 billion of reported segment margin before excluded costs and allocations."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet shows leadership and board-role alignment, but it does not provide executive ownership levels or compensation performance metrics. Oracle's board slate includes key operating leaders, and its governance guidelines include a majority voting and mandatory resignation policy for uncontested director elections.",
+        "points": [
+          "For the 2025 annual meeting, Oracle asked stockholders to elect 13 director nominees, including Lawrence J. Ellison, Safra A. Catz, Clayton M. Magouyrk, and Michael D. Sicilia.",
+          "After the CEO transition, Safra A. Catz became Executive Vice Chair of the Board, keeping the former CEO involved at board level rather than leaving management entirely.",
+          "Oracle's Corporate Governance Guidelines require a director nominee to tender resignation in an uncontested election if votes withheld are equal to or greater than votes for that nominee.",
+          "The provided packet does not include executive compensation structure or ownership percentages, so pay-for-performance and insider-ownership alignment cannot be assessed from these facts."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Oracle provides detailed operating disclosure across its three reported businesses: cloud and license, hardware, and services. The filings also break out cloud services and license support revenues, applications versus infrastructure cloud and support revenues, geographic revenue, and the exclusions embedded in reported segment margin.",
+        "points": [
+          "Oracle presents summary results for cloud and license, hardware, and services, while stating it does not track assets by business and cannot practically show assets by operating segment.",
+          "Fiscal 2025 cloud services and license support revenue is split into $24.506 billion of cloud services and $19.523 billion of license support, giving investors a clearer mix view.",
+          "Oracle separately reported $19.383 billion from applications cloud services and license support and $24.646 billion from infrastructure cloud services and license support in fiscal 2025.",
+          "The company defines segment margin as excluding items such as R&D, G&A, stock-based compensation, amortization, restructuring, interest expense, and certain non-operating items."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Oracle's governance disclosures include a 13-person director slate and a defined majority voting and mandatory resignation policy for uncontested elections. The packet also identifies a live Netherlands privacy class action involving Oracle's Data Management Platform product, which management says cannot be loss-estimated and is not expected to materially affect results.",
+        "points": [
+          "The 2025 director nominees included Lawrence J. Ellison, Safra A. Catz, Clayton M. Magouyrk, Michael D. Sicilia, Jeffrey O. Henley, and eight other nominees listed in the proxy.",
+          "Under Oracle's majority voting policy, the Board must act within 90 days after vote certification when a director resignation is triggered in an uncontested election.",
+          "Oracle disclosed a Netherlands privacy class action filed in 2020 alleging Data Management Platform violations of EU and Dutch privacy-related laws.",
+          "Oracle states it believes it has meritorious defenses in the Netherlands matter, cannot estimate a range of loss, and does not expect a material financial impact."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Enterprise software switching costs",
+        "grade": "strong",
+        "summary": "Oracle's moat is supported by large support and services revenue tied to customer use of its software and infrastructure. In fiscal 2025, license support revenue was $19.523 billion, and the services business generated $5.233 billion helping customers and partners maximize performance from Oracle applications and infrastructure technologies."
+      },
+      {
+        "type": "Applications and infrastructure ecosystem",
+        "grade": "strong",
+        "summary": "Oracle spans both applications and infrastructure, which gives customers multiple ways to standardize around its technology stack. In fiscal 2025, applications cloud services and license support produced $19.383 billion of revenue, while infrastructure cloud services and license support produced $24.646 billion."
+      },
+      {
+        "type": "Integrated hardware and software stack",
+        "grade": "middle",
+        "summary": "Oracle's hardware business extends the ecosystem beyond software into Engineered Systems, servers, storage, operating systems, virtualization, management, and related hardware software. The business generated $2.936 billion of fiscal 2025 revenue, with hardware support including software updates, repairs, maintenance, and technical support recognized ratably over contract terms."
+      },
+      {
+        "type": "Scale for product investment",
+        "grade": "strong",
+        "summary": "Oracle's $57.399 billion of fiscal 2025 revenue and $17.165 billion of operating cash flow give it substantial capacity to invest across cloud, license, hardware, and services. Fiscal 2025 R&D expense was $9.860 billion, directly supporting the technology base behind its applications and infrastructure offerings."
+      }
+    ]
+  }
+}

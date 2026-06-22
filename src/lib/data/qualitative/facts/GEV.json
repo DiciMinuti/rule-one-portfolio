@@ -1,0 +1,132 @@
+{
+  "symbol": "GEV",
+  "companyName": "GE Vernova",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Listing and industry classification",
+      "statement": "GE Vernova Inc. trades on the NYSE under ticker GEV and is classified in SEC submissions under \"Electronic & Other Electrical Equipment (No Computer Equip).\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001996810.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "GE Vernova describes itself as a global leader in the electric power industry, with products and services that generate, transfer, orchestrate, convert, and store electricity.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Installed base",
+      "statement": "GE Vernova states that its installed base generates approximately 25% of the world's electricity.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Strategy",
+      "statement": "GE Vernova's stated strategy includes serving and growing its installed base, improving margins and lowering risk through better underwriting, streamlining its product portfolio toward core workhorse products, using Lean to improve cost structure and productivity, investing in new technologies with third parties, and returning at least one-third of cash generation to stockholders after investments.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Operating segments",
+      "statement": "GE Vernova manages operating activities through three segments: Power, Wind, and Electrification; its chief operating decision maker is the Chief Executive Officer.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Product and service lines",
+      "statement": "GE Vernova's segment lineup is Power, comprising Gas Power, Nuclear Power, Hydro Power, and Steam Power; Wind, comprising Onshore Wind, Offshore Wind, and LM Wind Power; and Electrification, comprising Grid Solutions, Power Conversion & Storage, and Electrification Software.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "For 2025, GE Vernova reported total revenues of $38.068 billion, compared with $34.935 billion in 2024 and $33.239 billion in 2023.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Geographic revenue mix",
+      "statement": "In 2025, GE Vernova reported $17.341 billion of revenue from the U.S. and $20.728 billion from non-U.S. regions, including Europe, Asia, the Americas outside the U.S., and the Middle East and Africa.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Segment revenue",
+      "statement": "In 2025, GE Vernova reported segment revenues of $19.767 billion for Power, $9.110 billion for Wind, and $9.642 billion for Electrification.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Business-unit revenue",
+      "statement": "Within Power's 2025 revenue, Gas Power contributed $16.006 billion, Nuclear Power $1.018 billion, Hydro Power $806 million, and Steam Power $1.937 billion.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Business-unit revenue",
+      "statement": "Within Wind's 2025 revenue, Onshore Wind contributed $8.241 billion, Offshore Wind $652 million, and LM Wind Power $217 million.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Business-unit revenue",
+      "statement": "Within Electrification's 2025 revenue, Grid Solutions contributed $6.620 billion, Power Conversion & Storage $2.049 billion, and Electrification Software $973 million.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Equipment and services mix",
+      "statement": "For 2025 segment reporting, GE Vernova reported $20.934 billion of equipment revenues and $17.098 billion of services revenues before other revenues and elimination of intersegment revenues.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Segment profitability",
+      "statement": "In 2025, GE Vernova reported segment EBITDA of $2.902 billion for Power, a $598 million loss for Wind, and $1.433 billion for Electrification, for total segment EBITDA of $3.737 billion.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Cash flow and adjusted profitability",
+      "statement": "GE Vernova's 2026 proxy reported 2025 cash from operating activities of $4.987 billion, free cash flow of $3.710 billion, adjusted EBITDA of $3.196 billion, and adjusted EBITDA margin of 8.4%.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Orders and backlog",
+      "statement": "GE Vernova reported $59 billion of orders in 2025 and year-end backlog of $150 billion, with backlog defined on a remaining performance obligation basis.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Segment backlog",
+      "statement": "GE Vernova disclosed backlog of $94.4 billion for Power, $21.6 billion for Wind, and $34.7 billion for Electrification, with Power backlog 74% services, Wind backlog 58% services, and Electrification backlog 12% services.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "In 2025, GE Vernova returned $3.6 billion to shareholders through share repurchases and dividends; in December, it doubled its annual dividend to $2 per share and increased its buyback authorization from $6 billion to $10 billion.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "M&A",
+      "statement": "GE Vernova acquired the remaining 50% stake of its Prolec GE joint venture for $5.3 billion, with the proxy stating the transaction closed in February 2026.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "The 2025 Form 10-K was signed by Scott Strazik as Chief Executive Officer, President, and Director; Kenneth Parks as Chief Financial Officer; and Matthew Potvin as Vice President, Controller, and Chief Accounting Officer.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Board governance",
+      "statement": "GE Vernova's 2026 proxy lists Steve Angel as independent non-executive Chair and Scott Strazik as the only non-independent director; the board profile shows 8 independent directors, 3 female directors, 3 Black or Latino directors, and all 9 directors with less than 3 years of tenure.",
+      "source": "DEF 14A filed 2026-04-03 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000049/gev-20260402.htm)"
+    },
+    {
+      "topic": "Compensation governance",
+      "statement": "GE Vernova's 2025 Form 10-K exhibit list includes the GE Vernova Inc. 2024 Long-Term Incentive Plan, the Amended and Restated GE Vernova Annual Incentive Plan, the GE Vernova Amended and Restated U.S. Executive Severance Plan, the GE Vernova Inc. Executive Change in Control Severance Benefits Policy, and the GE Vernova Inc. Clawback Policy.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Controls and audit oversight",
+      "statement": "Management concluded that GE Vernova's internal control over financial reporting and disclosure controls and procedures were effective as of December 31, 2025; Deloitte & Touche LLP audited the effectiveness of internal control over financial reporting.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Environmental and legacy liability risk",
+      "statement": "GE Vernova stated that exposure from environmental remediation, nuclear decommissioning, and worker exposure claims could exceed amounts accrued; reserves for environmental remediation and worker exposure claims were $135 million as of December 31, 2025, and asset retirement obligations were $541 million, including $459 million related to nuclear decommissioning obligations.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    },
+    {
+      "topic": "Restructuring risk and cost reduction",
+      "statement": "GE Vernova reported $285 million of restructuring and other charges in 2025; a July 21, 2025 restructuring plan to reduce general and administrative costs is expected to cost about $225 million to $250 million, with $175 million to $200 million of future cash expenditures and estimated savings of approximately $250 million beginning in 2026.",
+      "source": "10-K filed 2026-01-29 (https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm)"
+    }
+  ]
+}

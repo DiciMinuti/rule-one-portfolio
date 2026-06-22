@@ -1,0 +1,127 @@
+{
+  "symbol": "PM",
+  "companyName": "Philip Morris International",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Philip Morris International Inc. is listed on the NYSE under ticker PM, and the SEC submissions metadata lists its SIC description as \"Cigarettes.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001413329.json)"
+    },
+    {
+      "topic": "Business model and strategy",
+      "statement": "PMI describes itself as a leading consumer goods company that is actively delivering a smoke-free future and evolving its portfolio over the long term to include products outside the tobacco and nicotine sector.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Headquarters",
+      "statement": "PMI's principal executive offices are located at 677 Washington Blvd., Suite 1100, Stamford, Connecticut 06901.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Global scale",
+      "statement": "PMI reported approximately 84,900 employees around the world and said its products are sold in approximately 170 markets.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Manufacturing footprint",
+      "statement": "PMI reported 50 owned production facilities worldwide.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "PMI reported approximately 1,600 R&D scientists, engineers, technicians, and support staff working on smoke-free products; the SEC company facts summary reports FY2025 R&D expense of $709 million.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm); SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001413329.json)"
+    },
+    {
+      "topic": "Smoke-free product definition",
+      "statement": "PMI defines Smoke-Free Products as products that provide nicotine without combusting tobacco, including heat-not-burn, e-Vapor, and oral smokeless products.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Smoke-free business scope",
+      "statement": "PMI defines its Smoke-Free Business as all smoke-free products and also includes wellness products and consumer accessories such as lighters and matches.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Heated tobacco product lineup",
+      "statement": "PMI says heated tobacco units include consumables such as BLENDS, DELIA, HEETS, HEETS Creations, SENTIA, TEREA, TEREA CRAFTED, TEREA Dimensions, KT&G-licensed Fiit and Miix outside South Korea, and zero-tobacco heat-not-burn consumables under LEVIA.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "2025 net revenue by product category",
+      "statement": "For 2025, PMI reported net revenues of $40.648 billion, including $23.794 billion from combustible tobacco and $16.854 billion from smoke-free products; the proxy states smoke-free represented 41.5% of total net revenues in 2025.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Financial scale",
+      "statement": "The SEC company facts summary reports FY2025 revenue from contracts with customers excluding assessed tax of $35.174 billion and FY2025 net income of $7.813 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001413329.json)"
+    },
+    {
+      "topic": "Operating profitability",
+      "statement": "PMI reported 2025 operating income of $14.892 billion and adjusted operating income of $16.428 billion in its proxy reconciliation of non-GAAP measures.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Cash flow and balance sheet",
+      "statement": "The SEC company facts summary reports FY2025 operating cash flow of $9.204 billion, cash and equivalents of $4.216 billion, and stockholders' equity of negative $11.750 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001413329.json)"
+    },
+    {
+      "topic": "Reportable segment structure",
+      "statement": "The 2025 10-K XBRL tags identify segment members for Europe, South and Southeast Asia, CIS, Middle East and Africa, East Asia, Australia and PMI Global Travel Retail, and Americas.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm)"
+    },
+    {
+      "topic": "2025 operating performance commentary",
+      "statement": "PMI's chairman and CEO letter said 2025 was the company's fifth consecutive year of volume growth, included further operating margin expansion, and that most organic net revenue growth was generated by the international business led by the smoke-free product portfolio.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Combustibles business commentary",
+      "statement": "PMI stated that its combustibles business remained resilient in 2025 and, with disciplined management, delivered another year of strong performance.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Executive compensation metrics",
+      "statement": "For 2025 annual cash incentive compensation, the Compensation and Leadership Development Committee certified a performance rating of 115 against a target of 100 and stated that PMI met or exceeded all pre-established annual performance-based targets.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Executive compensation targets and results",
+      "statement": "The 2025 annual cash incentive scorecard included targets for Share of Top 30 OI Markets, Smoke-Free Shipment Volume, Adjusted Net Revenues, Adjusted OI, Operating Cash Flow, and Strategic Initiatives; achieved results included 19 for Share of Top 30 OI Markets, 176.9 for Smoke-Free Shipment Volume, 6.5% adjusted net revenues, 10.6% adjusted OI, 12.2 operating cash flow, and 118% strategic initiatives.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Senior management",
+      "statement": "The 2025 Form 10-K was signed by Jacek Olczak as Group CEO PMI and Director, Emmanuel Babeau as Group Chief Financial Officer, and Reginaldo Dobrowolski as Group Controller.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm)"
+    },
+    {
+      "topic": "Board leadership and nominees",
+      "statement": "The 2026 proxy lists André Calantzopoulos as Chairman of the Board and includes ten director nominees: Brant Bonin Bough, André Calantzopoulos, Michel Combes, Werner Geissler, Victoria Harker, Lisa A. Hook, Kalpana Morparia, Jacek Olczak, Robert B. Polet, and Shlomo Yanai.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Shareholder meeting and voting matters",
+      "statement": "PMI scheduled its 2026 virtual annual meeting for May 6, 2026, with agenda items including election of ten directors, advisory approval of named executive officer compensation, ratification of PricewaterhouseCoopers SA as independent auditors for fiscal 2026, and a shareholder proposal on filter cleanup costs and extended producer responsibility laws for filters.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Shares outstanding",
+      "statement": "As of the March 13, 2026 record date for the annual meeting, PMI reported 1,558,530,268 shares of common stock issued and outstanding, with each shareholder of record entitled to one vote per share.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    },
+    {
+      "topic": "Financing and credit facilities",
+      "statement": "The 2025 10-K exhibit index lists multiple credit agreements, including a credit agreement effective January 29, 2025 and a credit agreement dated December 11, 2025, each involving PMI, lenders, and Citibank Europe plc, UK Branch as facility agent.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm)"
+    },
+    {
+      "topic": "Legal and special-item adjustments",
+      "statement": "PMI's 2025 adjusted operating income reconciliation included special items such as a $176 million Germany excise tax classification litigation charge, a $94 million loss on expected sale of consumer accessories and other businesses, and a $41 million impairment of goodwill and other intangibles.",
+      "source": "DEF 14A filed 2026-03-26 (https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm)"
+    }
+  ]
+}

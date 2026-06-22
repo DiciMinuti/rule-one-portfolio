@@ -1,0 +1,127 @@
+{
+  "symbol": "MA",
+  "companyName": "Mastercard",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Listing and identity",
+      "statement": "Mastercard Inc is listed on the NYSE under ticker MA and is classified in the SEC submissions metadata under SIC description \"Services-Business Services, NEC.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0001141391.json)"
+    },
+    {
+      "topic": "Business model and network scale",
+      "statement": "Mastercard says its global acceptance footprint serves more than 3.7 billion accounts and connects hundreds of millions of acceptance locations and digital access points across more than 220 countries and territories.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Service lines",
+      "statement": "Mastercard describes its expertise as encompassing threat intelligence, economic analysis, cyber security, loyalty programming, open finance, fraud prevention, and payments including agentic commerce and digital assets.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Strategic priorities",
+      "statement": "Mastercard identifies three strategic priority areas: core payments, commercial and new payment flows, and value-added services and solutions.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Mastercard's Payment Solutions segment reported net revenue of $32.791 billion in 2025, compared with $28.167 billion in 2024 and $25.098 billion in 2023.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Profitability scale",
+      "statement": "Mastercard reported Consolidated Net Income of $14.968 billion in 2025, compared with $12.874 billion in 2024 and $11.195 billion in 2023.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "The SEC company facts summary reports Mastercard operating cash flow of $11.980 billion for FY2025, filed February 11, 2026.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001141391.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports Mastercard had $8.442 billion of cash and equivalents, $17.476 billion of long-term debt, and $6.485 billion of stockholders' equity for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0001141391.json)"
+    },
+    {
+      "topic": "Segment reporting",
+      "statement": "Mastercard identifies Payment Solutions as its segment, and its Chief Executive Officer is identified as the chief operating decision-maker for assessing segment performance and allocating resources.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Capital allocation framework",
+      "statement": "The 10-K says the CODM decides whether to reinvest profits into the Payment Solutions segment or other business activities such as acquisitions, dividends, or share repurchases based on Consolidated Net Income.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Geographic revenue mix",
+      "statement": "Revenue generated in the United States was approximately 29% of Mastercard net revenue in 2025, 30% in 2024, and 30% in 2023; no individual country other than the U.S. generated more than 10% of net revenue in those periods.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "Mastercard did not have any individual customer that generated more than 10% of net revenue in 2025, 2024, or 2023.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Operating metrics",
+      "statement": "Mastercard says it facilitated more than 175 billion transactions in 2025, with gross dollar volume growing 9% and cross-border volume growth up 15% year over year on a local-currency basis.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Commercial payments",
+      "statement": "Mastercard says commercial credit and debit represented 13% of gross dollar volumes in 2025 and grew 11% year over year on a local-currency basis.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Payments security and tokenization",
+      "statement": "Mastercard says it had tokenized nearly 40% of all switched transactions as of December 2025 and has a goal of reaching 100% tokenization of e-commerce payments by 2030.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Data asset",
+      "statement": "Mastercard says every transaction that touches its network generates data protected by Mastercard, and it cited \"15+ petabytes of structured, clean, usable data.\"",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "New payment flows",
+      "statement": "Mastercard describes the Mastercard Move network as transmitting value across 17 billion endpoints.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Michael Miebach signed the 2025 Form 10-K as President and Chief Executive Officer and director, Sachin Mehra signed as Chief Financial Officer, and Sandra Arkell signed as Corporate Controller.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Executive team",
+      "statement": "The 10-K trading-arrangements disclosure identifies Ed McLaughlin as President & Chief Technology Officer, Mastercard Technology; Ling Hai as President, Asia Pacific, Europe, Middle East & Africa; and Craig Vosburg as Chief Services Officer.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Compensation and incentives",
+      "statement": "Mastercard says Consolidated Net Income and other measures are used for internal planning and forecasting and in the calculation of performance-based compensation.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    },
+    {
+      "topic": "Governance",
+      "statement": "Mastercard's 2026 proxy states the Board nominated 11 directors, recommended votes for all 11 nominees, and had received a contingent resignation from each nominee under its majority-voting policy for uncontested elections.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Governance rights",
+      "statement": "Mastercard's bylaws permit a stockholder or group of up to 20 stockholders owning 3% or more of outstanding Class A common stock for at least three years to submit director nominees for up to 20% of the Board for inclusion in the proxy statement, subject to bylaw requirements.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Legal risk and special items",
+      "statement": "Mastercard recorded 2025 pre-tax litigation provisions of $504 million, primarily related to a change in estimate for merchants who opted out of U.S. merchant class litigation, a U.S. liability shift litigation provision, and a provision associated with ATM non-discrimination rule surcharge complaints.",
+      "source": "DEF 14A filed 2026-04-27 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm)"
+    },
+    {
+      "topic": "Controls and audit",
+      "statement": "Mastercard's President and Chief Executive Officer and Chief Financial Officer concluded disclosure controls and procedures were effective as of December 31, 2025, and PricewaterhouseCoopers LLP audited the consolidated financial statements and internal control over financial reporting.",
+      "source": "10-K filed 2026-02-11 (https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm)"
+    }
+  ]
+}

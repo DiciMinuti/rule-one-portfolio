@@ -1,0 +1,127 @@
+{
+  "symbol": "GE",
+  "companyName": "General Electric",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company identity",
+      "statement": "General Electric Company operates as GE Aerospace, according to its 2026 proxy statement.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Listing and classification",
+      "statement": "SEC submissions metadata identifies General Electric as ticker GE on the NYSE, with SIC description \"Electronic & Other Electrical Equipment (No Computer Equip).\"",
+      "source": "SEC submissions metadata - https://data.sec.gov/submissions/CIK0000040545.json"
+    },
+    {
+      "topic": "Business segments",
+      "statement": "GE Aerospace reports through two reportable segments: Commercial Engines & Services and Defense & Propulsion Technologies.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "The 2025 Form 10-K reports total geographic revenue of $45.855 billion for 2025, compared with $38.702 billion in 2024 and $35.348 billion in 2023.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Geographic mix",
+      "statement": "In 2025, GE Aerospace generated $18.194 billion of revenue in the U.S. and $27.661 billion outside the U.S.; non-U.S. revenue was 60% of total revenue.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Government exposure",
+      "statement": "Sales of equipment and services to agencies of the U.S. Government were 10% of total revenue in 2025, versus 12% in 2024 and 14% in 2023.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Commercial Engines & Services",
+      "statement": "Commercial Engines & Services generated $33.314 billion of 2025 revenue, consisting of $8.304 billion of equipment revenue and $25.010 billion of services revenue.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Defense & Propulsion Technologies",
+      "statement": "Defense & Propulsion Technologies generated $10.554 billion of 2025 revenue, consisting of $5.128 billion of equipment revenue and $5.426 billion of services revenue.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Segment profit",
+      "statement": "Total segment profit was $10.157 billion in 2025, including $8.861 billion from Commercial Engines & Services and $1.296 billion from Defense & Propulsion Technologies.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Profitability and cash flow",
+      "statement": "The 2026 proxy reports 2025 GAAP profit of $10.000 billion, GAAP profit margin of 21.8%, cash from operating activities of $8.543 billion, non-GAAP operating profit of $9.055 billion, non-GAAP operating profit margin of 21.4%, and non-GAAP free cash flow of $7.694 billion.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "SEC company facts summary reports FY2025 stockholders' equity of $19.342 billion and long-term debt of $20.469 billion.",
+      "source": "SEC company facts summary - https://data.sec.gov/api/xbrl/companyfacts/CIK0000040545.json"
+    },
+    {
+      "topic": "Backlog and orders",
+      "statement": "The 2026 proxy reports 2025 total orders of $66.2 billion, up 32% year over year, and total backlog of approximately $190 billion, up about $19 billion from the prior year.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Remaining performance obligations",
+      "statement": "As of December 31, 2025, contracted revenue allocated to unsatisfied or partially unsatisfied performance obligations was $190.564 billion, including $27.534 billion of equipment-related RPO and $163.029 billion of services-related RPO.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "RPO timing",
+      "statement": "GE expects to recognize 34%, 57%, and 89% of equipment-related RPO within 1, 2, and 5 years, respectively; it expects to recognize 12%, 42%, 69%, and 86% of services-related RPO within 1, 5, 10, and 15 years, respectively.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+    },
+    {
+      "topic": "Installed base",
+      "statement": "Commercial Engines & Services represents an installed base of approximately 50,000 commercial engines across widebody and narrowbody platforms.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Defense installed base",
+      "statement": "GE Aerospace's military installed base is approximately 30,000 engines and powers a variety of defense platforms globally, including two-thirds of all U.S. military combat and helicopter fleets.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Joint ventures",
+      "statement": "The proxy states that equipment includes products made by CFM and Engine Alliance joint ventures; CFM is a 50/50 joint venture between GE Aerospace and Safran Aircraft Engines, and Engine Alliance is a 50/50 joint venture between GE Aerospace and Pratt & Whitney.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Commercial segment wins",
+      "statement": "In 2025, Commercial Engines & Services secured what the proxy calls the largest widebody engine order in company history, with Qatar Airways for more than 400 GEnx and GE9X engines, and delivered approximately 1,450 LEAP-1A durability kits.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Defense segment wins",
+      "statement": "In 2025, Defense & Propulsion Technologies achieved a $5 billion USAF contract for F110 engines, secured agreements for F404 and T700 engines across Korea, India, and Türkiye, and achieved FAA certification for the Catalyst engine.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Propulsion & Additive Technologies",
+      "statement": "Propulsion & Additive Technologies comprises Avio Aero, Colibrium Additive, Dowty Propellers, and Unison, which provide specialized technologies across fixed-wing, rotary, and unmanned applications.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Operating model",
+      "statement": "GE Aerospace describes FLIGHT DECK as its proprietary lean operating model, prioritizing safety, quality, delivery, and cost in that order, implemented through respect for people, being customer-driven, and continuous improvement.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Operational execution",
+      "statement": "The proxy says FLIGHT DECK helped increase material input from priority suppliers by more than 40% year over year and enabled a 26% increase in total engine deliveries in 2025.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Capital allocation and investment",
+      "statement": "In 2025, GE Aerospace made $1 billion of investments in U.S. manufacturing, roughly $3 billion of total R&D funding including customer and partner funding, and returned nearly $9 billion to shareholders.",
+      "source": "DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    },
+    {
+      "topic": "Leadership and governance",
+      "statement": "As of January 29, 2026, H. Lawrence Culp, Jr. was Chairman and CEO, Rahul Ghai was Senior Vice President and CFO, and Robert Giglietti was Vice President, Chief Accounting Officer, Controller and Treasurer; the 2026 proxy states 8 of 9 director nominees are independent.",
+      "source": "10-K filed 2026-01-29 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm; DEF 14A filed 2026-03-12 - https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm"
+    }
+  ]
+}

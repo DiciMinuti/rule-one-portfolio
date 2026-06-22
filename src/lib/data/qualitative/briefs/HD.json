@@ -1,0 +1,90 @@
+{
+  "symbol": "HD",
+  "companyName": "Home Depot",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Home Depot has named leaders tied directly to its current priorities in core retail, online experience, technology, and Pro growth. Edward P. Decker combines the Chair, President, and CEO roles, while CFO Richard V. McPhail and executives overseeing customer experience, online, information technology, and Pro markets support a strategy centered on interconnected retail and Pro capabilities.",
+        "points": [
+          "Edward P. Decker has served as President and Chief Executive Officer since March 2022 and Chair since October 2022, giving one leader control over strategy and board leadership.",
+          "Richard V. McPhail has been Executive Vice President and Chief Financial Officer since September 2019, providing continuity through major capital allocation, acquisition, and systems-transformation decisions.",
+          "Jordan Broggi leads Customer Experience and Online, Angela Brown leads information technology, and Michael Rowe leads Pro, matching executive roles to the company's stated growth priorities.",
+          "Home Depot emphasizes internal talent development: more than 90% of U.S. store leaders began as hourly associates, and field leadership received increased equity awards in Fiscal 2025."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Home Depot's capital allocation framework is explicit: reinvest to grow faster than the market, pay a quarterly dividend, and return excess cash through repurchases after reinvestment and dividends. Fiscal 2025 shows both reinvestment and shareholder returns, with $3.7 billion of capital expenditures and $9.2 billion returned through cash dividends.",
+        "points": [
+          "The company's stated priorities put business reinvestment first, followed by quarterly dividends, with share repurchases only after reinvestment needs and dividends are addressed.",
+          "In Fiscal 2025, Home Depot invested $3.7 billion in capital expenditures while reporting $164.7 billion in sales, $20.9 billion in operating income, and 25.7% ROIC.",
+          "Home Depot increased its quarterly cash dividend 2.2%, from $2.25 to $2.30 per share, and says it has paid dividends for 156 consecutive quarters.",
+          "Acquisition spending is aimed at the Pro market: SRS goodwill was tied to roofing, delivery network capabilities, sales force growth, and additional addressable market opportunities."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Home Depot returns substantial cash to shareholders and uses equity awards below the senior-executive level, including store managers and assistant store managers. Alignment is tempered by elevated leverage and acquisition integration complexity, with FY2025 long-term debt of $49.397 billion and recent SRS and GMS transactions expanding the business mix.",
+        "points": [
+          "Fiscal 2025 shareholder returns included $9.2 billion of cash dividends, supported by $21.172 billion of operating cash flow reported in the SEC company facts summary.",
+          "Field leadership received increased equity awards in Fiscal 2025, tying store managers and assistant store managers more directly to company performance and shareholder value creation.",
+          "The SRS acquisition added $18.028 billion of net assets acquired, including $5.4 billion of customer-relationship intangibles with a 20-year weighted average useful life.",
+          "Balance-sheet risk matters for owners: FY2025 long-term debt was $49.397 billion, compared with $1.659 billion of cash and equivalents and $1.044 billion of stockholders' equity."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Home Depot provides investors with SEC filings, a proxy investor factsheet, XBRL company facts, and 10-K detail on products, acquisitions, internal controls, and financial scale. The disclosures give concrete segment and category information, acquisition accounting for SRS and GMS, and year-over-year comparisons for sales, operating income, and ROIC.",
+        "points": [
+          "The proxy investor factsheet reports Fiscal 2025 sales of $164.7 billion, operating income of $20.9 billion, net earnings of $14.2 billion, and ROIC of 25.7%.",
+          "The same factsheet compares Fiscal 2025 with Fiscal 2024, showing sales rose from $159.5 billion while operating income fell from $21.5 billion and ROIC fell from 31.3%.",
+          "The 10-K identifies the primary segment's major product lines as Building Materials, Décor, and Hardlines, and lists categories such as Appliances, Lumber, Paint, Plumbing, and Flooring.",
+          "Acquisition disclosure is detailed: SRS assets acquired, liabilities assumed, customer-relationship intangibles, trade names, and post-acquisition sales contribution are all separately described."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures show formal board and shareholder processes, auditor oversight, internal-control reporting, and several active shareholder issues. Investors should note the combined Chair and CEO role, the 2026 proposal on an independent board chair, acquisition-related internal-control exclusions for GMS, and named shareholder proposals covering data privacy, plastics, biodiversity, healthcare access, and charitable-support discrimination.",
+        "points": [
+          "For the 2026 annual meeting, shareholders are asked to elect 12 directors, ratify KPMG as independent auditor, approve Say-on-Pay, and consider officer exculpation and charter amendments.",
+          "The proxy lists seven shareholder proposals, including customer data privacy risks, plastics, biodiversity, associate healthcare access, charitable-support discrimination, and an independent board chair proposal.",
+          "Management concluded disclosure controls and internal control over financial reporting were effective as of February 1, 2026, and KPMG issued an effective internal-control opinion.",
+          "GMS was excluded from the February 1, 2026 internal-control assessment because it was acquired during fiscal 2025, representing about 3% of consolidated assets excluding goodwill and intangibles."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Retail scale and product breadth",
+        "grade": "strong",
+        "summary": "Home Depot operates at unusual scale for home-improvement retail, with Fiscal 2025 sales of $164.7 billion and primary product lines of Building Materials, Décor, and Hardlines. Its category breadth spans Appliances, Bath, Electrical, Flooring, Hardware, Lumber, Outdoor Garden, Paint, Plumbing, Power, and Storage Organization, making the assortment difficult to replicate in one format."
+      },
+      {
+        "type": "Pro ecosystem and building-materials distribution",
+        "grade": "strong",
+        "summary": "Home Depot's strategy specifically targets growth in sales to Pros through a unique ecosystem of capabilities, and recent acquisitions deepen that focus. SRS was acquired for Pro-market growth, roofing exposure, delivery network capabilities, and sales force expansion; GMS was added to accelerate a multi-category building materials distribution vision."
+      },
+      {
+        "type": "Interconnected store, digital, and fulfillment experience",
+        "grade": "middle",
+        "summary": "Home Depot identifies a best-in-class interconnected customer experience as a core strategic pillar and says it is investing across online, in-store, and fulfillment experiences. The company has dedicated leadership for Customer Experience and Online, information technology, and Pro, indicating that digital, store, and fulfillment capabilities are managed as strategic operating priorities."
+      },
+      {
+        "type": "Real estate, supply chain, and operating network",
+        "grade": "middle",
+        "summary": "Home Depot's shareholder letter names scale, real estate portfolio, supply chain network, and relationships with Pros as competitive advantages. The SRS acquisition also adds enhanced delivery network capabilities, while Fiscal 2025 operating cash flow of $21.172 billion provides funding capacity for continued investment in associates, customer capabilities, and fulfillment."
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "symbol": "BLK",
+  "companyName": "BlackRock",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "BlackRock is led by Laurence D. Fink, who signed the 2026 proxy as Chairman and Chief Executive Officer and is identified as the chief operating decision maker in the 10-K. The company is managed as one asset management business, with decisions based on consolidated revenue, operating income, and net income attributable to BlackRock.",
+        "points": [
+          "Laurence D. Fink serves as Chairman and Chief Executive Officer, and the 10-K identifies the Chairman and CEO as the company's chief operating decision maker.",
+          "Management runs BlackRock as one asset management operating segment, rather than as separately managed product divisions, using consolidated financial information for operating decisions.",
+          "The leadership team is overseeing a broad platform spanning active, private markets, index, cash management, whole-portfolio solutions, and Aladdin-supported technology services.",
+          "BlackRock ended 2025 with $14 trillion in assets under management, record $698 billion of net inflows, and approximately 24,900 employees in more than 30 countries."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "BlackRock's capital allocation framework is tied to consolidated total revenue, operating income, and net income attributable to BlackRock, which management also uses for compensation and cost management. In 2025, the company combined platform investment with a record $5.0 billion returned to shareholders through dividends and repurchases.",
+        "points": [
+          "The 10-K says management uses total revenue, operating income, and net income attributable to BlackRock for capital allocation, annual and long-term compensation, and cost control.",
+          "BlackRock returned a record $5.0 billion to shareholders in 2025 through dividends and share repurchases, according to the proxy statement.",
+          "The company repurchased 1.6 million shares and share equivalents for about $1.6 billion in 2025, with about 2.2 million shares still authorized at year-end.",
+          "BlackRock paid $20.84 per share, or $3.3 billion, in cash dividends during 2025, and the board approved a $5.73 quarterly dividend for March 2026.",
+          "The proxy says the board targets a 40% to 50% dividend payout ratio and uses a consistent share repurchase program as part of capital returns."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Shareholder alignment is supported by a stated dividend payout target, ongoing repurchases, and executive compensation processes that reference the same consolidated metrics used to run the business. The packet does not provide insider ownership levels, but it does show meaningful cash returns and a non-binding shareholder vote on named executive officer pay.",
+        "points": [
+          "BlackRock's board targets a 40% to 50% dividend payout ratio, creating a stated framework for returning a portion of earnings to shareholders.",
+          "Shareholders are asked to approve named executive officer compensation in a non-binding advisory vote, giving investors a recurring say-on-pay mechanism.",
+          "Management uses total revenue, operating income, and net income attributable to BlackRock when determining annual and long-term compensation, according to the 10-K.",
+          "The 2025 capital return mix included both $3.3 billion of dividends and about $1.6 billion of repurchases, rather than relying on only one return channel."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "BlackRock discloses that it operates in one asset management operating segment, so investors receive consolidated rather than multi-segment operating reporting. The company does provide useful operating context through disclosed assets under management, net inflows, organic base fee growth, technology services annual contract value growth, and SEC-reported financial figures.",
+        "points": [
+          "The 10-K says BlackRock operates in one asset management operating segment, and that management directs the company as one business using consolidated financial information.",
+          "The company identifies total revenue, operating income, and net income attributable to BlackRock as the main measures used by the chief operating decision maker.",
+          "The proxy reported 2025 operating indicators including $14 trillion of assets under management, $698 billion of net inflows, 9% organic base fee growth, and 16% technology services ACV growth.",
+          "SEC company facts provide FY2025 revenue of $17.859 billion, net income of $5.502 billion, operating cash flow of $4.165 billion, and stockholders' equity of $47.495 billion.",
+          "The single-segment structure simplifies reporting but gives investors less product-level segment detail than a business reporting separate active, index, private markets, cash, and technology segments."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures include board-level capital return policy, auditor ratification, executive compensation voting, and a proposed subsidiary charter amendment. Investors should also watch regulated-subsidiary constraints, including net capital requirements across jurisdictions and OCC capital requirements at BlackRock Institutional Trust Company, N.A.",
+        "points": [
+          "The proxy says the board approved a quarterly dividend of $5.73 per share for March 2026 and targets a 40% to 50% dividend payout ratio.",
+          "BlackRock submits Deloitte LLP's appointment as independent registered public accounting firm for fiscal 2026 to shareholders for ratification.",
+          "The proxy proposes amending BlackRock Finance, Inc.'s certificate of incorporation to remove a pass-through voting provision described as highly unusual for a consolidated subsidiary.",
+          "The 10-K says certain regulated subsidiaries must maintain net capital across multiple jurisdictions and may face restrictions moving cash between jurisdictions and to parent entities.",
+          "BlackRock Institutional Trust Company, N.A. is subject to OCC regulatory capital requirements, and failure to meet minimum requirements could directly materially affect consolidated financial statements."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale in global asset management",
+        "grade": "strong",
+        "summary": "BlackRock's scale is unusually large for an asset manager, with the proxy reporting a new assets under management high of $14 trillion at the end of 2025. That scale sits across active, private markets, index, and cash management strategies, allowing the company to serve clients through multiple asset classes and whole-portfolio solutions."
+      },
+      {
+        "type": "Integrated investment and technology platform",
+        "grade": "strong",
+        "summary": "BlackRock's investment platform is supported by Aladdin, its technology and risk management system, and the company offers technology services to institutional and wealth management clients. Technology services annual contract value grew 16% in 2025, showing that the platform is not only internal infrastructure but also a client-facing service line."
+      },
+      {
+        "type": "Breadth of client solutions",
+        "grade": "strong",
+        "summary": "BlackRock describes a platform that includes alpha-seeking active strategies, private markets, index strategies, cash management, whole-portfolio solutions, and technology services. The breadth matters because 2025 net inflows reached a record $698 billion and reflected 9% organic base fee growth, indicating client demand across the platform."
+      },
+      {
+        "type": "Regulated operating footprint",
+        "grade": "middle",
+        "summary": "BlackRock operates through regulated subsidiaries in multiple jurisdictions, and the 10-K says certain entities must maintain net capital and may face limits on cash transfers. These requirements can add complexity for competitors, but they also create operating constraints, including OCC capital requirements at BlackRock Institutional Trust Company, N.A."
+      }
+    ]
+  }
+}

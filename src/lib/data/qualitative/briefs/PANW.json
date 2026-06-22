@@ -1,0 +1,88 @@
+{
+  "symbol": "PANW",
+  "companyName": "Palo Alto Networks",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Palo Alto Networks is led by Nikesh Arora as Chief Executive Officer and Chair of the Board, with Dipak Golechha as Chief Financial Officer. The company also completed a notable product-leadership transition: founder Nir Zuk announced his retirement, and Lee Klarich now serves as Chief Product and Technology Officer and a board member.",
+        "points": [
+          "Nikesh Arora is both CEO and Board Chair, and the company identifies the Chairman and CEO as the chief operating decision maker for resource allocation and performance evaluation.",
+          "Dipak Golechha is listed as Chief Financial Officer in the 2025 proxy materials, giving investors a named finance leader alongside the CEO-led operating structure.",
+          "Lee Klarich now serves as Chief Product and Technology Officer and joined the board after Nir Zuk announced his retirement, keeping product leadership represented at board level."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "The company is investing heavily in product development while producing substantial cash flow. In FY2025 it reported $6.893 billion of revenue, $439.7 million of net income, $2.7775 billion of operating cash flow, and $1.604 billion of research and development expense.",
+        "points": [
+          "FY2025 research and development expense was $1.604 billion, supporting the company's stated push across Network Security, SASE, Cloud Security, Security Operations, AI security, and Identity Security.",
+          "FY2025 operating cash flow of $2.7775 billion was much larger than reported net income of $439.7 million, giving the business internal funding capacity for product investment.",
+          "The company reported $1.1353 billion of cash and cash equivalents at FY2025, while the source material also shows $3.6768 billion of long-term debt for FY2023.",
+          "The packet does not provide dividend or repurchase details, so the clearest capital allocation evidence is reinvestment in R&D and expansion of the security platform."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The strongest alignment datapoint is compensation design: the 2025 proxy states that 100% of named executive officers' equity compensation awards were performance-based. The company also reports direct shareholder engagement, though the packet does not provide executive ownership levels or long-term per-share value targets.",
+        "points": [
+          "For fiscal 2025, 100% of named executive officers' equity compensation awards were performance-based, tying executive equity outcomes to pre-set performance measures rather than only time served.",
+          "The chair letter says Palo Alto Networks engaged with shareholders representing approximately 53% of outstanding shares as of June 30, 2025.",
+          "Nikesh Arora adopted a Rule 10b5-1 trading plan on June 24, 2025 covering 846,408 shares, with expiration tied to December 24, 2025 or sale completion."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "The company gives investors several concrete operating and reporting views beyond GAAP revenue and net income. Its filings disclose one operating and reportable segment, geographic theater-based sales management, Next-Generation Security ARR, Network Security and Security Operations ARR, remaining performance obligations, and Cortex XSIAM customer growth.",
+        "points": [
+          "The 10-K states Palo Alto Networks has one operating and reportable segment, so investors should not expect separate profit reporting by product family.",
+          "The company says sales are primarily managed on a geographic theater basis, while the CEO as CODM reviews consolidated financial information and revenue information.",
+          "The proxy reports FY2025 Next-Generation Security ARR of $5.58 billion, with Network Security NGS ARR of $3.9 billion and Security Operations NGS ARR of $1.7 billion.",
+          "The proxy also discloses FY2025 remaining performance obligations of $15.8 billion and says the Cortex XSIAM customer base increased by more than twofold year over year."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance is centered around a combined CEO and Chair role held by Nikesh Arora, with a board that also includes product leader Lee Klarich and several named outside directors. The packet supports performance-based executive equity compensation and shareholder engagement, but does not provide committee details or independent-chair language.",
+        "points": [
+          "The 2025 proxy lists Nikesh Arora as both Chief Executive Officer and Chair of the Board, concentrating executive leadership and board-chair responsibilities in one person.",
+          "The board includes Aparna Bawa, John M. Donovan, Carl Eschenbach, James J. Goetz, Ralph Hamers, Sir John Key, Mary Pat McCarthy, Helle Thorning-Schmidt, Lorraine Twohill, Nikesh Arora, and Lee Klarich.",
+          "Executive compensation has a clear performance link in the packet: all fiscal 2025 named executive officer equity compensation awards were performance-based.",
+          "The company disclosed CEO Nikesh Arora's Rule 10b5-1 trading plan, including adoption date, share amount, and expiration terms, giving investors specific planned-trading information."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Integrated cybersecurity platform breadth",
+        "grade": "strong",
+        "summary": "Palo Alto Networks is building an integrated security platform across Network Security, SASE, Cloud Security, Security Operations, and soon Identity Security. The company also launched Prisma AIRS, described as a unified AI security platform for AI applications, agents, models, and data sets."
+      },
+      {
+        "type": "Recurring revenue and contracted backlog visibility",
+        "grade": "strong",
+        "summary": "The business has large recurring and contracted revenue indicators. The 2025 proxy reported $5.58 billion of Next-Generation Security ARR, $3.9 billion of Network Security NGS ARR, $1.7 billion of Security Operations NGS ARR, and $15.8 billion of remaining performance obligations."
+      },
+      {
+        "type": "Product investment capacity",
+        "grade": "middle",
+        "summary": "Palo Alto Networks has the cash generation to fund a broad product roadmap. In FY2025 it reported $2.7775 billion of operating cash flow and $1.604 billion of research and development expense, while expanding into AI security through Prisma AIRS."
+      },
+      {
+        "type": "Scale across global cybersecurity categories",
+        "grade": "middle",
+        "summary": "The company conducts business globally and manages sales primarily on a geographic theater basis, while reporting consolidated results through one operating segment. FY2025 revenue was $6.893 billion, and the Cortex XSIAM customer base increased by more than twofold year over year."
+      }
+    ]
+  }
+}

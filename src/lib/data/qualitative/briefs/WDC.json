@@ -1,0 +1,89 @@
+{
+  "symbol": "WDC",
+  "companyName": "Western Digital",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Western Digital is now being led as a more focused HDD company after the February 21, 2025 separation of Sandisk, its flash business. CEO Irving Tan, CFO Kris Sennesael, and Chief Accounting Officer Gene Zamiska are operating against six stated pillars that emphasize customer focus, technology leadership, operational excellence, and financial discipline.",
+        "points": [
+          "Irving Tan is identified as Chief Executive Officer and Director in the 2025 10-K, giving the post-separation HDD business a named executive accountable to both management and the board.",
+          "The company's stated strategic pillars include Enhanced Customer Focus, Product and Technology Leadership, Innovation and Growth, Operational Excellence, Rigorous Financial Discipline, and High Performance Teams.",
+          "Western Digital describes HDDs as the foundation of the data economy and positions its HDD technology for mass storage opportunities serving hyperscalers, enterprises, and cloud providers."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation is pointed in the right directions, but current financial results make execution important. Western Digital says it will reinvest in the business, reduce debt, and return cash to stockholders, while FY2025 results included $6.255 billion of revenue, a $1.684 billion net loss, negative $408 million of operating cash flow, and $5.684 billion of long-term debt.",
+        "points": [
+          "The proxy states that Western Digital's capital allocation strategy is to reinvest in the business, reduce debt, and return cash to stockholders.",
+          "Western Digital says it has initiated a quarterly dividend and authorized a share repurchase program, adding cash-return tools after the Sandisk separation.",
+          "The balance sheet shows $1.551 billion of cash and equivalents and $5.684 billion of long-term debt, so debt reduction competes with dividends, buybacks, and reinvestment.",
+          "FY2025 operating cash flow was negative $408 million, which makes the company's stated financial discipline and margin-improvement efforts especially important for investors to monitor."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Western Digital's stated compensation framework is designed to connect executive pay with performance and stockholder value creation. Alignment is supported by equity programs and capital-return language, but investors should also note the disclosed Rule 10b5-1 sale plans adopted by CEO Irving Tan and Chief Legal Officer Cynthia Tregillis in 2025.",
+        "points": [
+          "The 2025 proxy says executive compensation is designed to attract and retain best-in-class talent while aligning pay with performance and stockholder value creation.",
+          "The annual meeting proposals include increasing the 2005 Employee Stock Purchase Plan share reserve by 8 million shares, expanding employee participation in equity ownership.",
+          "CEO Irving Tan adopted a Rule 10b5-1 plan on May 12, 2025 for potential sale of up to 80,000 shares before May 26, 2026.",
+          "Cynthia Tregillis, Executive Vice President, Chief Legal Officer and Secretary, adopted a Rule 10b5-1 plan for potential sale of up to 17,502 shares before May 26, 2026."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Western Digital gives investors concrete disclosures through SEC filings, including post-separation business focus, named executives, financial statement facts, risk factors, legal matters, and strategic pillars. The 2025 proxy specifically frames the annual meeting as the first after the Sandisk separation, helping investors evaluate the HDD-focused company on its own operating and capital-allocation priorities.",
+        "points": [
+          "The 2025 proxy explains that the annual meeting is Western Digital's first following the February 21, 2025 separation of the Sandisk flash business.",
+          "The company discloses its six strategic pillars in the proxy, including Operational Excellence, Rigorous Financial Discipline, and Product and Technology Leadership.",
+          "SEC company facts report FY2025 revenue of $6.255 billion, net income of negative $1.684 billion, operating cash flow of negative $408 million, and balance-sheet items.",
+          "The 2025 proxy lists specific risks, including tariffs, limited qualified suppliers, demand volatility, pricing competition, supply-chain disruptions, debt obligations, cybersecurity incidents, and legal proceedings."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosures identify a named board, an ethics code, effective controls, and risk factors that are relevant to an HDD hardware company with legal and supply-chain exposure. The company also discloses litigation outcomes and appeals, including the MRT settlement and SPEX judgment change, which gives investors concrete items to track.",
+        "points": [
+          "Martin I. Cole is identified as Chair of the Board, with directors Kimberly E. Alexy, Tunç Doluca, Bruce Kiddoo, Matthew E. Massengill, Roxanne Oulman, and Stephanie A. Streeter.",
+          "The Board has adopted a Code of Business Ethics that applies to all directors, employees, and officers, including the Chief Executive Officer and Chief Financial Officer.",
+          "Management, including the CEO and CFO, concluded that disclosure controls and procedures and internal control over financial reporting were effective as of the 2025 10-K period end.",
+          "Western Digital settled MRT matters for $130 million after a larger jury award, while the SPEX amended judgment awarded nominal damages of $1 and both sides appealed issues."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Proprietary HDD technology and IP",
+        "grade": "middle",
+        "summary": "Western Digital's clearest moat claim is in HDD technology, where it says it aims to lead with differentiated IP and proprietary technologies. The company now has a more focused HDD identity after the February 21, 2025 Sandisk separation, and it positions high-capacity drives around performance, energy efficiency, and lowest total cost of ownership."
+      },
+      {
+        "type": "Mass-storage customer focus",
+        "grade": "middle",
+        "summary": "Western Digital serves hyperscalers, enterprises, and cloud providers with scalable technology for mass storage needs. That focus matters because the company describes HDDs as the foundation of the data economy, but the packet also lists demand volatility, competitive products and pricing, and changes in key customer relationships as risks."
+      },
+      {
+        "type": "Operating scale in computer storage devices",
+        "grade": "middle",
+        "summary": "Western Digital remains a large computer storage device company, with SEC company facts reporting FY2025 revenue of $6.255 billion and stockholders' equity of $12.323 billion. Scale may support manufacturing, product development, and customer service, but FY2025 net income and operating cash flow were negative, limiting the strength of this advantage."
+      },
+      {
+        "type": "Total cost of ownership positioning",
+        "grade": "middle",
+        "summary": "The company says it delivers high-capacity drives with improved performance, energy efficiency, and lowest total cost of ownership. This is relevant for hyperscalers, enterprises, and cloud providers, but the packet does not provide market share, customer retention, or margin data proving a durable pricing advantage."
+      }
+    ]
+  }
+}

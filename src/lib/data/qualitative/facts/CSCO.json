@@ -1,0 +1,127 @@
+{
+  "symbol": "CSCO",
+  "companyName": "Cisco",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Public listing and industry classification",
+      "statement": "Cisco Systems, Inc. is listed on Nasdaq under ticker CSCO, and the SEC submissions metadata describes its SIC category as \"Computer Communications Equipment.\"",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000858877.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Cisco designs and sells IP-based networking and other products related to the communications and IT industry and provides services associated with those products and their use.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Strategy and product direction",
+      "statement": "Cisco says its strategy is to \"securely connect everything,\" and it is incorporating artificial intelligence into product portfolios across networking, security, collaboration, and observability while integrating its products more tightly together.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Customer priorities addressed",
+      "statement": "Cisco identifies three key customer priorities in the current environment: building modern infrastructure, protecting against cyber threats, and harnessing the power of AI and data.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "Cisco reported total revenue of $56.654 billion for fiscal 2025, compared with $53.803 billion in fiscal 2024 and $56.998 billion in fiscal 2023.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Product and services mix",
+      "statement": "In fiscal 2025, Cisco generated $41.608 billion of product revenue and $15.046 billion of services revenue.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "Cisco's fiscal 2025 revenue by product category was $28.304 billion from Networking, $8.094 billion from Security, $4.154 billion from Collaboration, and $1.055 billion from Observability.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Geographic segments",
+      "statement": "Cisco conducts business globally and is primarily managed on a geographic basis consisting of three segments: the Americas, EMEA, and APJC.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Segment performance metrics",
+      "statement": "Cisco's chief executive officer is the chief operating decision maker, and segment performance is measured based on segment revenue and segment gross margin.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Geographic revenue and gross margin",
+      "statement": "In fiscal 2025, Cisco reported Americas revenue of $33.656 billion and gross margin of $22.962 billion, EMEA revenue of $14.824 billion and gross margin of $10.545 billion, and APJC revenue of $8.174 billion and gross margin of $5.431 billion.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Customer concentration",
+      "statement": "No single customer accounted for 10% or more of Cisco revenue in fiscal 2025, 2024, or 2023.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "Cisco reported fiscal 2025 net income of $10.180 billion, basic net income per share of $2.56, and diluted net income per share of $2.55.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Gross margin",
+      "statement": "Cisco reported total gross margin of $36.790 billion in fiscal 2025, after $38.938 billion of segment gross margin and $2.148 billion of unallocated corporate items.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Research and development",
+      "statement": "The SEC company facts summary reports Cisco R&D expense of $7.551 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000858877.json)"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary reports Cisco had $7.508 billion of cash and equivalents, $19.621 billion of long-term debt, and $39.773 billion of stockholders' equity for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000858877.json)"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "Cisco's Chair and CEO stated that in fiscal 2025 the company returned $12.4 billion to stockholders through dividends and share repurchases, representing 94% of free cash flow.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Management",
+      "statement": "Cisco's 2025 Form 10-K was signed by Charles H. Robbins as Chair and Chief Executive Officer, Mark Patterson as Executive Vice President and Chief Financial Officer, and M. Victoria Wong as Senior Vice President and Chief Accounting Officer.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Board leadership",
+      "statement": "Cisco's proxy identifies Charles H. Robbins as Board Chair and Michael D. Capellas as Lead Independent Director.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Governance practices",
+      "statement": "Cisco's proxy lists governance practices including annual director elections, majority voting for uncontested director elections, a majority-independent board, a Lead Independent Director role, stockholder written-consent rights, a 10% ownership threshold to call a special meeting, and no poison pill.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Executive compensation governance",
+      "statement": "Cisco's proxy says its executive compensation practices include performance-based majority annual total direct compensation, caps on incentive compensation, stock ownership guidelines and holding requirements, a clawback policy, limited perquisites, no single-trigger vesting of equity awards, no stock option repricing or cash-out of underwater equity awards, no supplemental executive retirement plan or executive defined benefit pension plan, and no golden parachute tax gross-ups.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Stockholder engagement",
+      "statement": "Cisco stated that in fiscal 2025 it engaged with stockholders representing approximately 61% of shares outstanding at fiscal year-end, including 30% of its top 30 stockholders.",
+      "source": "DEF 14A filed 2025-10-28 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000150/csco-20251027.htm)"
+    },
+    {
+      "topic": "Employee retirement benefits",
+      "statement": "Cisco matches pretax and Roth employee 401(k) contributions up to 100% of the first 4.5% of eligible earnings contributed by employees; all matching contributions vest immediately, and Cisco matching contributions totaled $373 million in fiscal 2025.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Tax matters",
+      "statement": "Cisco reported $2.337 billion of gross unrecognized tax benefits as of July 26, 2025, of which $1.6 billion would affect the effective tax rate if realized; Cisco estimated that unrecognized tax benefits could be reduced by approximately $250 million in the next 12 months.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    },
+    {
+      "topic": "Legal and supply-chain settlement",
+      "statement": "On August 26, 2025, Cisco settled a legal dispute with a supplier over purchase obligations under long-term supply arrangements entered into to help mitigate prior supply-chain constraints; the settlement included release back to Cisco of approximately $563 million held in escrow, forfeiture by Cisco of approximately $450 million in supplier-held prepayments, no incremental cash consideration, and a fiscal 2025 fourth-quarter charge of approximately $355 million to product cost of sales.",
+      "source": "10-K filed 2025-09-03 (https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm)"
+    }
+  ]
+}

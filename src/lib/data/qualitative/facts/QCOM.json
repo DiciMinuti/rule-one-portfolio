@@ -1,0 +1,127 @@
+{
+  "symbol": "QCOM",
+  "companyName": "QUALCOMM",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business model",
+      "statement": "QUALCOMM says it derives revenues principally from sales of integrated circuit products and from licensing of its intellectual property, including patents and other rights.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "segment structure",
+      "statement": "The company reports three reportable segments: QCT, QTL, and QSI; it also discloses nonreportable segments including QGOV and its Data Center business.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "QCT products",
+      "statement": "QCT develops and supplies integrated circuit platforms and system software for mobile devices, automotive systems, and IoT applications.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "QTL licensing",
+      "statement": "QTL grants licenses or otherwise provides rights to use portions of QUALCOMM's intellectual property portfolio, including certain patent rights essential to and/or useful in the manufacture and sale of certain wireless products.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "QSI activity",
+      "statement": "QSI is the company's reportable segment for strategic investments.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "technology positioning",
+      "statement": "QUALCOMM describes itself as a global technology leader focused on foundational technologies including on-device AI, high-performance and low-power computing, and advanced wireless connectivity.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "intellectual property",
+      "statement": "The company says it owns significant intellectual property, including patents, patent applications and trade secrets, applicable to products implementing cellular technologies such as 4G and 5G.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "standards-based technology",
+      "statement": "QUALCOMM says some of its inventions are contributed to and commercialized as industry standards, including technologies for video and audio codecs, Wi-Fi, position location, UWB, memory and component interconnect.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "non-standards technology",
+      "statement": "The company says it has also developed technologies used by wireless and other devices that are not related to industry standards, including user interfaces, graphics and image processing, RF, RFFE, antenna designs, AI and machine learning techniques, and application processor architectures.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "fiscal 2025 scale",
+      "statement": "For FY2025, QUALCOMM reported revenue of $35.82 billion and net income of $7.232 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000804328.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "For FY2025, QUALCOMM reported operating cash flow of $11.299 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000804328.json)"
+    },
+    {
+      "topic": "investment in R&D",
+      "statement": "For FY2025, QUALCOMM reported research and development expense of $8.818 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000804328.json)"
+    },
+    {
+      "topic": "liquidity and debt",
+      "statement": "At FY2025 year-end, QUALCOMM reported $7.849 billion of cash and cash equivalents and $13.27 billion of long-term debt in the SEC company facts summary.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000804328.json)"
+    },
+    {
+      "topic": "market size",
+      "statement": "In the 2025 Form 10-K, QUALCOMM reported an aggregate market value of voting and non-voting common equity held by non-affiliates of $167.9 billion as of March 28, 2025.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "stock repurchases",
+      "statement": "QUALCOMM said it began repurchases under a new $15.0 billion stock repurchase program announced on November 6, 2024, and had $7.2 billion remaining authorized for repurchase at September 28, 2025.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "capital structure",
+      "statement": "During fiscal 2025, QUALCOMM repaid $1.4 billion of unsecured fixed-rate notes that matured in May 2025 and issued $1.5 billion of new unsecured fixed-rate notes in May 2025.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "credit facilities",
+      "statement": "The company has an unsecured commercial paper program of up to $4.5 billion and an unsecured revolving credit facility of up to $4.0 billion that expires on August 8, 2029; it reported no amounts outstanding under either at September 28, 2025.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "share-based compensation",
+      "statement": "QUALCOMM reported total share-based compensation expense of $2.167 billion in fiscal 2025, after income tax benefit, and said RSUs generally vest over three years from the grant date.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "equity plan governance",
+      "statement": "On March 18, 2025, stockholders approved the Amended and Restated Qualcomm Incorporated 2023 Long-Term Incentive Plan, including an increase in the share reserve by 23 million shares.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    },
+    {
+      "topic": "proxy governance",
+      "statement": "The 2026 proxy statement says stockholders will be asked to approve an additional 24,000,000-share increase to the Amended and Restated QUALCOMM Incorporated 2023 Long-Term Incentive Plan, and the Board recommends voting FOR.",
+      "source": "DEF 14A filed 2026-01-22 (https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm)"
+    },
+    {
+      "topic": "board and CEO role",
+      "statement": "The company says its Chief Operating Decision Maker is its CEO, who reviews financial information, makes operating decisions, and assesses business performance; the 2026 proxy names Cristiano R. Amon as President and Chief Executive Officer.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm); DEF 14A filed 2026-01-22 (https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm)"
+    },
+    {
+      "topic": "director nominations",
+      "statement": "The 2026 annual meeting proxy asks stockholders to elect 11 directors, including Cristiano R. Amon, and the Board recommends voting FOR all listed nominees.",
+      "source": "DEF 14A filed 2026-01-22 (https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm)"
+    },
+    {
+      "topic": "related governance/risk",
+      "statement": "The 2026 proxy includes a stockholder proposal on a report regarding risk of China exposure, and the Board recommends voting AGAINST it.",
+      "source": "DEF 14A filed 2026-01-22 (https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm)"
+    },
+    {
+      "topic": "litigation risk",
+      "statement": "The 10-K describes ongoing litigation with Arm and ParkerVision and states that unfavorable resolution of one or more matters could have a material adverse effect on the business, results of operations, financial condition, or cash flows.",
+      "source": "10-K filed 2025-11-05 (https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/qcom-20250928.htm)"
+    }
+  ]
+}

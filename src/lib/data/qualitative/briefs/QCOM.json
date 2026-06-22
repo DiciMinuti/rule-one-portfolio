@@ -1,0 +1,90 @@
+{
+  "symbol": "QCOM",
+  "companyName": "QUALCOMM",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "QUALCOMM's leadership is centered on Cristiano R. Amon, named in the 2026 proxy as President and Chief Executive Officer. The 10-K also identifies the CEO as the Chief Operating Decision Maker, meaning operating reviews and performance assessments are formally tied to the same executive leading the company.",
+        "points": [
+          "Cristiano R. Amon is named as President and Chief Executive Officer in the 2026 proxy and is also one of the 11 director nominees up for election.",
+          "The CEO is identified as the Chief Operating Decision Maker, reviewing financial information, making operating decisions, and assessing performance across the reported business.",
+          "Leadership manages a business split across QCT integrated circuit platforms, QTL intellectual property licensing, QSI strategic investments, and nonreportable areas including QGOV and Data Center."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation is heavily weighted toward technology investment and shareholder returns, supported by large operating cash flow. In FY2025, QUALCOMM generated $11.299 billion of operating cash flow, spent $8.818 billion on research and development, and continued a $15.0 billion repurchase authorization while also refinancing debt.",
+        "points": [
+          "FY2025 research and development expense was $8.818 billion, reflecting continued investment in cellular, on-device AI, low-power computing, wireless connectivity, and related platform technologies.",
+          "QUALCOMM began repurchases under a new $15.0 billion stock repurchase program announced on November 6, 2024, with $7.2 billion remaining authorized at September 28, 2025.",
+          "The company repaid $1.4 billion of unsecured fixed-rate notes maturing in May 2025 and issued $1.5 billion of new unsecured fixed-rate notes in May 2025.",
+          "At FY2025 year-end, QUALCOMM had $7.849 billion of cash and cash equivalents, $13.27 billion of long-term debt, and no borrowings under its commercial paper or revolver facilities."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholder alignment has a clear capital-return component, but equity compensation and share-reserve increases deserve attention. QUALCOMM had a large active repurchase program, while FY2025 share-based compensation was $2.167 billion after income tax benefit and stockholders were asked to approve additional incentive-plan capacity.",
+        "points": [
+          "The $15.0 billion repurchase authorization is a direct capital-return mechanism, and the company had already used part of it by September 28, 2025.",
+          "QUALCOMM reported total share-based compensation expense of $2.167 billion in FY2025, after income tax benefit, and RSUs generally vest over three years from grant date.",
+          "Stockholders approved a 23 million-share increase to the 2023 Long-Term Incentive Plan in March 2025, adding future equity-compensation capacity.",
+          "The 2026 proxy asks stockholders to approve another 24,000,000-share increase to the same long-term incentive plan, with the Board recommending a vote FOR."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "QUALCOMM's investor reporting gives a useful view of how the business is organized and where economic drivers sit. The 2025 10-K identifies three reportable segments, describes QCT products and QTL licensing, discloses strategic investment activity through QSI, and names nonreportable areas including QGOV and Data Center.",
+        "points": [
+          "The company reports three segments: QCT, QTL, and QSI, separating chip and software platforms, intellectual property licensing, and strategic investments.",
+          "QCT disclosure specifies integrated circuit platforms and system software for mobile devices, automotive systems, and IoT applications, rather than treating the chip business as one undifferentiated line.",
+          "QTL disclosure explains that licenses cover portions of QUALCOMM's intellectual property portfolio, including patent rights essential to or useful in certain wireless products.",
+          "The 10-K separately discloses nonreportable segments including QGOV and Data Center, giving investors context beyond the three main reportable segments.",
+          "Risk reporting names ongoing litigation with Arm and ParkerVision and states that unfavorable outcomes could materially affect operations, financial condition, cash flows, or results."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance is documented through regular proxy votes on directors, equity plans, and stockholder proposals, with Cristiano R. Amon included among 11 director nominees. Investor oversight issues remain important because the Board supports more incentive-plan shares and recommends against a stockholder proposal requesting a report on China exposure risk.",
+        "points": [
+          "The 2026 annual meeting proxy asks stockholders to elect 11 directors, including Cristiano R. Amon, and the Board recommends voting FOR all listed nominees.",
+          "The Board recommends voting FOR an additional 24,000,000-share increase to the Amended and Restated QUALCOMM Incorporated 2023 Long-Term Incentive Plan.",
+          "The 2026 proxy includes a stockholder proposal requesting a report on risk from China exposure, and the Board recommends voting AGAINST that proposal.",
+          "The 10-K identifies ongoing Arm and ParkerVision litigation and says unfavorable resolution of one or more matters could materially affect the business or cash flows."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Standards-linked patent licensing",
+        "grade": "strong",
+        "summary": "QUALCOMM's QTL segment licenses portions of its intellectual property portfolio, including patent rights described as essential to and/or useful in manufacturing and selling certain wireless products. The company also says it owns significant patents, patent applications, and trade secrets applicable to 4G and 5G cellular technologies, which supports a licensing-based moat."
+      },
+      {
+        "type": "Broad wireless and computing technology base",
+        "grade": "strong",
+        "summary": "The company's inventions extend beyond cellular patents into standards-based areas such as video and audio codecs, Wi-Fi, position location, UWB, memory, and component interconnect. It also cites non-standards technologies including RF, RFFE, antenna designs, graphics and image processing, AI and machine learning techniques, and application processor architectures."
+      },
+      {
+        "type": "Integrated platform participation across device categories",
+        "grade": "middle",
+        "summary": "QCT develops integrated circuit platforms and system software for mobile devices, automotive systems, and IoT applications, giving QUALCOMM multiple end markets for its technology. This breadth is paired with FY2025 revenue of $35.82 billion and R&D expense of $8.818 billion, but the packet does not provide market-share data or customer retention evidence."
+      },
+      {
+        "type": "R&D scale supporting product and IP renewal",
+        "grade": "middle",
+        "summary": "QUALCOMM spent $8.818 billion on research and development in FY2025 while reporting $11.299 billion of operating cash flow. That investment base supports technologies the company identifies as foundational, including on-device AI, high-performance and low-power computing, and advanced wireless connectivity, though the packet does not quantify returns by program."
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "symbol": "IBM",
+  "companyName": "IBM",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "IBM is led by Arvind Krishna, who holds the combined roles of Chairman, President, and Chief Executive Officer, with James J. Kavanaugh serving as Senior Vice President, Finance and Operations, and Chief Financial Officer. The leadership team is managing a large, multi-segment enterprise technology company with FY2025 revenue of $61.86 billion across Software, Consulting, Infrastructure, and Financing.",
+        "points": [
+          "Arvind Krishna combines board and executive leadership as Chairman, President, and CEO, which gives IBM a clear central decision-maker but also concentrates leadership authority in one role.",
+          "James J. Kavanaugh holds the CFO role and also oversees Finance and Operations, a relevant structure for a company with $13.931 billion of FY2025 operating cash flow and $49.884 billion of long-term debt.",
+          "IBM's leadership is responsible for distinct operating segments: Software, Consulting, Infrastructure, and Financing, each with separate business lines such as Hybrid Cloud, Automation, Transaction Processing, and Infrastructure Support."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "IBM's capital allocation is anchored by large internal investment, acquisition activity, and balance-sheet management. FY2025 research and development expense was $6.775 billion, while the company also carried $49.884 billion of long-term debt and $13.947 billion of cash and cash equivalents at year-end.",
+        "points": [
+          "IBM spent $6.775 billion on research and development in FY2025, a meaningful internal investment supporting software, infrastructure, and technology lines such as Hybrid Cloud, Automation, Data, and Transaction Processing.",
+          "The company continued acquisition activity, including the HashiCorp acquisition on February 27, 2025, and prior StreamSets and WebMethods acquisition-related disclosures referenced in the 2025 filing.",
+          "IBM's year-end balance sheet included $49.884 billion of long-term debt against $27.307 billion of stockholders' equity, making leverage an important capital allocation constraint for investors to watch."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "IBM's proxy describes a year-round stockholder engagement process, with feedback used across AI, corporate governance, board composition, and executive compensation. The packet also shows substantial equity compensation plan capacity, including 32,163,174 equity awards outstanding or available and 40,998,234 securities remaining available for future issuance at year-end 2025.",
+        "points": [
+          "The 2026 proxy says IBM uses year-round stockholder engagement feedback to inform practices and policies in AI, governance, board composition, and executive compensation.",
+          "Equity compensation is material: IBM reported 32,163,174 equity awards outstanding or available under plans and 40,998,234 securities remaining available for future issuance at December 31, 2025.",
+          "IBM's 2025 filing references acquisition-specific compensation plans, including the IBM HashiCorp Acquisition Long-Term Performance Plan adopted in connection with the HashiCorp acquisition."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "IBM provides investors with detailed segment and business-line disclosure in its annual filing, breaking operations into Software, Consulting, Infrastructure, and Financing. The filing also discloses remaining performance obligations, equity compensation plan capacity, credit loss allowances, and revenue-based provisions, giving investors concrete data to track contracted revenue, financing risk, and dilution capacity.",
+        "points": [
+          "The 2025 10-K breaks Software into Hybrid Cloud, Automation, Data, and Transaction Processing, which helps investors separate software exposure rather than viewing IBM as one broad technology business.",
+          "IBM separately reports Consulting lines such as Strategy and Technology and Intelligent Operations, and Infrastructure lines such as Hybrid Infrastructure and Infrastructure Support.",
+          "The filing includes remaining performance obligation disclosure for periods one and two, indicating contracted future revenue is important enough to be separately tracked.",
+          "IBM reports financing-related credit metrics, including allowance for credit losses rising from $273 million to $276 million and revenue-based provisions rising from $298 million to $388 million in 2025."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "IBM's Board actively oversees enterprise risk, including cybersecurity, talent management, and responsible business initiatives, according to the 2026 proxy. Governance is mixed: the Board added Ramon Laguarta since the last Annual Meeting and maintains shareholder engagement, but the Chairman and CEO roles are combined under Arvind Krishna.",
+        "points": [
+          "The Board's stated enterprise risk oversight includes cybersecurity, talent management, and responsible business initiatives, all relevant risks for a large enterprise technology company.",
+          "IBM added Ramon Laguarta to the Board since the last Annual Meeting, showing at least one recent board refreshment action disclosed in the 2026 proxy.",
+          "Arvind Krishna serves as both Chairman and CEO, so investors should recognize that board leadership and executive leadership are combined rather than separated.",
+          "The proxy says stockholder feedback informs corporate governance, board composition, and executive compensation, tying engagement topics directly to governance practices rather than only investor relations messaging."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Switching costs from enterprise systems and contracted work",
+        "grade": "middle",
+        "summary": "IBM's business includes Transaction Processing, Infrastructure Support, Consulting, Financing Services, and Used Equipment Sales, all categories that can be embedded in enterprise operations. The 2025 filing also discloses remaining performance obligations for periods one and two, showing contracted future revenue is material enough for separate tracking."
+      },
+      {
+        "type": "Scale and research capacity",
+        "grade": "middle",
+        "summary": "IBM operates at large scale, with FY2025 revenue of $61.86 billion, operating cash flow of $13.931 billion, and research and development expense of $6.775 billion. That spending base supports multiple technology lines, including Hybrid Cloud, Automation, Data, Transaction Processing, Hybrid Infrastructure, and Infrastructure Support."
+      },
+      {
+        "type": "Breadth across software, consulting, infrastructure, and financing",
+        "grade": "middle",
+        "summary": "IBM's operating model spans Software, Consulting, Infrastructure, and Financing, rather than relying on a single product category. Its disclosed lines include Hybrid Cloud, Automation, Data, Strategy and Technology, Intelligent Operations, Hybrid Infrastructure, Infrastructure Support, Financing Services, and Used Equipment Sales."
+      },
+      {
+        "type": "Acquisition-supported product expansion",
+        "grade": "middle",
+        "summary": "IBM's 2025 filing references acquisition-related operating segments and acquisition-specific compensation plans, including the HashiCorp acquisition completed on February 27, 2025. It also references StreamSets and WebMethods acquisition disclosures, indicating acquisitions are part of how IBM adds capabilities to its enterprise technology portfolio."
+      }
+    ]
+  }
+}

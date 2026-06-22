@@ -1,0 +1,92 @@
+{
+  "symbol": "DELL",
+  "companyName": "Dell",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Dell is led by founder Michael S. Dell, who signed the 2026 Form 10-K as Chairman, Chief Executive Officer, and principal executive officer. The finance organization is named in the filing as well, with David Kennedy as Executive Vice President and Chief Financial Officer and Richard Troy Sharp as Chief Accounting Officer.",
+        "points": [
+          "Michael S. Dell remains the central executive figure, signing the 2026 Form 10-K as Chairman, Chief Executive Officer, and principal executive officer.",
+          "David Kennedy signed the 2026 Form 10-K as Executive Vice President, Chief Financial Officer, and principal financial officer, giving investors a named accountable finance leader.",
+          "Richard Troy Sharp signed as Senior Vice President, Corporate Finance and Chief Accounting Officer, making the principal accounting officer identifiable in Dell's annual filing.",
+          "Michael Dell's 2026 proxy letter positioned Dell's AI opportunity across at-scale neoclouds, enterprise workloads, and edge computing through the PC."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Dell returned substantial capital in fiscal 2026 while still carrying a leveraged balance sheet. The proxy reports $7.5 billion returned through repurchases and dividends, while SEC company facts show $19.363 billion of long-term debt, negative $1.482 billion of stockholders' equity, and $3.633 billion of cash.",
+        "points": [
+          "Dell's 2026 proxy reports $7.5 billion of shareholder return in fiscal 2026 through a combination of share repurchases and dividends.",
+          "SEC company facts report FY2026 operating cash flow of $8.676 billion, giving Dell internally generated cash to support investment, debt service, and shareholder returns.",
+          "Dell also reported FY2026 research and development expense of $2.801 billion, showing capital allocation to product and technology investment alongside shareholder distributions.",
+          "The balance sheet remains a key constraint: SEC company facts report $19.363 billion of long-term debt and negative $1.482 billion of stockholders' equity."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Dell has explicit shareholder-return activity and equity-based compensation tools, but the ownership and voting structure is complex. The record includes stockholder agreements involving Michael S. Dell, the Susan Lieberman Dell Separate Property Trust, Silver Lake entities, and management stockholders, plus multiple director-election classes.",
+        "points": [
+          "Fiscal 2026 shareholder return was meaningful in absolute dollars, with the proxy reporting $7.5 billion returned through share repurchases and dividends.",
+          "Dell's 2023 Stock Incentive Plan includes time-based restricted stock units, performance-based restricted stock units, deferred stock units, and performance-based stock option agreements.",
+          "The Form 10-K exhibit list includes an Incentive-Based Compensation Recovery Policy effective September 28, 2023, adding a stated clawback mechanism to incentive pay.",
+          "Alignment is not simple for outside holders because the filings reference stockholder agreements involving Michael S. Dell, Silver Lake entities, management stockholders, and related trusts."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Dell gives investors multiple formal disclosure channels, including the 2026 Form 10-K, SEC company facts, XBRL segment references, and the 2026 proxy statement. The packet supports specific reporting around Infrastructure Solutions Group, Client Solutions, All Other Segments, product and service categories, executive roles, capital returns, and compensation matters.",
+        "points": [
+          "Dell's 2026 Form 10-K XBRL references operating segments including Infrastructure Solutions Group, Client Solutions, and All Other Segments.",
+          "The 2026 Form 10-K XBRL includes product and service revenue and cost category members, indicating reporting across product and service categories.",
+          "The 2026 proxy provides operating highlights including fiscal 2026 net revenue of $113.5 billion, operating income of $8.1 billion, and non-GAAP operating income of $10.0 billion.",
+          "SEC company facts separately report FY2026 revenue of $88.425 billion, net income of $3.388 billion, operating cash flow of $8.676 billion, and R&D expense of $2.801 billion."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Dell's governance disclosures identify directors, voting mechanics, auditor ratification, compensation votes, and major stockholder agreements. The structure deserves investor attention because seven Group I directors are elected by Class A, Class B, and Class C holders voting together, while the Group IV director is elected by Class C holders separately.",
+        "points": [
+          "The 2026 proxy lists Group I director nominees Michael S. Dell, David W. Dorman, Egon Durban, David Grain, William D. Green, Ellen J. Kullman, and Steven M. Mollenkopf.",
+          "Lynn Vojvodich Radakovich is listed as the Group IV director nominee, elected by holders of Class C common stock voting separately as a series.",
+          "The board recommended redomesticating Dell Technologies Inc. from Delaware to Texas by conversion at the 2026 annual meeting.",
+          "The board recommended ratification of PricewaterhouseCoopers LLP as independent registered public accounting firm for the fiscal year ending January 29, 2027.",
+          "The proxy includes a non-binding advisory vote on named executive officer compensation, and the board recommended voting for the proposal.",
+          "The Form 10-K XBRL references one-customer concentration risk and the three largest contract manufacturers, which are concrete operating risks for board oversight."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Scale across computing infrastructure and PCs",
+        "grade": "middle",
+        "summary": "Dell has large operating scale, with the 2026 proxy reporting fiscal 2026 net revenue of $113.5 billion and SEC company facts reporting FY2026 operating cash flow of $8.676 billion. Its reported segments include Infrastructure Solutions Group and Client Solutions, tying the company to both enterprise infrastructure and client devices rather than a single product line."
+      },
+      {
+        "type": "Product and service breadth",
+        "grade": "middle",
+        "summary": "Dell's 2026 Form 10-K XBRL includes product and service revenue and cost category members, and references operating segments including Infrastructure Solutions Group, Client Solutions, and All Other Segments. That breadth can help Dell participate in infrastructure, client devices, and related service categories, but the packet does not quantify segment margins or share positions."
+      },
+      {
+        "type": "AI infrastructure-to-edge positioning",
+        "grade": "middle",
+        "summary": "Michael S. Dell's 2026 proxy letter said the company is positioned to extend AI from the largest at-scale neoclouds into enterprise workloads and out to the edge with the PC. This is a company-specific strategic position, but the packet does not provide AI revenue, backlog, customer counts, or profitability by AI offering."
+      },
+      {
+        "type": "Research and development investment",
+        "grade": "middle",
+        "summary": "SEC company facts report FY2026 research and development expense of $2.801 billion, giving Dell a measurable internal investment base for product and technology work. The moat evidence is moderate because the packet does not identify patents, proprietary platforms, win rates, or product-level returns from that spending."
+      }
+    ]
+  }
+}

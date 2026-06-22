@@ -1,0 +1,127 @@
+{
+  "symbol": "ABBV",
+  "companyName": "AbbVie",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Business description",
+      "statement": "AbbVie describes itself as a global, diversified research-based biopharmaceutical company focused on discovering and delivering innovative medicines and solutions for serious health issues and future medical challenges.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Industry classification",
+      "statement": "AbbVie Inc. is listed on the NYSE under ticker ABBV, and its SIC description is Pharmaceutical Preparations.",
+      "source": "SEC submissions metadata, https://data.sec.gov/submissions/CIK0001551152.json"
+    },
+    {
+      "topic": "Product categories",
+      "statement": "AbbVie says its product portfolio has leadership positions across immunology, neuroscience, oncology, and aesthetics.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Geographic reach",
+      "statement": "AbbVie says its products help patients and customers in more than 180 countries and territories, and that it has approximately 57,000 employees in more than 70 countries.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Company history",
+      "statement": "AbbVie states that it launched in 2013.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "AbbVie reported total net revenues of $61.2 billion for 2025 in its proxy summary, representing 8.5% operational growth compared with 2024 on a non-GAAP constant-currency basis.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Growth platform",
+      "statement": "AbbVie reported Growth Platform net revenues of $56.6 billion in 2025, up 19.6% compared with 2024, and said the Growth Platform represented 93% of total net revenues in 2025.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Humira loss of exclusivity",
+      "statement": "AbbVie stated that total net revenues exceeded their previous peak in 2025, which was the second full year following U.S. Humira loss of exclusivity.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Blockbuster products",
+      "statement": "AbbVie reported 12 blockbuster products with 2025 net revenues greater than $1.0 billion.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Key product growth",
+      "statement": "AbbVie said at least nine key assets delivered double-digit sales growth in 2025, including growth of nearly 50% for Skyrizi and 40% for Rinvoq.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Pipeline scale",
+      "statement": "AbbVie reported a development pipeline of approximately 90 active clinical and device programs, including compounds, devices, or indications in development individually or under collaboration or license agreements.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Research investment",
+      "statement": "AbbVie stated that since inception it has invested over $85 billion to research, develop, and discover new medicines and solutions.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "R&D spending",
+      "statement": "AbbVie reported adjusted R&D investment of $13.8 billion in 2025, which it described as a substantial increase compared with 2024.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Regulatory approvals",
+      "statement": "AbbVie said 2025 regulatory approvals included Rinvoq for adults with giant cell arteritis, Epkinly with rituximab and lenalidomide for second-line adult follicular lymphoma, and Emrelis for adults with previously treated advanced non-small cell lung cancer.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Regulatory submissions",
+      "statement": "AbbVie said it submitted regulatory applications for tavapadon for Parkinson's disease, trenibotulinumtoxinE for moderate to severe glabellar lines, pivekimab sunirine for blastic plasmacytoid dendritic cell neoplasm, and Aquipta for acute treatment of adult migraine across Europe.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Business development",
+      "statement": "AbbVie said it strengthened its pipeline in 2025 through business development, including approximately fifteen collaborations, licensing agreements, or other asset acquisitions.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Cash flow",
+      "statement": "AbbVie reported operating cash flow of $19.0 billion for 2025 in its proxy summary.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "AbbVie reported 2025 GAAP diluted EPS of $2.36 and adjusted diluted EPS of $10.00 in its proxy summary.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Balance sheet",
+      "statement": "The SEC company facts summary shows FY2025 long-term debt of $64.503 billion, cash and equivalents of $5.524 billion, and stockholders' equity of $3.325 billion.",
+      "source": "SEC company facts summary, https://data.sec.gov/api/xbrl/companyfacts/CIK0001551152.json"
+    },
+    {
+      "topic": "Capital allocation",
+      "statement": "AbbVie stated that its quarterly dividend increased to $1.73 per share from $0.57 per share over the last decade, calculated on a declared basis as of December 31, 2025 versus December 31, 2015.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    },
+    {
+      "topic": "Leadership",
+      "statement": "AbbVie's 2025 Form 10-K was signed by Robert A. Michael as Chairman of the Board and Chief Executive Officer, Scott T. Reents as Executive Vice President and Chief Financial Officer, and David R. Purdue as Senior Vice President and Controller.",
+      "source": "10-K filed 2026-02-20, https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm"
+    },
+    {
+      "topic": "Governance and ethics",
+      "statement": "AbbVie says its code of business conduct applies to all directors, officers, and employees; any waiver for directors or executive officers may be made only by the audit committee, and AbbVie has a chief ethics and compliance officer overseeing its compliance program.",
+      "source": "10-K filed 2026-02-20, https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm"
+    },
+    {
+      "topic": "Executive compensation and equity plans",
+      "statement": "As of December 31, 2025, AbbVie had 13,938,765 securities to be issued upon exercise of outstanding options, warrants, and rights under equity compensation plans approved by security holders, with a weighted-average exercise price of $132.49, and 49,917,374 securities remaining available for future issuance under those plans.",
+      "source": "10-K filed 2026-02-20, https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm"
+    },
+    {
+      "topic": "Corporate governance proposals",
+      "statement": "For the 2026 annual meeting, AbbVie's board recommended voting for a management proposal to eliminate supermajority voting and against a stockholder proposal to adopt a policy requiring an independent board chair.",
+      "source": "DEF 14A filed 2026-03-23, https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm"
+    }
+  ]
+}

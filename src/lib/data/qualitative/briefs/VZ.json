@@ -1,0 +1,89 @@
+{
+  "symbol": "VZ",
+  "companyName": "Verizon",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "Verizon is led by Daniel Schulman, who joined as Chief Executive Officer in October 2025, with Anthony Skiadas as Chief Financial Officer and Mary-Lee Stillwell as Senior Vice President and Controller. The leadership setup is credible for a very large telecom operator, but the recent CEO transition and added transformation role make execution evidence especially important for investors.",
+        "points": [
+          "Daniel Schulman became Chief Executive Officer in October 2025, so investors have limited reported history in the packet to judge his operating record at Verizon.",
+          "Anthony Skiadas is identified as Chief Financial Officer, and Mary-Lee Stillwell is identified as Senior Vice President and Controller in the 2025 annual report.",
+          "Alfonso Villanueva Rodriguez joined Verizon in November 2025 as Chief Transformation Officer and began his current role in February 2026, signaling an active management transition period."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Verizon generates large cash flow, with FY2025 operating cash flow of $37.475 billion and net income of $11.614 billion on revenue of $133.974 billion. The offset is a capital-heavy balance sheet and operating model, including $15.350 billion of depreciation expense, $7.291 billion of interest costs on debt balances, and long-dated debt securities outstanding.",
+        "points": [
+          "FY2025 operating cash flow of $37.475 billion gives Verizon meaningful internal funding capacity for network investment, debt service, customer financing, and other corporate needs.",
+          "The business remains capital intensive: Verizon disclosed $15.350 billion of depreciation expense for 2025 and capitalized interest costs of $(740) million.",
+          "Debt service is a major capital-allocation constraint, with 2025 interest costs on debt balances of $7.291 billion and long-dated notes due in 2037, 2045, 2055, and 2065.",
+          "Verizon estimated $15.0 billion of unconditional purchase obligations longer than one year, covering content, network equipment, software and services, marketing services, and other items."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet gives some evidence of formal shareholder checks, including advisory approval of executive compensation and approval of the 2026 Long-Term Incentive Plan. It does not provide insider ownership levels, detailed pay metrics, dividend policy, or repurchase activity, so alignment is hard to grade above middle from the supplied facts alone.",
+        "points": [
+          "Verizon's 2026 proxy asked shareholders to approve executive compensation on an advisory basis, giving investors a recurring vote on named executive pay outcomes.",
+          "Shareholders were also asked to approve the 2026 Long-Term Incentive Plan, but the packet does not provide the plan's performance metrics or award mix.",
+          "The supplied facts do not include insider ownership levels, founder control, dividend actions, or buyback activity, limiting the evidence for owner-like alignment.",
+          "Large debt-service costs and purchase obligations mean management's capital-allocation choices directly affect residual cash available to shareholders."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Verizon provides detailed public reporting through SEC submissions, including annual-report disclosure on Consumer and Business operations, wireless and wireline contracts and services, supplier finance, renewable energy purchase agreements, litigation, and internal controls. The packet also includes XBRL company-facts data for revenue, net income, operating cash flow, cash, and debt-related items.",
+        "points": [
+          "The 2025 annual report describes operations across Verizon Consumer and Verizon Business and refers to wireless and wireline contracts and services.",
+          "Verizon disclosed specific supplier-finance terms, including $723 million of confirmed obligations outstanding, non-recourse receivable sales by suppliers, and payment generally at 90 days.",
+          "The annual report disclosed 29 renewable energy purchase agreements at year-end 2025, with 21 associated facilities in commercial operation and the rest under development.",
+          "Management concluded disclosure controls and procedures were effective and internal control over financial reporting was effective as of December 31, 2025, with no material weaknesses identified."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Verizon has the standard public-company governance mechanisms shown in the packet: shareholders were asked to elect nine directors, ratify the independent auditor, approve executive compensation on an advisory basis, and approve a long-term incentive plan. Key risks for board oversight include debt costs, credit exposure from device payment receivables, litigation, regulatory proceedings, and large purchase commitments.",
+        "points": [
+          "The 2026 proxy asked shareholders to elect nine directors, ratify the independent auditor, approve executive compensation on an advisory basis, and approve the 2026 Long-Term Incentive Plan.",
+          "Verizon disclosed approximately 30 federal district court actions alleging patent infringement, along with other state and federal litigation and regulatory proceedings.",
+          "Customer credit exposure is material: the 2025 allowance for credit losses deducted from accounts receivable was $2.045 billion, including about $794 million tied to long-term device payment receivables.",
+          "The packet does not provide director independence details, board committee assignments, insider ownership, or compensation-performance metrics, so governance cannot be graded as strong from these facts alone."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "middle",
+    "types": [
+      {
+        "type": "Capital-intensive communications network scale",
+        "grade": "middle",
+        "summary": "Verizon operates at very large scale, with FY2025 revenue of $133.974 billion and operating cash flow of $37.475 billion across communications services. The same facts also show the cost of maintaining this position: $15.350 billion of depreciation expense, $15.0 billion of unconditional purchase obligations, and $7.291 billion of interest costs on debt balances."
+      },
+      {
+        "type": "Consumer and Business service breadth",
+        "grade": "middle",
+        "summary": "Verizon's 2025 annual report describes operations across both Verizon Consumer and Verizon Business, with wireless and wireline contracts and services. That breadth can support a broad customer and service footprint, but the packet does not provide subscriber counts, churn, market share, or segment profitability to prove a stronger moat."
+      },
+      {
+        "type": "Contracted operating relationships and infrastructure commitments",
+        "grade": "dull",
+        "summary": "The company's disclosures show a business built around long-term operating commitments, including $15.0 billion of purchase obligations for content, network equipment, software and services, marketing services, and other items. These commitments support scale operations, but they also create fixed obligations rather than a clearly proven pricing or retention advantage."
+      },
+      {
+        "type": "Public-company disclosure and control infrastructure",
+        "grade": "dull",
+        "summary": "Verizon reported effective disclosure controls and procedures and effective internal control over financial reporting as of December 31, 2025, with no material weaknesses identified. This supports investor confidence in reported information, but it is a governance and reporting strength rather than a durable competitive moat against telecom competitors."
+      }
+    ]
+  }
+}

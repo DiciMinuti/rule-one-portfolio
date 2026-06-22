@@ -1,0 +1,87 @@
+{
+  "symbol": "PEP",
+  "companyName": "PepsiCo",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "PepsiCo's leadership is anchored by Ramon L. Laguarta, who signed the 2025 10-K as Chairman and Chief Executive Officer, and Stephen T. Schmitt, who signed as Executive Vice President and Chief Financial Officer. The company is operating at large scale, with FY2025 revenue of $91.471 billion, net income of $9.074 billion, and operating cash flow of $13.442 billion.",
+        "points": [
+          "Ramon L. Laguarta holds both Chairman and CEO roles, giving one named executive direct responsibility for board leadership and enterprise operating strategy.",
+          "Stephen T. Schmitt signed the 2025 10-K as Executive Vice President and Chief Financial Officer, tying finance leadership to reported cash generation, leverage, and capital allocation.",
+          "Management's stated strategy includes reigniting North America, increasing international scale, and growing away-from-home, which gives investors clear operating priorities to track."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "PepsiCo generated FY2025 free cash flow of $8.200 billion, or $10.040 billion excluding certain items, and states that free cash flow is used primarily for acquisitions and financing activities. Those financing activities include debt repayments, dividends, and share repurchases, while the balance sheet carried $37.224 billion of long-term debt and $8.505 billion of cash.",
+        "points": [
+          "The proxy states that free cash flow is directed mainly to acquisitions and financing activities, including debt repayment, dividends, and share repurchases.",
+          "PepsiCo announced its 54th consecutive annualized dividend per share increase, effective with the expected June 2026 dividend payment.",
+          "Capital allocation must balance shareholder returns with leverage, as FY2025 long-term debt was $37.224 billion versus stockholders' equity of $18.041 billion."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Shareholder alignment is supported by a long dividend record and explicit use of free cash flow for dividends and repurchases. The packet also shows formal shareholder input through an advisory executive compensation vote at the 2026 Annual Meeting, although it does not provide the detailed compensation formula.",
+        "points": [
+          "The 54th consecutive annualized dividend per share increase gives shareholders a concrete, recurring return of capital metric to evaluate over time.",
+          "Share repurchases are named as one use of free cash flow, alongside dividends, debt repayments, and acquisitions, tying capital deployment to shareholder returns.",
+          "The 2026 proxy includes advisory approval of executive compensation as a voting matter, giving shareholders a formal channel to express views on pay practices."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "PepsiCo provides investors with detailed SEC-based reporting on financial results, segment structure, strategy, non-GAAP cash flow, and risk factors. The 2025 10-K identifies operating segments across North America, international beverages, EMEA, Latin America Foods, and Asia Pacific Foods, while the 2026 proxy adds strategic priorities and capital allocation uses.",
+        "points": [
+          "The 2025 10-K identifies segments including PepsiCo Foods North America, PepsiCo Beverages North America, International Beverage Franchise, EMEA, Latin America Foods, and Asia Pacific Foods.",
+          "The company reports major financial figures through SEC and XBRL data, including FY2025 revenue, net income, operating cash flow, R&D expense, cash, debt, and equity.",
+          "The 2026 proxy discloses both free cash flow and free cash flow excluding certain items, giving investors two stated cash-flow measures to reconcile with capital returns.",
+          "The proxy lists specific business risks, including product recalls, commodity and packaging inflation, water scarcity, cybersecurity incidents, tariffs, climate change, plastic packaging regulation, and litigation."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance includes a broad board roster and stated oversight of strategy, risk management, talent development, and human capital management. The structure also concentrates leadership because Ramon L. Laguarta is both Chairman and CEO, and investors should weigh that against board oversight and the proxy's named risk disclosures.",
+        "points": [
+          "The 2025 10-K lists directors including Jennifer Bailey, Cesar Conde, Ian M. Cook, Edith W. Cooper, Michelle Gass, Dave J. Lewis, and Daniel Vasella.",
+          "The 2026 proxy notes board refreshment, with David W. Gibbs as a new director nominee and Segun Agbaje and Dr. David C. Page not standing for re-election.",
+          "The board is described as overseeing long-term strategy, risk management, talent development, and human capital management, all material for a global food and beverage operator.",
+          "Named risks under board oversight include product quality or safety issues, supply-chain disruption, commodity and packaging cost inflation, cybersecurity incidents, and regulatory or litigation proceedings."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale across food and beverage operating segments",
+        "grade": "strong",
+        "summary": "PepsiCo's scale is visible in FY2025 revenue of $91.471 billion and a segment structure spanning PepsiCo Foods North America, PepsiCo Beverages North America, International Beverage Franchise, EMEA, Latin America Foods, and Asia Pacific Foods. That breadth gives the company multiple operating platforms rather than dependence on a single geography or category."
+      },
+      {
+        "type": "Manufacturing, warehousing, and distribution footprint",
+        "grade": "strong",
+        "summary": "The 2026 proxy says PepsiCo is investing to expand manufacturing, right-size warehousing and distribution, and transform its operating model to be more agile and efficient. Those facts point to a physical operating footprint that matters for beverages and foods, where production, storage, and route-to-market execution are central to the business model."
+      },
+      {
+        "type": "Reinvestment capacity",
+        "grade": "middle",
+        "summary": "PepsiCo reported FY2025 operating cash flow of $13.442 billion and R&D expense of $804 million, while the proxy cites free cash flow excluding certain items of $10.040 billion. The company is using that cash generation to strengthen brands, pursue innovation and acquisitions, expand manufacturing, and return capital through dividends and share repurchases."
+      },
+      {
+        "type": "Geographic diversification",
+        "grade": "middle",
+        "summary": "The 2025 10-K includes country and regional references for the United States, Canada, Mexico, Russia, China, Great Britain, Brazil, South Africa, and an \"All Other Countries\" category. The 2026 proxy also says PepsiCo is increasing the size and scale of its international business, giving investors a concrete geographic growth priority to monitor."
+      }
+    ]
+  }
+}

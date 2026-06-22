@@ -1,0 +1,117 @@
+{
+  "symbol": "TMUS",
+  "companyName": "T-Mobile US",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "Business classification",
+      "statement": "T-Mobile US, Inc. is classified in SEC metadata under SIC description \"Radiotelephone Communications\" and trades on Nasdaq under the ticker TMUS.",
+      "source": "SEC submissions metadata; https://data.sec.gov/submissions/CIK0001283699.json"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "The company reported FY2025 revenue of $78.558 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Profitability",
+      "statement": "The company reported FY2025 net income of $8.317 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Operating cash flow",
+      "statement": "The company reported FY2025 net cash provided by operating activities of $18.559 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Balance sheet leverage",
+      "statement": "The company reported FY2025 long-term debt of $74.197 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Liquidity",
+      "statement": "The company reported FY2025 cash and cash equivalents of $5.409 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Equity position",
+      "statement": "The company reported FY2025 stockholders' equity of $69.656 billion.",
+      "source": "SEC company facts summary; https://data.sec.gov/api/xbrl/companyfacts/CIK0001283699.json"
+    },
+    {
+      "topic": "Business model",
+      "statement": "The 10-K filing identifies revenue categories including branded postpaid revenue, branded prepaid revenue, wholesale and other service revenue, service revenue, and product equipment revenue.",
+      "source": "10-K filed 2026-02-11; https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm"
+    },
+    {
+      "topic": "Customer mix / revenue mix categories",
+      "statement": "The 10-K also tracks product and service revenue categories such as product and service other, indicating the company reports both service and equipment-related revenue streams.",
+      "source": "10-K filed 2026-02-11; https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm"
+    },
+    {
+      "topic": "Capital intensity and cash generation",
+      "statement": "In the proxy appendix, management reported FY2025 Adjusted Free Cash Flow of $17.995 billion and said it is used to evaluate cash available to pay debt, repurchase shares, pay dividends, and provide further investment in the business.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Non-GAAP operating metric",
+      "statement": "Management said Adjusted EBITDA and Core Adjusted EBITDA are used internally to monitor financial performance, allocate resources, evaluate and compensate personnel, and benchmark performance versus competitors.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "FY2025 adjusted EBITDA",
+      "statement": "The proxy appendix reported FY2025 Adjusted EBITDA of $33.937 billion and Core Adjusted EBITDA of $33.924 billion.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Network cost restructuring",
+      "statement": "The proxy appendix says T-Mobile began implementing network restructuring initiatives in Q4 2025 to rationalize network and backhaul services and eliminate duplicative costs, with related costs including network decommissioning and contract termination costs.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Cybersecurity-related costs",
+      "statement": "The proxy appendix says legal-related expenses and recoveries include settlement of certain litigation and compliance costs associated with the August 2021 cyberattack, net of insurance recoveries.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Workforce transformation",
+      "statement": "The proxy appendix says FY2025 other, net included $390 million of severance and related costs associated with the 2025 workforce transformation.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Ownership / control",
+      "statement": "As of March 31, 2026, Deutsche Telekom held voting control over approximately 54.5% of T-Mobile's outstanding common stock and was described as the company's controlling stockholder.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Board designation rights",
+      "statement": "Under the Second Amended and Restated Stockholders' Agreement dated June 22, 2020, and based on its ownership position, Deutsche Telekom has the right to designate 10 members of the board.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Board composition / independence",
+      "statement": "The proxy states the board includes independent directors, including three designated by the Nominating, Corporate Governance and Compliance Committee, and that each meets applicable NASDAQ and SEC independence standards.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Management names",
+      "statement": "The 10-K signature page identifies Srinivasan Gopalan as Chief Executive Officer and Peter Osvaldik as Chief Financial Officer; the proxy also lists G. Michael Sievert among the director nominees.",
+      "source": "10-K filed 2026-02-11; https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm; DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Governance / executive compensation",
+      "statement": "The 10-K index identifies the 2023 Incentive Award Plan, forms of restricted stock unit award agreements, a non-qualified deferred executive compensation plan, an executive continuity plan, and an amended executive incentive compensation recoupment policy as governance and compensation arrangements.",
+      "source": "10-K filed 2026-02-11; https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm"
+    },
+    {
+      "topic": "Annual meeting governance",
+      "statement": "For the 2026 annual meeting, stockholders are asked to elect 13 director nominees, ratify Deloitte & Touche LLP as independent auditor for fiscal 2026, and hold an advisory vote on named executive officer compensation for 2025.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    },
+    {
+      "topic": "Risk factors",
+      "statement": "The proxy's forward-looking statement section highlights risks including competition, cyberattacks, spectrum scarcity and renewal risk, debt servicing risk, regulatory change, inability to obtain regulatory approvals for transactions, supply-chain disruptions, and foreign ownership limitations affecting equity financing outside the United States.",
+      "source": "DEF 14A filed 2026-04-27; https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "symbol": "UNH",
+  "companyName": "UnitedHealth",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "middle",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "middle",
+        "summary": "UnitedHealth went through a major leadership reset in 2025. Stephen Hemsley was appointed Chief Executive Officer in May 2025 while also serving as Chair, Wayne DeVeydt became Chief Financial Officer in September 2025, and the company refreshed nearly half of its top 100 leadership roles.",
+        "points": [
+          "The 2025 Form 10-K was signed by Stephen Hemsley as Chair and Chief Executive Officer, Wayne DeVeydt as Chief Financial Officer, and Thomas Roos as Chief Accounting Officer.",
+          "The Lead Independent Director letter said the company combined the CEO and Chair roles under extraordinary circumstances and did not intend to continue that practice indefinitely.",
+          "UnitedHealth said management regularly reviews the top 750 leaders with the Board and has succession plans in place for over 90% of that leadership group.",
+          "The company said it refocused the organization on U.S. health care by exiting non-U.S. businesses, a concrete strategic narrowing after a leadership refresh."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "UnitedHealth has large cash-generation capacity, with FY2025 operating cash flow of $29.068 billion and net income of $22.381 billion on revenue of $371.622 billion. Capital allocation included dividends, repurchases, debt refinancing activity, and planned technology investment rather than only one use of cash.",
+        "points": [
+          "Parent company 2025 cash flows included $7.916 billion of cash dividends paid and $5.545 billion of common stock repurchases, showing sizable direct capital returns.",
+          "The proxy summary listed an annual cash dividend of $8.84, while the company also maintained $25.312 billion of cash and equivalents at FY2025 year-end.",
+          "UnitedHealth reported $72.359 billion of long-term debt, and 2025 parent company cash flows included $2.969 billion of long-term debt issuance and $3.050 billion of repayments.",
+          "Management said UnitedHealth expects to invest nearly $1.5 billion in intelligent technologies in 2026 and at least that much again in 2027."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Shareholders received material cash returns in 2025 through both dividends and buybacks. Alignment is more mixed because equity compensation capacity is meaningful, with 18 million securities tied to outstanding awards and another 54 million securities available for future issuance under approved plans.",
+        "points": [
+          "UnitedHealth returned capital through $7.916 billion of cash dividends paid and $5.545 billion of common stock repurchases in parent company 2025 cash flows.",
+          "As of December 31, 2025, 18 million securities were issuable under shareholder-approved equity compensation plans, with a weighted-average exercise price of $395.",
+          "The company had 54 million securities remaining available for future issuance, including 15 million under the ESPP and 39 million under the 2020 Stock Incentive Plan.",
+          "The annual cash dividend of $8.84 gives shareholders a recurring return mechanism, but investors should monitor equity plan usage against repurchases."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "UnitedHealth's investor disclosures give concrete operating context through SEC filings, proxy materials, and defined business descriptions for Optum and UnitedHealthcare. The company also said it began publishing results on prior authorizations, claim approval rates, rebate practices, prices, and core management practices after independent reviews.",
+        "points": [
+          "The 10-K and proxy describe UnitedHealth as operating through two distinct and complementary businesses: Optum and UnitedHealthcare, rather than reporting only a generic health care label.",
+          "The proxy describes Optum's care, insights, and pharmacy services and UnitedHealthcare's coverage across individual, employer-sponsored, and government programs.",
+          "UnitedHealth said it published three independent reviews of critical business practices, adopted all recommendations, and began publishing related results on authorizations, claims, rebates, and prices.",
+          "The proxy reconciliation identified $799 million of direct response costs related to a cyberattack and $2.521 billion of restructuring and other items in 2025."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance has clear board-level risk oversight through the Public Responsibility Committee and documented succession planning across a large leadership group. The main caution is the 2025 departure from separate Chair and CEO roles under extraordinary circumstances, alongside cyberattack response costs and restructuring items disclosed in the proxy.",
+        "points": [
+          "The Board established a Public Responsibility Committee to monitor and oversee risk tied to the company's role in improving health and well-being.",
+          "That committee's remit includes the impact of key decisions on people served, public reputation, and mission, which is specific to UnitedHealth's health care role.",
+          "The Lead Independent Director letter said the combined Chair and CEO structure was not intended to continue indefinitely, acknowledging the governance sensitivity of that change.",
+          "Named 2025 risk and cost items included $799 million of cyberattack response costs and $2.521 billion of restructuring and other items, including workforce reductions."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale across U.S. health coverage and health services",
+        "grade": "strong",
+        "summary": "UnitedHealth's scale is exceptional, with FY2025 revenue of $371.622 billion, net income of $22.381 billion, and operating cash flow of $29.068 billion. That scale spans UnitedHealthcare coverage and Optum services, giving the company a broad role across individual, employer-sponsored, government program, care, insights, and pharmacy activity."
+      },
+      {
+        "type": "Integrated Optum and UnitedHealthcare model",
+        "grade": "strong",
+        "summary": "UnitedHealth is not only a health coverage company; it operates through two distinct and complementary businesses, Optum and UnitedHealthcare. UnitedHealthcare provides individual, employer-sponsored, and government program coverage, while Optum brings clinical expertise, data, products, comprehensive care, insights, and pharmacy services to individuals and care teams."
+      },
+      {
+        "type": "Care, data, and pharmacy capability set",
+        "grade": "middle",
+        "summary": "Optum's stated model combines clinical expertise, data, innovative products, care, insights, and pharmacy services. UnitedHealth is also investing nearly $1.5 billion in intelligent technologies in 2026 and at least that much in 2027, while advancing interoperability, prior authorization, transparency, and pharmacy practice reforms across Optum and UnitedHealthcare."
+      },
+      {
+        "type": "U.S. health care strategic focus",
+        "grade": "middle",
+        "summary": "UnitedHealth said it refocused the organization on U.S. health care by exiting non-U.S. businesses. For investors, that focus pairs a large domestic coverage platform with Optum's care, insights, and pharmacy services, but it also concentrates the business more heavily in U.S. health care operations and related public scrutiny."
+      }
+    ]
+  }
+}

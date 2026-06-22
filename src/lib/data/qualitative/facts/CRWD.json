@@ -1,0 +1,127 @@
+{
+  "symbol": "CRWD",
+  "companyName": "CrowdStrike",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "company identity",
+      "statement": "CrowdStrike Holdings, Inc. is a Delaware corporation listed on Nasdaq under ticker CRWD, with its principal executive offices in Austin, Texas.",
+      "source": "SEC submissions metadata; 10-K filed 2026-03-05"
+    },
+    {
+      "topic": "industry classification",
+      "statement": "The SEC submissions metadata describes CrowdStrike's SIC industry as Services-Prepackaged Software.",
+      "source": "SEC submissions metadata"
+    },
+    {
+      "topic": "business description",
+      "statement": "CrowdStrike describes itself as a global cybersecurity leader with a cloud-native platform focused on protecting enterprise endpoints, cloud workloads, identity, and data.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "single-segment reporting",
+      "statement": "Management states the company is managed as a single operating and reportable segment at the consolidated level, and the Chief Executive Officer is the chief operating decision maker.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "CrowdStrike reported total revenue of $4.81 billion for fiscal 2026, up 22% year over year.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "annual recurring revenue",
+      "statement": "Ending ARR reached $5.25 billion as of January 31, 2026, up 24% year over year.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "retention",
+      "statement": "CrowdStrike stated that its gross retention rate was 97% in each quarter of fiscal 2026.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "free cash flow",
+      "statement": "CrowdStrike reported $1.24 billion of free cash flow in fiscal 2026 and said this represented a 26% free cash flow margin.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "operating cash flow",
+      "statement": "CrowdStrike reported net cash provided by operating activities of $1.61 billion for fiscal 2026, equal to 34% of revenue.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "cash position",
+      "statement": "SEC company facts list cash and cash equivalents of $3.375069 billion for FY2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "debt",
+      "statement": "SEC company facts list long-term debt of $743.983 million for FY2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "equity",
+      "statement": "SEC company facts list stockholders' equity of $3.279494 billion for FY2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "profitability",
+      "statement": "SEC company facts list net income of $72.181 million for FY2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "research and development",
+      "statement": "SEC company facts list research and development expense of $780.319 million for FY2026.",
+      "source": "SEC company facts summary"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "CrowdStrike repurchased 143,801 shares of Class A common stock between January 31, 2026 and March 4, 2026 for $50.6 million at an average price of $351.97 per share, and said about $949.4 million remained available under its share repurchase program as of March 4, 2026.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "acquisition",
+      "statement": "CrowdStrike closed its acquisition of SGNL.AI, Inc. on February 20, 2026 for $627.9 million in cash net of cash acquired, plus $8.9 million of replacement equity awards attributable to pre-acquisition service.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "acquisition",
+      "statement": "CrowdStrike closed its acquisition of Seraphic Algorithms Ltd. on February 3, 2026 for $327.4 million in cash net of cash and restricted cash acquired, plus $13.9 million of replacement equity awards attributable to pre-acquisition service.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "product mix",
+      "statement": "CrowdStrike said ARR from cloud security, next-gen identity protection, and LogScale next-gen SIEM solutions together surpassed $1.9 billion of ending ARR as of January 31, 2026.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "bundle adoption",
+      "statement": "As of January 31, 2026, CrowdStrike said 50% of its customer base had adopted six or more modules, 34% had adopted seven or more modules, and 24% had adopted eight or more modules, excluding Falcon Go customers.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "Falcon Flex",
+      "statement": "CrowdStrike said ending ARR from Falcon Flex accounts reached $1.69 billion as of January 31, 2026, up over 120% year over year.",
+      "source": "DEF 14A filed 2026-05-05"
+    },
+    {
+      "topic": "workforce actions",
+      "statement": "CrowdStrike announced a strategic plan on May 6, 2025 that reduced roles by approximately 500 positions, or 5% of its global workforce, and said the actions were substantially completed by January 31, 2026.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "strategic plan charges",
+      "statement": "For fiscal 2026, CrowdStrike recorded $44.8 million of strategic-plan charges, including severance and employee benefits, stock-based compensation expense, and non-employee costs.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "governance and controls",
+      "statement": "Management and the CEO and CFO concluded that disclosure controls and procedures were effective as of January 31, 2026, and management concluded internal control over financial reporting was effective as of that date.",
+      "source": "10-K filed 2026-03-05"
+    },
+    {
+      "topic": "governance and compensation",
+      "statement": "During the three months ended January 31, 2026, George Kurtz adopted a Rule 10b5-1 trading arrangement covering up to 627,500 shares, Michael Sentonas modified a plan covering up to 100,000 shares, and Anurag Saha modified a plan covering up to 9,016 shares.",
+      "source": "10-K filed 2026-03-05"
+    }
+  ]
+}

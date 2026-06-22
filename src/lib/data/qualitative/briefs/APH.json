@@ -1,0 +1,92 @@
+{
+  "symbol": "APH",
+  "companyName": "Amphenol",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Amphenol's 2025 Annual Report was signed by R. Adam Norwitt as President and Chief Executive Officer, Craig A. Lampo as Executive Vice President and Chief Financial Officer, and Michael R. Ivas as Senior Vice President and Corporate Controller. The company reported record 2025 sales of $23.1 billion, 52% U.S.-dollar growth, 38% organic growth, and GAAP diluted EPS growth of 74%.",
+        "points": [
+          "R. Adam Norwitt led Amphenol through a 2025 year in which the Annual Report cited record sales of $23.1 billion and adjusted diluted EPS growth of 77%.",
+          "Craig A. Lampo signed the 2025 Annual Report as CFO, with reported 2025 operating cash flow of $5.4 billion and free cash flow of $4.4 billion in that filing.",
+          "The leadership team also completed five acquisitions during 2025 and closed the CommScope CCS acquisition in January 2026, expanding fiber optic interconnect and building infrastructure connectivity capabilities."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Amphenol's capital allocation combined high cash generation, shareholder returns, and acquisition spending. The 2025 Annual Report says the company produced $5.4 billion of operating cash flow, $4.4 billion of free cash flow, returned nearly $1.5 billion to shareholders, completed five acquisitions, and then closed the approximately $10.5 billion cash purchase of CommScope in January 2026.",
+        "points": [
+          "The company returned nearly $1.5 billion to shareholders in 2025 while still reporting $4.4 billion of free cash flow in the Annual Report.",
+          "Amphenol completed five acquisitions during 2025, showing that acquisitions remained an active part of capital deployment rather than a one-off use of cash.",
+          "The CommScope transaction was large at approximately $10.5 billion in cash and adds fiber optic interconnect capabilities for IT datacom and communications networks markets.",
+          "Amphenol reported $3.317 billion of cash and cash equivalents at FY2025 year-end in SEC company facts, giving investors a concrete liquidity figure to watch after acquisition spending."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "The 2026 proxy describes a compensation program heavily weighted toward at-risk pay and equity-linked incentives. Fixed pay was approximately 9% of the CEO's total 2025 compensation and approximately 15% for the other named executive officers as a group, while annual stock option awards vest 20% per year over five years.",
+        "points": [
+          "The CEO's 2025 pay mix was approximately 91% at-risk compensation linked to increasing shareholder value, according to the 2026 proxy.",
+          "Other named executive officers had approximately 85% at-risk compensation as a group in 2025, limiting the portion of pay that was fixed salary and benefits.",
+          "Annual stock option awards vest 20% each year over five years, tying a meaningful part of management compensation to multi-year equity value creation.",
+          "Amphenol maintains stock ownership guidelines for directors and executives, adding a stated ownership framework around the equity-heavy compensation structure."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "middle",
+        "summary": "Amphenol provides investors with SEC filings, annual report metrics, proxy details, customer concentration disclosure, geography disclosure, and selected segment information. One limitation is that the 2025 Annual Report says the company is not organized by product or group of products, making product-level net sales disclosure impracticable.",
+        "points": [
+          "The 2025 Annual Report gives headline operating metrics including sales of $23.1 billion, GAAP operating margin of 25.4%, adjusted operating margin of 26.2%, and GAAP diluted EPS of $3.34.",
+          "The company discloses that no single customer accounted for 10% or more of net sales during 2025, 2024, or 2023, which helps investors assess customer concentration risk.",
+          "Net sales by geography are reported based on the customer location to which the product is shipped, giving investors the basis for geographic revenue reporting.",
+          "Amphenol states it is impracticable to disclose net sales by product or group of products because it is not organized by product or product group.",
+          "The Annual Report identifies the CommScope business as part of the Communications Solutions segment, providing a specific segment destination for the January 2026 acquisition."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "The 2026 proxy shows a board with seven independent nominees out of eight, with R. Adam Norwitt identified as not independent and appointed to serve as Chairman effective at the Annual Meeting. Governance disclosures also include attendance, compensation policies, ownership guidelines, trading restrictions, legal and environmental matters, and purchase commitments.",
+        "points": [
+          "The 2026 proxy lists eight director nominees: Nancy A. Altobello, David P. Falck, Sanjiv Lamba, Rita S. Lane, Robert A. Livingston, R. Adam Norwitt, Prahlad Singh, and Anne Clarke Wolff.",
+          "Seven of the eight director nominees are independent, while R. Adam Norwitt is identified as not independent and was appointed to serve as Chairman effective at the Annual Meeting.",
+          "Except for two directors missing one special Board meeting, each director nominee attended 100% of the Board and committee meetings on which they sat in 2025.",
+          "Amphenol maintains a clawback policy, insider trading compliance policy, stock ownership guidelines, and prohibitions on short sales, hedging, pledges, margin purchases, and derivative transactions by officers and directors.",
+          "The Annual Report states Amphenol is party to normal-course legal and regulatory actions and says existing matters are not expected to materially affect financial condition, results, or cash flows.",
+          "The company disclosed purchase commitments of $2.0069 billion in 2026, $72.1 million in 2027 and 2028 combined, and $4.2 million beyond 2028."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Scale in electronic interconnect markets",
+        "grade": "strong",
+        "summary": "Amphenol is an NYSE-listed electronic connectors company that reported record 2025 sales of $23.1 billion and GAAP operating margin of 25.4% in its Annual Report. That scale, combined with $5.4 billion of reported operating cash flow, gives the business meaningful capacity to fund acquisitions, R&D, and shareholder returns."
+      },
+      {
+        "type": "Customer diversification",
+        "grade": "middle",
+        "summary": "Amphenol's revenue base is not dependent on a single disclosed large customer: no single customer accounted for 10% or more of net sales in 2025, 2024, or 2023. This does not prove pricing power, but it reduces the risk that one customer relationship drives the investment case."
+      },
+      {
+        "type": "Technical breadth in interconnect products",
+        "grade": "middle",
+        "summary": "The company recorded $342.2 million of R&D expense in FY2025 and uses acquisitions to expand its interconnect capabilities. The January 2026 CommScope acquisition adds fiber optic interconnect capabilities for IT datacom and communications networks, plus industrial interconnect products for building infrastructure connectivity."
+      },
+      {
+        "type": "Acquisition platform",
+        "grade": "middle",
+        "summary": "Amphenol completed five acquisitions during 2025 and then closed the CommScope acquisition for approximately $10.5 billion in cash in January 2026. The acquired CommScope business will be included in Communications Solutions, adding product capabilities in fiber optic and building infrastructure connectivity markets."
+      }
+    ]
+  }
+}

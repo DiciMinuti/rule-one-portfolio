@@ -1,0 +1,137 @@
+{
+  "symbol": "AXP",
+  "companyName": "American Express",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "identity",
+      "statement": "American Express Company is a global payments and premium lifestyle brand powered by technology.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "history",
+      "statement": "The company was founded in 1850 and is headquartered in New York.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "business model",
+      "statement": "Its card-issuing, merchant-acquiring and card network businesses offer products and services to consumers, small businesses, mid-sized companies and large corporations around the world.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "strategy",
+      "statement": "Management says the company seeks to grow by focusing on five strategic imperatives, and in January 2026 it added a fifth imperative focused on reimagining customer and colleague experiences.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "SEC company facts show FY2025 revenue of $37.218 billion and FY2025 net income of $8.374 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000004962.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "SEC company facts show FY2025 operating cash flow of $18.559 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000004962.json)"
+    },
+    {
+      "topic": "capital structure",
+      "statement": "SEC company facts show FY2025 stockholders equity of $24.711 billion and long-term debt of $49.715 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000004962.json)"
+    },
+    {
+      "topic": "financial performance",
+      "statement": "The 2026 proxy statement says total revenues net of interest expense reached an all-time high of $72.2 billion in 2025, up 10% reported and 9% FX-adjusted versus the prior year.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "profitability",
+      "statement": "The 2026 proxy statement reports diluted EPS of $15.38 for 2025, up 10% versus the prior year, or 15% excluding the prior-year gain on sale of Accertify.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "returns",
+      "statement": "The company reported a 2025 return on equity of 34%.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "The company says it returned $7.6 billion of capital to shareholders in 2025 through share repurchases and dividends.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "buybacks",
+      "statement": "The 2026 proxy statement reports $5.3 billion of share repurchases in 2025.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "dividends",
+      "statement": "The 2026 proxy statement reports $2.3 billion of dividends in 2025.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "customer and network scale",
+      "statement": "The company says it added 12.5 million new proprietary cards in 2025 and ended the year with 152.8 million cards-in-force issued on its global network.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "merchant acceptance",
+      "statement": "The company says it reached over 170 million American Express-accepting merchant locations worldwide, with its locations-in-force estimate reflecting about 37 million merchants in China including digital-wallet acceptance.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "product mix",
+      "statement": "More than 70% of the new accounts acquired in 2025 were on fee-paying products.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "billed business",
+      "statement": "The company says total billed business grew 8% reported, or 7% FX-adjusted, in 2025, with growth across geographies and across Goods & Services and Travel & Entertainment categories.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "credit quality",
+      "statement": "The company says net write-off and delinquency rates remained best-in-class in 2025, and its 10-K tables show a reserve for credit losses of $6.412 billion and non-accrual loans of $664 million at December 31, 2025.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm); 10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm)"
+    },
+    {
+      "topic": "credit portfolio",
+      "statement": "The 10-K states that reserve for credit losses at December 31, 2025 was allocated 92% to Card Member loans, 3% to Card Member receivables and 5% to Other loans.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm)"
+    },
+    {
+      "topic": "loan and receivable scale",
+      "statement": "The 2026 proxy statement reports total loans and card member receivables of $224.8 billion in 2025; the 10-K table shows total loans of $162.760 billion and total card member receivables of $62.031 billion at December 31, 2025.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm); 10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm)"
+    },
+    {
+      "topic": "funding",
+      "statement": "The 10-K says total deposits were $152.5 billion as of December 31, 2025, of which approximately $13.0 billion were uninsured.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm)"
+    },
+    {
+      "topic": "management",
+      "statement": "The 2026 proxy statement identifies Stephen J. Squeri as Chairman, Chief Executive Officer and Director, and Christophe Y. Le Caillec as Chief Financial Officer.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm); DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "board",
+      "statement": "The 2026 proxy statement lists 13 director nominees for election to one-year terms.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "executive compensation governance",
+      "statement": "The 2026 proxy statement says the executive compensation program uses variable pay over annual and multi-year periods, with long-term incentive awards designed to align executives with long-term performance and a company scorecard covering Shareholder, Customer, Colleague and Strategic categories.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "risk oversight",
+      "statement": "The 2026 proxy statement says the board oversees risk management, including separate sections on cybersecurity risk oversight and board oversight of AI.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement states that the company has no cumulative voting rights and that abstentions and broker non-votes are not considered votes cast on the proposals described.",
+      "source": "DEF 14A filed 2026-03-25 (https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm)"
+    }
+  ]
+}

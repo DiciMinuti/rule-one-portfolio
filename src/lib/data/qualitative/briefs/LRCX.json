@@ -1,0 +1,86 @@
+{
+  "symbol": "LRCX",
+  "companyName": "Lam Research",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Lam is led by Timothy M. Archer, who signed the 2025 10-K as President, Chief Executive Officer, and Director, with Douglas R. Bettinger as Executive Vice President and Chief Financial Officer. The leadership team runs a large, technically demanding wafer fabrication equipment business with FY2025 revenue of $17.428516 billion and net income of $4.510931 billion.",
+        "points": [
+          "Timothy M. Archer holds both operating and board roles as President, Chief Executive Officer, and Director, tying top management directly to the board's oversight of the business.",
+          "Douglas R. Bettinger serves as Executive Vice President and Chief Financial Officer, while Christina C. Correia serves as Group Vice President and Chief Accounting Officer.",
+          "Lam's business requires deep technical execution because the company integrates hardware, process, materials, software, and process control to enable results on the wafer."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Lam's capital allocation is anchored by heavy technical investment and strong cash generation. In FY2025, the company spent $1.727162 billion on research and development, generated $5.178938 billion of operating cash flow, and ended the year with $5.337056 billion of cash and equivalents.",
+        "points": [
+          "FY2025 research and development expense of $1.727162 billion supports Lam's stated focus on technology inflections across deposition, etch, clean, and multi-product solutions.",
+          "Lam reported FY2025 operating cash flow of $5.178938 billion, giving the company internally generated funds to support R&D, operations, and balance-sheet flexibility.",
+          "At FY2025, Lam reported $5.337056 billion of cash and equivalents, $6.278366 billion of stockholders' equity, and $4.466045 billion of noncurrent long-term debt."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The proxy links executive compensation decisions to profitability metrics that matter in a manufacturing equipment business. Lam's compensation and human resources committee uses non-GAAP gross margin as a percentage of revenue and non-GAAP operating income as a percentage of revenue when assessing executive compensation.",
+        "points": [
+          "Using non-GAAP gross margin as a percentage of revenue in compensation decisions connects management incentives to manufacturing economics and pricing discipline.",
+          "Using non-GAAP operating income as a percentage of revenue ties compensation to operating efficiency, not only top-line growth in a cyclical wafer fabrication equipment market.",
+          "The packet does not provide executive ownership levels or stock-award mix, so alignment is supported by compensation metrics rather than insider ownership evidence."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Lam's investor reporting provides concrete operating, financial, and risk information through its 2025 10-K, proxy materials, and SEC company facts. The disclosures include FY2025 revenue, net income, operating cash flow, R&D expense, operating margin, balance-sheet figures, executive compensation metrics, and an inventory valuation audit matter.",
+        "points": [
+          "The 2025 10-K identifies Lam as a global supplier of wafer fabrication equipment and services and describes customer categories including memory, foundry, and integrated device manufacturers.",
+          "The proxy reports FY2025 GAAP operating income of $5.900968 billion, or 32.0% of revenue, and non-GAAP operating income of $5.957156 billion, or 32.3% of revenue.",
+          "Lam discloses specific operating risks, including wafer fabrication equipment spending changes, quarterly results volatility, customer demand, supply chain constraints, material costs, competition, and market-share defense."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Lam's governance structure includes named board leadership, a public ethics code, compensation committee use of profitability metrics, and audited internal controls. Abhijit Y. Talwalkar is Chair of the Board, Ernst & Young opined that internal control over financial reporting was effective, and inventory valuation was identified as a critical audit matter.",
+        "points": [
+          "Abhijit Y. Talwalkar is identified as Chair of the Board in the 2025 proxy materials and as Chairman on the 2025 10-K signature page.",
+          "Lam has adopted a Corporate Code of Ethics that applies to all employees, officers, and directors and is publicly available on its Investor Relations website.",
+          "Ernst & Young opined that Lam maintained effective internal control over financial reporting as of June 29, 2025, based on the COSO 2013 framework.",
+          "Inventories were $4.3 billion, or 20% of total assets, and inventory valuation was a critical audit matter because obsolete-inventory estimates depend on external market conditions."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Process technology know-how",
+        "grade": "strong",
+        "summary": "Lam's moat is supported by specialized process knowledge in nanoscale manufacturing, chemistry, plasma and fluidics, advanced systems engineering, and operational disciplines. The company says its core technical competency is integrating hardware, process, materials, software, and process control to enable results on the wafer, which is central to semiconductor manufacturing equipment."
+      },
+      {
+        "type": "Product breadth in critical wafer-fab steps",
+        "grade": "strong",
+        "summary": "Lam states that it has leadership and expertise in deposition, etch, and clean markets, three important wafer fabrication equipment categories. Its ability to deliver multi-product solutions across these areas supports relevance with memory, foundry, and integrated device manufacturers producing non-volatile memory, DRAM, and logic devices."
+      },
+      {
+        "type": "Installed-base learning and ecosystem collaboration",
+        "grade": "middle",
+        "summary": "Lam identifies learning from its broad installed base and collaboration with semiconductor ecosystem partners as sources of potential sustainable differentiation. This matters because its equipment and services support customers building devices used in mobile phones, personal computers, cloud and enterprise servers, wearables, automotive vehicles, and data storage devices."
+      },
+      {
+        "type": "Scale-funded research and development",
+        "grade": "strong",
+        "summary": "Lam's FY2025 revenue of $17.428516 billion and operating cash flow of $5.178938 billion support continued investment in advanced wafer fabrication technology. The company spent $1.727162 billion on research and development in FY2025, reinforcing its ability to invest across product portfolios for semiconductor technology inflections."
+      }
+    ]
+  }
+}

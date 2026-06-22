@@ -43,6 +43,14 @@ Choose a model explicitly:
 OPENAI_API_KEY=... OPENAI_MODEL=gpt-5.5 npm run qualitative:generate -- AAPL --force
 ```
 
+Use separate models for cost control:
+
+```bash
+OPENAI_FACT_MODEL=gpt-5.4-mini OPENAI_BRIEF_MODEL=gpt-5.5 npm run qualitative:batch -- --from=1 --to=300
+```
+
+The fact-packet step is usually the expensive step because it reads larger SEC source packets. The final brief step uses a smaller fact packet as input, so it can keep a stronger model while still reducing total cost.
+
 Validate committed briefs:
 
 ```bash

@@ -1,0 +1,89 @@
+{
+  "symbol": "AXP",
+  "companyName": "American Express",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "American Express is led by Stephen J. Squeri as Chairman, Chief Executive Officer and Director, with Christophe Y. Le Caillec as Chief Financial Officer. Under this leadership, the company reported 2025 total revenues net of interest expense of $72.2 billion, diluted EPS of $15.38, 34% return on equity, and 12.5 million new proprietary cards.",
+        "points": [
+          "Squeri holds the combined Chairman and CEO roles, giving one named executive direct responsibility for both management leadership and board leadership at American Express.",
+          "Management frames growth around five strategic imperatives, adding a fifth in January 2026 focused on reimagining customer and colleague experiences.",
+          "The business delivered broad 2025 operating growth, including 8% reported billed business growth across geographies and across Goods & Services and Travel & Entertainment categories."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "American Express generated substantial capital for reinvestment and shareholder returns in 2025, with SEC company facts showing $18.559 billion of operating cash flow. The company returned $7.6 billion to shareholders through $5.3 billion of share repurchases and $2.3 billion of dividends, while supporting a large lending and receivables base.",
+        "points": [
+          "The company returned $7.6 billion of capital to shareholders in 2025, split between $5.3 billion of share repurchases and $2.3 billion of dividends.",
+          "SEC company facts show FY2025 operating cash flow of $18.559 billion, providing internal funding capacity for dividends, buybacks, lending activity, and business investment.",
+          "American Express carried a large balance sheet, with FY2025 stockholders' equity of $24.711 billion and long-term debt of $49.715 billion.",
+          "The lending and receivables base is material: total loans were $162.760 billion and total card member receivables were $62.031 billion at December 31, 2025."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "The compensation program is built around variable pay over annual and multi-year periods, with long-term incentive awards tied to long-term performance. The company scorecard includes Shareholder, Customer, Colleague, and Strategic categories, connecting executive pay to financial outcomes while also tracking customer and organizational priorities.",
+        "points": [
+          "Executive compensation uses variable pay over annual and multi-year periods, rather than relying only on fixed compensation for named leadership incentives.",
+          "Long-term incentive awards are designed to align executives with long-term performance, which is relevant for a credit and payments business with multi-year risk outcomes.",
+          "The company scorecard explicitly includes a Shareholder category alongside Customer, Colleague, and Strategic categories, giving shareholder outcomes a stated role in pay assessment.",
+          "The 2025 capital return of $7.6 billion shows management used buybacks and dividends as part of its shareholder-return framework."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "American Express provides investors with both headline performance measures and detailed operating disclosures across its proxy statement, 10-K, and SEC company facts. The packet includes revenue, EPS, ROE, billed business, card additions, merchant acceptance, loans, receivables, reserves, non-accrual loans, deposits, and reserve allocation by portfolio.",
+        "points": [
+          "The proxy reports total revenues net of interest expense, diluted EPS, return on equity, billed business growth, new proprietary cards, cards-in-force, and merchant locations.",
+          "The 10-K discloses credit details, including a $6.412 billion reserve for credit losses and $664 million of non-accrual loans at December 31, 2025.",
+          "The 10-K breaks down credit reserve allocation: 92% to Card Member loans, 3% to Card Member receivables, and 5% to Other loans.",
+          "Merchant acceptance disclosure includes over 170 million accepting locations worldwide and explains that the estimate includes about 37 million merchants in China, including digital-wallet acceptance."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "The 2026 proxy lists 13 director nominees for one-year terms and says the board oversees risk management, with specific sections for cybersecurity risk oversight and board oversight of AI. Governance is balanced by compensation design and risk oversight disclosures, though the combined Chairman and CEO role and no cumulative voting rights are relevant investor considerations.",
+        "points": [
+          "The board is presented with 13 director nominees for election to one-year terms, giving shareholders an annual vote on each nominee listed in the proxy.",
+          "The proxy says the board oversees risk management and includes separate sections on cybersecurity risk oversight and board oversight of AI.",
+          "The company has no cumulative voting rights, which affects how shareholders can concentrate votes in director elections.",
+          "The proxy states that abstentions and broker non-votes are not considered votes cast on the proposals described, a concrete rule for shareholder voting outcomes."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Global payments network scale",
+        "grade": "strong",
+        "summary": "American Express operates card-issuing, merchant-acquiring, and card network businesses serving consumers, small businesses, mid-sized companies, and large corporations around the world. At year-end 2025, it had 152.8 million cards-in-force on its global network and over 170 million American Express-accepting merchant locations worldwide."
+      },
+      {
+        "type": "Closed-loop payments and lending model",
+        "grade": "strong",
+        "summary": "The company combines issuing, merchant acquiring, and network roles, giving it multiple revenue and relationship points across card members and merchants. Its 2025 scale included $72.2 billion of total revenues net of interest expense, $224.8 billion of total loans and card member receivables, and $18.559 billion of operating cash flow."
+      },
+      {
+        "type": "Premium fee-paying card franchise",
+        "grade": "strong",
+        "summary": "American Express describes itself as a global payments and premium lifestyle brand, and its new-account mix supports that positioning. More than 70% of new accounts acquired in 2025 were on fee-paying products, while the company added 12.5 million new proprietary cards during the year."
+      },
+      {
+        "type": "Merchant acceptance reach",
+        "grade": "middle",
+        "summary": "Acceptance is a practical advantage for a card network, and American Express reported over 170 million accepting merchant locations worldwide. The company's locations-in-force estimate includes about 37 million merchants in China, including digital-wallet acceptance, showing that reported acceptance depends partly on local and digital-wallet arrangements."
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "symbol": "MCD",
+  "companyName": "McDonald",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business_model",
+      "statement": "McDonald's Corporation franchises and owns and operates McDonald's restaurants serving a locally relevant menu of food and beverages in communities across more than 100 countries.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "franchise_mix",
+      "statement": "At year-end 2025, McDonald's had 45,356 restaurants, and approximately 95% were franchised.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "revenue_sources",
+      "statement": "The company says its revenues consist of sales by Company-owned restaurants and fees from franchised restaurants operated by conventional franchisees, developmental licensees and affiliates.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "other_revenue_streams",
+      "statement": "McDonald's says its other revenues include fees paid by franchisees to recover a portion of technology and digital platform costs and revenues from brand licensing arrangements for consumer packaged goods.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "franchise_terms",
+      "statement": "Franchise and license agreements generally have 20-year terms and include occupancy and operating rights.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "conventional_franchise_model",
+      "statement": "Under a conventional franchise arrangement, McDonald's generally owns or secures a long-term lease on the land and building, while the franchisee pays for equipment, signs, seating and décor.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "conventional_franchise_economics",
+      "statement": "Conventional franchisees contribute to revenue primarily through rent and royalties based on a percent of sales, with specified minimum rent payments, plus initial fees when a new restaurant or franchise is opened or granted.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "franchising_strategy",
+      "statement": "McDonald's says its heavily franchised business model is designed to generate stable and predictable revenue and resulting cash flow streams.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "company_owned_restaurants",
+      "statement": "The company says directly operating McDonald's restaurants helps it act as a credible franchisor and gives personnel a venue for restaurant-operations training.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "segments",
+      "statement": "McDonald's reporting segments include the United States and International Operated Markets, and International Developmental Licensed Markets & Corporate includes the results of over 75 countries plus Corporate activities.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "geographic_structure",
+      "statement": "The company says the optimal ownership structure for an individual restaurant, trading area or market depends on factors including entrepreneurial experience, financial resources, and local legal and regulatory conditions.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "scale_revenue",
+      "statement": "McDonald's reported FY2025 revenue of $25.494 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json"
+    },
+    {
+      "topic": "scale_profitability",
+      "statement": "McDonald's reported FY2025 net income of $8.469 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json"
+    },
+    {
+      "topic": "cash_flow",
+      "statement": "McDonald's reported FY2025 operating cash flow of $9.612 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json"
+    },
+    {
+      "topic": "balance_sheet_leverage",
+      "statement": "McDonald's reported FY2025 long-term debt of $38.424 billion and cash and equivalents of $1.085 billion.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json"
+    },
+    {
+      "topic": "equity",
+      "statement": "McDonald's reported stockholders' equity of negative $6.003 billion for FY2025.",
+      "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000063908.json"
+    },
+    {
+      "topic": "market_listing",
+      "statement": "McDonald's common stock trades on the New York Stock Exchange under the ticker MCD and has a $0.01 par value.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "company_identification",
+      "statement": "The SEC submissions metadata identifies the registrant as McDonald's Corporation with SEC name MCDONALDS CORP and SIC description Retail-Eating Places.",
+      "source": "https://data.sec.gov/submissions/CIK0000063908.json"
+    },
+    {
+      "topic": "management_signer",
+      "statement": "The 2025 Form 10-K was signed by Ian F. Borden as Executive Vice President and Global Chief Financial Officer on February 24, 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "management_signer",
+      "statement": "The 2025 Form 10-K was signed by Christopher J. Kempczinski as Chairman of the Board of Directors, President, and Chief Executive Officer on February 24, 2026.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement says shareholders will vote on the election of 12 directors, an advisory vote on executive compensation, ratification of Ernst & Young LLP as auditor for 2026, and two shareholder proposals.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    },
+    {
+      "topic": "governance",
+      "statement": "The proxy statement says the Board provides oversight through a robust Lead Independent Director role, a majority independent Board, and committees with defined responsibilities over strategy, risk, culture, and talent.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    },
+    {
+      "topic": "strategy",
+      "statement": "The proxy statement says McDonald's advanced its Accelerating the Arches growth strategy in 2025 and was working toward a goal of 50,000 restaurants by the end of 2027.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    },
+    {
+      "topic": "system_sales",
+      "statement": "The proxy statement says McDonald's delivered systemwide sales of nearly $140 billion in 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    },
+    {
+      "topic": "loyalty",
+      "statement": "The proxy statement says McDonald's ended 2025 with nearly 210 million 90-day active users of its loyalty app across 70 markets.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    },
+    {
+      "topic": "controls",
+      "statement": "Management and the external auditor stated that internal control over financial reporting was effective as of December 31, 2025.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "audit_risk",
+      "statement": "Ernst & Young identified measurement of unrecognized tax benefits, which totaled $414 million at December 31, 2025, as the critical audit matter in the 2025 audit report.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    },
+    {
+      "topic": "shareholder_meeting",
+      "statement": "The 2026 annual shareholders' meeting was scheduled as a virtual meeting for May 20, 2026 at 10:00 a.m. Central Time.",
+      "source": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm"
+    }
+  ]
+}

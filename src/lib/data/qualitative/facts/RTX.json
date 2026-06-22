@@ -1,0 +1,117 @@
+{
+  "symbol": "RTX",
+  "companyName": "RTX",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "identity",
+      "statement": "RTX Corporation is listed on the NYSE and the SEC submissions metadata identifies its SIC description as Aircraft Engines & Engine Parts.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000101829.json)"
+    },
+    {
+      "topic": "business model",
+      "statement": "The company's 2025 filing materials describe RTX as operating in three segments: Collins Aerospace, Pratt & Whitney, and Raytheon.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "revenue scale",
+      "statement": "RTX reported FY2025 revenue of $68.92 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "profitability",
+      "statement": "RTX reported FY2025 net income of $3.195 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "RTX reported FY2025 operating cash flow of $7.883 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "cash generation",
+      "statement": "RTX's proxy materials report FY2025 free cash flow of $7.940 billion, calculated as operating cash flow less capital expenditures.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "research and development",
+      "statement": "RTX reported FY2025 research and development expense of $2.805 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "RTX reported stockholders' equity of $60.156 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "liquidity",
+      "statement": "RTX reported cash and cash equivalents of $6.587 billion for FY2025.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "leverage",
+      "statement": "RTX reported long-term debt of $43.638 billion for FY2024.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000101829.json)"
+    },
+    {
+      "topic": "segment performance",
+      "statement": "The proxy materials show 2025 consolidated segment operating profit of $4.749 billion and adjusted segment operating profit of $8.018 billion.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "margin",
+      "statement": "The proxy materials show 2025 adjusted segment operating profit margin of 10.5%.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "segment growth",
+      "statement": "In the proxy materials' organic sales reconciliation for 2025 versus 2024, consolidated organic change is shown as 11%, with Collins Aerospace at 9%, Pratt & Whitney at 17%, and Raytheon at 6%.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "RTX's proxy materials state that free cash flow is used as a basis for assessing the company's ability to fund acquisitions, debt service, repurchases of RTX common stock, and distributions of earnings to shareowners.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "As of December 31, 2025, RTX reported 22,606,067 securities to be issued upon exercise of outstanding options, warrants, and rights under equity compensation plans approved by shareowners, with 101,179,202 securities remaining available for future issuance under those plans.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 2026 proxy statement says the annual meeting will be held virtually on April 30, 2026, and lists three company proposals: election of ten director nominees, an advisory vote on executive compensation, and appointment of PricewaterhouseCoopers LLP as independent auditor for 2026.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "management",
+      "statement": "The 2026 proxy statement names Christopher T. Calio, Neil G. Mitchill, Jr., and Ramsaran Maharajh, Jr. as proxies for the annual meeting; the 10-K signatures identify Christopher T. Calio as Chairman and Chief Executive Officer, Neil G. Mitchill, Jr. as Executive Vice President and Chief Financial Officer, and Amy L. Johnson as Senior Vice President and Controller.",
+      "source": "DEF 14A filed 2026-03-09; 10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm; https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "The 10-K states that RTX's corporate governance materials, including board committee charters, are available on the company's website, and it specifically names the Audit Committee, Finance Committee, Governance and Public Policy Committee, Human Capital and Compensation Committee, and Special Activities Committee.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "risk / compliance",
+      "statement": "The 10-K exhibits include a consent agreement with the U.S. Department of State dated August 29, 2024 and deferred prosecution agreements and a settlement agreement with the U.S. Department of Justice dated October 15-16, 2024, along with an SEC administrative order dated October 16, 2024.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "risk / compliance",
+      "statement": "The 10-K exhibits also reference a 2024 deferred prosecution agreement and settlement-related materials for Raytheon Company tied to DOJ investigation and contract pricing disputes, as well as consent-agreement materials tied to trade compliance matters.",
+      "source": "10-K filed 2026-02-06 (https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm)"
+    },
+    {
+      "topic": "compensation",
+      "statement": "The 2026 proxy statement says RTX's 2025 incentive metrics included earnings, free cash flow, adjusted earnings per share, return on invested capital, and relative total shareowner return.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    },
+    {
+      "topic": "culture",
+      "statement": "RTX's proxy statement describes CORE, its business operating system, as standing for Customer Oriented Results and Excellence and says it is intended to drive continuous improvement and operational excellence.",
+      "source": "DEF 14A filed 2026-03-09 (https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm)"
+    }
+  ]
+}

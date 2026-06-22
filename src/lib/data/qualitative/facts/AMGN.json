@@ -1,0 +1,127 @@
+{
+  "symbol": "AMGN",
+  "companyName": "Amgen",
+  "updatedAt": "2026-06-21",
+  "facts": [
+    {
+      "topic": "business",
+      "statement": "Amgen is identified in SEC submissions as a Nasdaq-listed company with SIC description 'Biological Products, (No Diagnostic Substances)'.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000318154.json)"
+    },
+    {
+      "topic": "scale",
+      "statement": "Amgen reported FY2025 revenue of $28.19 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "profitability",
+      "statement": "Amgen reported FY2025 net income of $6.717 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "cash flow",
+      "statement": "Amgen reported FY2025 operating cash flow of $8.471 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "Amgen reported FY2025 cash and equivalents of $11.973 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "Amgen reported FY2025 long-term debt of $56.549 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "balance sheet",
+      "statement": "Amgen reported FY2025 stockholders' equity of $3.661 billion.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000318154.json)"
+    },
+    {
+      "topic": "mission",
+      "statement": "The company says its mission has been to serve patients for more than 45 years.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "commercial model",
+      "statement": "Amgen describes its innovative and biosimilar medicine portfolios as serving millions of patients globally.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "product portfolio",
+      "statement": "In the 2026 proxy statement, Amgen said 18 of its products achieved record sales in 2025, 14 products exceeded $1 billion in sales, and 13 products delivered double-digit sales growth.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "product approval",
+      "statement": "Amgen said IMDELLTRA received full FDA approval for second-line or later treatment of adult patients with extensive-stage small cell lung cancer.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "product approval",
+      "statement": "Amgen said LUMAKRAS, in combination with Vectibix, received FDA approval for third-line treatment of KRAS G12C-mutated metastatic colorectal cancer.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "product approval",
+      "statement": "Amgen said UPLIZNA received FDA approvals for immunoglobulin G4-related disease and generalized myasthenia gravis.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "product approval",
+      "statement": "Amgen said TEZSPIRE received FDA approval for chronic rhinosinusitis with nasal polyps.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "R&D pipeline",
+      "statement": "Amgen said it initiated and advanced six global Phase 3 studies for MariTide across four obesity and obesity-related conditions: chronic weight management, cardiovascular outcomes, heart failure, and obstructive sleep apnea.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "manufacturing",
+      "statement": "Amgen said it announced $900 million of additional investment in Ohio and $650 million in Puerto Rico in 2025, following a 2024 announcement of a $1 billion expansion of North Carolina facilities.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "manufacturing",
+      "statement": "Amgen said these U.S. manufacturing expansions are intended to support increased drug production, integrate advanced process development technologies, and improve yield, resilience, and flexibility of its global supply network.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "capital allocation",
+      "statement": "Amgen disclosed that the final U.S. repatriation tax payment of $1.8 billion was made in 2025 under the 2017 Tax Act installment election.",
+      "source": "10-K filed 2026-02-13 (https://www.sec.gov/Archives/edgar/data/318154/000031815426000010/amgn-20251231.htm)"
+    },
+    {
+      "topic": "management",
+      "statement": "Robert A. Bradway is identified in the proxy materials as Chairman of the Board, Chief Executive Officer, and President.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "board governance",
+      "statement": "Amgen's 2026 annual meeting agenda includes election of 12 directors for terms expiring at the 2027 annual meeting, an advisory vote on executive compensation, and ratification of Ernst & Young LLP as independent registered public accountants for fiscal 2026.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "board governance",
+      "statement": "The board recommended voting against a stockholder proposal to require an independent board chairman.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "governance",
+      "statement": "Amgen said it engaged in governance-focused outreach with stockholders holding approximately 59% of its outstanding shares since the prior annual meeting.",
+      "source": "DEF 14A filed 2026-04-07 (https://www.sec.gov/Archives/edgar/data/318154/000119312526145588/d13946ddef14a.htm)"
+    },
+    {
+      "topic": "risk factor",
+      "statement": "Amgen disclosed patent and biosimilar litigation involving Prolia/XGEVA, PAVBLU, KYPROLIS, and TAVNEOS, including requests for injunctions and damages in multiple U.S. federal courts.",
+      "source": "10-K filed 2026-02-13 (https://www.sec.gov/Archives/edgar/data/318154/000031815426000010/amgn-20251231.htm)"
+    },
+    {
+      "topic": "risk factor",
+      "statement": "Amgen disclosed that a Delaware jury returned a verdict against it in the Regeneron antitrust case on antitrust and tortious interference claims, while Amgen stated it had not recorded a liability because it did not consider a loss probable.",
+      "source": "10-K filed 2026-02-13 (https://www.sec.gov/Archives/edgar/data/318154/000031815426000010/amgn-20251231.htm)"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "symbol": "BAC",
+  "companyName": "Bank of America",
+  "updatedAt": "2026-06-20",
+  "facts": [
+    {
+      "topic": "Company classification",
+      "statement": "SEC submissions metadata identifies Bank of America as BANK OF AMERICA CORP /DE/ with SIC description \"National Commercial Banks\"; listed ticker symbols include BAC and multiple preferred/security tickers.",
+      "source": "SEC submissions metadata (https://data.sec.gov/submissions/CIK0000070858.json)"
+    },
+    {
+      "topic": "Business model",
+      "statement": "Bank of America describes itself as one of the world's largest financial institutions, serving people, companies, and institutions with a diversified range of banking and non-banking services and products.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Operating structure",
+      "statement": "Bank of America says it goes to market through eight lines of business, each designed to serve specific client groups with tailored, differentiated models and to collaborate by sharing insights, coordinating strategies, and providing a seamless experience for individuals and institutions.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Strategy",
+      "statement": "Bank of America's Responsible Growth framework states that the company must grow and win in the market, grow with a customer-focused/client-focused strategy, grow within its risk framework, and grow in a sustainable manner.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Purpose and values",
+      "statement": "Bank of America states its purpose is \"To help make financial lives better, through the power of every connection,\" and lists values of \"Deliver together,\" \"Act responsibly,\" \"Realize the power of our people,\" and \"Trust the team.\"",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Revenue scale",
+      "statement": "For FY2025, Bank of America reported revenue of $102.769 billion, filed on 2026-02-25 under the SEC company facts concept Revenues.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000070858.json)"
+    },
+    {
+      "topic": "Profit and cash flow",
+      "statement": "For FY2025, Bank of America reported net income of $26.305 billion and operating cash flow of $44.982 billion, both filed on 2026-02-25.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000070858.json)"
+    },
+    {
+      "topic": "Balance sheet scale",
+      "statement": "For FY2025, Bank of America reported stockholders' equity of $273.197 billion and long-term debt of $283.279 billion, both filed on 2026-02-25.",
+      "source": "SEC company facts summary (https://data.sec.gov/api/xbrl/companyfacts/CIK0000070858.json)"
+    },
+    {
+      "topic": "Equity metrics",
+      "statement": "Bank of America's proxy appendix reconciles 2025 average shareholders' equity of $298.474 billion to average tangible common shareholders' equity of $204.372 billion after deducting goodwill, intangible assets excluding mortgage servicing rights, related deferred tax liabilities, and preferred stock.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Per-share capital metrics",
+      "statement": "At December 31, 2025, Bank of America reported 7.212464 billion ending common shares, book value per share of $38.44, and tangible book value per share of $28.73.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Sales and trading",
+      "statement": "Bank of America reported 2025 sales and trading revenue of $20.871 billion, net DVA losses of $35 million, and sales and trading revenue excluding net DVA of $20.906 billion.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Loan and portfolio categories",
+      "statement": "The 2025 Form 10-K XBRL data identifies Bank of America portfolio and loan categories including consumer, residential mortgage, junior-lien home equity financing receivables, credit card and other unsecured consumer loans, consumer vehicle loans, and commercial portfolios.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Fee and noninterest income categories",
+      "statement": "The 2025 Form 10-K XBRL data identifies fee and noninterest income categories including card income interchange fees, card income other, deposit-related service charges, lending-related service charges, investment and brokerage services asset management fees, brokerage fees, underwriting income, syndication fees, and financial advisory services.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Trading and derivatives activities",
+      "statement": "The 2025 Form 10-K XBRL data identifies derivative and market activity categories including interest rate swaps, interest rate futures and forwards, interest rate options, currency swaps, foreign exchange spot/future/forward contracts, foreign exchange options, equity swaps, equity futures and forwards, stock options, commodity swaps, commodity futures and forwards, commodity options, credit default swaps, and other credit derivatives.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Risk exposures",
+      "statement": "The 2025 Form 10-K XBRL data includes disclosure tags for interest-rate risk on long-term debt and available-for-sale securities, interest-rate and foreign-currency risk on long-term debt, price risk on commodity inventory and forecasted MBS purchases, interest-rate risk on mortgage activities, and credit risk on loans.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Controls and procedures",
+      "statement": "As of the end of the 2025 reporting period, Bank of America's CEO and CFO concluded that the company's disclosure controls and procedures were effective, and the company reported no changes in internal control over financial reporting during the quarter ended December 31, 2025 that materially affected or were reasonably likely to materially affect internal control over financial reporting.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Sanctions-related disclosure",
+      "statement": "During Q4 2025, Bank of America, National Association processed one authorized wire payment totaling $3,254 under a U.S. Treasury OFAC general license to a beneficiary bank subject to Executive Order 13224; Bank of America reported no measurable gross revenue or net profit from the transaction except nominal processing fees.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "CEO and chair",
+      "statement": "Brian T. Moynihan was Chair of the Board since October 2014 and Chief Executive Officer and a member of the Board of Directors since January 2010; he also served as President from January 2010 to September 2025.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Senior management",
+      "statement": "Dean C. Athanasia and James P. DeMare have served as Co-Presidents since September 2025; Athanasia previously served as President, Regional Banking from October 2021 to September 2025, and DeMare previously served as President, Global Markets from September 2020 to September 2025.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Finance and risk leadership",
+      "statement": "Alastair M. Borthwick has served as Executive Vice President and Chief Financial Officer since September 2025, and Geoffrey S. Greener has served as Chief Risk Officer since April 2014.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Board governance",
+      "statement": "Lionel L. Nowell III was identified as Lead Independent Director, and he stated that independent directors met regularly in executive session and engaged with management on performance, risk management, strategic direction, and corporate culture.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Compensation governance",
+      "statement": "The Lead Independent Director's proxy letter states that the Board focuses on aligning executive compensation with long-term shareholder value creation, promoting performance, reinforcing appropriate risk-taking, and supporting pay-for-performance principles through a framework considering quantitative outcomes and qualitative factors.",
+      "source": "DEF 14A filed 2026-03-23 (https://www.sec.gov/Archives/edgar/data/70858/000119312526118929/d43888ddef14a.htm)"
+    },
+    {
+      "topic": "Equity compensation plans",
+      "statement": "At December 31, 2025, Bank of America reported 276,043,362 shares to be issued under outstanding options, warrants and rights under shareholder-approved equity compensation plans, 198,266,120 shares remaining for future issuance under such plans, and no equity compensation plans not approved by shareholders.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    },
+    {
+      "topic": "Insider trading and trading arrangements",
+      "statement": "Bank of America states that it has an Insider Trading Policy governing purchases, sales, and other dispositions of its securities by directors, officers, employees, and the company itself; during Q4 2025, none of its directors or officers adopted or terminated a Rule 10b5-1 or non-Rule 10b5-1 trading arrangement for Bank of America securities.",
+      "source": "10-K filed 2026-02-25 (https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm)"
+    }
+  ]
+}

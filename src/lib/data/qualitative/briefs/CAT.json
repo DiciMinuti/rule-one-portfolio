@@ -1,0 +1,89 @@
+{
+  "symbol": "CAT",
+  "companyName": "Caterpillar",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Caterpillar completed a clearly disclosed leadership transition in 2026, with Joseph E. Creed serving as Chairman and CEO after becoming chairman on April 1, 2026. The transition followed Jim Umpleby's retirement as Executive Chairman after more than four decades at Caterpillar, including eight years as Chairman and CEO.",
+        "points": [
+          "Joseph E. Creed signed the 2025 Form 10-K as Chief Executive Officer and Director, and the 2026 proxy identifies him as Chairman and CEO.",
+          "Jim Umpleby retired as Executive Chairman on April 1, 2026, after more than four decades with Caterpillar and eight years as Chairman and CEO.",
+          "The 2025 Form 10-K identifies Andrew R.J. Bonfield as Chief Financial Officer and William E. Schaupp as Vice President and Chief Accounting Officer."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Caterpillar produced substantial cash in 2025 and used it across reinvestment, shareholder returns, and acquisition activity. The company reported $12.885 billion of operating cash flow, $9.5 billion of MP&E free cash flow, $2.108 billion of R&D expense, and a planned approximately $790 million RPMGlobal acquisition.",
+        "points": [
+          "Caterpillar returned $7.9 billion to shareholders in 2025 through share repurchases and dividends, compared with reported MP&E free cash flow of $9.5 billion.",
+          "The company reported $2.108 billion of research and development expense in FY2025, supporting product and technology investment across its machinery and energy businesses.",
+          "Caterpillar's planned acquisition of RPMGlobal, approved by the Federal Court of Australia, adds mining software capabilities for an expected purchase price of approximately $790 million excluding cash acquired.",
+          "At FY2025, Caterpillar reported $6.889 billion of cash and equivalents and $27.351 billion of long-term debt, so capital allocation includes meaningful balance sheet management."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "Caterpillar's shareholder alignment is supported by large direct capital returns and governance policies tied to ownership and compensation oversight. The 2026 proxy reports director and executive officer stock ownership guidelines, anti-hedging and pledging policies, a clawback policy, and no equity compensation plans not approved by shareholders.",
+        "points": [
+          "The company deployed $7.9 billion to shareholders through repurchases and dividends in 2025, a concrete return of cash against $9.5 billion of MP&E free cash flow.",
+          "Caterpillar lists director and executive officer stock ownership guidelines, anti-hedging and pledging policies, and a clawback policy among its 2026 proxy governance highlights.",
+          "As of December 31, 2025, all listed equity compensation plans were shareholder-approved, with no equity compensation plans not approved by shareholders disclosed.",
+          "The 2026 proxy reported 2025 profit per share of $18.81 versus $22.05 in 2024, giving shareholders a clear year-over-year profitability comparison."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Caterpillar provides investor-useful disclosure through SEC filings, XBRL segment tags, proxy performance metrics, and specific operating measures such as backlog, margins, free cash flow, and restructuring costs. Its 2025 Form 10-K also separates machinery, power, energy, and financial product reporting categories, including finance receivable types and geographic locations.",
+        "points": [
+          "The 2025 Form 10-K XBRL tags identify operating categories including Construction Industries, Resource Industries, Power & Energy, Machinery/Power/Energy, and Financial Products.",
+          "The 2026 proxy reported 2025 sales and revenues of $67.6 billion, backlog of $51 billion, operating profit of $11.2 billion, and adjusted operating profit of $11.6 billion.",
+          "Caterpillar discloses Financial Products receivable categories including wholesale receivables, wholesale loans, wholesale leases, retail loans, and retail leases.",
+          "The 2025 Form 10-K states all restructuring costs in 2025, 2024, and 2023 were excluded from segment profit, clarifying how segment profitability is presented."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Caterpillar's governance framework includes a majority-independent board, annual elections, majority voting, proxy access, a lead independent director, and shareholder ability to call special meetings. The company also discloses specific compliance matters, including Iran trademark maintenance under an OFAC license with no revenues or profits from that activity.",
+        "points": [
+          "The 2026 proxy lists 10 director nominees, including 9 independent directors, with average nominee tenure of 5.5 years and average director age of 65.",
+          "Caterpillar's 2026 proxy reports 50% women nominees and 30% ethnic or racial diversity among director nominees.",
+          "Governance highlights include annual director elections, majority voting in director elections, proxy access, no poison pill, and shareholder ability to call special meetings.",
+          "Caterpillar disclosed Iran trademark-maintenance activity under an OFAC specific license, approximately $608 paid for the period ended December 31, 2024, and no revenues or profits from the activity."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Heavy equipment scale and breadth",
+        "grade": "strong",
+        "summary": "Caterpillar's scale is evident in FY2025 revenue of $67.060 billion and proxy-reported 2025 sales and revenues of $67.6 billion, the highest full-year sales and revenues in company history. Its disclosed operating categories span Construction Industries, Resource Industries, Power & Energy, Machinery/Power/Energy, and Financial Products, giving the business multiple end-market exposures."
+      },
+      {
+        "type": "Cash generation and reinvestment capacity",
+        "grade": "strong",
+        "summary": "Caterpillar generated FY2025 operating cash flow of $12.885 billion and proxy-reported MP&E free cash flow of $9.5 billion. That cash base supported $2.108 billion of R&D expense, $7.9 billion of shareholder returns, and an enterprise cash balance of $10.0 billion at the end of 2025."
+      },
+      {
+        "type": "Financial Products support for equipment sales",
+        "grade": "middle",
+        "summary": "Caterpillar's Financial Products business adds a financing layer to its machinery model through wholesale receivables, wholesale loans, wholesale leases, retail loans, and retail leases. The packet does not quantify financing market share or customer retention, but these categories show the company can support both dealer and end-user equipment financing needs."
+      },
+      {
+        "type": "Mining software expansion",
+        "grade": "middle",
+        "summary": "Caterpillar is expanding its mining technology position through the approved acquisition of RPMGlobal Holdings Limited for an expected approximately $790 million excluding cash acquired. The 2025 Form 10-K describes RPMGlobal as a provider of mining software solutions with data-driven tools across every stage of the mining lifecycle."
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "symbol": "COST",
+  "companyName": "Costco",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Costco is led by Ron M. Vachris as Chief Executive Officer, President and Director, with Gary Millerchip as Executive Vice President and Chief Financial Officer. The leadership team is running a large, operationally complex retailer with 914 warehouses, e-commerce sites in eight markets, and $275.235 billion of fiscal 2025 total revenue.",
+        "points": [
+          "Ron M. Vachris signed the 2025 Form 10-K as Chief Executive Officer, President and Director, placing one named executive over both corporate leadership and board-level accountability.",
+          "Gary Millerchip signed as Executive Vice President and Chief Financial Officer, while Tiffany M. Barbre signed as Senior Vice President and Corporate Controller, anchoring financial reporting responsibilities.",
+          "Costco employed 341,000 people worldwide at fiscal 2025 year-end, with about 95% in membership warehouses and distribution channels, making execution quality heavily dependent on store and logistics operations.",
+          "The company reported approximately 94% retention in the U.S. and Canada for employees with at least one year of service, a useful operating marker for a labor-intensive warehouse model."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Capital allocation is directed toward warehouse growth, distribution capacity, and international expansion rather than a complicated mix of unrelated businesses. Costco added property and equipment of $5.498 billion in fiscal 2025 and expanded from 861 warehouses in 2023 to 914 warehouses at August 31, 2025.",
+        "points": [
+          "Fiscal 2025 additions to property and equipment totaled $5.498 billion, including $4.215 billion in the United States, $580 million in Canada, and $703 million in Other International.",
+          "The warehouse count rose to 914 at August 31, 2025 from 890 a year earlier and 861 two years earlier, showing continued reinvestment in the core format.",
+          "Capital spending supports a model built around volume purchasing, efficient distribution, no-frills facilities, and rapid inventory turnover, which Costco says enables profitability at lower gross margins than most retailers.",
+          "Management also allocates space and investment to ancillary businesses, including 747 gas stations; gasoline represented approximately 10% of fiscal 2025 total net sales."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "The packet supports a practical alignment case: executive pay is meaningfully tied to performance-based restricted stock units, and the business model depends on renewing paid members through low prices. Costco's 81.0 million paid members and high renewal rates make member value, traffic, and long-term sales volume central to shareholder outcomes.",
+        "points": [
+          "The proxy states that restricted stock units are the largest component of executive compensation if fully earned through achievement of performance targets, linking a major pay element to performance conditions.",
+          "Costco's model depends on offering low prices on a limited selection of branded and private-label goods, aiming for high sales volumes and rapid inventory turnover rather than high per-item margins.",
+          "At fiscal 2025 year-end, Costco had 81.0 million paid members and 145.2 million total cardholders, making membership value a direct operating driver for revenue durability.",
+          "Executive members totaled 38.7 million and accounted for approximately 73.6% of worldwide net sales in 2025, concentrating sales around members who pay for the higher-tier relationship."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Costco provides unusually concrete operating disclosure for a retailer in the provided filings, including member counts, renewal rates, warehouse counts, category sales, segment revenue, and segment operating income. The company also separates e-commerce and digitally enabled sales, gasoline exposure, employee data, and named legal matters in its 2025 Form 10-K.",
+        "points": [
+          "The 2025 Form 10-K discloses total paid members, Gold Star members, Business members, total cardholders, Executive members, and renewal rates for the U.S. and Canada and worldwide.",
+          "Costco reports segment results for the United States, Canada, and Other International, including fiscal 2025 total revenue and operating income for each segment.",
+          "The company discloses merchandise category net sales for Foods and Sundries, Non-Foods, Fresh Foods, and Warehouse Ancillary and Other Businesses, giving investors a view of sales mix.",
+          "Costco separately reports e-commerce net sales at approximately 7% of fiscal 2025 total net sales and digitally enabled sales at approximately 10% of total net sales.",
+          "The 2025 Form 10-K identifies pending matters including wage-and-hour and PAGA actions, opioid litigation, privacy-law suits, a PFAS false-advertising case, a False Claims Act investigation, and an EPA FIFRA matter."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "middle",
+        "summary": "Governance disclosure includes a named chairman, board nominees, an independent Compensation Committee, and a performance-based equity-heavy executive pay structure. The governance picture is balanced by operating and legal risks disclosed in the 10-K, including intense retail competition and multiple pending legal and regulatory matters.",
+        "points": [
+          "Hamilton E. James signed the 2025 Form 10-K as Chairman of the Board, while Ron M. Vachris also serves as Chief Executive Officer, President and Director.",
+          "The proxy states that the Board had ten nominees for election at the 2026 annual meeting, giving investors a specific board slate to evaluate.",
+          "The Compensation Committee is composed of independent directors, and restricted stock units are the largest executive compensation component if fully earned through performance targets.",
+          "Costco identifies significant U.S. competitors including Walmart, Target, Kroger, Amazon, Sam's Club, and BJ's Wholesale Club, highlighting governance oversight needs in a highly competitive industry.",
+          "Disclosed legal and regulatory matters include California wage-and-hour and PAGA actions, opioid-related litigation, privacy-law suits tied to pixel trackers on Costco.com, and a False Claims Act investigation."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Membership economics",
+        "grade": "strong",
+        "summary": "Costco's paid membership base is a concrete source of recurring customer relationship value. At fiscal 2025 year-end, the company had 81.0 million paid members, 145.2 million total cardholders, and renewal rates of 92.3% in the U.S. and Canada and 89.8% worldwide, excluding affiliates of Business members."
+      },
+      {
+        "type": "Scale purchasing and low-cost operations",
+        "grade": "strong",
+        "summary": "Costco's $269.912 billion of fiscal 2025 net sales gives it large purchasing and distribution scale to support its low-price model. The company says volume purchasing, efficient distribution, reduced handling in no-frills self-service warehouses, and rapid inventory turnover allow it to operate profitably at significantly lower gross margins than most other retailers."
+      },
+      {
+        "type": "Limited-SKU warehouse model",
+        "grade": "strong",
+        "summary": "Costco's core warehouse assortment is intentionally narrow, with less than 4,000 active SKUs per warehouse, compared with 9,000 to 10,000 SKUs online. This limited selection supports purchasing concentration, simpler handling, and rapid inventory turnover across major categories such as Foods and Sundries, Non-Foods, Fresh Foods, and Warehouse Ancillary."
+      },
+      {
+        "type": "Warehouse and ancillary footprint",
+        "grade": "middle",
+        "summary": "Costco's 914 warehouses across the United States and Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand create a broad physical network. Ancillary services deepen the warehouse trip, including gasoline, pharmacy, optical, food court, hearing aids, and tire installation."
+      },
+      {
+        "type": "High-value Executive member mix",
+        "grade": "strong",
+        "summary": "Executive members are a concentrated driver of Costco's sales base. In fiscal 2025, Executive members represented 38.7 million paid members and accounted for approximately 73.6% of worldwide net sales, making the higher-tier membership group central to Costco's traffic, basket size, and renewal economics."
+      }
+    ]
+  }
+}

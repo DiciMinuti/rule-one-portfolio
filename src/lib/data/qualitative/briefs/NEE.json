@@ -1,0 +1,90 @@
+{
+  "symbol": "NEE",
+  "companyName": "NextEra Energy",
+  "generatedAt": "2026-06-21",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "NextEra Energy is led by John W. Ketchum as Chairman, President and Chief Executive Officer, with Michael H. Dunne as Executive Vice President, Finance and Chief Financial Officer. The leadership team is running a very large electric-services holding company with about $213 billion in assets, about 80 GW in operation, and approximately 17,400 employees at year-end 2025.",
+        "points": [
+          "John W. Ketchum held the combined Chairman, President and CEO role as of February 13, 2026, making him the central named executive accountable for corporate strategy and execution.",
+          "Finance and accounting leadership is specifically identified: Michael H. Dunne served as CFO, and William J. Gough served as Controller and Chief Accounting Officer.",
+          "The business scale under management is substantial, with about $213 billion in total assets and about 80 GW in operation as of December 31, 2025."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "middle",
+        "summary": "Capital allocation is ambitious and asset-heavy, with NextEra Energy expecting about $295 billion to $325 billion of capital deployment from 2025 through 2032. The company also carries meaningful leverage, with $72.385 billion of long-term debt against $50.101 billion of stockholders' equity and $1.487 billion of cash at FY2025 year-end.",
+        "points": [
+          "The company's capital plan is large even for a utility-scale operator, with expected deployment of about $295 billion to $325 billion over the 2025 to 2032 period.",
+          "NextEra Energy Resources had 13.5 GW in origination and about 30 GW of year-end backlog as of December 31, 2025, supporting future development spending.",
+          "FY2025 operating cash flow was $11.301 billion, while FY2025 net income was $7.31 billion in SEC company facts, giving management internally generated cash to fund part of the plan.",
+          "The balance sheet requires attention because long-term debt was $72.385 billion at FY2025 year-end, compared with $1.487 billion of cash and equivalents."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "strong",
+        "summary": "The proxy describes explicit ownership requirements for senior leaders and directors, tying leadership economics to common stock ownership. The company also reports a 299% 10-year total shareholder return through December 31, 2025, which it says outperformed the S&P 500 Electric Utilities Index, S&P 500 Utilities Index, and UTY over the same period.",
+        "points": [
+          "The CEO is required to hold shares equal to 7x base salary, while senior executives must hold shares equal to 3x base salary.",
+          "Directors are required to hold shares equal to 7x the cash portion of the annual retainer, creating a stated ownership standard for board members.",
+          "The company has a policy prohibiting short sales, hedging, and margin accounts, limiting actions that could weaken the economic link between insiders and shareholders.",
+          "Reported 10-year total shareholder return through December 31, 2025 was 299%, and the proxy says this exceeded multiple electric utility and utility indexes."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "NextEra provides investors with concrete operating and financial disclosures in SEC filings, including total assets, operating GW, employee count, net income, adjusted earnings, operating cash flow, debt, and cash. The proxy also gives business-specific operating measures such as NextEra Energy Resources origination and backlog, FPL reliability, smart-grid outage avoidance, and company carbon dioxide emissions rate.",
+        "points": [
+          "The 2026 proxy reported about $213 billion in total assets, about 80 GW in operation, and approximately 17,400 employees as of December 31, 2025.",
+          "The proxy disclosed full-year 2025 GAAP net income attributable to the company of $6.835 billion and adjusted earnings of $7.683 billion.",
+          "SEC company facts provide additional comparable figures, including FY2025 operating cash flow of $11.301 billion and long-term debt of $72.385 billion at year-end.",
+          "Operating disclosures include NextEra Energy Resources' 13.5 GW in origination, about 30 GW of backlog, FPL reliability 67% better than the national average, and storm-related outage avoidance."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Governance disclosures show a mostly independent board structure with independent committee oversight and specific shareholder rights. Eleven of 12 director nominees are independent, all major committees named in the proxy are fully independent, and shareholders have proxy access plus the right for holders of 20% or more of outstanding shares to call a special meeting.",
+        "points": [
+          "The CEO is the only non-independent director nominee, while 11 of 12 nominees are independent according to the 2026 proxy statement.",
+          "All members of the Audit Committee, Compensation Committee, Finance & Investment Committee, and Governance & Nominating Committee are independent directors.",
+          "An independent lead director is selected by the independent directors and chairs regularly scheduled executive sessions of independent directors.",
+          "All directors stand for election annually, uncontested elections use a simple majority standard, and the company reports no poison pill or bylaw supermajority vote requirements.",
+          "Proxy access is available to holders of 3% of outstanding shares for at least three years, including groups of up to 20 shareholders."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Electric infrastructure scale",
+        "grade": "strong",
+        "summary": "NextEra Energy operates at a scale that would be difficult to replicate quickly, with about $213 billion in total assets and about 80 GW in operation as of December 31, 2025. The operating figure includes assets operated by NextEra Energy Resources and those owned by XPLR Infrastructure at NextEra Energy's ownership share."
+      },
+      {
+        "type": "Renewables development pipeline",
+        "grade": "strong",
+        "summary": "NextEra Energy Resources gives the company a large visible development pipeline, with 13.5 GW in origination and about 30 GW of year-end backlog as of December 31, 2025. That backlog supports the company's broader plan for about $295 billion to $325 billion of capital deployment from 2025 through 2032."
+      },
+      {
+        "type": "Florida Power & Light operating resilience",
+        "grade": "middle",
+        "summary": "FPL is identified as a subsidiary or related filing entity within NextEra Energy's consolidated reporting structure, and the proxy reports company-specific reliability data. FPL's reliability was 67% better than the national average as of December 31, 2024, and its smart grid technology avoided nearly 800,000 outages during Hurricanes Debby, Helene, and Milton in 2024."
+      },
+      {
+        "type": "Lower reported emissions rate",
+        "grade": "middle",
+        "summary": "NextEra Energy reports an emissions profile that differentiates its electric-generation footprint from the national average. The 2026 proxy says the company's overall carbon dioxide emissions rate was 52% below the national average as of December 31, 2024."
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "symbol": "V",
+  "companyName": "Visa",
+  "generatedAt": "2026-06-20",
+  "management": {
+    "grade": "strong",
+    "sections": [
+      {
+        "title": "Leadership",
+        "grade": "strong",
+        "summary": "Visa is led by Ryan McInerney, who signed the fiscal 2025 Form 10-K as Chief Executive Officer and Director, with Chris Suh as Chief Financial Officer and Peter Andreski as Global Corporate Controller and Chief Accounting Officer. The leadership team is running a very large payments network: fiscal 2025 net revenue was $40.0 billion, with $14.2 trillion of payments volume.",
+        "points": [
+          "Ryan McInerney serves as both Chief Executive Officer and Director, while the board leadership structure separately identifies John F. Lundgren as Independent Board Chair.",
+          "Management's stated strategy is organized around Consumer Payments, Commercial & Money Movement Solutions, and Value-Added Services, supported by brand, product innovation, platforms, security, sales, service, and talent."
+        ]
+      },
+      {
+        "title": "Capital Allocation",
+        "grade": "strong",
+        "summary": "Visa's capital allocation is supported by high cash generation and large capital returns. Fiscal 2025 operating cash flow was $20.755 billion, while dividends and share repurchases totaled $22.8 billion, up 9% from the prior year.",
+        "points": [
+          "Visa returned $22.8 billion to shareholders through dividends and share repurchases in fiscal 2025, a large cash return relative to reported GAAP net income of $20.1 billion.",
+          "The balance sheet included $11.975 billion of cash and equivalents and $20.836 billion of long-term debt at fiscal 2025 year-end, according to SEC company facts."
+        ]
+      },
+      {
+        "title": "Shareholder Alignment",
+        "grade": "middle",
+        "summary": "Visa provides visible shareholder returns through dividends and repurchases, but the packet does not include executive ownership levels or detailed performance targets for pay. Alignment is supported by listed incentive, equity, severance, and clawback policies, though the available facts do not show how much compensation depends on specific shareholder-return outcomes.",
+        "points": [
+          "The 2025 Form 10-K exhibit index lists the Visa Inc. 2007 Equity Incentive Compensation Plan and Visa Inc. Incentive Plan, indicating equity and incentive structures are part of management compensation arrangements.",
+          "Visa also lists an Executive Severance Plan, Executive Officer Cash Severance Policy, and Clawback Policy, giving investors identifiable compensation-control documents to review in filings."
+        ]
+      },
+      {
+        "title": "Communication",
+        "grade": "strong",
+        "summary": "Visa's investor reporting gives concrete operating and financial measures, including transaction counts, payments volume, revenue, income, cash flow, cash, debt, and capital returns. The proxy and 10-K also describe the four-party model, VisaNet, strategic categories, value-added services, governance practices, and named legal or regulatory proceedings.",
+        "points": [
+          "The 2026 proxy reports 329 billion Visa-branded payments and cash transactions in fiscal 2025, including 258 billion processed by Visa and an average of 901 million transactions per day.",
+          "Visa discloses fiscal 2025 payments volume of $14.2 trillion, net revenue of $40.0 billion, GAAP net income of $20.1 billion, and non-GAAP net income of $22.5 billion.",
+          "The 10-K discloses specific legal and regulatory matters, including U.S. debit class actions and a European Commission preliminary investigation into fees charged to acquirers."
+        ]
+      },
+      {
+        "title": "Governance",
+        "grade": "strong",
+        "summary": "Visa's governance structure includes an independent Board Chair, 91% independent director nominees, regular executive sessions of independent directors, and fully independent board committees. Governance risk remains important because the company discloses ongoing U.S. debit litigation and a European Commission preliminary investigation into acquirer fees.",
+        "points": [
+          "The 2026 proxy voting roadmap states that 100% of board committees are independent and that independent directors hold regular executive sessions.",
+          "Visa uses annual director elections with a majority vote standard and holds an annual say-on-pay vote, according to the 2026 proxy voting roadmap.",
+          "Management concluded disclosure controls and internal control over financial reporting were effective as of September 30, 2025, and KPMG audited internal control effectiveness."
+        ]
+      }
+    ]
+  },
+  "moat": {
+    "grade": "strong",
+    "types": [
+      {
+        "type": "Global payments network",
+        "grade": "strong",
+        "summary": "Visa's main moat is the scale and utility of its payments network across consumers, issuers, acquirers, and sellers in a four-party model. In fiscal 2025, Visa-branded payments and cash transactions totaled 329 billion, with 258 billion processed by Visa and average daily volume of 901 million transactions."
+      },
+      {
+        "type": "Proprietary processing infrastructure",
+        "grade": "strong",
+        "summary": "VisaNet gives Visa a proprietary transaction-processing backbone for authorization, clearing, and settlement. The company describes VisaNet as a single connection point for money movement to multiple endpoints across more than 200 countries and territories, which makes the network infrastructure central to the business model."
+      },
+      {
+        "type": "Payments volume scale",
+        "grade": "strong",
+        "summary": "Visa's economic scale is visible in fiscal 2025 payments volume of $14.2 trillion, up 8%, and net revenue of $40.0 billion, up 11%. The business also generated $20.755 billion of operating cash flow, supporting continued investment in the network and large shareholder returns."
+      },
+      {
+        "type": "Value-added services adjacency",
+        "grade": "middle",
+        "summary": "Visa has broadened beyond core card processing into value-added services that include fraud management and security, data products, consulting, and analytics. These services are tied to Visa's existing client and partner relationships, but the packet does not provide separate revenue, margin, or adoption data for this category."
+      }
+    ]
+  }
+}
