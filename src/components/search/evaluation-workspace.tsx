@@ -18,6 +18,9 @@ import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
   buildTechnicalIndicators,
   type IndicatorSignal,
+  type MacdPoint,
+  type MovingAveragePoint,
+  type StochasticsPoint,
   type SummarySignal,
 } from "@/lib/indicators";
 import {
@@ -1486,17 +1489,178 @@ function IndicatorStat({ label, value }: { label: string; value: string }) {
   );
 }
 
+const indicatorChartLimit = 90;
+const indicatorChartWidth = 920;
+const indicatorChartHeight = 150;
+const indicatorChartPadding = 12;
+
+function formatSessionsAgo(value: number | undefined) {
+  if (!Number.isFinite(value)) {
+    return "—";
+  }
+
+  return value === 0 ? "Today" : `${value} sessions`;
+}
+
+function formatCrossoverDate(date: string | undefined) {
+  return date ? formatDate(date) : "—";
+}
+
+function formatHistogramTrend(value: string | undefined) {
+  if (!value) {
+    return "—";
+  }
+
+  return value[0].toUpperCase() + value.slice(1);
+}
+
+function formatStochasticZone(value: string | undefined) {
+  if (!value) {
+    return "—";
+  }
+
+  if (value === "middle") {
+    return "20-80";
+  }
+
+  return value[0].toUpperCase() + value.slice(1);
+}
+
+function finiteChartValues(values: Array<number | null | undefined>) {
+  return values.filter((value): value is number => Number.isFinite(value));
+}
+
+function chartY(value: number, min: number, spread: number) {
+  const innerHeight = indicatorChartHeight - indicatorChartPadding * 2;
+  return indicatorChartPadding + innerHeight - ((value - min) / spread) * innerHeight;
+}
+
+function chartPath(values: Array<number | null | undefined>, min: number, max: number) {
+  const spread = max - min || 1;
+  const step = values.length > 1 ? indicatorChartWidth / (values.length - 1) : indicatorChartWidth;
+  let open = false;
+
+  return values
+    .map((value, index) => {
+      if (!Number.isFinite(value)) {
+        open = false;
+        return "";
+      }
+
+      const x = index * step;
+      const y = chartY(value as number, min, spread);
+      const command = open ? "L" : "M";
+      open = true;
+      return `${command}${x.toFixed(2)},${y.toFixed(2)}`;
+    })
+    .filter(Boolean)
+    .join(" ");
+}
+
+function IndicatorChartEmpty() {
+  return <div className="indicator-chart-empty">Chart unavailable</div>;
+}
+
+function MacdMiniChart({ points }: { points: MacdPoint[] }) {
+  const chartPoints = points
+    .filter((point) => Number.isFinite(point.macd) || Number.isFinite(point.signal) || Number.isFinite(point.histogram))
+    .slice(-indicatorChartLimit);
+  const values = finiteChartValues(chartPoints.flatMap((point) => [point.macd, point.signal, point.histogram]));
+
+  if (chartPoints.length < 2 || !values.length) {
+    return <IndicatorChartEmpty />;
+  }
+
+  const maxAbs = Math.max(...values.map((value) => Math.abs(value)), 1);
+  const min = -maxAbs;
+  const max = maxAbs;
+  const spread = max - min;
+  const zeroY = chartY(0, min, spread);
+  const barWidth = Math.max(2, indicatorChartWidth / chartPoints.length - 2);
+
+  return (
+    <svg className="indicator-chart" viewBox={`0 0 ${indicatorChartWidth} ${indicatorChartHeight}`} role="img" aria-label="MACD history">
+      <line x1="0" x2={indicatorChartWidth} y1={zeroY} y2={zeroY} className="indicator-chart-grid" />
+      {chartPoints.map((point, index) => {
+        if (!Number.isFinite(point.histogram)) {
+          return null;
+        }
+
+        const x = (index / Math.max(chartPoints.length - 1, 1)) * indicatorChartWidth;
+        const y = chartY(point.histogram as number, min, spread);
+        return (
+          <rect
+            className={point.histogram && point.histogram >= 0 ? "indicator-bar good" : "indicator-bar bad"}
+            height={Math.max(1, Math.abs(zeroY - y))}
+            key={point.date}
+            width={barWidth}
+            x={x - barWidth / 2}
+            y={Math.min(y, zeroY)}
+          />
+        );
+      })}
+      <path d={chartPath(chartPoints.map((point) => point.macd), min, max)} className="indicator-line primary" />
+      <path d={chartPath(chartPoints.map((point) => point.signal), min, max)} className="indicator-line secondary" />
+    </svg>
+  );
+}
+
+function StochasticsMiniChart({ points }: { points: StochasticsPoint[] }) {
+  const chartPoints = points
+    .filter((point) => Number.isFinite(point.k) || Number.isFinite(point.d))
+    .slice(-indicatorChartLimit);
+
+  if (chartPoints.length < 2) {
+    return <IndicatorChartEmpty />;
+  }
+
+  return (
+    <svg className="indicator-chart" viewBox={`0 0 ${indicatorChartWidth} ${indicatorChartHeight}`} role="img" aria-label="Stochastics history">
+      <line x1="0" x2={indicatorChartWidth} y1={chartY(80, 0, 100)} y2={chartY(80, 0, 100)} className="indicator-chart-grid band" />
+      <line x1="0" x2={indicatorChartWidth} y1={chartY(20, 0, 100)} y2={chartY(20, 0, 100)} className="indicator-chart-grid band" />
+      <path d={chartPath(chartPoints.map((point) => point.k), 0, 100)} className="indicator-line primary" />
+      <path d={chartPath(chartPoints.map((point) => point.d), 0, 100)} className="indicator-line secondary" />
+    </svg>
+  );
+}
+
+function MovingAverageMiniChart({ points }: { points: MovingAveragePoint[] }) {
+  const chartPoints = points
+    .filter((point) => Number.isFinite(point.close) || Number.isFinite(point.average))
+    .slice(-indicatorChartLimit);
+  const values = finiteChartValues(chartPoints.flatMap((point) => [point.close, point.average]));
+
+  if (chartPoints.length < 2 || !values.length) {
+    return <IndicatorChartEmpty />;
+  }
+
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+
+  return (
+    <svg className="indicator-chart" viewBox={`0 0 ${indicatorChartWidth} ${indicatorChartHeight}`} role="img" aria-label="Moving average history">
+      <line x1="0" x2={indicatorChartWidth} y1={indicatorChartPadding} y2={indicatorChartPadding} className="indicator-chart-grid" />
+      <line x1="0" x2={indicatorChartWidth} y1={indicatorChartHeight / 2} y2={indicatorChartHeight / 2} className="indicator-chart-grid" />
+      <line x1="0" x2={indicatorChartWidth} y1={indicatorChartHeight - indicatorChartPadding} y2={indicatorChartHeight - indicatorChartPadding} className="indicator-chart-grid" />
+      <path d={chartPath(chartPoints.map((point) => point.close), min, max)} className="indicator-line primary" />
+      <path d={chartPath(chartPoints.map((point) => point.average), min, max)} className="indicator-line secondary" />
+    </svg>
+  );
+}
+
 function IndicatorCard({
   title,
   meta,
   signal,
   detail,
+  chart,
   children,
 }: {
   title: string;
   meta: string;
   signal: IndicatorSignal | SummarySignal;
   detail: string;
+  chart?: ReactNode;
   children: ReactNode;
 }) {
   const tone = indicatorTone(signal);
@@ -1513,6 +1677,7 @@ function IndicatorCard({
         </div>
       </div>
       <div className="indicator-stat-grid">{children}</div>
+      {chart}
     </section>
   );
 }
@@ -1539,10 +1704,14 @@ function IndicatorsStep({ prices }: { prices: PriceHistory }) {
           meta={`${macd.fastPeriod}/${macd.slowPeriod}/${macd.signalPeriod}`}
           signal={macd.signal}
           detail={macd.detail}
+          chart={<MacdMiniChart points={macd.points} />}
         >
           <IndicatorStat label="MACD" value={formatNumber(macd.latest?.macd, 3)} />
           <IndicatorStat label="Signal" value={formatNumber(macd.latest?.signal, 3)} />
           <IndicatorStat label="Histogram" value={formatNumber(macd.latest?.histogram, 3)} />
+          <IndicatorStat label="Histogram trend" value={formatHistogramTrend(macd.histogramTrend)} />
+          <IndicatorStat label="Last cross" value={formatCrossoverDate(macd.crossover?.date)} />
+          <IndicatorStat label="Since cross" value={formatSessionsAgo(macd.crossover?.sessionsAgo)} />
         </IndicatorCard>
 
         <IndicatorCard
@@ -1550,10 +1719,14 @@ function IndicatorsStep({ prices }: { prices: PriceHistory }) {
           meta={`${stochastics.period}/${stochastics.signalPeriod}`}
           signal={stochastics.signal}
           detail={stochastics.detail}
+          chart={<StochasticsMiniChart points={stochastics.points} />}
         >
           <IndicatorStat label="%K" value={formatNumber(stochastics.latest?.k, 1)} />
           <IndicatorStat label="%D" value={formatNumber(stochastics.latest?.d, 1)} />
           <IndicatorStat label="Range" value="20 / 80" />
+          <IndicatorStat label="Zone" value={formatStochasticZone(stochastics.zone)} />
+          <IndicatorStat label="Last cross" value={formatCrossoverDate(stochastics.crossover?.date)} />
+          <IndicatorStat label="Since cross" value={formatSessionsAgo(stochastics.crossover?.sessionsAgo)} />
         </IndicatorCard>
 
         <IndicatorCard
@@ -1561,10 +1734,14 @@ function IndicatorsStep({ prices }: { prices: PriceHistory }) {
           meta={`${movingAverage.period} day`}
           signal={movingAverage.signal}
           detail={movingAverage.detail}
+          chart={<MovingAverageMiniChart points={movingAverage.points} />}
         >
           <IndicatorStat label="Close" value={formatCurrency(movingAverage.latest?.close)} />
           <IndicatorStat label="Average" value={formatCurrency(movingAverage.latest?.average)} />
+          <IndicatorStat label="Distance" value={formatPercent(movingAverage.distancePercent)} />
           <IndicatorStat label="Date" value={formatDate(movingAverage.latest?.date)} />
+          <IndicatorStat label="Last cross" value={formatCrossoverDate(movingAverage.crossover?.date)} />
+          <IndicatorStat label="Since cross" value={formatSessionsAgo(movingAverage.crossover?.sessionsAgo)} />
         </IndicatorCard>
 
         <IndicatorCard
@@ -1574,8 +1751,9 @@ function IndicatorsStep({ prices }: { prices: PriceHistory }) {
           detail={summary.detail}
         >
           <IndicatorStat label="Overall" value={summary.label} />
-          <IndicatorStat label="Bullish" value={String(summary.bullishCount)} />
-          <IndicatorStat label="Bearish" value={String(summary.bearishCount)} />
+          <IndicatorStat label="Available" value={`${summary.availableCount}/${summary.totalCount}`} />
+          <IndicatorStat label="Up" value={String(summary.bullishCount)} />
+          <IndicatorStat label="Down" value={String(summary.bearishCount)} />
         </IndicatorCard>
       </div>
     </div>

@@ -1347,6 +1347,57 @@ a:hover {
   font-size: 1rem;
 }
 
+.indicator-chart {
+  display: block;
+  width: 100%;
+  height: 150px;
+  color: var(--muted);
+}
+
+.indicator-chart-grid {
+  stroke: rgba(255, 255, 255, 0.08);
+  stroke-width: 1;
+}
+
+.indicator-chart-grid.band {
+  stroke-dasharray: 5 7;
+}
+
+.indicator-line {
+  fill: none;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+
+.indicator-line.primary {
+  stroke: rgba(255, 255, 255, 0.86);
+}
+
+.indicator-line.secondary {
+  stroke: rgba(255, 255, 255, 0.38);
+}
+
+.indicator-bar {
+  opacity: 0.32;
+}
+
+.indicator-bar.good {
+  fill: var(--green);
+}
+
+.indicator-bar.bad {
+  fill: var(--red);
+}
+
+.indicator-chart-empty {
+  display: grid;
+  place-items: center;
+  min-height: 150px;
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.025);
+  color: var(--subtle);
+}
+
 .qualitative-points {
   display: grid;
   gap: 8px;

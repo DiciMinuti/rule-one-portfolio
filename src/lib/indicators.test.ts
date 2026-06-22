@@ -36,6 +36,20 @@ describe("technical indicators", () => {
     expect(result.latest?.close).toBe(5);
     expect(result.signal).toBe("bullish");
     expect(result.detail).toContain("Above");
+    expect(result.distancePercent).toBeCloseTo(0.25, 4);
+  });
+
+  it("tracks the latest moving-average crossover", () => {
+    const result = calculateMovingAverage(
+      [5, 4, 3, 2, 1, 2, 4, 6, 8].map((close, index) => datedPoint(index, close)),
+      3,
+    );
+
+    expect(result.crossover).toMatchObject({
+      signal: "bullish",
+      date: "2024-01-06",
+      sessionsAgo: 3,
+    });
   });
 
   it("calculates MACD from daily closing prices", () => {
@@ -46,6 +60,7 @@ describe("technical indicators", () => {
     expect(indicators.macd.latest?.macd).toBeGreaterThan(0);
     expect(indicators.macd.latest?.signal).toBeGreaterThan(0);
     expect(indicators.macd.signal).toBe("bullish");
+    expect(indicators.macd.histogramTrend).toBeDefined();
   });
 
   it("calculates stochastics from high, low, and close", () => {
@@ -57,6 +72,7 @@ describe("technical indicators", () => {
     expect(result.latest?.k).toBeCloseTo(93.33, 2);
     expect(result.latest?.d).toBeCloseTo(93.33, 2);
     expect(result.signal).toBe("neutral");
+    expect(result.zone).toBe("overbought");
   });
 
   it("marks stochastics unavailable without high/low data", () => {
@@ -71,7 +87,7 @@ describe("technical indicators", () => {
   it("combines the three indicator signals", () => {
     expect(buildIndicatorSummary(["bullish", "bullish", "bearish"])).toMatchObject({
       signal: "bullish",
-      label: "2 of 3 bullish",
+      label: "2 of 3 up",
       bullishCount: 2,
       bearishCount: 1,
     });

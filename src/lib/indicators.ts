@@ -22,6 +22,12 @@ export type MovingAveragePoint = {
   average: number | null;
 };
 
+export type IndicatorCrossover = {
+  date: string;
+  signal: Exclude<IndicatorSignal, "neutral" | "insufficient">;
+  sessionsAgo: number;
+};
+
 export type MacdResult = {
   fastPeriod: number;
   slowPeriod: number;
@@ -29,6 +35,8 @@ export type MacdResult = {
   points: MacdPoint[];
   latest?: MacdPoint;
   previous?: MacdPoint;
+  crossover?: IndicatorCrossover;
+  histogramTrend?: "rising" | "falling" | "flat";
   signal: IndicatorSignal;
   detail: string;
 };
@@ -39,6 +47,8 @@ export type StochasticsResult = {
   points: StochasticsPoint[];
   latest?: StochasticsPoint;
   previous?: StochasticsPoint;
+  crossover?: IndicatorCrossover;
+  zone?: "overbought" | "oversold" | "middle";
   signal: IndicatorSignal;
   detail: string;
 };
@@ -48,6 +58,8 @@ export type MovingAverageResult = {
   points: MovingAveragePoint[];
   latest?: MovingAveragePoint;
   previous?: MovingAveragePoint;
+  crossover?: IndicatorCrossover;
+  distancePercent?: number;
   signal: IndicatorSignal;
   detail: string;
 };
@@ -107,6 +119,74 @@ function compareValues(primary: number, secondary: number): IndicatorSignal {
   }
 
   return "neutral";
+}
+
+function signalAtPoint<T>(
+  point: T,
+  getPrimary: (point: T) => number | null,
+  getSecondary: (point: T) => number | null,
+) {
+  const primary = getPrimary(point);
+  const secondary = getSecondary(point);
+
+  if (!isFiniteNumber(primary) || !isFiniteNumber(secondary)) {
+    return "insufficient";
+  }
+
+  return compareValues(primary, secondary);
+}
+
+function findLatestCrossover<T>(
+  points: T[],
+  getDate: (point: T) => string,
+  getPrimary: (point: T) => number | null,
+  getSecondary: (point: T) => number | null,
+): IndicatorCrossover | undefined {
+  let previousSignal: IndicatorSignal | undefined;
+
+  for (let index = points.length - 1; index >= 0; index -= 1) {
+    const currentSignal = signalAtPoint(points[index], getPrimary, getSecondary);
+
+    if (currentSignal === "insufficient" || currentSignal === "neutral") {
+      continue;
+    }
+
+    for (let previousIndex = index - 1; previousIndex >= 0; previousIndex -= 1) {
+      previousSignal = signalAtPoint(points[previousIndex], getPrimary, getSecondary);
+
+      if (previousSignal === "insufficient" || previousSignal === "neutral") {
+        continue;
+      }
+
+      if (previousSignal !== currentSignal) {
+        return {
+          date: getDate(points[index]),
+          signal: currentSignal,
+          sessionsAgo: points.length - 1 - index,
+        };
+      }
+
+      break;
+    }
+  }
+
+  return undefined;
+}
+
+function trendFromValues(latest: number | null | undefined, previous: number | null | undefined) {
+  if (!isFiniteNumber(latest) || !isFiniteNumber(previous)) {
+    return undefined;
+  }
+
+  if (latest > previous + EPSILON) {
+    return "rising";
+  }
+
+  if (latest < previous - EPSILON) {
+    return "falling";
+  }
+
+  return "flat";
 }
 
 function crossoverDetail(
@@ -247,6 +327,13 @@ export function calculateMovingAverage(
   const signal = compareValues(latest.close, latest.average);
   const previousSignal =
     previous && isFiniteNumber(previous.average) ? compareValues(previous.close, previous.average) : undefined;
+  const crossover = findLatestCrossover(
+    results,
+    (point) => point.date,
+    (point) => point.close,
+    (point) => point.average,
+  );
+  const distancePercent = latest.average ? latest.close / latest.average - 1 : undefined;
   const detail = crossoverDetail(
     signal,
     previousSignal,
@@ -262,6 +349,8 @@ export function calculateMovingAverage(
     points: results,
     latest,
     previous,
+    crossover,
+    distancePercent,
     signal,
     detail,
   };
@@ -315,6 +404,13 @@ export function calculateMacd(
     previous && isFiniteNumber(previous.macd) && isFiniteNumber(previous.signal)
       ? compareValues(previous.macd, previous.signal)
       : undefined;
+  const crossover = findLatestCrossover(
+    results,
+    (point) => point.date,
+    (point) => point.macd,
+    (point) => point.signal,
+  );
+  const histogramTrend = trendFromValues(latest.histogram, previous?.histogram);
   const detail = crossoverDetail(
     signal,
     previousSignal,
@@ -332,6 +428,8 @@ export function calculateMacd(
     points: results,
     latest,
     previous,
+    crossover,
+    histogramTrend,
     signal,
     detail,
   };
@@ -392,6 +490,13 @@ export function calculateStochastics(
     previous && isFiniteNumber(previous.k) && isFiniteNumber(previous.d)
       ? compareValues(previous.k, previous.d)
       : undefined;
+  const crossover = findLatestCrossover(
+    results,
+    (point) => point.date,
+    (point) => point.k,
+    (point) => point.d,
+  );
+  const zone = latest.k >= 80 ? "overbought" : latest.k <= 20 ? "oversold" : "middle";
   const detail = crossoverDetail(
     signal,
     previousSignal,
@@ -408,6 +513,8 @@ export function calculateStochastics(
     points: results,
     latest,
     previous,
+    crossover,
+    zone,
     signal,
     detail,
   };
@@ -438,7 +545,7 @@ export function buildIndicatorSummary(signals: IndicatorSignal[]): IndicatorSumm
   if (bullishCount > bearishCount) {
     return {
       signal: "bullish",
-      label: `${bullishCount} of ${totalCount} bullish`,
+      label: `${bullishCount} of ${totalCount} up`,
       detail: `${availableCount} of ${totalCount} indicators available${availabilityDetail}`,
       bullishCount,
       bearishCount,
@@ -450,7 +557,7 @@ export function buildIndicatorSummary(signals: IndicatorSignal[]): IndicatorSumm
   if (bearishCount > bullishCount) {
     return {
       signal: "bearish",
-      label: `${bearishCount} of ${totalCount} bearish`,
+      label: `${bearishCount} of ${totalCount} down`,
       detail: `${availableCount} of ${totalCount} indicators available${availabilityDetail}`,
       bullishCount,
       bearishCount,
