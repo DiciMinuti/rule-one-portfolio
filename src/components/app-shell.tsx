@@ -174,7 +174,8 @@ function SettingsDialog({ onClose }: { onClose: () => void }) {
             first for daily prices, with Yahoo Finance public chart data as a no-key fallback.
           </p>
           <p className="subtle" style={{ margin: 0 }}>
-            Educational research tool. Not financial advice. Not affiliated with Phil Town, Rule #1
+            Educational research tool inspired by publicly available Rule #1 investing concepts
+            popularized by Phil Town. Not financial advice. Not affiliated with Phil Town, Rule #1
             Investing, the SEC, Stooq, or any data provider.
           </p>
         </div>
