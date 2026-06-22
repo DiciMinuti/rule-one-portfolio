@@ -789,6 +789,25 @@ a:hover {
   background: rgba(255, 255, 255, 0.04);
 }
 
+.group-expanded-row td {
+  padding: 0;
+  border-bottom: 0;
+  background: transparent;
+}
+
+.group-business-results {
+  padding: 0;
+}
+
+.group-business-results .sticky-summary {
+  position: static;
+}
+
+.group-expanded-row td:first-child,
+.group-expanded-row td:last-child {
+  border-radius: 0;
+}
+
 .group-table th:nth-child(2),
 .group-table td:nth-child(2) {
   min-width: 260px;

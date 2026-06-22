@@ -11,8 +11,9 @@ import {
   Minus,
   Plus,
   Search,
+  X,
 } from "lucide-react";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Fragment, type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MiniPriceChart } from "@/components/ui/mini-price-chart";
 import {
   buildBigFive,
@@ -193,6 +194,7 @@ export function EvaluationWorkspace() {
   const [groupRows, setGroupRows] = useState<GroupEvaluationRow[]>([]);
   const [groupStatus, setGroupStatus] = useState<GroupRunStatus>("idle");
   const [groupLimit, setGroupLimit] = useState(25);
+  const [groupOpenedSymbol, setGroupOpenedSymbol] = useState<string | null>(null);
   const [loadSteps, setLoadSteps] = useState(initialLoadSteps);
   const [loaded, setLoaded] = useState<LoadedCompany | null>(null);
   const [assumptions, setAssumptions] = useState<ValuationAssumptions | null>(null);
@@ -457,6 +459,7 @@ export function EvaluationWorkspace() {
     groupRunIdRef.current += 1;
     setSelectedGroup(null);
     setGroupRows([]);
+    setGroupOpenedSymbol(null);
     setGroupStatus("loading");
     setGroupError("");
     setGroupSuggestions([]);
@@ -678,6 +681,7 @@ export function EvaluationWorkspace() {
     setQuery(value);
     setSelectedGroup(null);
     setGroupRows([]);
+    setGroupOpenedSymbol(null);
     setGroupStatus("idle");
   }
 
@@ -685,16 +689,17 @@ export function EvaluationWorkspace() {
     setQuery(group.name);
     setGroupSuggestions([]);
     setGroupError("");
+    setGroupOpenedSymbol(null);
     void loadGroup(group.id);
   }
 
   function openCompanyFromGroup(symbol: string) {
-    setSearchMode("business");
-    setSelectedGroup(null);
-    setGroupRows([]);
-    setGroupStatus("idle");
-    setGroupSuggestions([]);
-    setQuery(symbol);
+    if (groupOpenedSymbol === symbol) {
+      setGroupOpenedSymbol(null);
+      return;
+    }
+
+    setGroupOpenedSymbol(symbol);
     void loadCompany(symbol);
   }
 
@@ -724,6 +729,91 @@ export function EvaluationWorkspace() {
     setAssumptions((current) => (current ? { ...current, [key]: value } : current));
   }
 
+  function renderBusinessLoading() {
+    if (!loadSteps.some((step) => step.status !== "idle") || loaded) {
+      return null;
+    }
+
+    return (
+      <section className="panel">
+        <div className="loading-list">
+          {loadSteps.map((step) => (
+            <div className={`loading-item ${step.status}`} key={step.id}>
+              {statusIcon(step.status)}
+              <span>{step.label}</span>
+              {step.detail ? <span className="subtle">{step.detail}</span> : null}
+            </div>
+          ))}
+        </div>
+      </section>
+    );
+  }
+
+  function renderBusinessResults() {
+    if (!loaded || !assumptions || !valuation) {
+      return null;
+    }
+
+    return (
+      <>
+        <CompanySummary
+          loaded={loaded}
+          valuation={valuation}
+          isSaved={isLoadedSaved}
+          onSaveToggle={handleSaveToggle}
+        />
+        <section className="panel evaluation-panel">
+          <Stepper steps={evaluationSteps} activeStep={activeStep} onStepChange={setActiveStep} />
+          <div className="evaluation-body">
+            {activeStepLabel === "Result" ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
+            {activeStepLabel === "Business" ? <BusinessStep loaded={loaded} /> : null}
+            {activeStepLabel === "Moat" && loaded.qualitativeBrief ? (
+              <MoatStep brief={loaded.qualitativeBrief} />
+            ) : null}
+            {activeStepLabel === "Management" && loaded.qualitativeBrief ? (
+              <ManagementStep brief={loaded.qualitativeBrief} />
+            ) : null}
+            {activeStepLabel === "Inputs" ? (
+              <ValuationStep
+                assumptions={assumptions}
+                setAssumption={setAssumption}
+                valuation={valuation}
+              />
+            ) : null}
+          </div>
+        </section>
+        <div className="step-actions">
+          <button
+            className="button"
+            type="button"
+            disabled={activeStep === 0}
+            onClick={() => setActiveStep((step) => Math.max(0, step - 1))}
+          >
+            <ChevronLeft size={16} />
+            Previous
+          </button>
+          <button
+            className="button"
+            type="button"
+            disabled={activeStep === evaluationSteps.length - 1}
+            onClick={() => setActiveStep((step) => Math.min(evaluationSteps.length - 1, step + 1))}
+          >
+            Next
+            <ChevronRight size={16} />
+          </button>
+        </div>
+      </>
+    );
+  }
+
+  const groupBusinessContent = groupOpenedSymbol ? (
+    <div className="group-business-results stack">
+      {renderBusinessLoading()}
+      {renderBusinessResults()}
+    </div>
+  ) : null;
+  const showStandaloneBusinessResults = searchMode === "business" && !groupOpenedSymbol;
+
   return (
     <div className="stack">
       <section className="panel search-panel">
@@ -737,6 +827,7 @@ export function EvaluationWorkspace() {
               setSearchMode("business");
               setGroupSuggestions([]);
               setGroupError("");
+              setGroupOpenedSymbol(null);
               setQuery("");
             }}
           >
@@ -751,6 +842,7 @@ export function EvaluationWorkspace() {
               setSearchMode("group");
               setSuggestions([]);
               setSearchError("");
+              setGroupOpenedSymbol(null);
               setQuery("");
             }}
           >
@@ -827,6 +919,8 @@ export function EvaluationWorkspace() {
                 onRun={runSelectedGroup}
                 onStop={stopGroupRun}
                 onOpenCompany={openCompanyFromGroup}
+                openedSymbol={groupOpenedSymbol}
+                openedContent={groupBusinessContent}
               />
             ) : null}
             {bestGroupSuggestion && !selectedGroup ? (
@@ -873,70 +967,9 @@ export function EvaluationWorkspace() {
         )}
       </section>
 
-      {loadSteps.some((step) => step.status !== "idle") && !loaded ? (
-        <section className="panel">
-          <div className="loading-list">
-            {loadSteps.map((step) => (
-              <div className={`loading-item ${step.status}`} key={step.id}>
-                {statusIcon(step.status)}
-                <span>{step.label}</span>
-                {step.detail ? <span className="subtle">{step.detail}</span> : null}
-              </div>
-            ))}
-          </div>
-        </section>
-      ) : null}
+      {showStandaloneBusinessResults ? renderBusinessLoading() : null}
 
-      {loaded && assumptions && valuation ? (
-        <>
-          <CompanySummary
-            loaded={loaded}
-            valuation={valuation}
-            isSaved={isLoadedSaved}
-            onSaveToggle={handleSaveToggle}
-          />
-          <section className="panel evaluation-panel">
-            <Stepper steps={evaluationSteps} activeStep={activeStep} onStepChange={setActiveStep} />
-            <div className="evaluation-body">
-              {activeStepLabel === "Result" ? <ResultStep loaded={loaded} valuation={valuation} /> : null}
-              {activeStepLabel === "Business" ? <BusinessStep loaded={loaded} /> : null}
-              {activeStepLabel === "Moat" && loaded.qualitativeBrief ? (
-                <MoatStep brief={loaded.qualitativeBrief} />
-              ) : null}
-              {activeStepLabel === "Management" && loaded.qualitativeBrief ? (
-                <ManagementStep brief={loaded.qualitativeBrief} />
-              ) : null}
-              {activeStepLabel === "Inputs" ? (
-                <ValuationStep
-                  assumptions={assumptions}
-                  setAssumption={setAssumption}
-                  valuation={valuation}
-                />
-              ) : null}
-            </div>
-          </section>
-          <div className="step-actions">
-            <button
-              className="button"
-              type="button"
-              disabled={activeStep === 0}
-              onClick={() => setActiveStep((step) => Math.max(0, step - 1))}
-            >
-              <ChevronLeft size={16} />
-              Previous
-            </button>
-            <button
-              className="button"
-              type="button"
-              disabled={activeStep === evaluationSteps.length - 1}
-              onClick={() => setActiveStep((step) => Math.min(evaluationSteps.length - 1, step + 1))}
-            >
-              Next
-              <ChevronRight size={16} />
-            </button>
-          </div>
-        </>
-      ) : null}
+      {showStandaloneBusinessResults ? renderBusinessResults() : null}
     </div>
   );
 }
@@ -999,6 +1032,8 @@ function GroupScreen({
   onRun,
   onStop,
   onOpenCompany,
+  openedSymbol,
+  openedContent,
 }: {
   group: BusinessGroupDetail;
   rows: GroupEvaluationRow[];
@@ -1009,6 +1044,8 @@ function GroupScreen({
   onRun: () => void;
   onStop: () => void;
   onOpenCompany: (symbol: string) => void;
+  openedSymbol: string | null;
+  openedContent: ReactNode;
 }) {
   const evaluatedCount = summary.done + summary.failed;
   const runLabel = evaluatedCount > 0 ? "Run again" : "Run screen";
@@ -1156,49 +1193,57 @@ function GroupScreen({
               {filteredRows.map((row) => {
                 const evaluation = row.evaluation;
                 const statusLabel = groupRowStatusLabel(row.status);
+                const isOpened = row.constituent.symbol === openedSymbol;
                 return (
-                  <tr className={`group-result-row ${groupEvaluationRowTone(row)}`} key={row.constituent.symbol}>
-                    <td>
-                      <strong>{row.constituent.displaySymbol}</strong>
-                      {row.constituent.displaySymbol !== row.constituent.symbol ? (
-                        <div className="subtle">{row.constituent.symbol}</div>
-                      ) : null}
-                    </td>
-                    <td>
-                      <div>{evaluation?.profile.name ?? row.constituent.name}</div>
-                      <div className="subtle">{row.constituent.industry ?? row.constituent.sector ?? "S&P 500"}</div>
-                      {statusLabel ? (
-                        <div className={`group-status ${row.status}`}>
-                          {groupRowStatusIcon(row.status)}
-                          <span>{statusLabel}</span>
-                        </div>
-                      ) : null}
-                      {row.error ? <div className="subtle group-error">{row.error}</div> : null}
-                    </td>
-                    <td>
-                      {evaluation ? (
-                        <span className={`pill ${groupBigFiveTone(evaluation.bigFive)}`}>
-                          {evaluation.bigFive.healthyCount}/{evaluation.bigFive.totalCount}
-                        </span>
-                      ) : (
-                        "—"
-                      )}
-                    </td>
-                    <td>{evaluation ? formatCurrency(evaluation.valuation.currentPrice) : "—"}</td>
-                    <td>{evaluation ? formatCurrency(evaluation.valuation.stickerPrice) : "—"}</td>
-                    <td>{evaluation ? formatCurrency(evaluation.valuation.mosPrice) : "—"}</td>
-                    <td>{evaluation ? formatPercent(evaluation.valuation.gapToMos) : "—"}</td>
-                    <td>
-                      <button
-                        className="button"
-                        type="button"
-                        onClick={() => onOpenCompany(row.constituent.symbol)}
-                      >
-                        <Search size={16} />
-                        Open
-                      </button>
-                    </td>
-                  </tr>
+                  <Fragment key={row.constituent.symbol}>
+                    <tr className={`group-result-row ${groupEvaluationRowTone(row)} ${isOpened ? "opened" : ""}`}>
+                      <td>
+                        <strong>{row.constituent.displaySymbol}</strong>
+                        {row.constituent.displaySymbol !== row.constituent.symbol ? (
+                          <div className="subtle">{row.constituent.symbol}</div>
+                        ) : null}
+                      </td>
+                      <td>
+                        <div>{evaluation?.profile.name ?? row.constituent.name}</div>
+                        <div className="subtle">{row.constituent.industry ?? row.constituent.sector ?? "S&P 500"}</div>
+                        {statusLabel ? (
+                          <div className={`group-status ${row.status}`}>
+                            {groupRowStatusIcon(row.status)}
+                            <span>{statusLabel}</span>
+                          </div>
+                        ) : null}
+                        {row.error ? <div className="subtle group-error">{row.error}</div> : null}
+                      </td>
+                      <td>
+                        {evaluation ? (
+                          <span className={`pill ${groupBigFiveTone(evaluation.bigFive)}`}>
+                            {evaluation.bigFive.healthyCount}/{evaluation.bigFive.totalCount}
+                          </span>
+                        ) : (
+                          "—"
+                        )}
+                      </td>
+                      <td>{evaluation ? formatCurrency(evaluation.valuation.currentPrice) : "—"}</td>
+                      <td>{evaluation ? formatCurrency(evaluation.valuation.stickerPrice) : "—"}</td>
+                      <td>{evaluation ? formatCurrency(evaluation.valuation.mosPrice) : "—"}</td>
+                      <td>{evaluation ? formatPercent(evaluation.valuation.gapToMos) : "—"}</td>
+                      <td>
+                        <button
+                          className="button"
+                          type="button"
+                          onClick={() => onOpenCompany(row.constituent.symbol)}
+                        >
+                          {isOpened ? <X size={16} /> : <Search size={16} />}
+                          {isOpened ? "Close" : "Open"}
+                        </button>
+                      </td>
+                    </tr>
+                    {isOpened && openedContent ? (
+                      <tr className="group-expanded-row">
+                        <td colSpan={8}>{openedContent}</td>
+                      </tr>
+                    ) : null}
+                  </Fragment>
                 );
               })}
             </tbody>
