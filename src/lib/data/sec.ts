@@ -71,6 +71,13 @@ type AnnualExtract = {
   source: DataSourceRef;
 };
 
+type InlineFact = {
+  conceptName: string;
+  fiscalYear: number;
+  value: number;
+  source: DataSourceRef;
+};
+
 type YahooProfileResponse = {
   quoteSummary?: {
     result?: [
@@ -112,7 +119,11 @@ const conceptMap = {
     "NetCashProvidedByUsedInOperatingActivities",
     "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations",
   ],
-  capex: ["PaymentsToAcquirePropertyPlantAndEquipment"],
+  capex: [
+    "PaymentsToAcquirePropertyPlantAndEquipment",
+    "PaymentsToAcquireProductiveAssets",
+    "PaymentsToAcquirePropertyAndEquipment",
+  ],
   longTermDebt: ["LongTermDebt", "LongTermDebtNoncurrent"],
   longTermDebtCurrent: ["LongTermDebtCurrent"],
   shortTermBorrowings: ["ShortTermBorrowings"],
@@ -148,6 +159,22 @@ async function fetchSecJson<T>(url: string, revalidate: number): Promise<T> {
   }
 
   return response.json() as Promise<T>;
+}
+
+async function fetchSecText(url: string, revalidate: number): Promise<string> {
+  const response = await fetch(url, {
+    headers: {
+      ...secHeaders(),
+      Accept: "text/html,text/plain,*/*",
+    },
+    next: { revalidate },
+  });
+
+  if (!response.ok) {
+    throw new Error(`SEC request failed (${response.status}) for ${url}`);
+  }
+
+  return response.text();
 }
 
 function getWithHttps(url: string): Promise<string> {
@@ -548,6 +575,134 @@ function addExtracts(
   extracts.forEach((extract) => setAnnualValue(map, extract.fiscalYear, key, extract));
 }
 
+function decodeInlineValue(value: string) {
+  return decodeXmlEntities(value.replace(/<[^>]+>/g, ""))
+    .replace(/[\s,$]/g, "")
+    .replace(/^\((.*)\)$/, "-$1");
+}
+
+function parseAttributes(tag: string) {
+  return Object.fromEntries(
+    Array.from(tag.matchAll(/([A-Za-z_:][\w:.-]*)="([^"]*)"/g)).map(([, key, value]) => [key, value]),
+  );
+}
+
+function parseInlineContexts(html: string) {
+  const contexts = new Map<string, { fiscalYear: number; annual: boolean }>();
+  for (const match of html.matchAll(/<xbrli:context\b[^>]*>[\s\S]*?<\/xbrli:context>/gi)) {
+    const tag = match[0].match(/<xbrli:context\b[^>]*>/i)?.[0] ?? "";
+    const attrs = parseAttributes(tag);
+    const id = attrs.id;
+    const start = match[0].match(/<xbrli:startDate>([^<]+)<\/xbrli:startDate>/i)?.[1];
+    const end = match[0].match(/<xbrli:endDate>([^<]+)<\/xbrli:endDate>/i)?.[1];
+
+    if (!id || !start || !end) {
+      continue;
+    }
+
+    const startTime = Date.parse(start);
+    const endTime = Date.parse(end);
+    if (!Number.isFinite(startTime) || !Number.isFinite(endTime)) {
+      continue;
+    }
+
+    const days = (endTime - startTime) / 86_400_000;
+    const fiscalYear = Number(end.slice(0, 4));
+    if (Number.isInteger(fiscalYear)) {
+      contexts.set(id, { fiscalYear, annual: days >= 300 && days <= 400 });
+    }
+  }
+
+  return contexts;
+}
+
+function parseInlineAnnualFacts(
+  html: string,
+  filing: FilingLink,
+  conceptNames: string[],
+): InlineFact[] {
+  const contexts = parseInlineContexts(html);
+  const wanted = new Set(conceptNames);
+  const facts: InlineFact[] = [];
+
+  for (const match of html.matchAll(/<ix:nonFraction\b([^>]*)>([\s\S]*?)<\/ix:nonFraction>/gi)) {
+    const attrs = parseAttributes(match[1]);
+    const rawName = attrs.name ?? "";
+    const conceptName = rawName.split(":").at(-1) ?? rawName;
+    if (!wanted.has(conceptName)) {
+      continue;
+    }
+
+    const context = contexts.get(attrs.contextRef ?? "");
+    if (!context?.annual) {
+      continue;
+    }
+
+    const rawNumber = Number(decodeInlineValue(match[2]));
+    const scale = Number(attrs.scale ?? 0);
+    const value = Number.isFinite(rawNumber) ? rawNumber * 10 ** (Number.isFinite(scale) ? scale : 0) : NaN;
+    if (!Number.isFinite(value)) {
+      continue;
+    }
+
+    facts.push({
+      conceptName,
+      fiscalYear: context.fiscalYear,
+      value,
+      source: {
+        label: `SEC inline ${conceptName}`,
+        url: filing.url,
+        period: `FY ${context.fiscalYear}`,
+        confidence: "medium",
+      },
+    });
+  }
+
+  return facts;
+}
+
+async function getInlineAnnualFactFallbacks(
+  filings: FilingLink[],
+  conceptNames: string[],
+) {
+  const facts: InlineFact[] = [];
+  const annualFilings = filings.filter((filing) => filing.form === "10-K").slice(0, 8);
+
+  for (const filing of annualFilings) {
+    try {
+      const html = await fetchSecText(filing.url, 60 * 60 * 24);
+      facts.push(...parseInlineAnnualFacts(html, filing, conceptNames));
+    } catch {
+      // Company facts remain the primary path; inline filings are best-effort fallbacks.
+    }
+  }
+
+  return facts;
+}
+
+function addInlineFallbacks(
+  map: Map<number, AnnualFinancials>,
+  facts: InlineFact[],
+  conceptNames: string[],
+  key: keyof Omit<AnnualFinancials, "fiscalYear" | "sourceFacts">,
+) {
+  facts
+    .filter((fact) => conceptNames.includes(fact.conceptName))
+    .forEach((fact) => {
+      const row = map.get(fact.fiscalYear);
+      if (row && row[key] !== undefined) {
+        return;
+      }
+
+      setAnnualValue(
+        map,
+        fact.fiscalYear,
+        key,
+        { fiscalYear: fact.fiscalYear, value: fact.value, source: fact.source },
+      );
+    });
+}
+
 export async function getCompanyFinancials(symbol: string): Promise<AnnualFinancials[]> {
   const company = await findCompany(symbol);
   if (!company?.cik) {
@@ -615,6 +770,16 @@ export async function getCompanyFinancials(symbol: string): Promise<AnnualFinanc
     };
     map.set(extract.fiscalYear, row);
   });
+
+  const filings = await getCompanyFilings(symbol);
+  const inlineFacts = await getInlineAnnualFactFallbacks(filings, [
+    ...conceptMap.epsDiluted,
+    ...conceptMap.sharesDiluted,
+    ...conceptMap.capex,
+  ]);
+  addInlineFallbacks(map, inlineFacts, conceptMap.epsDiluted, "epsDiluted");
+  addInlineFallbacks(map, inlineFacts, conceptMap.sharesDiluted, "sharesDiluted");
+  addInlineFallbacks(map, inlineFacts, conceptMap.capex, "capex");
 
   return Array.from(map.values())
     .map((row) => {

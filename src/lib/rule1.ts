@@ -136,6 +136,10 @@ export function bookValuePerShare(equity?: number, shares?: number) {
   return equity / shares;
 }
 
+function hasPerShareValue(row: AnnualFinancials) {
+  return isFiniteNumber(row.sharesDiluted) && row.sharesDiluted > 0;
+}
+
 function preferredWindow(metric: BigFiveMetric) {
   return (
     metric.windows[10].value ??
@@ -212,6 +216,13 @@ export function buildBigFive(
   splits: StockSplit[] = [],
 ): BigFiveResult {
   const sorted = financials.toSorted((a, b) => a.fiscalYear - b.fiscalYear);
+  const hasBookValuePerShareSeries =
+    sorted.filter((row) => isFiniteNumber(bookValuePerShare(row.stockholdersEquity, row.sharesDiluted))).length >= 2;
+  const hasCashFlowPerShareSeries =
+    sorted.filter((row) => {
+      const cashFlow = row.freeCashFlow ?? calculateFreeCashFlow(row.operatingCashFlow, row.capex);
+      return isFiniteNumber(cashFlow) && hasPerShareValue(row);
+    }).length >= 2;
   const metrics: BigFiveMetric[] = [
     roicMetric(sorted, threshold),
     metric(
@@ -237,31 +248,34 @@ export function buildBigFive(
       sorted.map((row) => ({
         fiscalYear: row.fiscalYear,
         value:
-          splitAdjustedPerShareValue(
-            bookValuePerShare(row.stockholdersEquity, row.sharesDiluted),
-            row.fiscalYear,
-            splits,
-          ) ?? row.stockholdersEquity ?? null,
+          hasBookValuePerShareSeries
+            ? splitAdjustedPerShareValue(
+                bookValuePerShare(row.stockholdersEquity, row.sharesDiluted),
+                row.fiscalYear,
+                splits,
+              )
+            : row.stockholdersEquity ?? null,
       })),
       threshold,
-      "Book value per share CAGR",
+      hasBookValuePerShareSeries ? "Book value per share CAGR" : "Stockholders' equity CAGR",
     ),
     metric(
       "cashFlowGrowth",
       "Cash flow growth",
       sorted.map((row) => {
         const cashFlow = row.freeCashFlow ?? calculateFreeCashFlow(row.operatingCashFlow, row.capex);
-        const perShare =
-          isFiniteNumber(cashFlow) && isFiniteNumber(row.sharesDiluted) && row.sharesDiluted > 0
+        const perShare = hasCashFlowPerShareSeries
+          ? isFiniteNumber(cashFlow) && isFiniteNumber(row.sharesDiluted) && row.sharesDiluted > 0
             ? cashFlow / row.sharesDiluted
-            : cashFlow;
+            : null
+          : cashFlow;
         return {
           fiscalYear: row.fiscalYear,
           value: splitAdjustedPerShareValue(perShare, row.fiscalYear, splits) ?? null,
         };
       }),
       threshold,
-      "Free cash flow per share CAGR",
+      hasCashFlowPerShareSeries ? "Free cash flow per share CAGR" : "Free cash flow CAGR",
     ),
   ];
   const healthyCount = metrics.filter((item) => item.status === "healthy").length;
@@ -539,6 +553,12 @@ export function latestAnnualFinancial(financials: AnnualFinancials[]) {
   return financials.toSorted((a, b) => b.fiscalYear - a.fiscalYear)[0];
 }
 
+function latestAnnualFinancialWithEps(financials: AnnualFinancials[]) {
+  return financials
+    .toSorted((a, b) => b.fiscalYear - a.fiscalYear)
+    .find((row) => isFiniteNumber(row.epsDiluted) || deriveEps(row.netIncome, row.sharesDiluted) !== undefined);
+}
+
 export function deriveDefaultAssumptions(
   financials: AnnualFinancials[],
   currentPrice: number,
@@ -546,7 +566,7 @@ export function deriveDefaultAssumptions(
   splits: StockSplit[] = [],
   overrides?: Partial<ValuationAssumptions>,
 ): ValuationAssumptions {
-  const latest = latestAnnualFinancial(financials);
+  const latest = latestAnnualFinancialWithEps(financials) ?? latestAnnualFinancial(financials);
   const eps = latest?.epsDiluted ?? deriveEps(latest?.netIncome, latest?.sharesDiluted) ?? 0;
   const historicalGrowthRate = deriveHistoricalEpsGrowthRate(financials, splits);
   const historicalPe = deriveHistoricalPe(financials, priceHistory, splits);

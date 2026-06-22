@@ -188,6 +188,38 @@ describe("Rule #1 calculations", () => {
     expect(assumptions.futurePe).toBeCloseTo(22.5, 1);
   });
 
+  it("does not mix total equity into a book-value-per-share series", () => {
+    const bigFive = buildBigFive(
+      [
+        { fiscalYear: 2024, stockholdersEquity: 1_000, sharesDiluted: 100, sourceFacts: {} },
+        { fiscalYear: 2025, stockholdersEquity: 1_200, sharesDiluted: 100, sourceFacts: {} },
+        { fiscalYear: 2026, stockholdersEquity: 1_500, sourceFacts: {} },
+      ],
+      undefined,
+      [],
+    );
+    const equityGrowth = bigFive.metrics.find((metric) => metric.id === "equityGrowth");
+
+    expect(equityGrowth?.values).toEqual([
+      { fiscalYear: 2024, value: 10 },
+      { fiscalYear: 2025, value: 12 },
+      { fiscalYear: 2026, value: null },
+    ]);
+    expect(equityGrowth?.windows[1].value).toBeCloseTo(0.2, 4);
+  });
+
+  it("uses the latest annual row with EPS for default valuation EPS", () => {
+    const assumptions = deriveDefaultAssumptions(
+      [
+        { fiscalYear: 2025, epsDiluted: 4.9, sourceFacts: {} },
+        { fiscalYear: 2026, netIncome: 120_000_000_000, sourceFacts: {} },
+      ],
+      200,
+    );
+
+    expect(assumptions.eps).toBe(4.9);
+  });
+
   it("caps automatic growth at 15%", () => {
     const assumptions = deriveDefaultAssumptions(
       Array.from({ length: 11 }, (_, index) => ({
