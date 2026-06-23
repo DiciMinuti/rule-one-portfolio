@@ -133,6 +133,14 @@ const bigFiveFilters: { id: BigFiveMetric["id"]; label: string }[] = [
 ];
 const recentBusinessSuggestionsKey = "rule-one:recent-business-evaluation-results";
 const recentBusinessSuggestionsLimit = 5;
+const hotTodaySuggestions: CompanySearchResult[] = [
+  { symbol: "NVDA", name: "NVIDIA", dataAvailability: "sec" },
+  { symbol: "TSLA", name: "Tesla", dataAvailability: "sec" },
+  { symbol: "AVGO", name: "Broadcom", dataAvailability: "sec" },
+  { symbol: "MU", name: "Micron Technology", dataAvailability: "sec" },
+  { symbol: "AMD", name: "Advanced Micro Devices", dataAvailability: "sec" },
+  { symbol: "PLTR", name: "Palantir Technologies", dataAvailability: "sec" },
+];
 
 const initialLoadSteps: LoadStep[] = [
   { id: "profile", label: "Company profile", status: "idle" },
@@ -314,7 +322,7 @@ export function EvaluationWorkspace() {
   useEffect(() => {
     const recent = readRecentBusinessSuggestions();
     setRecentBusinessSuggestions(recent);
-    setSuggestions((current) => (current.length ? current : recent));
+    setSuggestions((current) => (current.length ? current : hotTodaySuggestions));
   }, []);
 
   useEffect(() => {
@@ -322,9 +330,9 @@ export function EvaluationWorkspace() {
       return;
     }
 
-    setSuggestions(recentBusinessSuggestions);
+    setSuggestions(hotTodaySuggestions);
     setSearchError("");
-  }, [query, recentBusinessSuggestions, searchMode]);
+  }, [query, searchMode]);
 
   useEffect(() => {
     if (searchMode !== "business") {
@@ -357,13 +365,23 @@ export function EvaluationWorkspace() {
   }, [query, searchMode]);
 
   useEffect(() => {
-    if (searchMode !== "business" || !suggestions.length) {
+    if (searchMode !== "business") {
+      setSuggestionQuotes({});
+      return;
+    }
+
+    const quoteSuggestions =
+      query.trim().length < 1
+        ? [...recentBusinessSuggestions, ...hotTodaySuggestions]
+        : suggestions;
+
+    if (!quoteSuggestions.length) {
       setSuggestionQuotes({});
       return;
     }
 
     let ignore = false;
-    const symbols = [...new Set(suggestions.map((suggestion) => suggestion.symbol))];
+    const symbols = [...new Set(quoteSuggestions.map((suggestion) => suggestion.symbol))];
     setSuggestionQuotes((current) => {
       const next = { ...current };
       for (const symbol of symbols) {
@@ -418,7 +436,7 @@ export function EvaluationWorkspace() {
     return () => {
       ignore = true;
     };
-  }, [searchMode, suggestions]);
+  }, [query, recentBusinessSuggestions, searchMode, suggestions]);
 
   useEffect(() => {
     if (searchMode !== "group") {
@@ -708,6 +726,32 @@ export function EvaluationWorkspace() {
   const showingRecentBusinessSuggestions = searchMode === "business" && query.trim().length < 1;
   const bestSuggestion = suggestions[0];
   const otherSuggestions = suggestions.slice(1);
+  const hotTodaySuggestionRows = useMemo(
+    () =>
+      hotTodaySuggestions
+        .filter((suggestion) =>
+          recentBusinessSuggestions.every((recent) => recent.symbol !== suggestion.symbol),
+        )
+        .sort((first, second) => {
+          const firstChange = suggestionQuotes[first.symbol]?.changePercent;
+          const secondChange = suggestionQuotes[second.symbol]?.changePercent;
+
+          if (firstChange === undefined && secondChange === undefined) {
+            return 0;
+          }
+
+          if (firstChange === undefined) {
+            return 1;
+          }
+
+          if (secondChange === undefined) {
+            return -1;
+          }
+
+          return Math.abs(secondChange) - Math.abs(firstChange);
+        }),
+    [recentBusinessSuggestions, suggestionQuotes],
+  );
   const bestGroupSuggestion = groupSuggestions[0];
   const otherGroupSuggestions = groupSuggestions.slice(1);
 
@@ -841,6 +885,27 @@ export function EvaluationWorkspace() {
           </span>
         ) : null}
       </span>
+    );
+  }
+
+  function renderBusinessSuggestionRow(
+    suggestion: CompanySearchResult,
+    options: { best?: boolean; meta?: string } = {},
+  ) {
+    return (
+      <button
+        className={`suggestion-row ${options.best ? "best-match" : ""}`}
+        key={`${suggestion.symbol}-${suggestion.cik ?? suggestion.name}`}
+        type="button"
+        onClick={() => selectBusiness(suggestion.symbol)}
+      >
+        <span className="suggestion-symbol">{suggestion.symbol}</span>
+        <span className="suggestion-name">
+          {options.best ? <strong>{suggestion.name}</strong> : suggestion.name}
+          {options.meta ? <span>{options.meta}</span> : null}
+        </span>
+        {renderSuggestionQuote(suggestion.symbol)}
+      </button>
     );
   }
 
@@ -983,34 +1048,29 @@ export function EvaluationWorkspace() {
               />
               {searching ? <Loader2 className="spin subtle" size={17} /> : null}
             </div>
-            {bestSuggestion ? (
+            {showingRecentBusinessSuggestions ? (
               <div className="suggestions">
-                <button
-                  className="suggestion-row best-match"
-                  key={`${bestSuggestion.symbol}-${bestSuggestion.cik}`}
-                  type="button"
-                  onClick={() => selectBusiness(bestSuggestion.symbol)}
-                >
-                  <span className="suggestion-symbol">{bestSuggestion.symbol}</span>
-                  <span className="suggestion-name">
-                    <strong>{bestSuggestion.name}</strong>
-                    <span>{showingRecentBusinessSuggestions ? "Recent result" : "Best match"}</span>
-                  </span>
-                  {renderSuggestionQuote(bestSuggestion.symbol)}
-                </button>
+                {recentBusinessSuggestions.length ? (
+                  <div className="suggestion-section">
+                    <div className="suggestion-group-label">Previously searched</div>
+                    {recentBusinessSuggestions.map((suggestion, index) =>
+                      renderBusinessSuggestionRow(suggestion, {
+                        best: index === 0,
+                        meta: index === 0 ? "Most recent result" : undefined,
+                      }),
+                    )}
+                  </div>
+                ) : null}
+                <div className="suggestion-section hot-today-section">
+                  <div className="suggestion-group-label">Hot today</div>
+                  {hotTodaySuggestionRows.map((suggestion) => renderBusinessSuggestionRow(suggestion))}
+                </div>
+              </div>
+            ) : bestSuggestion ? (
+              <div className="suggestions">
+                {renderBusinessSuggestionRow(bestSuggestion, { best: true, meta: "Best match" })}
                 {otherSuggestions.length ? <div className="suggestion-group-label">Other businesses</div> : null}
-                {otherSuggestions.map((suggestion) => (
-                  <button
-                    className="suggestion-row"
-                    key={`${suggestion.symbol}-${suggestion.cik}`}
-                    type="button"
-                    onClick={() => selectBusiness(suggestion.symbol)}
-                  >
-                    <span className="suggestion-symbol">{suggestion.symbol}</span>
-                    <span className="suggestion-name">{suggestion.name}</span>
-                    {renderSuggestionQuote(suggestion.symbol)}
-                  </button>
-                ))}
+                {otherSuggestions.map((suggestion) => renderBusinessSuggestionRow(suggestion))}
               </div>
             ) : null}
             {searchError ? <p className="muted search-helper">{searchError}</p> : null}

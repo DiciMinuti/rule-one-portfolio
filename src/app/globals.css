@@ -465,6 +465,17 @@ a:hover {
   margin-top: 10px;
 }
 
+.suggestion-section {
+  display: grid;
+  gap: 6px;
+}
+
+.hot-today-section {
+  margin-top: 8px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
 .suggestion-group-label {
   margin: 8px 4px 2px;
   color: var(--subtle);
