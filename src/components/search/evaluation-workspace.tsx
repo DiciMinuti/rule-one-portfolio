@@ -34,6 +34,7 @@ import {
 import { getQualitativeBrief } from "@/lib/data/qualitative-briefs";
 import {
   formatCurrency,
+  formatCompact,
   formatDate,
   formatNumber,
   formatPercent,
@@ -99,6 +100,22 @@ type SuggestionQuote = {
   status: "loading" | "ready" | "failed";
 };
 
+type MarketMover = {
+  symbol: string;
+  name: string;
+  price?: number;
+  changePercent?: number;
+  volume?: number;
+  marketCap?: number;
+  exchange?: string;
+};
+
+type MarketMovers = {
+  gainers: MarketMover[];
+  losers: MarketMover[];
+  active: MarketMover[];
+};
+
 type GroupEvaluationRow = {
   constituent: BusinessGroupConstituent;
   status: GroupRowStatus;
@@ -133,14 +150,6 @@ const bigFiveFilters: { id: BigFiveMetric["id"]; label: string }[] = [
 ];
 const recentBusinessSuggestionsKey = "rule-one:recent-business-evaluation-results";
 const recentBusinessSuggestionsLimit = 5;
-const hotTodaySuggestions: CompanySearchResult[] = [
-  { symbol: "NVDA", name: "NVIDIA", dataAvailability: "sec" },
-  { symbol: "TSLA", name: "Tesla", dataAvailability: "sec" },
-  { symbol: "AVGO", name: "Broadcom", dataAvailability: "sec" },
-  { symbol: "MU", name: "Micron Technology", dataAvailability: "sec" },
-  { symbol: "AMD", name: "Advanced Micro Devices", dataAvailability: "sec" },
-  { symbol: "PLTR", name: "Palantir Technologies", dataAvailability: "sec" },
-];
 
 const initialLoadSteps: LoadStep[] = [
   { id: "profile", label: "Company profile", status: "idle" },
@@ -283,6 +292,9 @@ export function EvaluationWorkspace() {
   const [suggestions, setSuggestions] = useState<CompanySearchResult[]>([]);
   const [recentBusinessSuggestions, setRecentBusinessSuggestions] = useState<CompanySearchResult[]>([]);
   const [suggestionQuotes, setSuggestionQuotes] = useState<Record<string, SuggestionQuote>>({});
+  const [marketMovers, setMarketMovers] = useState<MarketMovers>({ gainers: [], losers: [], active: [] });
+  const [marketMoversStatus, setMarketMoversStatus] = useState<LoadStatus>("idle");
+  const [marketMoversError, setMarketMoversError] = useState("");
   const [searching, setSearching] = useState(false);
   const [searchError, setSearchError] = useState("");
   const [groupSuggestions, setGroupSuggestions] = useState<BusinessGroupSummary[]>([]);
@@ -322,7 +334,7 @@ export function EvaluationWorkspace() {
   useEffect(() => {
     const recent = readRecentBusinessSuggestions();
     setRecentBusinessSuggestions(recent);
-    setSuggestions((current) => (current.length ? current : hotTodaySuggestions));
+    setSuggestions((current) => (current.length ? current : []));
   }, []);
 
   useEffect(() => {
@@ -330,9 +342,37 @@ export function EvaluationWorkspace() {
       return;
     }
 
-    setSuggestions(hotTodaySuggestions);
+    setSuggestions([]);
     setSearchError("");
   }, [query, searchMode]);
+
+  useEffect(() => {
+    if (
+      searchMode !== "business" ||
+      query.trim().length >= 1 ||
+      marketMoversStatus === "done" ||
+      marketMoversStatus === "failed"
+    ) {
+      return;
+    }
+
+    setMarketMoversStatus("loading");
+    setMarketMoversError("");
+
+    async function loadMarketMovers() {
+      try {
+        const data = await fetchJson<{ movers: MarketMovers }>("/api/market-movers");
+        setMarketMovers(data.movers);
+        setMarketMoversStatus("done");
+      } catch (error) {
+        setMarketMovers({ gainers: [], losers: [], active: [] });
+        setMarketMoversStatus("failed");
+        setMarketMoversError(error instanceof Error ? error.message : "Market movers failed.");
+      }
+    }
+
+    void loadMarketMovers();
+  }, [marketMoversStatus, query, searchMode]);
 
   useEffect(() => {
     if (searchMode !== "business") {
@@ -370,10 +410,7 @@ export function EvaluationWorkspace() {
       return;
     }
 
-    const quoteSuggestions =
-      query.trim().length < 1
-        ? [...recentBusinessSuggestions, ...hotTodaySuggestions]
-        : suggestions;
+    const quoteSuggestions = query.trim().length < 1 ? recentBusinessSuggestions : suggestions;
 
     if (!quoteSuggestions.length) {
       setSuggestionQuotes({});
@@ -726,32 +763,6 @@ export function EvaluationWorkspace() {
   const showingRecentBusinessSuggestions = searchMode === "business" && query.trim().length < 1;
   const bestSuggestion = suggestions[0];
   const otherSuggestions = suggestions.slice(1);
-  const hotTodaySuggestionRows = useMemo(
-    () =>
-      hotTodaySuggestions
-        .filter((suggestion) =>
-          recentBusinessSuggestions.every((recent) => recent.symbol !== suggestion.symbol),
-        )
-        .sort((first, second) => {
-          const firstChange = suggestionQuotes[first.symbol]?.changePercent;
-          const secondChange = suggestionQuotes[second.symbol]?.changePercent;
-
-          if (firstChange === undefined && secondChange === undefined) {
-            return 0;
-          }
-
-          if (firstChange === undefined) {
-            return 1;
-          }
-
-          if (secondChange === undefined) {
-            return -1;
-          }
-
-          return Math.abs(secondChange) - Math.abs(firstChange);
-        }),
-    [recentBusinessSuggestions, suggestionQuotes],
-  );
   const bestGroupSuggestion = groupSuggestions[0];
   const otherGroupSuggestions = groupSuggestions.slice(1);
 
@@ -866,8 +877,8 @@ export function EvaluationWorkspace() {
     void loadCompany(symbol);
   }
 
-  function renderSuggestionQuote(symbol: string) {
-    const quote = suggestionQuotes[symbol];
+  function renderSuggestionQuote(symbol: string, quoteOverride?: SuggestionQuote) {
+    const quote = quoteOverride ?? suggestionQuotes[symbol];
     const changeClass =
       quote?.changePercent === undefined
         ? ""
@@ -890,7 +901,7 @@ export function EvaluationWorkspace() {
 
   function renderBusinessSuggestionRow(
     suggestion: CompanySearchResult,
-    options: { best?: boolean; meta?: string } = {},
+    options: { best?: boolean; meta?: string; quote?: SuggestionQuote } = {},
   ) {
     return (
       <button
@@ -904,9 +915,28 @@ export function EvaluationWorkspace() {
           {options.best ? <strong>{suggestion.name}</strong> : suggestion.name}
           {options.meta ? <span>{options.meta}</span> : null}
         </span>
-        {renderSuggestionQuote(suggestion.symbol)}
+        {renderSuggestionQuote(suggestion.symbol, options.quote)}
       </button>
     );
+  }
+
+  function renderMarketMoverRow(mover: MarketMover, options: { meta?: string } = {}) {
+    const suggestion: CompanySearchResult = {
+      symbol: mover.symbol,
+      name: mover.name,
+      exchange: mover.exchange,
+      dataAvailability: "limited",
+    };
+    const meta = options.meta ?? (mover.marketCap ? `Mkt cap ${formatCompact(mover.marketCap)}` : undefined);
+
+    return renderBusinessSuggestionRow(suggestion, {
+      meta,
+      quote: {
+        price: mover.price,
+        changePercent: mover.changePercent,
+        status: "ready",
+      },
+    });
   }
 
   function setAssumption<K extends keyof ValuationAssumptions>(key: K, value: ValuationAssumptions[K]) {
@@ -1062,9 +1092,48 @@ export function EvaluationWorkspace() {
                   </div>
                 ) : null}
                 <div className="suggestion-section hot-today-section">
-                  <div className="suggestion-group-label">Hot today</div>
-                  {hotTodaySuggestionRows.map((suggestion) => renderBusinessSuggestionRow(suggestion))}
+                  <div className="hot-mover-section">
+                    <div className="suggestion-group-label nested">Top gainers</div>
+                    {marketMovers.gainers.length ? (
+                      marketMovers.gainers.map((mover) => renderMarketMoverRow(mover))
+                    ) : (
+                      <div className="empty-search">
+                        {marketMoversStatus === "failed"
+                          ? "Could not load top gainers."
+                          : "Loading top gainers..."}
+                      </div>
+                    )}
+                  </div>
+                  <div className="hot-mover-section">
+                    <div className="suggestion-group-label nested">Top losers</div>
+                    {marketMovers.losers.length ? (
+                      marketMovers.losers.map((mover) => renderMarketMoverRow(mover))
+                    ) : (
+                      <div className="empty-search">
+                        {marketMoversStatus === "failed"
+                          ? "Could not load top losers."
+                          : "Loading top losers..."}
+                      </div>
+                    )}
+                  </div>
+                  <div className="hot-mover-section">
+                    <div className="suggestion-group-label nested">Most active</div>
+                    {marketMovers.active.length ? (
+                      marketMovers.active.map((mover) =>
+                        renderMarketMoverRow(mover, {
+                          meta: mover.volume ? `Volume ${formatCompact(mover.volume)}` : undefined,
+                        }),
+                      )
+                    ) : (
+                      <div className="empty-search">
+                        {marketMoversStatus === "failed"
+                          ? "Could not load most active businesses."
+                          : "Loading most active..."}
+                      </div>
+                    )}
+                  </div>
                 </div>
+                {marketMoversError ? <p className="muted search-helper">{marketMoversError}</p> : null}
               </div>
             ) : bestSuggestion ? (
               <div className="suggestions">
